@@ -1,135 +1,118 @@
-# Path to your oh-my-zsh installation.
-export ZSH=${HOME}/.oh-my-zsh
+# Check if zplug is installed
+ [[ -d ~/.zplug ]] || {
+   git clone https://github.com/b4b4r07/zplug ~/.zplug
+   source ~/.zplug/init.zsh && zplug update --self
+ }
 
-# Set name of the theme to load.
-# Look in ~/.oh-my-zsh/themes/
-# Optionally, if you set this to "random", it'll load a random theme each
-# time that oh-my-zsh is loaded.
-ZSH_THEME="steeef"
+# Essencial
+source ~/.zplug/init.zsh
 
-#PROMPT="%{$purple%}%n${PR_RST} attt %{$orange%}%m${PR_RST} in %{$limegreen%}%~${PR_RST} $vcs_info_msg_0_$(virtualenv_info)"
+# 「ユーザ名/リポジトリ名」で記述し、ダブルクォートで見やすく括る（括らなくてもいい）
+zplug "zsh-users/zsh-history-substring-search"
 
-# Uncomment the following line to use case-sensitive completion.
-# CASE_SENSITIVE="true"
+# junegunn/dotfiles にある bin の中の vimcat をコマンドとして管理する
+zplug "junegunn/dotfiles", as:command, use:bin/vimcat
 
-# Uncomment the following line to use hyphen-insensitive completion. Case
-# sensitive completion must be off. _ and - will be interchangeable.
-# HYPHEN_INSENSITIVE="true"
+# tcnksm/docker-alias にある zshrc をプラグインとして管理する
+# as: のデフォルトは plugin なので省力もできる
+zplug "tcnksm/docker-alias", use:zshrc, as:plugin
 
-# Uncomment the following line to disable bi-weekly auto-update checks.
-# DISABLE_AUTO_UPDATE="true"
+# frozen: を指定すると全体アップデートのときアップデートしなくなる（デフォルトは0）
+zplug "k4rthik/git-cal", as:command, frozen:1
 
-# Uncomment the following line to change how often to auto-update (in days).
-# export UPDATE_ZSH_DAYS=13
+# from: で特殊ケースを扱える
+# gh-r を指定すると GitHub Releases から取ってくる
+# use: で amd64 とかするとそれを持ってくる（指定しないかぎりOSにあったものを自動で選ぶ）
+# コマンド化するときに rename-to: でリネームできる（この例では fzf-bin を fzf にしてる）
+zplug "junegunn/fzf-bin", \
+    as:command, \
+    from:gh-r, \
+    rename-to:fzf
 
-# Uncomment the following line to disable colors in ls.
-# DISABLE_LS_COLORS="true"
+# from: では gh-r の他に oh-my-zsh と gist が使える
+# oh-my-zsh を指定すると oh-my-zsh のリポジトリにある plugin/ 以下を
+# コマンド／プラグインとして管理することができる
+#zplug "plugins/git", from:oh-my-zsh #ロードエラーが発生する(compdiff) 
+#zplug "themes/robbyrusell", from:oh-my-zsh
 
-# Uncomment the following line to disable auto-setting terminal title.
-# DISABLE_AUTO_TITLE="true"
+# ビルド用 hook になっていて、この例ではクローン成功時に make install する
+# シェルコマンドなら何でも受け付けるので "echo OK" などでも可
+zplug "tj/n", hook-build:"make install"
 
-# Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+# ブランチロック・リビジョンロック
+# at: はブランチとタグをサポートしている
+zplug "b4b4r07/enhancd", at:v1
+zplug "mollifier/anyframe", at:4c23cb60
 
-# Uncomment the following line to display red dots whilst waiting for completion.
-# COMPLETION_WAITING_DOTS="true"
+# if: を指定すると真のときのみロードを行う（クローンはする）
+zplug "hchbaw/opp.zsh", if:"(( ${ZSH_VERSION%%.*} < 5 ))"
 
-# Uncomment the following line if you want to disable marking untracked files
-# under VCS as dirty. This makes repository status check for large repositories
-# much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
+# from: では gist を指定することができる
+# gist のときもリポジトリと同様にタグを使うことができる
+zplug "b4b4r07/79ee61f7c140c63d2786", \
+    from:gist, \
+    as:command, \
+    use:get_last_pane_path.sh
 
-# Uncomment the following line if you want to change the command execution time
-# stamp shown in the history command output.
-# The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-# HIST_STAMPS="mm/dd/yyyy"
+# bitbucket もまた同じように指定可能
+zplug "b4b4r07/hello_bitbucket", \
+    from:bitbucket, \
+    as:command, \
+    hook-build:"chmod 755 *.sh", \
+    use:"*.sh"
 
-# Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=/path/to/new-custom-folder
+# パイプで依存関係を表現できる
+# 依存関係はパイプの流れのまま(最新版ではパイプは非推奨(deprecated))
+# この例では emoji-cli は jq に依存する
+zplug "stedolan/jq", \
+    from:gh-r, \
+    as:command, \
+    rename-to:jq
+#ここでパイプを使って | zplug "b4b4r07/emoji-cli"とインストールするやり方は非推奨
+zplug "b4b4r07/emoji-cli", \
+    on:"stedolan/jq"
+# Note: To specify the order in which packages should be loaded, use the nice
+#       tag described in the next section
 
-# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
-# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-# Add wisely, as too many plugins slow down shell startup.
-#plugins=(git)
-plugins=(my-env atom autojump aws brew brew-cask bundler cdd colored-man composer docker encode64 gem git heroku homeshick pow laravel laravel5 npm osx rails rake rbenv tig tmux vagrant web-search wp-cli zsh-syntax-highlighting)
+# ロードするときの優先順位をniceで設定
+# e.g., zsh-syntax-highlighting は compinit や他の plugins をロードした後に読み込む必要がある
+# compinit: http://www.shigemk2.com/entry/zsh.completion(zsh補完とcompinitとautoload)
+zplug "zsh-users/zsh-syntax-highlighting", nice:10
 
+## The other plugins if you needed
+zplug "sorin-ionescu/prezto", from:github
 
-# User configuration
+# local plugins も管理できる
+zplug "~/.zsh", from:local
+# A relative path is resolved with respect to the $ZPLUG_HOME
+zplug "~/.oh-my-zsh/plugins/bower", from:local
+#zplug "repos/robbyrussell/oh-my-zsh/custom", from:local
 
-export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/yousan/sh:/Users/yousan/.android/sdk/tools:/Users/yousan/.composer/vendor/bin:/Users/yousan/sh:/Users/yousan/bin:/Users/yousan/.composer/vendor/bin"
-# export MANPATH="/usr/local/man:$MANPATH"
+# check コマンドで未インストール項目があるかどうか verbose にチェックし
+# false のとき（つまり未インストール項目がある）y/N プロンプトで
+# インストールする
+if ! zplug check --verbose; then
+    printf "Install? [y/N]: "
+    if read -q; then
+        echo; zplug install
+    fi
+fi
 
-source $ZSH/oh-my-zsh.sh
+# プラグインを読み込み、コマンドにパスを通す
+zplug load --verbose
 
-# You may need to manually set your language environment
-# export LANG=en_US.UTF-8
+### Custom ###
+export EDITOR=emacs
+export VISUAL=emacs
 
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+# Ruby
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+source ~/.rvm/scripts/rvm
 
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-# ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
-
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-#alias df='LANG=C df'
-#alias netstat='LANG=C netstat'
-alias h='history 25'
-alias pg='ps -o nlwp -auxww  | head -1; ps -o nlwp -auxww | grep'
-alias pi8='ping 8.8.8.8'
-alias today='date +%Y%m%d'
-alias now='date +%Y%m%d%H%M%S'
-
-alias ssh='ssh -o ConnectTimeout=300 -C -o CompressionLevel=9 -o ServerAliveInterval=120 -o ServerAliveCountMax=12'
-alias svncowp='svn co http://core.svn.wordpress.org/trunk/'
-alias iconveu='iconv -f EUC-JP -t UTF-8'
-alias iconvsu='iconv -f SJIS -t UTF-8'
-
-#function ga() {
-    # alias ga='git add -A; git commit -m "automatically commit"; git push origin master'
-#    git add -A; git commit -m "automatically commit"; git push origin master'
-#}
-
-
-# thank you bongle!
-function lh(){
-    ls -lath $1 | head
-}
-
-# added by travis gem
-[ -f /Users/yousan/.travis/travis.sh ] && source /Users/yousan/.travis/travis.sh
-export LC_CTYPE=en_US.UTF-8
-export LANG=en_US.UTF-8
-export WP_TESTS_DIR=~/tmp/wordpress/tests-lib/
-export WP_CORE_DIR=~/tmp/wordpress/core/
-export DISABLE_UPDATE_PROMPT="true"
-
-function hashed_color () {
-    hash=`echo $1 | cksum | cut -d' ' -f1`
-    COLOR=$(( $hash % 256 ))
-    echo $COLOR
-}
-
-HOSTNAME=`hostname`
-USERNAME=`whoami`
-username_color=`hashed_color $USErNAME`
-host_color=`hashed_color $HOSTNAME`
-
-PROMPT=$'
-%F{$username_color}%n${PR_RST} @ %F{$host_color}%M${PR_RST} in %{$limegreen%}%~${PR_RST} $vcs_info_msg_0_$(virtualenv_info)
-$ '
-
+# python
+export PYENV_ROOT=${HOME}/.pyenv
+if [ -d "${PYENV_ROOT}" ]; then
+    export PATH=${PYENV_ROOT}/bin:$PATH
+    eval "$(pyenv init -)"
+    eval "$(pyenv virtualenv-init -)"
+fi
