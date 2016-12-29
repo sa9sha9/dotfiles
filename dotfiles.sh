@@ -11,16 +11,16 @@ has() {
 usage() {
   name=`basename $0`
   cat <<EOF
-Usage:
-  $name [arguments] [command]
-
-Commands:
-  deploy
-  initialize
-
-Arguments:
-  -f $(tput setaf 1)** warning **$(tput sgr0) Overwrite dotfiles.
-  -h Print help (this message)
+#Usage:
+#  $name [arguments] [command]
+#
+#Commands:
+#  deploy
+#  initialize
+#
+#Arguments:
+#  -f $(tput setaf 1)** warning **$(tput sgr0) Overwrite dotfiles.
+#  -h Print help (this message)
 EOF
   exit 1
 }

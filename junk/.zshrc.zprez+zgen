@@ -1,0 +1,46 @@
+# load zgen
+source "${HOME}/.zgen/zgen.zsh"
+
+# if the init scipt doesn't exist
+if ! zgen saved; then
+    echo "Creating a zgen save"
+
+    ## prezto
+    # prezto options
+    zgen prezto editor key-bindings 'emacs'
+    zgen prezto prompt theme 'sorin'
+
+    # prezto の plugin を読み込むことも可能
+    zgen prezto
+    zgen prezto git
+    zgen prezto command-not-found
+    zgen prezto syntax-highlighting
+
+    ## oh-my-zsh
+    # oh-my-zsh の plugin を読み込むことも可能
+    # zgen oh-my-zsh
+    zgen oh-my-zsh plugins/wp-cli
+    zgen oh-my-zsh plugins/bower
+    zgen oh-my-zsh plugins/aws
+
+    ## Other plugins
+    # 好きな場所から plugin を読み込むことも可能
+    # zgen load /path/to/plugin
+    # completions
+    zgen load zsh-users/zsh-completions src
+
+    # loadall を使って bulk load をすることも可能
+#     zgen loadall <<EOPLUGINS
+#         zsh-users/zsh-history-substring-search
+#         /path/to/local/plugin
+# EOPLUGINS
+    # ^ can't indent this EOPLUGINS
+
+    ## theme
+    # oh-my-zshのテーマを読み込むことも可能(なぜかカラースキームは読み込めていない)
+    #zgen oh-my-zsh themes/arrow
+
+    # save all to init script (設定ファイルを作成, zgen resetをするまで設定は永続する) 
+    zgen save
+fi
+
