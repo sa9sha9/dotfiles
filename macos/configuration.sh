@@ -42,7 +42,6 @@ ask() {
 #    brew cask install google-photos-backup
 #    brew cask install openoffice
 #    brew cask install edgeview
-#    brew cask install unetbootin
 #    brew cask install cheatsheet
 #    brew cask install tunnelbear
 #    brew cask install spotify
