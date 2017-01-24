@@ -44,10 +44,12 @@ brew 'freetype'
 brew 'gdb'
 brew 'gdbm'
 brew 'gibo'
+brew 'git-flow'
 brew 'pinentry'
 brew 'gpg-agent'
 brew 'gnupg2'
 brew 'heroku'
+brew 'hub'
 brew 'icu4c'
 brew 'jpeg'
 brew 'oniguruma'
@@ -99,20 +101,26 @@ brew 'homebrew/php/wp-cli'
 brew 'joelpurra/joelpurra/gitslave', args: ['devel']
 cask 'iterm2'
 cask 'sequel-pro'
+cask 'teamviewer'
+mas 'Integrity', id: 513610341
 mas 'Simplenote', id: 692867256
-mas 'Hash', id: 945689735
 mas 'LINE', id: 539883307
+mas 'Hash', id: 945689735
 mas 'Evernote', id: 406056744
 mas 'Keynote', id: 409183694
-mas 'Skitch', id: 425955336
+mas 'VOX', id: 461369673
+mas 'OneDrive', id: 823766827
 mas 'GarageBand', id: 682658836
+mas 'The Unarchiver', id: 425424353
 mas 'Fotor Photo Editor', id: 503039729
+mas 'Skitch', id: 425955336
 mas 'GIPHY CAPTURE', id: 668208984
-mas 'Numbers', id: 409203825
+mas 'Go for Facebook', id: 965915283
 mas '123D Design', id: 566042322
-mas 'WordService', id: 899972312
-mas 'Pages', id: 409201541
 mas 'Xcode', id: 497799835
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'WordService', id: 899972312
 mas 'iMovie', id: 408981434
 mas 'LanScan', id: 472226235
 mas 'Slack', id: 803453959
