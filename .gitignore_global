@@ -1,6 +1,7 @@
 *~
 .DS_Store
 *.scssc
+.idea/
 .idea/*
 .idea/.name
 .idea/add-page-from-template.iml
