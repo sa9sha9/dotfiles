@@ -5,10 +5,6 @@
 if [ ! -d $HOME/git ]; then
     mkdir -p $HOME/git
 fi
-## public_html, sitesの作成
-if [ ! -d $HOME/Sites ]; then
-    mkdir -p $HOME/Sites
-fi
 
 # Copy ./dotfiles to ${HOME}
 DOT_DIRECTORY=${HOME}/git/dotfiles
@@ -39,6 +35,8 @@ esac
 
 
 ## 以降の処理にはzshのインストールが先 ##
+# shellsにbrew-zshを追加
+sudo echo "/usr/local/bin/zsh" >> /etc/shells
 # chsh
 chsh -s /usr/local/bin/zsh
 
