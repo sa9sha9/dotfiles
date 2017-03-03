@@ -1,10 +1,8 @@
 # Check if zplug is installed
- [[ -d ~/.zplug ]] || {
-   git clone https://github.com/b4b4r07/zplug ~/.zplug
-   source ~/.zplug/init.zsh && zplug update --self
- }
-
-# Essencial
+[[ -d ~/.zplug ]] || {
+    git clone https://github.com/b4b4r07/zplug ~/.zplug
+    source ~/.zplug/init.zsh && zplug update --self
+}
 source ~/.zplug/init.zsh
 
 # 「ユーザ名/リポジトリ名」で記述し、ダブルクォートで見やすく括る（括らなくてもいい）
@@ -33,7 +31,7 @@ zplug "junegunn/fzf-bin", \
 # oh-my-zsh を指定すると oh-my-zsh のリポジトリにある plugin/ 以下を
 # コマンド／プラグインとして管理することができる
 #zplug "plugins/git", from:oh-my-zsh #ロードエラーが発生する(compdiff) 
-#zplug "themes/robbyrusell", from:oh-my-zsh
+zplug "themes/steeef", from:oh-my-zsh
 
 # ビルド用 hook になっていて、この例ではクローン成功時に make install する
 # シェルコマンドなら何でも受け付けるので "echo OK" などでも可
@@ -77,7 +75,7 @@ zplug "b4b4r07/emoji-cli", \
 # ロードするときの優先順位をniceで設定
 # e.g., zsh-syntax-highlighting は compinit や他の plugins をロードした後に読み込む必要がある
 # compinit: http://www.shigemk2.com/entry/zsh.completion(zsh補完とcompinitとautoload)
-zplug "zsh-users/zsh-syntax-highlighting", nice:10
+zplug "zsh-users/zsh-syntax-highlighting", defer:3
 
 ## The other plugins if you needed
 zplug "sorin-ionescu/prezto", from:github
@@ -85,7 +83,6 @@ zplug "sorin-ionescu/prezto", from:github
 # local plugins も管理できる
 zplug "~/.zsh", from:local
 # A relative path is resolved with respect to the $ZPLUG_HOME
-zplug "~/.oh-my-zsh/plugins/bower", from:local
 #zplug "repos/robbyrussell/oh-my-zsh/custom", from:local
 
 # check コマンドで未インストール項目があるかどうか verbose にチェックし
@@ -106,8 +103,8 @@ export EDITOR=emacs
 export VISUAL=emacs
 
 # Ruby
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-source ~/.rvm/scripts/rvm
+#export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+#source ~/.rvm/scripts/rvm
 
 # python
 export PYENV_ROOT=${HOME}/.pyenv
