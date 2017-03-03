@@ -76,7 +76,7 @@ if ask 'set mute in mac booting sound?'; then
 fi
 
 if ask 'construct DAMP environment?'; then
-  zsh $MACOS_DIR/damp.sh
+  zsh $MACOS_DIR/forDAMP.sh
 fi
 
 # @see https://discussionsjapan.apple.com/thread/10153604
