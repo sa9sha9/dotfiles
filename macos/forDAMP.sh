@@ -3,3 +3,7 @@
 if [ ! -d $HOME/public_html ]; then
     mkdir -p $HOME/public_html
 fi
+
+# dockerのインストール
+
+# damp-masterのpull
