@@ -1,0 +1,5 @@
+#!/usr/local/bin/zsh
+
+#ps. awkを""で囲うと、$2のダラーをエスケープしなきゃならない
+kill $(ps aux |grep "ssh -o" | grep -v grep | awk '{print $2}')
+scselect sak

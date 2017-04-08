@@ -1,0 +1,2 @@
+#!/usr/local/bin/zsh
+ssh -2 -l $1 sshgate.u-aizu.ac.jp # put -X if you use x-window

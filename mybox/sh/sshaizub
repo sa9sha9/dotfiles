@@ -1,0 +1,10 @@
+#!/usr/local/bin/zsh
+
+# -o: ssh設定オプションを与える
+# -f: コマンドを実行する前にバックグランドに以降
+# -N: リモートでコマンドを実行しない(ポートフォワードだけする)
+# -D: ポートバインド
+ssh -o "ServerAliveInterval 15" -fND 1080 -2 $1@sshgate.u-aizu.ac.jp
+# put -X if you use x-window
+
+scselect sshaizub
