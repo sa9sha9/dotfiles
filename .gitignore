@@ -1,4 +1,6 @@
 *~
+*_$
+^test*
 #*#
 .DS_Store
 *.scssc
@@ -16,3 +18,5 @@
 .idea/20150910taisitsu.iml
 .idea/deployment.xml
 .idea/watcherTasks.xml
+
+

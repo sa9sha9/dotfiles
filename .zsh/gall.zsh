@@ -7,17 +7,17 @@ git-add-all-git-commit-git-push-all.zsh
 # Thanks @link http://qiita.com/petitviolet/items/b1e8b5139169dd530919
 # Thanks @link http://qiita.com/mollifier/items/6fdeff2750fe80f830c8
 
-# Usage: ga [-m|--message message]
-function ga() {
+# Usage: gall [-m|--message message]
+function gall() {
   local -A opthash
   local MESSAGE
   zparseopts -D -A opthash -- -help h -message: m:
   if [[ -n "${opthash[(i)--help]}" ]]; then
-    echo 'Usage: ga [-m|--message message]'
+    echo 'Usage: gall [-m|--message message]'
     return 0
   fi
   if [[ -n "${opthash[(i)-h]}" ]]; then
-    echo 'Usage: ga [-m|--message message]'
+    echo 'Usage: gall [-m|--message message]'
     return 0
   fi
 
@@ -41,4 +41,4 @@ _gacmd() {
   --message'[commit message]'
 }
 
-compdef _gacmd ga
+compdef _gacmd gall

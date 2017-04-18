@@ -2,6 +2,7 @@ source ~/.zplug/init.zsh
 
 ## The other plugins if you needed
 zplug "sorin-ionescu/prezto", from:github
+zplug 'themes/steeef', as:theme, from:oh-my-zsh, on:"sorin-ionescu/prezto"
 
 # Make sure to use double quotes
 zplug "zsh-users/zsh-history-substring-search"
@@ -85,7 +86,7 @@ zplug "~/.zsh", from:local
 
 # Load theme file
 #zplug 'dracula/zsh', as:theme
-zplug 'themes/steeef', as:theme, from:oh-my-zsh
+#zplug 'themes/steeef', as:theme, from:oh-my-zsh, defer:3
 
 # Install plugins if there are plugins that have not been installed
 if ! zplug check --verbose; then
