@@ -35,6 +35,9 @@ esac
 
 
 ## 以降の処理にはzshのインストールが先 ##
+#todo: この時点できちんとbrew-zshがinstallされているかの検知
+#todo: sudo権限が実行できるかどうかの検知
+
 # shellsにbrew-zshを追加
 sudo echo "/usr/local/bin/zsh" >> /etc/shells
 # chsh
