@@ -7,15 +7,15 @@ exists() {
   command -v "$1" >/dev/null 2>&1
 }
 ask() {
-  printf "$* [y/N] "
+  printf "$* [Y/n] "
   local answer
   read answer
 
-    #todo: Yesをデフォルトにしたいな
+  #todo: Yesをデフォルトにしたいな
   case $answer in
-    "yes" ) return 0 ;;
-    "y" )   return 0 ;;
-    * )     return 1 ;;
+    "no" )  return 1 ;;
+    "n"  )  return 1 ;;
+    * )     return 0 ;;
   esac
 }
 
