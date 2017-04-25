@@ -55,3 +55,4 @@ git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$H
 curl -sL zplug.sh/installer | zsh  #this way is better than brew
 
 
+
