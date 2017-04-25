@@ -49,6 +49,7 @@ if [ ! -f "/usr/local/bin/zsh" ]; then
     echo "brew-zsh does not installed!!"
     exit 1
 fi
+#todo: sudo権限が実行できるかどうかの検知
 
 # shellsにbrew-zshを追加
 # issue: ここがうまくいかない。itermの設定で起動時shellをzshに変更しようか
