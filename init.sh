@@ -1,19 +1,33 @@
 #!/usr/bin/env bash
-DOT_DIR = ${HOME}/git/dotfiles
+DOT_DIR=${HOME}/git/dotfiles
 
 # functions
 exists() {
     command -v "$1" > /dev/null 2>&1
 }
+ask() {
+  printf "$* [Y/n] "
+  local answer
+  read answer
+
+  #todo: Yesをデフォルトにしたいな
+  case $answer in
+    "no" )  return 0 ;;
+    "n"  )  return 0 ;;
+    * )     return 1 ;;
+  esac
+}
+
 
 # default
 ## gitディレクトリの作成
 if [ ! -d $HOME/git ]; then
+    echo $(tput setaf 2)START: mkdir ~/git $(tput sgr0)
     mkdir -p $HOME/git
 fi
 
 # Copy ./dotfiles to ${HOME}
-# todo: すでにリンクが貼られている場合についての処理
+echo $(tput setaf 2)START: put symlinks to ~/ $(tput sgr0)
 SYMLINK_DIR=${HOME}/git/dotfiles/symlink
 cd ${SYMLINK_DIR}
 for f in .??*
@@ -27,62 +41,66 @@ do
     ### todo: ここでoverwriteの条件分岐を起こす必要があるかもしれない
     ln -snfv ${SYMLINK_DIR}/${f} ${HOME}/${f}
 done
-echo $(tput setaf 2)Deploy dotfiles complete!. ✔︎$(tput sgr0)
-
 cd ${DOT_DIR}
+echo $(tput setaf 2)"Deploy dotfiles complete!. ✔"$(tput sgr0)
 
-# Working only OS X.
+
+# Configuration for MacOS
 case ${OSTYPE} in
   darwin*)
+    echo $(tput setaf 2)"START: configuration for macOS"$(tput sgr0)
     CONFIG_MACOS_DIR=${HOME}/git/dotfiles/macos
-    bash $CONFIG_MACOS_DIR/configuration.sh
+    bash ${CONFIG_MACOS_DIR}/configuration.sh
     ;;
   *)
-    echo $(tput setaf 1)Working only OS X!!$(tput sgr0)
+    echo $(tput setaf 4)"ERROR: Working only OS X!!"$(tput sgr0)
     exit 1
     ;;
 esac
+echo $(tput setaf 2)"Configuration complete. ✔"$(tput sgr0)
 
 
 ## 以降の処理にはzshのインストールが先 ##
-if [ ! -f "/usr/local/bin/zsh" ]; then
-    echo "brew-zsh does not installed!!"
-    exit 1
+if ask "set default shell to '/usr/local/bin/zsh' ?"; then
+    echo $(tput setaf 2)"START: chsh -s /usr/local/bin/zsh"$(tput sgr0)
+    if [ ! -f "/usr/local/bin/zsh" ]; then
+        echo $(tput setaf 4)"ERROR: brew-zsh does not installed!!"$(tput sgr0)
+        exit 1
+    fi
+    sudo echo "/usr/local/bin/zsh" >> /etc/shells
+    chsh -s $(which zsh)
+    echo $(tput setaf 2)"Change shell complete. ✔"$(tput sgr0)
 fi
-#todo: sudo権限が実行できるかどうかの検知
 
-# shellsにbrew-zshを追加
-# issue: ここがうまくいかない。itermの設定で起動時shellをzshに変更しようか
-sudo echo "/usr/local/bin/zsh" >> /etc/shells
-# chsh
-chsh -s $(which zsh)
 
 # Install prezto
 if [[ ! -d ${HOME}/.zprezto ]]; then
+    echo $(tput setaf 2)"START: Install 'zprezto'"$(tput sgr0)
     git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+    echo $(tput setaf 2)"'zprezto' installation complete. ✔"$(tput sgr0)
 else
-    echo "WARNING: zprezto is already installed."
+    echo $(tput setaf 6)"WARNING: 'zprezto' is already installed."$(tput sgr0)
 fi
-## 初期configファイルの生成(dotfilesのコピーで動かなかったらこれ実行)
-#setopt EXTENDED_GLOB
-#for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
-#  ln -s "$rcfile" "${ZDOTDIR:-$HOME}/.${rcfile:t}"
-#done
-    
 
 # Install zplug
 if [[ ! -d ${HOME}/.zplug ]]; then
+    echo $(tput setaf 2)"START: Install 'zplug'"$(tput sgr0)
     curl -sL zplug.sh/installer | zsh  #this way is better than brew
+    echo $(tput setaf 2)"'zplug' installation complete. ✔"$(tput sgr0)
 else
-    echo "WARNING: zplug is already installed."
+    echo $(tput setaf 6)"WARNING: 'zplug' is already installed."$(tput sgr0)
 fi
 
-# ssh
-if [[ ! -d ${HOME}/.ssh ]]; then
-    if exists "ssh-keygen"; then
-	ssh-keygen -t rsa -C $(whoami) #comment: USER-NAME
-    else
-	echo "ERROR: 'ssh-keygen' does not installed"
+# SSH key
+if ask "Do you want to create ssh key pair?"; then
+    echo $(tput setaf 2)"START: make ssh key pair"$(tput sgr0)
+    if [[ ! -d ${HOME}/.ssh ]]; then
+        if exists "ssh-keygen"; then
+            ssh-keygen -t rsa -C $(whoami) #comment: USER-NAME
+            echo $(tput setaf 2)"make ssh key pair complete. ✔"$(tput sgr0)
+        else
+            echo $(tput setaf 6)"WARNING: 'ssh-keygen' does not installed."$(tput sgr0)
+        fi
     fi
 fi
 
