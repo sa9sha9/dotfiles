@@ -1,0 +1,334 @@
+;;;; -*- Mode: Emacs-Lisp ; Coding: utf-8 -*-
+
+;; ------------------------------------------------------------------------
+;; @ load-path
+
+;; load-pathの追加関数
+(defun add-to-load-path (&rest paths)
+  (let (path)
+    (dolist (path paths paths)
+      (let ((default-directory (expand-file-name (concat user-emacs-directory path))))
+        (add-to-list 'load-path default-directory)
+        (if (fboundp 'normal-top-level-add-subdirs-to-load-path)
+            (normal-top-level-add-subdirs-to-load-path))))))
+
+;; load-pathに追加するフォルダ
+;; 2つ以上フォルダを指定する場合の引数 => (add-to-load-path "elisp" "xxx" "xxx")
+(add-to-load-path "elisp")
+
+
+
+;; ------------------------------------------------------------------------
+;; @ Skin
+
+;; common skin
+ (setq default-frame-alist
+      (append
+        '((width            . 105)     ; フレームの幅(文字数)
+         (height           . 35)      ; フレームの高さ(文字数)
+         (top              . 50)      ; フレームのY位置(ピクセル)
+         (left             . 10)       ; フレームのX位置(ピクセル)
+    	;(alpha . (85 40))
+         (font . "Ricty")
+       )
+ default-frame-alist))
+
+;; デフォルトフレームの透明度
+;(set-frame-parameter (selected-frame) 'alpha '(0.75))
+;; 透明度を変更するコマンド M-x set-alpha
+;; http://qiita.com/marcy@github/items/ba0d018a03381a964f24
+;(defun set-alpha (alpha-num)
+;  "set frame parameter 'alpha"
+;  (interactive "nAlpha: ")
+;  (set-frame-parameter nil 'alpha (cons alpha-num '(90))))
+;;; Emacsを半透明・透明にする
+;(global-set-key [f5]
+;(lambda () (interactive)
+;(set-frame-parameter nil 'alpha 50)))
+;(global-set-key [f6]
+;(lambda () (interactive)
+;(set-frame-parameter nil 'alpha 100))) 
+
+; ------------------------------------------------------------------------
+;; @ general
+
+;; common lisp
+(require 'cl)
+
+;; 文字コード
+(set-language-environment "Japanese")
+(let ((ws window-system))
+  (cond ((eq ws 'w32)
+         (prefer-coding-system 'utf-8-unix)
+         (set-default-coding-systems 'utf-8-unix)
+         (setq file-name-coding-system 'sjis)
+         (setq locale-coding-system 'utf-8))
+        ((eq ws 'ns)
+         (require 'ucs-normalize)
+         (prefer-coding-system 'utf-8-hfs)
+         (setq file-name-coding-system 'utf-8-hfs)
+         (setq locale-coding-system 'utf-8-hfs))))
+
+
+;;; Windowsで英数と日本語にMeiryoを指定
+;;; Macで英数と日本語にRictyを指定
+;(let ((ws window-system))
+;  (cond ((eq ws 'w32)
+;         (set-face-attribute 'default nil
+;                             :family "Meiryo"  ;; 英数
+;                             :height 100)
+;         (set-fontset-font nil 'japanese-jisx0208 (font-spec :family "Meiryo")))  ;; 日本語
+;        ((eq ws 'ns)
+;         (set-face-attribute 'default nil
+;                             :family "Ricty"  ;; 英数
+;                             :height 140)
+;         (set-fontset-font nil 'japanese-jisx0208 (font-spec :family "Ricty")))))  ;; 日本語
+;
+
+;; スタートアップ非表示
+(setq inhibit-startup-screen t)
+;; scratchの初期メッセージ消去
+(setq initial-scratch-message "")
+
+;; ツールバー非表示
+;(tool-bar-mode -1)
+;; メニューバーを非表示
+;;(menu-bar-mode -1)
+;; スクロールバー非表示
+;(set-scroll-bar-mode nil)
+
+;; タイトルバーにファイルのフルパス表示
+;(setq frame-title-format
+;      (format "%%f - Emacs@%s" (system-name)))
+
+;; 行番号表示
+(global-linum-mode t)
+(set-face-attribute 'linum nil
+                    :foreground "#800"
+                    :height 0.9)
+;; 行番号フォーマット
+(setq linum-format "%4d")
+
+;;; 対応する括弧を光らせる。
+(show-paren-mode 1)
+;;; ウィンドウ内に収まらないときだけ括弧内も光らせる。
+(setq show-paren-style 'mixed)
+;;; 現在行を目立たせる
+;(global-hl-line-mode)
+;;; カーソルの位置が何文字目かを表示する
+(column-number-mode t)
+;;; カーソルの位置が何行目かを表示する
+(line-number-mode t)
+
+;; 行末の空白を強調表示
+(setq-default show-trailing-whitespace t)
+(set-face-background 'trailing-whitespace "#b14770")
+
+;; タブをスペースで扱う
+(setq-default indent-tabs-mode nil)
+;; タブ幅
+(custom-set-variables '(tab-width 4))
+
+;; yes or noをy or n
+(fset 'yes-or-no-p 'y-or-n-p)
+;; ミニバッファの履歴を保存する
+(savehist-mode 1)
+;; ミニバッファの履歴の保存数を増やす
+(setq history-length 3000)
+
+;; 行間
+;(setq-default line-spacing 0
+
+;; 1行ずつスクロール
+(setq scroll-conservatively 35
+      scroll-margin 0
+      scroll-step 1)
+(setq comint-scroll-show-maximum-output t) ;; shell-mode
+
+;; M-wやC-kでコピーしたものを、他のアプルケーションで貼り付け可能にする
+(cond (window-system
+       (setq x-select-enable-clipboard t)
+))
+
+;;;自動スペルチェック
+;(add-to-list 'exec-path "C:/MySystem/MySystem/emacs/Aspell/bin")
+;(setq-default ispell-program-name "aspell")
+;;;プログラムが起動したら，自動でスペルチェックを起動
+;(eval-after-load "ispell"
+; '(add-to-list 'ispell-skip-region-alist '("[^\000-\377]+")))
+;; flyspell-mode
+;  (mapc
+;   (lambda (hook)
+;     (add-hook hook 'flyspell-prog-mode)) ;;ここではコメントの領域におけるスペルチェック
+;   '(
+;     c-mode-common-hook
+;     emacs-lisp-mode-hook
+;     ))
+;  (defun my-flyspell-mode-enable ()
+;    (flyspell-mode 1))
+;  (mapc
+;   (lambda (hook)
+;     (add-hook hook 'my-flyspell-mode-enable)) ;;ここではファイル全体そのものにスペルチェック   
+;   '(
+;     changelog-mode-hook
+;     debian-control-mode-hook
+;     tex-mode-hoo
+;     yatex-mode-hook
+;     text-mode-hook
+;     ))
+;
+;;auto-complete
+;(add-to-list 'load-path "~/.emacs.d/site-lisp")
+;(require 'auto-complete-config)
+;(add-to-list 'ac-dictionary-directories "~/.emacs.d/site-lisp/ac-dict")
+;(ac-config-default)
+;;
+;;
+
+
+
+;; ------------------------------------------------------------------------
+;; @ modeline
+
+;; モードラインの割合表示を総行数表示
+;(defvar my-lines-page-mode t)
+;(defvar my-mode-line-format)
+;
+;(when my-lines-page-mode
+;  (setq my-mode-line-format "%d")
+;  (if size-indication-mode
+;      (setq my-mode-line-format (concat my-mode-line-format " of %%I")))
+;  (cond ((and (eq line-number-mode t) (eq column-number-mode t))
+;         (setq my-mode-line-format (concat my-mode-line-format " (%%l,%%c)")))
+;        ((eq line-number-mode t)
+;         (setq my-mode-line-format (concat my-mode-line-format " L%%l")))
+;        ((eq column-number-mode t)
+;         (setq my-mode-line-format (concat my-mode-line-format " C%%c"))))
+;
+;  (setq mode-line-position
+;        '(:eval (format my-mode-line-format
+;                        (count-lines (point-max) (point-min))))))
+;;; モードラインに行番号表示
+;(line-number-mode t)
+;; モードラインに列番号表示
+;(column-number-mode t)
+
+
+
+;; ------------------------------------------------------------------------
+;; @Setting of Lisp
+;;;; auto-install
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/auto-install/"))
+(require 'auto-install)
+;(auto-install-update-emacswiki-package-name t)
+(auto-install-compatibility-setup)
+
+
+;;;; menu-tree.el
+;; メニューバー日本語化
+;; http://www11.atwiki.jp/s-irie/pages/13.html
+;(if (and (= emacs-major-version 22)
+;         (eq window-system 'x))
+;    (setq menu-tree-coding-system 'utf-8))
+;(require 'menu-tree nil t)
+
+;;;; color-theme
+(add-to-list 'load-path "~/.emacs.d/color-theme-6.6.0")
+(require 'color-theme)
+(eval-after-load "color-theme"
+  '(progn
+     (color-theme-initialize)
+     (color-theme-hober)))
+
+
+;;;; tabbar
+;; タブ化
+;; http://www.emacswiki.org/emacs/tabbar.el
+;;(require 'cl)
+;(require 'tabbar nil t)
+
+;; tabbarを有効にする
+;(tabbar-mode 1) ;;errorが出る。
+
+;;; scratch buffer以外をまとめてタブに表示する
+;(setq tabbar-buffer-groups-function
+;      (lambda (b) (list "All Buffers")))
+;(setq tabbar-buffer-list-function
+;      (lambda ()
+;        (remove-if
+;         (lambda(buffer)
+;           (unless (string-match (buffer-name buffer)
+;                                 "\\(*scratch*\\|*Apropos*\\|*shell*\\|*eshell*\\|*Customize*\\)")
+;             (find (aref (buffer-name buffer) 0) " *"))
+;           )
+;         (buffer-list))))
+;
+;
+;;; ボタンをシンプルにする
+;(setq tabbar-home-button-enabled "")
+;(setq tabbar-scroll-right-button-enabled "")
+;(setq tabbar-scroll-left-button-enabled "")
+;(setq tabbar-scroll-right-button-disabled "")
+;(setq tabbar-scroll-left-button-disabled "")
+;
+;;; Ctrl-Tab, Ctrl-Shift-Tab でタブを切り替える
+;(dolist (func '(tabbar-mode tabbar-forward-tab tabbar-forward-group tabbar-backward-tab tabbar-backward-group))
+;  (autoload func "tabbar" "Tabs at the top of buffers and easy control-tab navigation"))
+;(defmacro defun-prefix-alt (name on-no-prefix on-prefix &optional do-always)
+;  `(defun ,name (arg)
+;     (interactive "P")
+;     ,do-always
+;     (if (equal nil arg)
+;         ,on-no-prefix
+;       ,on-prefix)))
+;(defun-prefix-alt shk-tabbar-next (tabbar-forward-tab) (tabbar-forward-group) (tabbar-mode 1))
+;(defun-prefix-alt shk-tabbar-prev (tabbar-backward-tab) (tabbar-backward-group) (tabbar-mode 1))
+;(global-set-key [(control tab)] 'shk-tabbar-next)
+;(global-set-key [(control shift tab)] 'shk-tabbar-prev)
+;
+;; GUIで直接ファイルを開いた場合フレームを作成しない
+;(add-hook 'before-make-frame-hook
+;          (lambda ()
+;            (when (eq tabbar-mode t)
+;              (switch-to-buffer (buffer-name))
+;              (delete-this-frame))))
+;
+
+;;;; multi-term
+;; 端末エミュレータ
+;; http://www.emacswiki.org/emacs/multi-term.el
+;;(when (require 'multi-term nil t)
+;;  (setq multi-term-program "/usr/local/bin/zsh"))
+
+
+;;;; emmet-mode
+;(require 'emmet-mode)
+;(add-hook 'sgml-mode-hook 'emmet-mode) ;; マークアップ言語全部で使う
+;(add-hook 'css-mode-hook  'emmet-mode) ;; CSSにも使う
+;(add-hook 'emmet-mode-hook (lambda () (setq emmet-indentation 2))) ;; indent はスペース2個
+;(eval-after-load "emmet-mode"
+;  '(define-key emmet-mode-keymap (kbd "C-j") nil)) ;; C-j は newline のままにしておく
+;(keyboard-translate ?\C-i ?\H-i) ;;C-i と Tabの被りを回避
+;(define-key emmet-mode-keymap (kbd "H-i") 'emmet-expand-line) ;; C-i で展開
+;
+;
+;;;; auto-complete
+;(require 'auto-complete)
+;(require 'auto-complete-config)    ; 必須ではないですが一応
+;(global-auto-complete-mode t)
+;(put 'upcase-region 'disabled nil)
+;
+;;;;;Mac Settings;;;;
+;;;;Option <-> Command
+;(setq ns-command-modifier (quote meta))
+;(setq ns-alternate-modifier (quote super))
+;
+;(put 'set-goal-column 'disabled nil)
+;
+;;; scala mode
+;(require 'scala-mode)
+
+;(if window-system (progn
+;    (when (equal system-type 'darwin) ;; Macでは16pt
+;      (add-to-list 'default-frame-alist '(font . "ricty-16")))
+;))
