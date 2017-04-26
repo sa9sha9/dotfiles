@@ -1,204 +1,170 @@
-
-# tap repositories and their packages
-
-tap caskroom/cask
-cask arduino
-cask brackets
-cask cheatsheet
-cask clion
-cask clipy
-cask dash
-cask docker
-cask dropbox
-cask filezilla
-cask google-chrome
-cask google-drive
-cask google-photos-backup
-cask hyperswitch
-cask inkscape
-cask intellij-idea
-cask iterm2
-cask java
-cask karabiner-elements
-cask kindle
-cask mysqlworkbench
-cask openoffice
-cask processing
-cask sequel-pro
-cask sketch
-cask sourcetree
-cask spectacle
-cask spotify
-cask taskexplorer
-cask teamspeak-client
-cask teamviewer
-cask tunnelbear
-cask unetbootin
-cask vagrant
-cask virtualbox
-cask vlc
-cask wireshark
-cask xquartz
-
-tap chezou/jumanpp
-brew jumanpp
-
-tap homebrew/apache
-brew httpd24
-
-tap homebrew/boneyard
-
-tap homebrew/bundle
-
-tap homebrew/core
-brew adns
-brew apr
-brew apr-util
-brew autoconf
-brew automake
-brew avrdude
-brew boost
-brew byobu
-brew cmake
-brew coreutils
-brew dirmngr
-brew dnsmasq
-brew elixir
-brew emacs
-brew erlang
-brew fish
-brew freetype
-brew gdb
-brew gdbm
-brew gettext
-brew gibo
-brew git-flow
-brew gitslave --devel
-brew gmp
-brew gnu-sed
-brew gnutls
-brew gperftools
-brew gpg-agent
-brew heroku
-brew hub
-brew icu4c
-brew jpeg
-brew jq
-brew jsdoc3
-brew lftp
-brew libassuan
-brew libelf
-brew libevent
-brew libffi
-brew libftdi0
-brew libgcrypt
-brew libgpg-error
-brew libiconv
-brew libidn
-brew libksba
-brew libpng
-brew libssh
-brew libtasn1
-brew libtiff
-brew libtool
-brew libunistring
-brew libusb
-brew libusb-compat
-brew libxml2
-brew libxslt
-brew libyaml
-brew mas
-brew md5sha1sum
-brew mongodb
-brew mysql
-brew ncftp
-brew nettle
-brew newt
-brew nginx
-brew nkf
-brew nmap
-brew node
-brew npth
-brew nvm
-brew oniguruma
-brew openssl
-brew openssl@1.1
-brew p11-kit
-brew pcre
-brew pcre2
-brew phantomjs
-brew pinentry
-brew pkg-config
-brew popt
-brew pth
-brew pyenv
-brew pyenv-virtualenv
-brew python
-brew rbenv
-brew readline
-brew redis
-brew ruby-build
-brew s-lang
-brew sbt
-brew scala
-brew sqlite
-brew tig
-brew tmux
-brew tree
-brew unixodbc
-brew utf8proc
-brew watch
-brew wget
-brew wxmac
-brew xz
-brew yafc
-brew yarn
-brew zlib
-brew zsh
-brew zsh-completions
-
-tap homebrew/dupes
-
-tap homebrew/php
-brew composer
-brew php71
-brew phpunit
-brew wp-cli
-
-tap homebrew/services
-
-tap homebrew/versions
-
-tap joelpurra/joelpurra
-
-tap rcmdnk/file
-brew brew-file
-
-# Cask applications
-cask avast
-cask edgeview
-
-# App Store applications
-appstore 566042322 123D Design (2.2.1)
-appstore 732710998 Enpass (5.5.2)
-appstore 406056744 Evernote (6.11)
-appstore 503039729 Fotor Photo Editor (3.2.2)
-appstore 682658836 GarageBand (10.1.6)
-appstore 668208984 GIPHY CAPTURE (3.3)
-appstore 945689735 Hash (1.0.2)
-appstore 408981434 iMovie (10.1.5)
-appstore 513610341 Integrity (6.8.24)
-appstore 409183694 Keynote (7.1)
-appstore 472226235 LanScan (4.3)
-appstore 539883307 LINE (5.1.1)
-appstore 409203825 Numbers (4.1)
-appstore 409201541 Pages (6.1)
-appstore 692867256 Simplenote (1.1.8)
-appstore 507257563 Sip (4.5.2)
-appstore 425955336 Skitch (2.8)
-appstore 803453959 Slack (2.5.2)
-appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (6.3.20)
-appstore 461369673 VOX (2.8.21)
-appstore 899972312 WordService (2.8.1)
-appstore 497799835 Xcode (8.3.2)
+tap 'caskroom/cask'
+tap 'chezou/jumanpp'
+tap 'homebrew/apache'
+tap 'homebrew/boneyard'
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+tap 'homebrew/dupes'
+tap 'homebrew/php'
+tap 'homebrew/services'
+tap 'homebrew/versions'
+tap 'joelpurra/joelpurra'
+tap 'rcmdnk/file'
+cask 'java'
+brew 'adns'
+brew 'apr'
+brew 'openssl'
+brew 'apr-util'
+brew 'autoconf'
+brew 'automake'
+brew 'libelf'
+brew 'libusb'
+brew 'libusb-compat'
+brew 'libftdi0'
+brew 'avrdude'
+brew 'boost'
+brew 'gettext'
+brew 'gnu-sed'
+brew 'libevent'
+brew 'popt'
+brew 'tmux'
+brew 'byobu'
+brew 'cmake'
+brew 'libassuan'
+brew 'libgcrypt'
+brew 'libksba'
+brew 'pth'
+brew 'dirmngr'
+brew 'dnsmasq'
+brew 'jpeg'
+brew 'elixir'
+brew 'emacs'
+brew 'pcre2'
+brew 'fish'
+brew 'freetype'
+brew 'gdb'
+brew 'gdbm'
+brew 'gibo'
+brew 'git-flow'
+brew 'gmp'
+brew 'gnutls'
+brew 'npth'
+brew 'gnupg'
+brew 'gperftools'
+brew 'gpg-agent'
+brew 'heroku'
+brew 'hub'
+brew 'icu4c'
+brew 'oniguruma'
+brew 'jq'
+brew 'node'
+brew 'jsdoc3'
+brew 'jumanpp'
+brew 'lftp'
+brew 'libiconv'
+brew 'libssh'
+brew 'libtool'
+brew 'sqlite'
+brew 'python'
+brew 'libxml2'
+brew 'libxslt'
+brew 'libyaml'
+brew 'mas'
+brew 'md5sha1sum'
+brew 'mongodb'
+brew 'mysql'
+brew 'ncftp'
+brew 'openssl@1.1'
+brew 'pcre'
+brew 'nginx'
+brew 'nkf'
+brew 'nmap'
+brew 'nvm'
+brew 'phantomjs'
+brew 'pkg-config'
+brew 'pyenv'
+brew 'pyenv-virtualenv'
+brew 'ruby-build'
+brew 'rbenv'
+brew 'redis', restart_service: true
+brew 'sbt'
+brew 'scala'
+brew 'tig'
+brew 'tree'
+brew 'unixodbc'
+brew 'utf8proc'
+brew 'watch'
+brew 'wget'
+brew 'xz'
+brew 'yafc'
+brew 'yarn'
+brew 'zlib'
+brew 'zsh'
+brew 'zsh-completions'
+brew 'homebrew/apache/httpd24'
+brew 'homebrew/php/composer'
+brew 'homebrew/php/phpunit'
+brew 'homebrew/php/wp-cli'
+brew 'joelpurra/joelpurra/gitslave', args: ['devel']
+brew 'rcmdnk/file/brew-file'
+cask 'arduino'
+cask 'avast'
+cask 'brackets'
+cask 'cheatsheet'
+cask 'clion'
+cask 'clipy'
+cask 'dash'
+cask 'docker'
+cask 'dropbox'
+cask 'edgeview'
+cask 'filezilla'
+cask 'google-chrome'
+cask 'google-drive'
+cask 'google-photos-backup'
+cask 'hyperswitch'
+cask 'inkscape'
+cask 'intellij-idea'
+cask 'iterm2'
+cask 'karabiner-elements'
+cask 'kindle'
+cask 'mysqlworkbench'
+cask 'openoffice'
+cask 'processing'
+cask 'sequel-pro'
+cask 'sketch'
+cask 'sourcetree'
+cask 'spectacle'
+cask 'spotify'
+cask 'taskexplorer'
+cask 'teamspeak-client'
+cask 'teamviewer'
+cask 'tunnelbear'
+cask 'unetbootin'
+cask 'vagrant'
+cask 'virtualbox'
+cask 'vlc'
+cask 'wireshark'
+cask 'xquartz'
+mas '123D Design', id: 566042322
+mas 'Enpass', id: 732710998
+mas 'Evernote', id: 406056744
+mas 'Fotor Photo Editor', id: 503039729
+mas 'GarageBand', id: 682658836
+mas 'GIPHY CAPTURE', id: 668208984
+mas 'Hash', id: 945689735
+mas 'iMovie', id: 408981434
+mas 'Integrity', id: 513610341
+mas 'Keynote', id: 409183694
+mas 'LanScan', id: 472226235
+mas 'LINE', id: 539883307
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'Simplenote', id: 692867256
+mas 'Sip', id: 507257563
+mas 'Skitch', id: 425955336
+mas 'Slack', id: 803453959
+mas 'The Unarchiver', id: 425424353
+mas 'Todoist', id: 585829637
+mas 'VOX', id: 461369673
+mas 'WordService', id: 899972312
+mas 'Xcode', id: 497799835

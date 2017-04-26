@@ -7,7 +7,6 @@ export LSCOLORS=Gxfxcxdxbxegedabagacad
 # exports
 ## sh
 export PATH="${HOME}/sh:${PATH}"
-export HOMEBREW_BREWFILE=${HOME}/git/dotfiles/mybox/.brewfile
 
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}
