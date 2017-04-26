@@ -12,9 +12,9 @@ ask() {
 
   #todo: Yesをデフォルトにしたいな
   case $answer in
-    "no" )  return 0 ;;
-    "n"  )  return 0 ;;
-    * )     return 1 ;;
+    "no" )  return 1 ;;
+    "n"  )  return 1 ;;
+    * )     return 0 ;;
   esac
 }
 
