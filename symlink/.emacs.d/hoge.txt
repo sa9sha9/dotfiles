@@ -1,0 +1,10 @@
+hoge hoge hoge
+fuga fuga fuga
+foo foo foo 
+bar bar 
+oo
+
+laあああ
+
+どうでしょう、文字化けしないですか？
+
