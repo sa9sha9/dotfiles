@@ -1,3 +1,7 @@
+# functions
+exists() {
+    command -v "$1" > /dev/null 2>&1
+}
 ask() {
   printf "$* [Y/n] "
   local answer
@@ -11,7 +15,7 @@ ask() {
   esac
 }
 
-if ask "hoge"; then
+if exists "docker"; then
     echo "1"
 else
     echo "0"

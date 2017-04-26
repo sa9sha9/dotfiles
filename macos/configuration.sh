@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOT_DIRECTORY=${HOME}/git/dotfiles
+DOT_DIR=${HOME}/git/dotfiles
 
 # functions for shell-script
 exists() {
@@ -21,7 +21,7 @@ ask() {
 
 
 ### Installation(interactive) ###
-MACOS_DIR=${DOT_DIRECTORY}/macos
+MACOS_DIR=${DOT_DIR}/macos
 
 # watch error && forbid undefined var
 set -eu
@@ -41,15 +41,10 @@ fi
 ## Homebrew bundle
 if ask 'execute brew bundle(Brewfile)?'; then
   brew tap Homebrew/bundle
-  pushd $MACOS_DIR
+  pushd ${MACOS_DIR}
   brew bundle -v # install all related with Homebrew using Brewfile
   popd
 fi
-
-## Mackup
-#if ask 'restore setting from mackup? (need Dropbox directory)'; then
-#  mackup restore
-#fi
 
 ### macOS setting @@@
 ## mac setting
@@ -60,6 +55,10 @@ fi
 if ask 'set visible dotfiles in finder?'; then
   defaults write com.apple.finder AppleShowAllFiles TRUE
   killall Finder
+fi
+
+if ask 'would not make .DS_Store?'; then
+    defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 fi
 
 if ask 'set fullpath title at finder?'; then
