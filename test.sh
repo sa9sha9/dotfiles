@@ -1,6 +1,18 @@
-echo $(tput setaf 2)"START: chsh -s /usr/local/bin/zsh"$(tput sgr0)
+ask() {
+  printf "$* [Y/n] "
+  local answer
+  read answer
 
-if [ ! -f "/usr/local/bin/zsh" ]; then
-    echo $(tput setaf 4)"brew-zsh does not installed!!"$(tput sgr0)
-    exit 1
+  #todo: Yesをデフォルトにしたいな
+  case $answer in
+    "no" )  return 1 ;;
+    "n"  )  return 1 ;;
+    * )     return 0 ;;
+  esac
+}
+
+if ask "hoge"; then
+    echo "1"
+else
+    echo "0"
 fi
