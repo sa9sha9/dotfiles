@@ -9,6 +9,9 @@ tap 'homebrew/php'
 tap 'homebrew/services'
 tap 'homebrew/versions'
 tap 'joelpurra/joelpurra'
+tap 'rcmdnk/file'
+cask 'java'
+brew 'adns'
 brew 'apr'
 brew 'openssl'
 brew 'apr-util'
@@ -20,24 +23,21 @@ brew 'libusb-compat'
 brew 'libftdi0'
 brew 'avrdude'
 brew 'boost'
-brew 'coreutils'
-brew 'gnu-sed'
 brew 'gettext'
-brew 'popt'
-brew 'libpng'
-brew 's-lang'
-brew 'newt'
+brew 'gnu-sed'
 brew 'libevent'
+brew 'popt'
 brew 'tmux'
 brew 'byobu'
 brew 'cmake'
-brew 'libgpg-error'
 brew 'libassuan'
 brew 'libgcrypt'
 brew 'libksba'
 brew 'pth'
 brew 'dirmngr'
-brew 'dnsmasq', restart_service: true
+brew 'dnsmasq'
+brew 'jpeg'
+brew 'elixir'
 brew 'emacs'
 brew 'pcre2'
 brew 'fish'
@@ -46,22 +46,24 @@ brew 'gdb'
 brew 'gdbm'
 brew 'gibo'
 brew 'git-flow'
-brew 'pinentry'
-brew 'gpg-agent'
-brew 'gnupg2'
+brew 'gmp'
+brew 'gnutls'
+brew 'npth'
+brew 'gnupg'
 brew 'gperftools'
+brew 'gpg-agent'
 brew 'heroku'
 brew 'hub'
 brew 'icu4c'
-brew 'jpeg'
 brew 'oniguruma'
 brew 'jq'
 brew 'node'
 brew 'jsdoc3'
 brew 'jumanpp'
+brew 'lftp'
+brew 'libiconv'
 brew 'libssh'
 brew 'libtool'
-brew 'readline'
 brew 'sqlite'
 brew 'python'
 brew 'libxml2'
@@ -69,20 +71,22 @@ brew 'libxslt'
 brew 'libyaml'
 brew 'mas'
 brew 'md5sha1sum'
-brew 'mongodb', restart_service: true
-brew 'mysql', restart_service: true
+brew 'mongodb'
+brew 'mysql'
 brew 'ncftp'
 brew 'openssl@1.1'
 brew 'pcre'
 brew 'nginx'
 brew 'nkf'
 brew 'nmap'
+brew 'nvm'
+brew 'phantomjs'
 brew 'pkg-config'
 brew 'pyenv'
 brew 'pyenv-virtualenv'
 brew 'ruby-build'
 brew 'rbenv'
-brew 'redis'
+brew 'redis', restart_service: true
 brew 'sbt'
 brew 'scala'
 brew 'tig'
@@ -93,42 +97,74 @@ brew 'watch'
 brew 'wget'
 brew 'xz'
 brew 'yafc'
+brew 'yarn'
+brew 'zlib'
 brew 'zsh'
 brew 'zsh-completions'
-brew 'homebrew/dupes/zlib'
 brew 'homebrew/apache/httpd24'
-brew 'homebrew/boneyard/lftp'
-brew 'homebrew/dupes/libiconv'
-brew 'homebrew/php/php71'
 brew 'homebrew/php/composer'
-brew 'homebrew/php/php56'
 brew 'homebrew/php/phpunit'
 brew 'homebrew/php/wp-cli'
 brew 'joelpurra/joelpurra/gitslave', args: ['devel']
+brew 'rcmdnk/file/brew-file'
+cask 'arduino'
+cask 'avast'
+cask 'brackets'
+cask 'cheatsheet'
+cask 'clion'
+cask 'clipy'
+cask 'dash'
+cask 'docker'
+cask 'dropbox'
+cask 'edgeview'
+cask 'filezilla'
+cask 'google-chrome'
+cask 'google-drive'
+cask 'google-photos-backup'
+cask 'hyperswitch'
+cask 'inkscape'
+cask 'intellij-idea'
 cask 'iterm2'
+cask 'karabiner-elements'
+cask 'kindle'
+cask 'mysqlworkbench'
+cask 'openoffice'
+cask 'processing'
 cask 'sequel-pro'
+cask 'sketch'
+cask 'sourcetree'
+cask 'spectacle'
+cask 'spotify'
+cask 'taskexplorer'
+cask 'teamspeak-client'
 cask 'teamviewer'
-mas 'Integrity', id: 513610341
-mas 'Simplenote', id: 692867256
-mas 'Hash', id: 945689735
-mas 'LINE', id: 539883307
+cask 'tunnelbear'
+cask 'unetbootin'
+cask 'vagrant'
+cask 'virtualbox'
+cask 'vlc'
+cask 'wireshark'
+cask 'xquartz'
+mas '123D Design', id: 566042322
+mas 'Enpass', id: 732710998
 mas 'Evernote', id: 406056744
-mas 'Keynote', id: 409183694
-mas 'VOX', id: 461369673
-mas 'OneDrive', id: 823766827
-mas 'GarageBand', id: 682658836
-mas 'The Unarchiver', id: 425424353
 mas 'Fotor Photo Editor', id: 503039729
+mas 'GarageBand', id: 682658836
 mas 'GIPHY CAPTURE', id: 668208984
+mas 'Hash', id: 945689735
+mas 'iMovie', id: 408981434
+mas 'Integrity', id: 513610341
+mas 'Keynote', id: 409183694
+mas 'LanScan', id: 472226235
+mas 'LINE', id: 539883307
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'Simplenote', id: 692867256
+mas 'Sip', id: 507257563
 mas 'Skitch', id: 425955336
-mas 'Go for Facebook', id: 965915283
+mas 'Slack', id: 803453959
+mas 'The Unarchiver', id: 425424353
+mas 'Todoist', id: 585829637
+mas 'VOX', id: 461369673
 mas 'WordService', id: 899972312
 mas 'Xcode', id: 497799835
-mas 'Numbers', id: 409203825
-mas '123D Design', id: 566042322
-mas 'Pages', id: 409201541
-mas 'LanScan', id: 472226235
-mas 'Enpass', id: 732710998
-mas 'iMovie', id: 408981434
-mas 'Slack', id: 803453959
-mas 'Sip', id: 507257563
