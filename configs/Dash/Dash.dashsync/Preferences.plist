@@ -107,22 +107,22 @@
 			<key>http://kapeli.com/feeds/Bash.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-29T13:22:54Z</date>
+				<date>2017-04-28T08:55:41Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Elixir.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-13T12:03:59Z</date>
+				<date>2017-04-28T08:55:41Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/MySQL.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-13T12:03:50Z</date>
+				<date>2017-04-28T08:55:42Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/NodeJS.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-14T10:15:00Z</date>
+				<date>2017-04-28T08:55:41Z</date>
 			</dict>
 		</dict>
 		<key>uninstalled</key>

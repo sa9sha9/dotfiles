@@ -108,7 +108,7 @@ brew 'homebrew/php/wp-cli'
 brew 'joelpurra/joelpurra/gitslave', args: ['devel']
 brew 'rcmdnk/file/brew-file'
 cask 'arduino'
-cask 'avast'
+cask 'avast-mac-security'
 cask 'brackets'
 cask 'cheatsheet'
 cask 'clion'
