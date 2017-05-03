@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-DOT_DIR=${HOME}/git/dotfiles
-
 # functions
 exists() {
     command -v "$1" > /dev/null 2>&1
@@ -19,11 +17,19 @@ ask() {
 
 
 # default
-## gitディレクトリの作成
-if [ ! -d $HOME/git ]; then
+## git directory
+if [ ! -d ${HOME}/git ]; then
     echo $(tput setaf 2)START: mkdir ~/git $(tput sgr0)
-    mkdir -p $HOME/git
+    mkdir -p ${HOME}/git
 fi
+
+# clone dotfiles
+if [ ! -d ${HOME}/git/dotfiles ];then
+    cd ${HOME}/git
+    git clone https://github.com/sak39/dotfiles.git
+fi
+
+DOT_DIR=${HOME}/git/dotfiles
 
 # Copy ./dotfiles to ${HOME}
 echo $(tput setaf 2)START: put symlinks to ~/ $(tput sgr0)
@@ -40,6 +46,11 @@ done
 cd ${DOT_DIR}
 echo $(tput setaf 2)"Deploy dotfiles complete!. ✔"$(tput sgr0)
 
+# git config
+git config --global user.name ${USER}
+git config --global user.email ${USER}@gmail.com #todo
+git config --global commit.template ${HOME}/.stCommitMsg
+git config --global core.excludesfile ${USER}/.gitignore_global
 
 # Configuration for MacOS
 case ${OSTYPE} in
