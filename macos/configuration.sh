@@ -7,15 +7,14 @@ exists() {
   command -v "$1" >/dev/null 2>&1
 }
 ask() {
-  printf "$* [Y/n] "
+  printf "$* [y/N] "
   local answer
   read answer
 
-  #todo: Yesをデフォルトにしたいな
   case $answer in
-    "no" )  return 1 ;;
-    "n"  )  return 1 ;;
-    * )     return 0 ;;
+    "yes" )  return 0 ;;
+    "y"   )  return 0 ;;
+    * )     return 1 ;;
   esac
 }
 
@@ -34,12 +33,13 @@ fi
 ## Homebrew
 if ask 'Homebrew install?'; then
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
   brew doctor
 fi
 
 ## Homebrew bundle
 if ask 'execute brew bundle(Brewfile)?'; then
-  brew tap Homebrew/bundle
+  brew tap Homebrew/bundle #is this realy necessary? It's must be included in Brewfile
   pushd ${MACOS_DIR}
   brew bundle -v # install all related with Homebrew using Brewfile
   popd

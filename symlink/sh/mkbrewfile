@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# functions
+exists() {
+    command -v "$1" > /dev/null 2>&1
+}
+ask() {
+  printf "$* [y/N] "
+  local answer
+  read answer
+
+  case $answer in
+    "yes" )  return 0 ;;
+    "y"   )  return 0 ;;
+    * )     return 1 ;;
+  esac
+}
+
+if ! exists brew bundle; then
+    echo $(tput setaf 4)"ERROR: 'brew bundle' does not exists"$(tput sgr0)
+    exit 1
+fi
+
+BREWFILE_DIR=${HOME}/git/dotfiles/macos/configs
+pushd ${BREWFILE_DIR} >/dev/null 2>&1
+
+if ask "Carry out 'brew bundle dump'?"; then
+    brew bundle dump --force
+fi
+
+if ask "Set 'brew bundle dump' into launchd?"; then
+    if ! exists "launchctl"; then
+        echo $(tput setaf 6)"WARNING: 'launchctl' does not exists"$(tput sgr0)
+    else
+        cp -p ${BREWFILE_DIR}/sa9sha9.mkbrewfile.plist ${HOME}/Library/LaunchAgents
+        launchctl load ${HOME}/Library/LaunchAgents/sa9sha9.mkbrewfile.plist
+    fi
+fi
+
+# go back to ORIGINAL DIR
+ popd >/dev/null 2>&1
