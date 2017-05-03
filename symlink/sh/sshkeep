@@ -1,0 +1,13 @@
+#!/usr/bin/env zsh
+
+if [[ $# -eq '0' ]]; then
+    echo "Please input 'sshkeep help'"
+    exit 1
+fi
+
+if [[ $1 == "help" ]]; then
+    echo "Please input values as follows... '[ANY_OPTION] [USER@HOSTNAME]'"
+    exit 1
+fi
+
+ssh -2 -o "ServerAliveInterval 15" $@

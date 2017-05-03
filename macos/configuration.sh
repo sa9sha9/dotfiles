@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 DOT_DIR=${HOME}/git/dotfiles
 
@@ -35,7 +35,6 @@ fi
 if ask 'Homebrew install?'; then
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   brew doctor
-  brew install caskroom/cask/brew-cask
 fi
 
 ## Homebrew bundle

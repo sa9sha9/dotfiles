@@ -22,12 +22,12 @@ ask() {
 # default
 ## gitディレクトリの作成
 if [ ! -d $HOME/git ]; then
-    echo $(tput setaf 2)START: mkdir ~/git $(tput sgr0)
+    echo $(tput setaf 2)"START: mkdir ~/git"$(tput sgr0)
     mkdir -p $HOME/git
 fi
 
 # Copy ./dotfiles to ${HOME}
-echo $(tput setaf 2)START: put symlinks to ~/ $(tput sgr0)
+echo $(tput setaf 2)"START: put symlinks to ~/ "$(tput sgr0)
 SYMLINK_DIR=${HOME}/git/dotfiles/symlink
 cd ${SYMLINK_DIR}
 for f in .??*
@@ -35,10 +35,8 @@ do
     # 無視したいファイルやディレクトリはこんな風に追加してね
     #    [[ ${f} = ".git" ]] && continue
     #    [[ ${f} = ".gitignore" ]] && continue
-    [[ ${f} = "configs" ]] && continue
 
-    #シンボリックリンクでdotfilesを管理すれば管理がシンプルになるね
-    ### todo: ここでoverwriteの条件分岐を起こす必要があるかもしれない
+    # -n: overwrite symlink of directory, -f: overwrite symlink of file
     ln -snfv ${SYMLINK_DIR}/${f} ${HOME}/${f}
 done
 cd ${DOT_DIR}
