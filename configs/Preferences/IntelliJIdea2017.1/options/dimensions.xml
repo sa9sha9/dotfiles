@@ -1,0 +1,46 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="695" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="463" y="288" />
+    <location key="SettingsEditor.0.0.1440.900" x="241" y="61" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1440.900" x="332" y="122" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="510" y="354" />
+    <location key="findTextDialog.0.0.1440.900" x="816" y="243" />
+    <location key="replaceTextDialog.0.0.1440.900" x="515" y="171" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1440.900" x="532" y="353" />
+    <location key="ftp.server.browser.0.0.1440.900" x="406" y="219" />
+    <location key="#Deployment.0.0.1440.900" x="222" y="124" />
+    <location key="NewPhpFileDialog.0.0.1440.900" x="574" y="393" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="233" y="124" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1440.900" x="441" y="153" />
+    <location key="#com.jetbrains.plugins.webDeployment.ui.MoveMessageDialog.0.0.1440.900" x="425" y="394" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="458" y="265" />
+    <location key="#Browse_Repositories.0.0.1440.900" x="340" y="60" />
+    <location key="#PHP.0.0.1440.900" x="461" y="120" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1440.900" x="543" y="88" />
+    <location key="FileDocumentManager.FileCacheConflict.0.0.1440.900" x="0" y="23" />
+    <location key="publish.login.0.0.1440.900" x="626" y="367" />
+    <location key="com.jetbrains.plugins.webDeployment.ui.AdvancedOptionsDialog.0.0.1440.900" x="575" y="367" />
+    <location key="#Options.0.0.1440.900" x="353" y="194" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1312" height="280" />
+    <size key="javadoc.popup.0.0.1440.900" width="481" height="175" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.2.left.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.2.center.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.2.right.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.2.bottom.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.3.left.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.3.center.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.3.right.0.0.1440.900" width="1312" height="280" />
+    <size key="GridCell.Tab.3.bottom.0.0.1440.900" width="1312" height="280" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1440.900" width="300" height="300" />
+    <size key="findTextDialog.0.0.1440.900" width="543" height="587" />
+    <size key="#Options.0.0.1440.900" width="722" height="566" />
+  </component>
+</application>

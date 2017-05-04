@@ -1,0 +1,43 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="2" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="diff.DirDiffTableModel" count="5" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="2" />
+      <entry feature="ide.settings.CSS" count="2" />
+      <entry feature="ide.settings.Code_Style" count="7" />
+      <entry feature="ide.settings.Deployment" count="5" />
+      <entry feature="ide.settings.ESLint" count="1" />
+      <entry feature="ide.settings.Formatting" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.JSHint" count="1" />
+      <entry feature="ide.settings.JSLint" count="1" />
+      <entry feature="ide.settings.JSON" count="1" />
+      <entry feature="ide.settings.JavaScript" count="16" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Live_Templates" count="2" />
+      <entry feature="ide.settings.PHP" count="9" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.SQL" count="1" />
+      <entry feature="ide.settings.TypeScript" count="1" />
+      <entry feature="ide.settings.WordPress" count="1" />
+      <entry feature="ide.settings.YAML" count="1" />
+      <entry feature="ideaapp.started" count="30" />
+      <entry feature="json.schema.builtin.completion" count="87" />
+      <entry feature="terminal.mac" count="5" />
+      <entry feature="tips.of.the.day.next" count="4" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="2" />
+    </counts>
+  </component>
+</application>
