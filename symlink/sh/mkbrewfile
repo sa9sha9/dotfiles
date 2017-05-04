@@ -21,6 +21,9 @@ if ! exists brew bundle; then
 fi
 
 BREWFILE_DIR=${HOME}/git/dotfiles/macos/configs
+if [ ! -d ${BREWFILE_DIR} ]; then
+    echo $(tput setaf 4)"ERROR: ${BREWFILE_DIR} does not exists"$(tput sgr0)    exit 1
+fi
 pushd ${BREWFILE_DIR} >/dev/null 2>&1
 
 if ask "Carry out 'brew bundle dump'?"; then
