@@ -40,6 +40,7 @@ do
     # 無視したいファイルやディレクトリはこんな風に追加してね
     #    [[ ${f} = ".git" ]] && continue
     #    [[ ${f} = ".gitignore" ]] && continue
+    [[ ${f} = ".DS_Store" ]] && continue
 
     # -n: overwrite symlink of directory, -f: overwrite symlink of file
     ln -snfv ${SYMLINK_DIR}/${f} ${HOME}/${f}

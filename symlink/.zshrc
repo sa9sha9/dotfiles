@@ -1,8 +1,11 @@
 source ~/.zplug/init.zsh
 
 ## The other plugins if you needed
-zplug "sorin-ionescu/prezto", from:github
-zplug 'themes/steeef', as:theme, from:oh-my-zsh, on:"sorin-ionescu/prezto"
+#zplug "sorin-ionescu/prezto", from:github
+#zplug 'themes/steeef', as:theme, from:oh-my-zsh, on:"sorin-ionescu/prezto"
+
+zplug "robbyrussell/oh-my-zsh", from:github
+zplug 'themes/steeef', as:theme, from:oh-my-zsh, on:"robbyrussell/oh-my-zsh"
 
 # Make sure to use double quotes
 zplug "zsh-users/zsh-history-substring-search"
@@ -98,3 +101,8 @@ fi
 
 # Then, source plugins and add commands to $PATH
 zplug load --verbose
+
+# profiling time to load
+#if (which zprof > /dev/null 2>&1) ;then
+#  zprof
+#fi

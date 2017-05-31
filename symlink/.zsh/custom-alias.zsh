@@ -20,15 +20,14 @@ alias mysql="mysql --pager='less -S -n -i -F -X'"
 #function mysql() { mysql $@ --pager'less -SniFX' }
 
 # docker
-## parent
 alias dck=docker
 alias dckc='docker-compose'
 alias dckm='docker-machine'
-## children
-### docker(dck)
 alias dck-ps='docker ps'
 alias dck-psa='docker ps -a'
 function dck-rma() { docker rm $@ $(docker ps -a -q) }
-### docker-compose(dckc)
 function dckc-u() { docker-compose up $@ }
+
+# Idea
+alias idea="open -a /Applications/IntelliJ\ IDEA.app $@"
 
