@@ -47,3 +47,4 @@ if [ -f ${HOME}/.zshrc.local ]; then
 fi
 
 # exports
+export PGDATA=/usr/local/var/postgres

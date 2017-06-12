@@ -1,27 +1,6 @@
 #!/usr/bin/env bash
 
-DOT_DIR=${HOME}/git/dotfiles
-
-# functions for shell-script
-exists() {
-  command -v "$1" >/dev/null 2>&1
-}
-ask() {
-  printf "$* [y/N] "
-  local answer
-  read answer
-
-  case $answer in
-    "yes" )  return 0 ;;
-    "y"   )  return 0 ;;
-    * )     return 1 ;;
-  esac
-}
-
-
 ### Installation(interactive) ###
-MACOS_DIR=${DOT_DIR}/macos
-
 # watch error && forbid undefined var
 set -eu
 
@@ -74,7 +53,7 @@ if ask 'set mute in mac booting sound?'; then
 fi
 
 if ask 'construct DAMP environment?'; then
-  zsh $MACOS_DIR/forDAMP.sh
+  zsh ${MACOS_DIR}/forDAMP.sh
 fi
 
 # @see https://discussionsjapan.apple.com/thread/10153604

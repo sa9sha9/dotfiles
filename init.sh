@@ -1,21 +1,4 @@
 #!/usr/bin/env bash
-# functions
-exists() {
-    command -v "$1" > /dev/null 2>&1
-}
-ask() {
-  printf "$* [y/N] "
-  local answer
-  read answer
-
-  case $answer in
-    "yes" )  return 0 ;;
-    "y"   )  return 0 ;;
-    * )     return 1 ;;
-  esac
-}
-
-
 # default
 ## gitディレクトリの作成
 if [ ! -d $HOME/git ]; then
@@ -29,24 +12,6 @@ if [ ! -d ${HOME}/git/dotfiles ];then
     git clone https://github.com/sak39/dotfiles.git
 fi
 
-DOT_DIR=${HOME}/git/dotfiles
-
-# Copy ./dotfiles to ${HOME}
-echo $(tput setaf 2)"START: put symlinks to ~/ "$(tput sgr0)
-SYMLINK_DIR=${HOME}/git/dotfiles/symlink
-cd ${SYMLINK_DIR}
-for f in .??*
-do
-    # 無視したいファイルやディレクトリはこんな風に追加してね
-    #    [[ ${f} = ".git" ]] && continue
-    #    [[ ${f} = ".gitignore" ]] && continue
-    [[ ${f} = ".DS_Store" ]] && continue
-
-    # -n: overwrite symlink of directory, -f: overwrite symlink of file
-    ln -snfv ${SYMLINK_DIR}/${f} ${HOME}/${f}
-done
-cd ${DOT_DIR}
-echo $(tput setaf 2)"Deploy dotfiles complete!. ✔"$(tput sgr0)
 
 # git config
 git config --global user.name ${USER}
@@ -58,7 +23,7 @@ git config --global core.excludesfile ${USER}/.gitignore_global
 case ${OSTYPE} in
   darwin*)
     echo $(tput setaf 2)"START: configuration for macOS"$(tput sgr0)
-    CONFIG_MACOS_DIR=${HOME}/git/dotfiles/macos
+    CONFIG_MACOS_DIR=${DOTFILES_DIR}/macos
     bash ${CONFIG_MACOS_DIR}/configuration.sh
     ;;
   *)
