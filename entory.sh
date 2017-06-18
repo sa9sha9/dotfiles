@@ -49,7 +49,7 @@ shift $(($OPTIND - 1))
 
 
 # Execute deployment or initialization depends on WHICH flag
-case $WHICH in
+case ${WHICH} in
 	deploy) export SYMLINK_DIR=${DOTFILES_DIR}/symlink
 			bash deploy.sh
 			;;
