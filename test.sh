@@ -1,3 +1,12 @@
+func() {
+  echo "これが戻り値です。"
+}
+rtn=`func`
+
+echo "戻り値=${rtn}"
+
+
+exit 1
 # functions
 echo <<- 'EOF'
       $(tput setaf 4)
