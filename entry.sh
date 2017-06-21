@@ -3,7 +3,6 @@
 # args
 DOTFILES_DIR=${PWD} # => ~/git/dotfiles
 
-
 # functions for shell-script
 exists() {
   command -v "$1" >/dev/null 2>&1
@@ -37,8 +36,8 @@ get_opt() {
 }
 
 
-export $DOTFILES_DIR
-export -f exits # export function
+export DOTFILES_DIR
+export -f exists # export function
 export -f ask   # export function
 
 

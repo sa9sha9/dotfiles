@@ -30,6 +30,7 @@ zplug "junegunn/fzf-bin", \
 
 # Supports oh-my-zsh plugins and the like
 zplug "plugins/git",   from:oh-my-zsh
+#zplug "plugins/zsh-completions", from:oh-my-zsh
 
 # Also prezto
 #zplug "modules/prompt", from:prezto
@@ -106,3 +107,9 @@ zplug load --verbose
 #if (which zprof > /dev/null 2>&1) ;then
 #  zprof
 #fi
+
+# zsh-completionsの設定
+fpath=(/path/to/homebrew/share/zsh-completions $fpath)
+
+autoload -U compinit
+compinit -u
