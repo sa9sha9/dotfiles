@@ -1,19 +1,19 @@
 # Usage
-`Usage: $0 [-e (deploy/init)]`
+`Usage: ./entry.sh [(deploy/init)]`
 
 ## Deploying
 ```bash
-./entory.sh -e deploy
+./entry.sh deploy
 ```
 
 ## Initialization
 ```bash
-./entory.sh -e init
+./entry.sh init
 ```
 
 ## Both
 ```bash
-./entory.sh
+./entry.sh
 ```
 # Operations
 ## Deploying
