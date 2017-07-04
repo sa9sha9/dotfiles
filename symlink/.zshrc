@@ -108,8 +108,6 @@ zplug load --verbose
 #  zprof
 #fi
 
-# zsh-completionsの設定
-fpath=(/path/to/homebrew/share/zsh-completions $fpath)
-
 autoload -U compinit
-compinit -u
+compinit
+zstyle ':completion:*:default' menu select=1

@@ -1,5 +1,5 @@
 [core]
-	excludesfile = sa9sha9/.gitignore_global
+	excludesfile = /Users/sa9sha9/.gitignore_global
 	editor = emacs
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"

@@ -31,7 +31,7 @@ get_opt() {
         echo $1 #これが戻り値になる
         return 0
     else
-		usage_exit
+        usage_exit
 	fi
 }
 
@@ -43,14 +43,15 @@ export -f ask   # export function
 
 # Execute deployment or initialization depends on WHICH flag
 case $(get_opt $@)  in
-	deploy) echo 'deploy enter'
+	deploy*) echo 'deploy enter'
 			export SYMLINK_DIR=${DOTFILES_DIR}/symlink
 			bash deploy.sh
 			;;
-	init)   echo 'init enter'
+	init*)   echo 'init enter'
 			export MACOS_DIR=${DOTFILES_DIR}/macos
 			bash init.sh
 			;;
+	# todo: １文字以上の文字が入力されている場合はusage_exits(ex. ./entry.sh initializeでもbothが通ってしまう)
 	*)      echo 'all enter'
 			export SYMLINK_DIR=${DOTFILES_DIR}/symlink
 			export MACOS_DIR=${DOTFILES_DIR}/macos

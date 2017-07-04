@@ -1,47 +1,33 @@
 #!/usr/bin/env bash
-# functions
-exists() {
-    command -v "$1" > /dev/null 2>&1
-}
-ask() {
-  printf "$* [Y/n] "
-  local answer
-  read answer
-
-  #todo: Yesをデフォルトにしたいな
-  case $answer in
-    "no" )  return 1 ;;
-    "n"  )  return 1 ;;
-    * )     return 0 ;;
-  esac
-}
-
-CURRENT_DIR=$(pwd)
+# Install docker
+if ! exists docker ; then
+    echo $(tput setaf 6)"ERROR: 'docker' does not exists."$(tput sgr0)
+    exit 1 # back to parent process
+fi
 
 ## public_htmlの作成
 if [[ ! -d ${HOME}/public_html ]]; then
     mkdir -p ${HOME}/public_html
+    echo $(tput setaf 2)"SUCCESS: ~/public_html has created."$(tput sgr0)
 fi
 
+# docker dirを作成
 if [[ ! -d ${HOME}/git/docker ]]; then
     mkdir -p ${HOME}/git/docker
+    echo $(tput setaf 2)"SUCCESS: ~/git/docker has created."$(tput sgr0)
 fi
 
-# Install docker
-if ! exists docker ; then
-    echo $(tput setaf 6)"ERROR: 'docker' does not exists."$(tput sgr0)
-    exit 1
-fi
 
-DOCKER_DIR=${HOME}/git/docker
-cd ${DOCKER_DIR}
+# DOCKER_DIR=${HOME}/git/docker
+pushd docker
 
 # Fetch DAMP
 git clone https://github.com/yousan/damp.git
-DAMP_DIR=${HOME}/git/docker/damp
-cd ${DAMP_DIR}
+# DAMP_DIR=${HOME}/git/docker/damp
+pushd damp
 
 # start DAMP
 docker-compose up -d
 
-cd ${CURRENT_DIR}
+popd
+popd # now on ~/git

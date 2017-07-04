@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 ### Installation(interactive) ###
 # watch error && forbid undefined var
 set -eu
@@ -7,21 +6,6 @@ set -eu
 ## XCode
 if ask 'xcode install?'; then
   xcode-select --install
-fi
-
-## Homebrew
-if ask 'Homebrew install?'; then
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
-  brew doctor
-fi
-
-## Homebrew bundle
-if ask 'execute brew bundle(Brewfile)?'; then
-  brew tap Homebrew/bundle #is this realy necessary? It's must be included in Brewfile
-  pushd ${MACOS_DIR}
-  brew bundle -v # install all related with Homebrew using Brewfile
-  popd
 fi
 
 ### macOS setting @@@
@@ -52,11 +36,34 @@ if ask 'set mute in mac booting sound?'; then
   sudo nvram SystemAudioVolume=%80
 fi
 
-if ask 'construct DAMP environment?'; then
-  zsh ${MACOS_DIR}/forDAMP.sh
-fi
-
 # @see https://discussionsjapan.apple.com/thread/10153604
 #if ask 'set clamshell mode off? (for multi display sleep)'; then
 #  sudo nvram boot-args="niog=1"
 #fi
+
+
+## Homebrew
+if ask 'Homebrew install?'; then
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
+  brew doctor
+fi
+
+# following needs Homebrew
+if ! exists brew; then
+	echo $(tput setaf 4)"ERROR: You should install 'Homebrew' first."$(tput sgr0)
+	exit 1 # back to parent process
+fi
+
+## Homebrew bundle
+if ask 'execute brew bundle(Brewfile)?'; then
+  brew tap Homebrew/bundle #is this realy necessary? It's must be included in Brewfile
+  pushd ${MACOS_DIR}/configs
+  brew bundle -v # install all related with Homebrew using Brewfile
+  popd
+fi
+
+# setting docker-damp
+if ask 'construct DAMP environment?'; then
+  zsh ${MACOS_DIR}/forDAMP.sh
+fi

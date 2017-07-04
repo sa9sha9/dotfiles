@@ -1,3 +1,9 @@
+
+bash test_child.sh
+echo $#
+echo 'parent back'
+exit 1;
+
 func() {
   echo "これが戻り値です。"
 }

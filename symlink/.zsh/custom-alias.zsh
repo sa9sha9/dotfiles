@@ -8,6 +8,7 @@ alias l='ls -lahGFA'
 alias sshaizu='sh ${HOME}/sh/sshaizu'
 alias sftpaizu='sh ${HOME}/sh/sftpaizu'
 alias yafcaizu='sh ${HOME}/sh/yafcaizu'
+alias dirs='dirs -v'
 alias git=hub
 
 # mysql
