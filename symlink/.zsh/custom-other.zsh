@@ -41,10 +41,6 @@ bindkey "^S" history-incremental-search-forward
 # Ctrl+w(行頭まで削除)で､直前の/までを削除する
 WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
 
-# ローカルのセッティングファイルを読み込む
-if [ -f ${HOME}/.zshrc.local ]; then
-    source ${HOME}/.zshrc.local
-fi
-
-# exports
+# postgres
 export PGDATA=/usr/local/var/postgres
+

@@ -8,6 +8,8 @@
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
 	<integer>1</integer>
+	<key>AppleWindowTabbingMode</key>
+	<string>manual</string>
 	<key>CommandSelection</key>
 	<true/>
 	<key>Default Bookmark Guid</key>
@@ -32,12 +34,16 @@
 	<false/>
 	<key>HideTabNumber</key>
 	<false/>
+	<key>HotkeyMigratedFromSingleToMulti</key>
+	<true/>
 	<key>JobName</key>
 	<true/>
 	<key>LeftOption</key>
 	<integer>2</integer>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
+	<key>NSFontPanelAttributes</key>
+	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/git/dotfiles/configs/iTerm2</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -74,19 +80,19 @@
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>929 110 445 237 0 0 1440 877 </string>
+	<string>810 241 445 497 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>589 563 400 129 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>385 363 620 392 0 0 1440 877 </string>
+	<string>408 363 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 139 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>278 125 796 473 0 0 1440 877 </string>
+	<string>345 93 918 495 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2 19 650 858 0 0 1440 877 </string>
+	<string>1 17 650 860 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>176 36 570 473 0 0 1440 877 </string>
+	<string>176 0 650 860 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -710,7 +716,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>3196360A-5C97-4C87-82B0-78C75E5F342A</string>
 	<key>NoSyncLastTipTime</key>
-	<real>515459909.163836</real>
+	<real>528895749.36972302</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -769,11 +775,38 @@
 		<string>0044</string>
 		<string>0045</string>
 		<string>0046</string>
+		<string>0047</string>
+		<string>0048</string>
+		<string>0049</string>
+		<string>0050</string>
+		<string>0051</string>
+		<string>0052</string>
+		<string>0053</string>
+		<string>0054</string>
+		<string>0055</string>
+		<string>0056</string>
+		<string>0057</string>
+		<string>0058</string>
+		<string>0059</string>
+		<string>0060</string>
+		<string>0061</string>
+		<string>0062</string>
+		<string>0063</string>
+		<string>0064</string>
+		<string>0065</string>
+		<string>0066</string>
+		<string>0067</string>
+		<string>0068</string>
+		<string>0069</string>
+		<string>0070</string>
+		<string>0071</string>
 	</array>
 	<key>OpenArrangementAtStartup</key>
 	<false/>
 	<key>OpenNoWindowsAtStartup</key>
 	<false/>
+	<key>PasteTabToStringTabStopSize</key>
+	<integer>4</integer>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -818,13 +851,13 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-05-02T00:39:50Z</date>
+	<date>2017-10-28T06:13:21Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
-	<false/>
+	<true/>
 	<key>TabStyle</key>
 	<integer>2</integer>
 	<key>TabViewType</key>
@@ -840,6 +873,6 @@
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>iTerm Version</key>
-	<string>3.0.15</string>
+	<string>3.1.3</string>
 </dict>
 </plist>

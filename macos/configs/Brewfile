@@ -55,6 +55,7 @@ brew "gpg-agent"
 brew "gnupg"
 brew "gnutls"
 brew "gperftools"
+brew "handbrake"
 brew "heroku"
 brew "htop"
 brew "hub"
@@ -118,6 +119,7 @@ brew "homebrew/php/phpunit"
 brew "homebrew/php/wp-cli"
 brew "joelpurra/joelpurra/gitslave", args: ["devel"]
 brew "rcmdnk/file/brew-file"
+cask "android-studio"
 cask "arduino"
 cask "avast"
 cask "brackets"
@@ -134,8 +136,8 @@ cask "hyperswitch"
 cask "inkscape"
 cask "intellij-idea"
 cask "iterm2"
+cask "jetbrains-toolbox"
 cask "karabiner-elements"
-cask "kindle"
 cask "mysqlworkbench"
 cask "openoffice"
 cask "processing"
@@ -144,7 +146,6 @@ cask "sketch"
 cask "sourcetree"
 cask "spectacle"
 cask "spotify"
-cask "taskexplorer"
 cask "teamspeak-client"
 cask "teamviewer"
 cask "tunnelbear"
@@ -161,9 +162,7 @@ mas "Evernote", id: 406056744
 mas "Fotor Photo Editor", id: 503039729
 mas "GarageBand", id: 682658836
 mas "GIPHY CAPTURE", id: 668208984
-mas "Hash", id: 945689735
 mas "iMovie", id: 408981434
-mas "Integrity", id: 513610341
 mas "Keynote", id: 409183694
 mas "LanScan", id: 472226235
 mas "LINE", id: 539883307
@@ -173,6 +172,5 @@ mas "Simplenote", id: 692867256
 mas "Skitch", id: 425955336
 mas "The Unarchiver", id: 425424353
 mas "Todoist", id: 585829637
-mas "VOX", id: 461369673
 mas "WordService", id: 899972312
 mas "Xcode", id: 497799835

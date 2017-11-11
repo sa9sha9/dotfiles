@@ -1,9 +1,11 @@
+#fpath=(/usr/local/share/zsh-completions $fpath)
+
 source ~/.zplug/init.zsh
 
 ## The other plugins if you needed
 #zplug "sorin-ionescu/prezto", from:github
-#zplug 'themes/steeef', as:theme, from:oh-my-zsh, on:"sorin-ionescu/prezto"
 
+# oh-my-zh
 zplug "robbyrussell/oh-my-zsh", from:github
 zplug 'themes/steeef', as:theme, from:oh-my-zsh, on:"robbyrussell/oh-my-zsh"
 
@@ -30,7 +32,7 @@ zplug "junegunn/fzf-bin", \
 
 # Supports oh-my-zsh plugins and the like
 zplug "plugins/git",   from:oh-my-zsh
-#zplug "plugins/zsh-completions", from:oh-my-zsh
+zplug "plugins/zsh-completions", from:oh-my-zsh
 
 # Also prezto
 #zplug "modules/prompt", from:prezto
@@ -108,6 +110,4 @@ zplug load --verbose
 #  zprof
 #fi
 
-autoload -U compinit
-compinit
-zstyle ':completion:*:default' menu select=1
+

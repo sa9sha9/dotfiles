@@ -51,7 +51,6 @@ case $(get_opt $@)  in
 			export MACOS_DIR=${DOTFILES_DIR}/macos
 			bash init.sh
 			;;
-	# todo: １文字以上の文字が入力されている場合はusage_exits(ex. ./entry.sh initializeでもbothが通ってしまう)
 	*)      echo 'all enter'
 			export SYMLINK_DIR=${DOTFILES_DIR}/symlink
 			export MACOS_DIR=${DOTFILES_DIR}/macos
