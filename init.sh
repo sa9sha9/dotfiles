@@ -96,21 +96,22 @@ ask_framework() {
 #fi
 
 # Install Oh-my-zsh
-echo $(tput setaf 2)"START: Install 'oh-my-zsh'"$(tput sgr0)
-if [[ -d ${HOME}/.oh-my-zsh ]]; then
-    # If ohmyzsh already installed, remove .oh-my-zsh directory first
-	echo $(tput setaf 6)"Removing .oh-my-zsh..."$(tput sgr0)
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-    ln -snfv ${SYMLINK_DIR}/.zshrc.ohmyzsh ${HOME}/.zshrc
-	# zsh-sytax-hightlightingの設定
-    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
-else
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-    ln -snfv ${SYMLINK_DIR}/.zshrc.ohmyzsh ${HOME}/.zshrc
-    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
+if ask "Install oh-my-zsh?"; then
+	echo $(tput setaf 2)"START: Install 'oh-my-zsh'"$(tput sgr0)
+	if [[ -d ${HOME}/.oh-my-zsh ]]; then
+	    # If ohmyzsh already installed, remove .oh-my-zsh directory first
+		echo $(tput setaf 6)"Removing .oh-my-zsh..."$(tput sgr0)
+	    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+	    ln -snfv ${SYMLINK_DIR}/.zshrc.ohmyzsh ${HOME}/.zshrc
+		# zsh-sytax-hightlightingの設定
+	    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
+	else
+	    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+	    ln -snfv ${SYMLINK_DIR}/.zshrc.ohmyzsh ${HOME}/.zshrc
+	    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
+	fi
+	echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
 fi
-echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
-
 
 # SSH key
 if ask "Do you want to create ssh key pair?"; then

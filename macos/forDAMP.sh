@@ -2,7 +2,7 @@
 # Install docker
 if ! exists docker ; then
     echo $(tput setaf 6)"ERROR: 'docker' does not exists."$(tput sgr0)
-    exit 1 # back to parent process
+    brew install docker
 fi
 
 ## public_htmlの作成
@@ -27,6 +27,11 @@ git clone https://github.com/yousan/damp.git
 pushd damp
 
 # start DAMP
+if ! exists docker-compose ; then
+    echo $(tput setaf 6)"ERROR: 'docker-compose' does not exists."$(tput sgr0)
+    brew install docker-compose
+fi
+
 docker-compose up -d
 
 popd

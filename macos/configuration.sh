@@ -51,6 +51,6 @@ if ask 'Homebrew install?'; then
 fi
 
 ## Docker
-if ask 'construct DAMP environment?'; then
+if ask 'make DAMP environment?'; then
   zsh ${MACOS_DIR}/forDAMP.sh
 fi
