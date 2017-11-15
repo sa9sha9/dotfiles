@@ -44,7 +44,7 @@ if ask "set default shell with '/usr/local/bin/zsh' ?"; then
     echo $(tput setaf 1)"DEBUG: ${BREW_ZSH_LOCATION}"$(tput sgr0) #@@
     if [ ${BREW_ZSH_LOCATION} != "/usr/local/bin/zsh" ]; then
         echo $(tput setaf 4)"ERROR: brew-zsh does not installed!!"$(tput sgr0)
-        exit 1
+        brew install zsh
     fi
 
     sudo sh -c "echo ${BREW_ZSH_LOCATION} >> /etc/shells"
@@ -61,11 +61,8 @@ fi
 # normal-zsh are installed?
 if  ! exists zsh ; then
     echo $(tput setaf 4)"ERROR: 'zsh' doesn't installed!!"$(tput sgr0)
-    exit 1
-else
-	zsh # execute zsh
+    brew install zsh
 fi
-
 
 # ohmyzsh? prezto?
 ask_framework() {
@@ -80,38 +77,39 @@ ask_framework() {
   esac
 }
 
-if ask_framework "Which is install? Oh-my-zsh or Prezto+zplug?"; then
-	# Install prezto
-	if [[ ! -d ${HOME}/.zprezto ]]; then
-	    echo $(tput setaf 2)"START: Install 'zprezto'"$(tput sgr0)
-	    git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
-	    echo $(tput setaf 2)"'zprezto' installation complete. ✔"$(tput sgr0)
-	else
-	    echo $(tput setaf 6)"WARNING: 'zprezto' is already installed."$(tput sgr0)
-	fi
+## Install prezto
+#if [[ ! -d ${HOME}/.zprezto ]]; then
+#    echo $(tput setaf 2)"START: Install 'zprezto'"$(tput sgr0)
+#    git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+#    echo $(tput setaf 2)"'zprezto' installation complete. ✔"$(tput sgr0)
+#else
+#    echo $(tput setaf 6)"WARNING: 'zprezto' is already installed."$(tput sgr0)
+#fi
 
-	# Install zplug
-	if [[ ! -d ${HOME}/.zplug ]]; then
-	    echo $(tput setaf 2)"START: Install 'zplug'"$(tput sgr0)
-	    curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh| zsh
-	    echo $(tput setaf 2)"'zplug' installation complete. ✔"$(tput sgr0)
-	else
-	    echo $(tput setaf 6)"WARNING: 'zplug' is already installed."$(tput sgr0)
-	fi
+## Install zplug
+#if [[ ! -d ${HOME}/.zplug ]]; then
+#    echo $(tput setaf 2)"START: Install 'zplug'"$(tput sgr0)
+#  curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh| zsh
+#    echo $(tput setaf 2)"'zplug' installation complete. ✔"$(tput sgr0)
+#else
+#    echo $(tput setaf 6)"WARNING: 'zplug' is already installed."$(tput sgr0)
+#fi
+
+# Install Oh-my-zsh
+echo $(tput setaf 2)"START: Install 'oh-my-zsh'"$(tput sgr0)
+if [[ -d ${HOME}/.oh-my-zsh ]]; then
+    # If ohmyzsh already installed, remove .oh-my-zsh directory first
+	echo $(tput setaf 6)"Removing .oh-my-zsh..."$(tput sgr0)
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    ln -snfv ${SYMLINK_DIR}/.zshrc.ohmyzsh ${HOME}/.zshrc
+	# zsh-sytax-hightlightingの設定
+    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
 else
-	# install Oh-my-zsh
-	if [[ ! -d ${HOME}/.oh-my-zsh ]]; then
-	    echo $(tput setaf 2)"START: Install 'oh-my-zsh'"$(tput sgr0)
-	    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-	    mv ${HOME}/.zshrc ${HOME}/.zshrc.zplug  # シムリンク元(.zshrc)は刺し続ける
-	    mv ${HOME}/.zshrc.ohmyzsh ${HOME}/.zshrc
-		# zsh-sytax-hightlightingの設定
-	    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
-	    echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
-	else
-	    echo $(tput setaf 6)"WARNING: 'oh-my-zsh' is already installed."$(tput sgr0)
-	fi
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    ln -snfv ${SYMLINK_DIR}/.zshrc.ohmyzsh ${HOME}/.zshrc
+    git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
 fi
+echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
 
 
 # SSH key
