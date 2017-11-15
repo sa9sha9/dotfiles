@@ -47,10 +47,10 @@ if ask 'Homebrew install?'; then
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
   brew doctor
-  bash forHomebrew.sh
+  bash ${MACOS_DIR}/forHomebrew.sh
 fi
 
 ## Docker
 if ask 'make DAMP environment?'; then
-  zsh ${MACOS_DIR}/forDAMP.sh
+  bash ${MACOS_DIR}/forDAMP.sh
 fi

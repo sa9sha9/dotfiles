@@ -18,13 +18,13 @@ if [[ ! -d ${HOME}/git/docker ]]; then
 fi
 
 
-# DOCKER_DIR=${HOME}/git/docker
-pushd docker
+DOCKER_DIR=${HOME}/git/docker
+pushd ${DOCKER_DIR}
 
 # Fetch DAMP
 git clone https://github.com/yousan/damp.git
-# DAMP_DIR=${HOME}/git/docker/damp
-pushd damp
+DAMP_DIR=${DOCKER_DIR}/damp
+pushd ${DAMP_DIR}
 
 # start DAMP
 if ! exists docker-compose ; then
@@ -35,4 +35,4 @@ fi
 docker-compose up -d
 
 popd
-popd # now on ~/git
+popd # now on ~/git/dotfiles/macos

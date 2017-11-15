@@ -17,11 +17,12 @@ fi
 git config --global user.name ${USER}
 git config --global user.email ${USER}@gmail.com #todo
 git config --global push.default current
+git config --global core.excludesfile ${HOME}/.gitignore_global
 ## sourcetreeがインストールされている場合のみ
 if [ -d /Applications/SourceTree.app ]; then
 	git config --global commit.template ${HOME}/.stCommitMsg
 fi
-git config --global core.excludesfile ${HOME}/.gitignore_global
+
 
 # Configuration for MacOS
 case ${OSTYPE} in
@@ -38,6 +39,12 @@ echo $(tput setaf 2)"Configuration complete. ✔"$(tput sgr0)
 
 
 ## following needs ZSH
+if  ! exists zsh ; then
+    echo $(tput setaf 4)"ERROR: 'zsh' doesn't installed!!"$(tput sgr0)
+    brew install zsh
+fi
+
+# set zsh as default shell
 if ask "set default shell with '/usr/local/bin/zsh' ?"; then
     echo $(tput setaf 2)"START: chsh -s /usr/local/bin/zsh"$(tput sgr0)
     BREW_ZSH_LOCATION=$(which zsh)
@@ -58,11 +65,6 @@ if ask "set default shell with '/usr/local/bin/zsh' ?"; then
     fi
 fi
 
-# normal-zsh are installed?
-if  ! exists zsh ; then
-    echo $(tput setaf 4)"ERROR: 'zsh' doesn't installed!!"$(tput sgr0)
-    brew install zsh
-fi
 
 # ohmyzsh? prezto?
 ask_framework() {

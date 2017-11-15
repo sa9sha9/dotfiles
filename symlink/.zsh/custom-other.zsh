@@ -7,6 +7,8 @@ export LSCOLORS=Gxfxcxdxbxegedabagacad
 # exports
 ## sh
 export PATH="${HOME}/sh:${PATH}"
+## brew sbin
+export PATH="/usr/local/sbin:$PATH"
 
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}
