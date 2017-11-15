@@ -37,6 +37,8 @@ get_opt() {
 
 
 export DOTFILES_DIR
+export SYMLINK_DIR=${DOTFILES_DIR}/symlink
+export MACOS_DIR=${DOTFILES_DIR}/macos
 export -f exists # export function
 export -f ask   # export function
 
@@ -44,16 +46,12 @@ export -f ask   # export function
 # Execute deployment or initialization depends on WHICH flag
 case $(get_opt $@)  in
 	deploy*) echo 'deploy enter'
-			export SYMLINK_DIR=${DOTFILES_DIR}/symlink
 			bash deploy.sh
 			;;
 	init*)   echo 'init enter'
-			export MACOS_DIR=${DOTFILES_DIR}/macos
 			bash init.sh
 			;;
 	*)      echo 'all enter'
-			export SYMLINK_DIR=${DOTFILES_DIR}/symlink
-			export MACOS_DIR=${DOTFILES_DIR}/macos
 			bash deploy.sh
 			bash init.sh
 			;;
