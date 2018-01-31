@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_MENU>
+  <res resid="#138">
+   <item itemid="Popup_1"/>
+   <item itemid="40005">
+    <xmbtext>复制</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40001">
+    <xmbtext>在 Picasa 中修改</xmbtext>
+   </item>
+   <item itemid="40002">
+    <xmbtext>打印</xmbtext>
+   </item>
+   <item itemid="40003">
+    <xmbtext>电子邮件</xmbtext>
+   </item>
+   <item itemid="40004">
+    <xmbtext>博客</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40417">
+    <xmbtext>快速上传</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40089">
+    <xmbtext>在磁盘中查找</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40418">
+    <xmbtext>显示图片说明</xmbtext>
+   </item>
+   <item itemid="-1"/>
+  </res>
+ </RT_MENU>
+</Win32Res>

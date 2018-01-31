@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_DIALOG>
+  <res resid="#601">
+   <dtitle>
+    <xmbtext>May Makukuhang ISang Picasa Update</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 275 90)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(7 43 134 59)">
+    <xmbtext>Oo, Mag-download na Ngayon</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(141 43 268 59)">
+    <xmbtext>Hindi, I-download Mamaya</xmbtext>
+   </item>
+   <item itemid="1020" itemtype="Static" layout="rect(35 11 268 35)">
+    <xmbtext>May magagamit na isang libreng update sa Picasa.  \nGusto mo bang i-download na ngayon ang bagong bersyon?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(6 10 26 30)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 69 268 85)">
+    <xmbtext>Paunawa: Kailangan ay mayroon kang mga karapatang administrative sa computer na ito upang mag-install ng update.</xmbtext>
+   </item>
+  </res>
+  <res resid="#602">
+   <dtitle>
+    <xmbtext>Handa na ang pag-update ng Picasa</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Oo, i-update na ngayon</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Mamaya na, pakiusap</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Handa nang mag-install ang Picasa ng isang update.\nIsara na ngayon ang Picasa at buksan ulit upang ma-install ang update ngayon?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+  <res resid="#603">
+   <dtitle>
+    <xmbtext>Handa na ang pag-update ng Picasa</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>I-update na ngayon</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Magtanong mamaya</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Ang Picasa ay handa nang mag-install ng isang update.\nMaaari kang ipa-log in bilang isang administrator.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+ </RT_DIALOG>
+</Win32Res>

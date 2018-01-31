@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Tämä sovellus lataa Picasan uusimmat versiot ja osat.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Tätä sovellusta ei tulisi avata suoraan</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Vahvistus ei onnistu</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Yhteyttä ei voida muodostaa</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Tämä sovellus on päivitetty</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Yhdistetään Googlen palvelimiin</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Muodostetaan yhteyttä...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Picasan päivitys käynnissä </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Ladataan Picasan päivitystä...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Tarvitset toimivan internet-yhteyden, jotta voisit suorittaa tämän toiminnon. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Uusimman version saatavuutta ei voida tarkistaa Googlen palvelimelta.\n\nYritä hetken kuluttua uudelleen.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Ei voida ladata paikasta %1$s paikkaan %2$s (%3$x). Tarkista internetyhteytesi ja yritä uudelleen.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Picasan uusi versio on jo ladattu.\nUusi versio asennetaan automaattisesti, kun Picasa käynnistetään seuraavan kerran.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Virhe %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Virhe %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Virhe</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Tiedosto on aito</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Tiedosto EI ole aito</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d%% valmiina, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>%1$02d:%2$02d:%3$02ds jäljellä</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>%1$02d:%2$02d jäljellä.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Picasan nykyinen versio ei ole ajan tasalla. Kaikki verkkotoiminnot eivät välttämättä toimi oikein. Haluatko päivittää nyt?</xmbtext>
+ </stringres>
+</resources>

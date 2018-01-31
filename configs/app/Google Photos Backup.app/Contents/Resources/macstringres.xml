@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_LAST_ALBUM_NOTIFY">
+  <xmbtext>You are on the last folder</xmbtext>
+ </stringres>
+ <stringres id="IDS_FIRST_ALBUM_NOTIFY">
+  <xmbtext>You are on the first folder</xmbtext>
+ </stringres>
+ <stringres id="IDS_NO_TARGET_ERR">
+  <xmbtext>Must specify target file to apply to each exported file (%d) (line %d of %s, (%s))</xmbtext>
+ </stringres>
+ <stringres id="IDS_COPY_MSG">
+  <xmbtext>Copying items from %s\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_UNKNOWN_CMD">
+  <xmbtext>Unknown command: %s (%%d) (line %%d of %%s, (%%s))</xmbtext>
+ </stringres>
+ <stringres id="IDS_STD_EXPORT_ERR">
+  <xmbtext>Error %d at line %d of %s, processing\n%s</xmbtext>
+ </stringres>
+ <stringres id="IDS_ALBUM_INDEX_ERR">
+  <xmbtext>Error (%d) getting album indices</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Picasa was unable to authenticate the file you downloaded.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Unable to download from %s to %s (%x). Check your Internet connection and try again.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DB_SAVED">
+  <xmbtext>Database Saved</xmbtext>
+ </stringres>
+ <stringres id="IDS_PERSIST_ERR">
+  <xmbtext>Error persisting: %d</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEED_SELECTED_ALBUM">
+  <xmbtext>A Folder or Album must be selected to do this.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INVALID_IMAGE">
+  <xmbtext>An invalid image was detected.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MUST_SELECT_TO_ROT">
+  <xmbtext>Must have selected images to rotate.</xmbtext>
+ </stringres>
+ <stringres id="IDS_ONLY_FOR_SINGLES">
+  <xmbtext>This feature only works for single images (UI note: hide the button from here)</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANT_CREATE_DIR">
+  <xmbtext>Couldn&#039;t create a directory for your images</xmbtext>
+ </stringres>
+ <stringres id="IDS_NO_IMAGES_TO_SEND">
+  <xmbtext>No images were available to send.</xmbtext>
+ </stringres>
+ <stringres id="IDS_READING_IMAGES">
+  <xmbtext>Reading %d images.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DRIVE_AVAILABLE">
+  <xmbtext>Drive %s is now available.\nSize %s\nUsed %s\n\nContinue monitoring?</xmbtext>
+ </stringres>
+ <stringres id="IDS_BADMOVIEPROMPT">
+  <xmbtext>Picasa was unable to read a movie file correctly.\nMovie support has been disabled to prevent further problems.\nWould you like to show the movie in Finder?</xmbtext>
+ </stringres>
+ <stringres id="IDS_STATUS_WAITING">
+  <xmbtext>waiting for reply</xmbtext>
+ </stringres>
+ <stringres id="IDS_STATUS_CHECKING">
+  <xmbtext>checking for drives</xmbtext>
+ </stringres>
+ <stringres id="IDS_UNLOADING_CAMERA">
+  <xmbtext>Unloading your camera</xmbtext>
+ </stringres>
+ <stringres id="IDS_AVAILABLE_ACQUIRE_PROMPT">
+  <xmbtext>Drive %s is now available.\nSize %s\nUsed %s\n\nWould you like to acquire images from this drive?</xmbtext>
+ </stringres>
+ <stringres id="IDS_ACQUIRING_FILES">
+  <xmbtext>Acquiring %d of %d files</xmbtext>
+ </stringres>
+ <stringres id="IDS_ACQUIRED_FILES">
+  <xmbtext>Acquired %d files</xmbtext>
+ </stringres>
+ <stringres id="IDS_ACQUIRE_WINDOW_TITLE">
+  <xmbtext>Media Detector</xmbtext>
+ </stringres>
+ <stringres id="IDS_DB_DELETE_WARNING">
+  <xmbtext>You have started the application with a special\nkey combination that will\nERASE YOUR ENTIRE DATABASE\nAre you ABSOLUTELY SURE you want to do this?</xmbtext>
+ </stringres>
+ <stringres id="IDS_ROT_FAILED">
+  <xmbtext>%d of your images could not be rotated.\nThis can happen when the files are read-only.</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEED_ALBUM_TO_EXPORT">
+  <xmbtext>You must select a Folder or Album to export</xmbtext>
+ </stringres>
+ <stringres id="IDS_SELECT_EXPORT_FOLDER">
+  <xmbtext>Select Folder to Export to</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_ERROR">
+  <xmbtext>Error %d exporting</xmbtext>
+ </stringres>
+ <stringres id="IDS_MUST_SELECT">
+  <xmbtext>You must have images in the Picture Tray to do this.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MUST_INSTALL_PRINTER">
+  <xmbtext>A printer must be installed in order to print.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_NO_ATTACHMENT">
+  <xmbtext>Attachment was not found</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_CANT_OPEN_ATTACHMENT">
+  <xmbtext>Could not open an attachment.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_TOO_MANY_ATTACHMENTS">
+  <xmbtext>Too many file attachments to send.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_UNKNOWN_RECIPIENT">
+  <xmbtext>Unknown recipient.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_FAILURE">
+  <xmbtext>The email could not be sent.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_SUBJ_MULTI">
+  <xmbtext>%d pictures for you</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_SUBJ_SINGLE">
+  <xmbtext>a picture for you</xmbtext>
+ </stringres>
+ <stringres id="IDS_OPEN_SELECTION_CONFIRM">
+  <xmbtext>This will open %d images. You sure you want to do this?</xmbtext>
+ </stringres>
+ <stringres id="IDS_OPEN_FOLDER_CONFIRM">
+  <xmbtext>This will open %d folders. You sure you want to do this?</xmbtext>
+ </stringres>
+ <stringres id="IDS_INFO_PIXELS">
+  <xmbtext>\n%d x %d pixels\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_INFO_BYTES">
+  <xmbtext>%d bytes on disk\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_INFO_CREATED">
+  <xmbtext>Created on %s\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION">
+  <xmbtext>Version 3.0.0</xmbtext>
+ </stringres>
+ <stringres id="IDS_MIN_RES_MSG">
+  <xmbtext>This application requires at least an 800x600 screen resolution with 16 bit color.\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_MMX_MSG">
+  <xmbtext>This application requires an MMX-capable processor.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DB_NOT_AVAILABLE">
+  <xmbtext>The database is not available.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_OUTPUT_PROGRESS_MSG">
+  <xmbtext>Exporting pictures</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEB_IMAGE_OUTPUT_PROGRESS_MSG">
+  <xmbtext>Writing image</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEB_THUMBNAIL_OUTPUT_PROGRESS_MSG">
+  <xmbtext>Writing thumbnail</xmbtext>
+ </stringres>
+ <stringres id="IDS_ACQUIRE_FINISH">
+  <xmbtext>Finishing...</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEB_IMAGE_LOOP_MSG">
+  <xmbtext>Building image HTML</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEB_TARGET_LOOP_MSG">
+  <xmbtext>Exporting target</xmbtext>
+ </stringres>
+ <stringres id="IDS_PRINT_PREP_MSG">
+  <xmbtext>Preparing to print</xmbtext>
+ </stringres>
+ <stringres id="IDS_COPIES">
+  <xmbtext>%d copies</xmbtext>
+ </stringres>
+ <stringres id="IDS_SELECT_FOLDER_ADD">
+  <xmbtext>Select a folder to add</xmbtext>
+ </stringres>
+ <stringres id="IDS_GENERAL_PREFS">
+  <xmbtext>General</xmbtext>
+ </stringres>
+ <stringres id="IDS_OPTIONS">
+  <xmbtext>Options</xmbtext>
+ </stringres>
+ <stringres id="IDS_FILTERS">
+  <xmbtext>Filters</xmbtext>
+ </stringres>
+ <stringres id="IDS_SELECT_FILE_ADD">
+  <xmbtext>Select a file to add</xmbtext>
+ </stringres>
+ <stringres id="IDS_OVERVIEW">
+  <xmbtext>Overview</xmbtext>
+ </stringres>
+ <stringres id="IDS_REFRESH_PROMPT">
+  <xmbtext>Refresh &quot;%s&quot; now</xmbtext>
+ </stringres>
+ <stringres id="IDS_DISABLED_REFRESH_PROMPT">
+  <xmbtext>Select a Folder</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEBTOPLEVEL">
+  <xmbtext>Export as HTML Page</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICK_PROMPT">
+  <xmbtext>Select a Web Page Template</xmbtext>
+ </stringres>
+ <stringres id="IDS_ACQUIREFILENAME">
+  <xmbtext>GoogleMediaDetector</xmbtext>
+ </stringres>
+ <stringres id="IDS_MYPICTURES">
+  <xmbtext>My Pictures</xmbtext>
+ </stringres>
+ <stringres id="IDS_PATH">
+  <xmbtext>Path</xmbtext>
+ </stringres>
+ <stringres id="IDS_REFRESH">
+  <xmbtext>Refresh &quot;%s&quot; now</xmbtext>
+ </stringres>
+ <stringres id="IDS_IMAGE_COUNT">
+  <xmbtext> (%d images)</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEBCOMMANDPROGRESS">
+  <xmbtext>Executing commands...</xmbtext>
+ </stringres>
+ <stringres id="IDS_BAD_PATH">
+  <xmbtext>Bad path, removing.</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPDATING">
+  <xmbtext>Updating...</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXCLUDE_PROG">
+  <xmbtext>Excluding...</xmbtext>
+ </stringres>
+ <stringres id="IDS_ADD_NEW_COLLECTION">
+  <xmbtext>Add New Collection</xmbtext>
+ </stringres>
+ <stringres id="IDS_RENAME_COLLECTION">
+  <xmbtext>Rename Collection</xmbtext>
+ </stringres>
+ <stringres id="IDS_PRINTING_PREFS">
+  <xmbtext>Printing Prefs</xmbtext>
+ </stringres>
+ <stringres id="IDS_TEMPLATE_NAME">
+  <xmbtext>Template Name</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFAULTCAT">
+  <xmbtext>Other Stuff</xmbtext>
+ </stringres>
+ <stringres id="IDS_HOTFOLDER_CONFIRM">
+  <xmbtext>If you remove a watched folder, new items that you add to that folder on disk will not be automatically added to Picasa. Are you sure you want to do this?</xmbtext>
+ </stringres>
+ <stringres id="IDS_HOTFOLDER_CONFIRM_TITLE">
+  <xmbtext>Confirm Remove Watched Folder</xmbtext>
+ </stringres>
+ <stringres id="IDS_GOODCAT">
+  <xmbtext>My Albums</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEW_COLLECTION_DEFAULT">
+  <xmbtext>&lt;Enter Name Here&gt;</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEW_COLLECTION_PROMPT">
+  <xmbtext>Enter Collection Name:</xmbtext>
+ </stringres>
+ <stringres id="IDS_BAD_COLLECTION_NAME">
+  <xmbtext>&quot;%s&quot; is not a valid collection name</xmbtext>
+ </stringres>
+ <stringres id="IDS_COLLECTION_EXISTS">
+  <xmbtext>You already have a collection named &quot;%s.&quot;</xmbtext>
+ </stringres>
+ <stringres id="IDS_RENAME_COLLECTION_PROMPT">
+  <xmbtext>Enter the new name of the collection:</xmbtext>
+ </stringres>
+ <stringres id="IDS_REMOVE_COLLECTION_CONFIRM_MSG">
+  <xmbtext>Are you sure you want to remove the collection &quot;%s&quot;? All folders in it will be moved to the collection &quot;%s&quot;.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANT_REMOVE_DEFAULT_COLLECTION">
+  <xmbtext>&quot;%s&quot; is the default collection and cannot be removed.</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEW_COLLECTION">
+  <xmbtext>New Collection...</xmbtext>
+ </stringres>
+ <stringres id="IDS_SETTING_UP_WATCHED">
+  <xmbtext>Setting Up Watched Folders</xmbtext>
+ </stringres>
+ <stringres id="IDS_SETTING_UP_WATCHED_SUB">
+  <xmbtext>Select Folders to Keep Automatically Up-to-Date</xmbtext>
+ </stringres>
+ <stringres id="IDS_GEEK_HEADER">
+  <xmbtext>Include Other Folders You want</xmbtext>
+ </stringres>
+ <stringres id="IDS_GEEK_HEADER_SUB">
+  <xmbtext>And Exclude Folders You Don&#039;t Want</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_EXPORT_OVERWRITE">
+  <xmbtext>&quot;%s&quot; already exists.\nAre you sure you want to overwrite it?</xmbtext>
+ </stringres>
+ <stringres id="IDS_IMAGE_EXPORT_MSG">
+  <xmbtext>Exporting Image</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORTED_CATEGORY">
+  <xmbtext>Exported Pictures</xmbtext>
+ </stringres>
+ <stringres id="IDS_ABOUT1">
+  <xmbtext>Picasa %s for Windows(r) 2000, Windows(r) XP, Windows(r) Vista.\n\nCopyright (c) 2003-2008 Google, Inc. All rights reserved.  Picasa and Picasa Web Albums are trademarks of Google, Inc. All other product, service names, brands, or trademarks are the property of their respective owners.\n\nThis software is based in part on the work of the Independent JPEG Group.  This program is protected by U.S. and international copyright law. </xmbtext>
+ </stringres>
+ <stringres id="IDS_BUILDNUMBER">
+  <xmbtext> (Build %1.2f, %s)</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORTED_ALBUM">
+  <xmbtext>%s (exported %s)</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_CANCELLED">
+  <xmbtext>Export Cancelled</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_LOGINCOOKIES">
+  <xmbtext>Your cookie privacy settings are too strict to log in to Gmail</xmbtext>
+ </stringres>
+ <stringres id="IDS_MUST_ENTER_TITLE">
+  <xmbtext>An album title is required.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_UNDO_RETOUCH">
+  <xmbtext>Retouch fixes cannot be recovered with redo.\r\nAre you sure you want to undo?</xmbtext>
+ </stringres>
+ <stringres id="IDS_ABOUT_LINUX">
+  <xmbtext>Picasa %s for Linux.\n\nCopyright (c) 2003-2008 Google, Inc. All rights reserved.  Picasa and Picasa Web Albums are trademarks of Google, Inc. All other product, service names, brands, or trademarks are the property of their respective owners.\n\nThis software is based in part on the work of the Independent JPEG Group.  This program is protected by U.S. and international copyright law. </xmbtext>
+ </stringres>
+ <stringres id="IDS_PROJECTS">
+  <xmbtext>Projects</xmbtext>
+ </stringres>
+ <stringres id="IDS_BUILDNUMBER_LINUX">
+  <xmbtext> (Build %1.4f, %s)</xmbtext>
+ </stringres>
+ <stringres id="IDS_STOPWATCH">
+  <xmbtext>Stop Watching</xmbtext>
+ </stringres>
+ <stringres id="IDS_SCAN_ONCE">
+  <xmbtext>Scan Once</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAKE_WATCH">
+  <xmbtext>Watch the folder &quot;%s&quot;?</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAILCLIENTBUTTON">
+  <xmbtext>Send via </xmbtext>
+ </stringres>
+ <stringres id="IDS_SPECIFYING_FOLDERS">
+  <xmbtext>Specifying Folders</xmbtext>
+ </stringres>
+ <stringres id="IDS_INCLUDING_SMALL">
+  <xmbtext>Including Small Pictures</xmbtext>
+ </stringres>
+ <stringres id="IDS_CLOSING_LAST_COLLECTION_MSG">
+  <xmbtext>You are about to close your last collection. No pictures will be shown in the thumbnail area. Do you want to continue?\n\nTo open a collection, double-click its name or click the icon next to it.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CLOSING_LAST_COLLECTION_TITLE">
+  <xmbtext>Close Last Collection?</xmbtext>
+ </stringres>
+ <stringres id="IDS_CLOSE_LAST_CHECK">
+  <xmbtext>Do not ask me again.</xmbtext>
+ </stringres>
+ <stringres id="IDS_ALREADY_REGISTERED">
+  <xmbtext>You appear to be already registered as &quot;%s&quot;. Do you want to re-register?</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFAULT_EXPORT">
+  <xmbtext>Picasa Export</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANTOVERWRITE">
+  <xmbtext>The directory &quot;%s&quot; already exists.\nYour export will be saved to &quot;%s&quot; instead.\n\nIf you still want to save in &quot;%s&quot; you must cancel the wizard and manually remove that directory.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_PREFS">
+  <xmbtext>E-Mail</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAILCLIENTRADIO">
+  <xmbtext>Use </xmbtext>
+ </stringres>
+ <stringres id="IDS_SERIALFAILEDTEXT">
+  <xmbtext>The serial number is invalid.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPITAGLINE">
+  <xmbtext>These pictures were sent with Picasa, from Google.\nTry it out here: http://picasa.google.com/</xmbtext>
+ </stringres>
+ <stringres id="IDS_ROT_TYPEFAILED">
+  <xmbtext>One or more images could not be rotated because of the file type.</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRIALFAILED">
+  <xmbtext>This trial version has expired</xmbtext>
+ </stringres>
+ <stringres id="IDS_SCANINTRO_HEADER">
+  <xmbtext>Select Scanning Options</xmbtext>
+ </stringres>
+ <stringres id="IDS_SCANINTRO_HEADER_SUB">
+  <xmbtext>Customize which pictures Picasa includes by default</xmbtext>
+ </stringres>
+ <stringres id="IDS_SELECT_FOLDER">
+  <xmbtext>Folder...</xmbtext>
+ </stringres>
+ <stringres id="IDS_UNREGISTERED">
+  <xmbtext>Unregistered</xmbtext>
+ </stringres>
+ <stringres id="IDS_SERIAL">
+  <xmbtext>Serial Number: %s</xmbtext>
+ </stringres>
+ <stringres id="IDS_IMPORT_DEST_BROWSE_TITLE">
+  <xmbtext>Select destination folder for imported pictures</xmbtext>
+ </stringres>
+ <stringres id="IDS_ROOT_WATCH_WARNING">
+  <xmbtext>Watching an entire drive can slow down the system. It would be better to select several sub-folders. Are you sure you want to do this?</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFAULT_ALBUM_NAME">
+  <xmbtext>Untitled</xmbtext>
+ </stringres>
+ <stringres id="IDS_STATE_CHANGE_LABEL">
+  <xmbtext>For %s</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_LARGE">
+  <xmbtext>%d pixels (for large Web pages)</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_MEDIUM">
+  <xmbtext>%d pixels (for Web pages)</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_SMALL">
+  <xmbtext>%d pixels (for e-mail)</xmbtext>
+ </stringres>
+ <stringres id="IDS_WIACONNECT">
+  <xmbtext>Connecting to Device...</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFAULT_WEB_EXPORT_PATH">
+  <xmbtext>Picasa HTML Exports\\</xmbtext>
+ </stringres>
+ <stringres id="IDS_NO_WRITE_PERMISSION">
+  <xmbtext>The current user does not have sufficient permissions to run Picasa.</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEEDBACK">
+  <xmbtext>http://www.picasa.com/contact/feedback.php</xmbtext>
+ </stringres>
+ <stringres id="IDS_EDIT_IMAGE">
+  <xmbtext>You must select an image to edit.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>A newer version of Picasa has already been downloaded.\nThe new version will auto-install the next time you run Picasa.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRMREVERT">
+  <xmbtext>This will remove all edits you have made to the current picture.  Do you want to continue?</xmbtext>
+ </stringres>
+ <stringres id="IDS_WARNCLOSEEDIT">
+  <xmbtext>Apply changes to current image before quitting?</xmbtext>
+ </stringres>
+ <stringres id="IDS_WARNCLOSEACQUIRE">
+  <xmbtext>Import images before quitting Picasa?</xmbtext>
+ </stringres>
+ <stringres id="IDS_ACQUIRING_BEGIN">
+  <xmbtext>Beginning Acquire</xmbtext>
+ </stringres>
+ <stringres id="IDS_CLEARTRAY">
+  <xmbtext>This will clear your entire tray.  Are you sure you want to do this?</xmbtext>
+ </stringres>
+ <stringres id="IDS_FILETYPE_PREFS">
+  <xmbtext>File Types</xmbtext>
+ </stringres>
+ <stringres id="IDS_SLIDESHOW_PREFS">
+  <xmbtext>Slideshow</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_BODY_SINGLE">
+  <xmbtext>You have been sent 1 picture.\n\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_MAPI_BODY_MULTI">
+  <xmbtext>You have been sent %d pictures.\n\n</xmbtext>
+ </stringres>
+ <stringres id="IDS_UNABLETOREDEYEREADVOLUME">
+  <xmbtext>Red-Eye cannot be performed on pictures located on read only drives.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DESTDIRCANNOCREATE">
+  <xmbtext>The destination directory could not be created.</xmbtext>
+ </stringres>
+ <stringres id="IDS_KEYWORD_PREFS">
+  <xmbtext>Keywords</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD0">
+  <xmbtext>mom</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD1">
+  <xmbtext>dad</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD2">
+  <xmbtext>birthday</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD3">
+  <xmbtext>son</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD4">
+  <xmbtext>daughter</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD5">
+  <xmbtext>home</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD6">
+  <xmbtext>cool</xmbtext>
+ </stringres>
+ <stringres id="IDS_DEFKEYWORD7">
+  <xmbtext>bad</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_TO">
+  <xmbtext>Export to...</xmbtext>
+ </stringres>
+ <stringres id="IDS_IMPORT_FROM">
+  <xmbtext>Acquire from...</xmbtext>
+ </stringres>
+ <stringres id="IDS_FILTER_PLUG">
+  <xmbtext>Filter...</xmbtext>
+ </stringres>
+ <stringres id="IDS_LISTUPDATED">
+  <xmbtext>Updated </xmbtext>
+ </stringres>
+ <stringres id="IDS_DOWNGRADE">
+  <xmbtext>\nYour free trial expired %d %s ago and we have disabled some features.\n Purchase a serial number today!</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRIALEXPIRED">
+  <xmbtext>\nYour free trial has expired and we have disabled some features. \nPurchase a serial number today!</xmbtext>
+ </stringres>
+ <stringres id="IDS_SUPPORT">
+  <xmbtext>http://www.picasa.com/support/</xmbtext>
+ </stringres>
+ <stringres id="IDS_IMPORT_MP3_DEST_BROWSE_TITLE">
+  <xmbtext>Select folder to play MP3s from</xmbtext>
+ </stringres>
+ <stringres id="IDS_EXPORT_GIANT">
+  <xmbtext>%d pixels (for large monitors)</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRIALINVALID">
+  <xmbtext>\nYour trial period is no longer valid and we have disabled some features.\nPurchase a serial number today!</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAILSCANNER_EXE">
+  <xmbtext>PicasaEmailScanner</xmbtext>
+ </stringres>
+ <stringres id="IDS_CREATEDIALOG">
+  <xmbtext>create dialog</xmbtext>
+ </stringres>
+ <stringres id="IDS_FAVORITES">
+  <xmbtext>Favorites</xmbtext>
+ </stringres>
+ <stringres id="IDS_FOLDERS">
+  <xmbtext>Folders</xmbtext>
+ </stringres>
+ <stringres id="IDS_ENDEDITMODALITY_TITLE">
+  <xmbtext>Confirm Edit</xmbtext>
+ </stringres>
+ <stringres id="IDS_ENDEDITMODALITY_MESSAGE">
+  <xmbtext>Apply changes to the current image?</xmbtext>
+ </stringres>
+ <stringres id="IDS_ENDEDITMODALITY_CHECKMESSAGE">
+  <xmbtext>Don&#039;t ask me again, always apply changes.</xmbtext>
+ </stringres>
+ <stringres id="IDS_VIRTUALCAT">
+  <xmbtext>Albums</xmbtext>
+ </stringres>
+ <stringres id="IDS_RECROP_LABEL">
+  <xmbtext>Recrop</xmbtext>
+ </stringres>
+ <stringres id="IDS_CROP_LABEL">
+  <xmbtext>Crop</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEW_VIEWFILTER">
+  <xmbtext>New Filter...</xmbtext>
+ </stringres>
+ <stringres id="IDS_REMOVE_FROM_LABEL">
+  <xmbtext>Remove from Album\tDelete</xmbtext>
+ </stringres>
+ <stringres id="IDS_DELETE_FROM_DISK">
+  <xmbtext>Delete from Disk\tDelete</xmbtext>
+ </stringres>
+ <stringres id="IDS_LOCATE_ON_DISK">
+  <xmbtext os="win">Locate on Disk\tCtrl+Enter</xmbtext>
+  <xmbtext os="mac">Show in Finder</xmbtext>
+ </stringres>
+ <stringres id="IDS_LOCATE_SOURCE_IMAGE">
+  <xmbtext>Locate in Picasa</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_DELETE_TITLE">
+  <xmbtext>Confirm Delete</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_DELETE_CHECK_MESSAGE">
+  <xmbtext>Don&#039;t ask again, always delete</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_REMOVE_TITLE">
+  <xmbtext>Confirm Remove</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_REMOVE_CHECK_MESSAGE">
+  <xmbtext>Don&#039;t ask again, always remove</xmbtext>
+ </stringres>
+ <stringres id="IDS_MOVE_TO_NEW_ALBUM">
+  <xmbtext>Move to New Album...</xmbtext>
+ </stringres>
+ <stringres id="IDS_MOVE_TO_NEW_FOLDER">
+  <xmbtext>Move to New Folder...</xmbtext>
+ </stringres>
+ <stringres id="IDS_SPLIT_ALBUM">
+  <xmbtext>Split Album Here</xmbtext>
+ </stringres>
+ <stringres id="IDS_SPLIT_FOLDER">
+  <xmbtext>Split Folder Here</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRMREVERT_MULTIPLE">
+  <xmbtext>This will remove all edits you have made to ALL of the selected pictures.  Do you want to continue?</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_CAPTION_TRASH">
+  <xmbtext>Are you sure you want to delete the caption for this image?</xmbtext>
+ </stringres>
+ <stringres id="IDS_WEBCAT">
+  <xmbtext>Downloaded Albums</xmbtext>
+ </stringres>
+ <stringres id="IDS_HELLOCAT">
+  <xmbtext>From Hello</xmbtext>
+ </stringres>
+ <stringres id="IDS_SENDCARD_INSTRUCTIONS">
+  <xmbtext>Enter your friend&#039;s email address below, then click SEND.  You may edit the caption above by clicking on it.</xmbtext>
+ </stringres>
+ <stringres id="IDS_NORENAME">
+  <xmbtext>We could not make the folder name (on disk) conform to the name you have entered.  This can happen on read-only volumes or when there are duplicate folder names in the same directory.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_DESKTOPCOLLAGE">
+  <xmbtext os="win">This will replace your Windows destop with a collage of the currently selected images.\r\nThe background will be the first image in the selection.\r\nDo you want to continue?</xmbtext>
+  <xmbtext os="mac">This will replace your destop picture with a collage of the currently selected images.\r\nThe background will be the first image in the selection.\r\nDo you want to continue?</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_COLLAGE">
+  <xmbtext>This will create a collage of the selected pictures as a new image.\r\nDo you want to continue?</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_CONTACTSHEET">
+  <xmbtext>This will create a contact sheet of all the images in the album as a new image.\r\nDo you want to continue?</xmbtext>
+ </stringres>
+ <stringres id="IDS_SCREENSAVERFOLDER">
+  <xmbtext>Screensaver</xmbtext>
+ </stringres>
+ <stringres id="IDS_NEEDS_SELECTION">
+  <xmbtext>This operation requires selected images.</xmbtext>
+ </stringres>
+ <stringres id="IDS_SOME_EDITS_FAILED_TYPE">
+  <xmbtext>Some images were not modified because of the file type.  Note that effects cannot be applied to movies.</xmbtext>
+ </stringres>
+ <stringres id="IDS_REPLACE_CAPTION">
+  <xmbtext>Are you sure you want to replace the existing caption with the contents of the clipboard?\r\n(This operation is not undoable)</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEATURE_DLL_NAME">
+  <xmbtext>runtime\\hlpsys.dll</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEATURE_UPDATER_DOMAIN">
+  <xmbtext>secure.hello.com</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEATURE_UPDATER_URL">
+  <xmbtext>/master/feature.php</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEATURE_XOR_SALT">
+  <xmbtext>picasa_feature_manager</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEATURE_CACHE_KEY">
+  <xmbtext>FeatureCache</xmbtext>
+ </stringres>
+ <stringres id="IDS_FEATURE_CACHE_DATE_KEY">
+  <xmbtext>FeatureCacheDate</xmbtext>
+ </stringres>
+ <stringres id="IDS_HIDDEN">
+  <xmbtext>Hidden Folders</xmbtext>
+ </stringres>
+ <stringres id="IDS_RENAME">
+  <xmbtext>%d file(s) selected for rename.\nPlease enter a new name for these files:</xmbtext>
+ </stringres>
+ <stringres id="IDS_REDEYE_LABEL">
+  <xmbtext>Red Eye</xmbtext>
+ </stringres>
+ <stringres id="IDS_WALLPAPERFOLDER">
+  <xmbtext>Desktops</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_DISCARD">
+  <xmbtext>Are you sure you want to discard this message?</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAEDITSCAT">
+  <xmbtext>Edited Pictures</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAEDITFOLDER">
+  <xmbtext>Desktop Photos/</xmbtext>
+ </stringres>
+ <stringres id="IDS_WARN_NO_HIDDEN_PWD">
+  <xmbtext>The &quot;Hidden Folders&quot; collection is not currently password protected.  Would you like to add a password now?</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANT_SAVE_TO_SAME">
+  <xmbtext>Cannot replace image.  Please try again with a different filename.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANT_RENAME_COLLECTION">
+  <xmbtext>Sorry, the collection &quot;%s&quot; cannot be renamed.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANT_DELETE_COLLECTION">
+  <xmbtext>Sorry, the collection &quot;%s&quot; cannot be removed.</xmbtext>
+ </stringres>
+ <stringres id="IDS_MUSTHAVESELECTION">
+  <xmbtext>At least one image must be selected in order to perform this action.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_ATTACHMENTLIMIT">
+  <xmbtext>The attached images are too large.  Please remove some attachments, or select Options from the Tools menu and change your email preferences to send smaller images.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_LOGININCORRECT">
+  <xmbtext>Login Incorrect</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>Login Unauthorized - Please try again later</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_LOGINERROR">
+  <xmbtext>Failed to connect to %s- Please try again later</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASA_BLOG_URL">
+  <xmbtext>http://picasa2.blogspot.com/</xmbtext>
+ </stringres>
+ <stringres id="IDS_COULDNT_OPEN_SOME">
+  <xmbtext>Some of the files you selected could not be opened.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_SENDEMPTY">
+  <xmbtext>The message body is empty. Are you sure you want to send it?</xmbtext>
+ </stringres>
+ <stringres id="IDS_GMAIL_NAME">
+  <xmbtext>Gmail</xmbtext>
+ </stringres>
+ <stringres id="IDS_GMAIL_ACCOUNT">
+  <xmbtext>Gmail Account</xmbtext>
+ </stringres>
+ <stringres id="IDS_PMAIL_NAME">
+  <xmbtext>Picasa Email</xmbtext>
+ </stringres>
+ <stringres id="IDS_PMAIL_ACCOUNT">
+  <xmbtext>Hello Account</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_RELOGIN">
+  <xmbtext>Please sign in again to send your message</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_SUCCESS">
+  <xmbtext>Sent Email</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_FAILED">
+  <xmbtext>Send failed</xmbtext>
+ </stringres>
+ <stringres id="IDS_SELECT_ONE_ONLY">
+  <xmbtext>Please select a single picture to copy the effects from.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_CLEARAC">
+  <xmbtext>Are you sure you want to clear your saved contact list?</xmbtext>
+ </stringres>
+ <stringres id="IDS_PROMPT_HIDDEN_PWD_TITLE">
+  <xmbtext>Add Password</xmbtext>
+ </stringres>
+ <stringres id="IDS_PROMPT_HIDDEN_PWD_MESSAGE">
+  <xmbtext>The &quot;Hidden Folders&quot; collection is not currently password protected.\r\nWould you like to add a password now?</xmbtext>
+ </stringres>
+ <stringres id="IDS_ASK_DELETE_CONTAINING_FOLDER">
+  <xmbtext>The disk folder &quot;%s&quot; is now empty.\r\nWould you like to delete it as well?</xmbtext>
+ </stringres>
+ <stringres id="IDS_CANT_DELETE_FOLDER">
+  <xmbtext>Picasa was unable to delete the folder.</xmbtext>
+ </stringres>
+ <stringres id="IDS_GMAIL_GENERIC_RESEND">
+  <xmbtext>An error occurred trying to send your message. Please try again later.</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_REMOVE_ATTACHMENT">
+  <xmbtext>Are you sure you want to remove this attachment?</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_ATTACHMENTLIMIT_INFO">
+  <xmbtext>Attachments are too large...</xmbtext>
+ </stringres>
+ <stringres id="IDS_EMAIL_SEND_ATTEMPT_FAILED">
+  <xmbtext>Failed to send email.  Please try again later.</xmbtext>
+ </stringres>
+ <stringres id="IDS_WARN_LOWDISKSPACE">
+  <xmbtext>You have less than the recommended free space on a disk used by Picasa.\r\nThis can lead to degraded performance while using Picasa.\r\nIt is recommended that you clear some disk space to avoid impaired operation.</xmbtext>
+ </stringres>
+ <stringres id="IDS_SIGNUP_URL">
+  <xmbtext>https://secure.picasa.com/support/register.php</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_REDEYE_REVERT">
+  <xmbtext>Red eye fixes have been applied to %s.\r\nIf you remove all edits, your red eye fixes cannot be recovered with redo. \r\nAre you sure you want to remove the fixes forever?</xmbtext>
+ </stringres>
+ <stringres id="IDS_WARN_CROP_ACCURACY">
+  <xmbtext>This image&#039;s orientation has been modified by the Straighten tool and might not crop accurately.\r\nIf you encounter difficulty cropping this image, try undoing the Straighten fix, then recrop, and Straighten again if necessary.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_UNDO_REDEYE">
+  <xmbtext>Redeye fixes cannot be recovered with redo.\r\nAre you sure you want to undo?</xmbtext>
+ </stringres>
+ <stringres id="IDS_COLLAGE_MAKER_DIALOG_TITLE">
+  <xmbtext>Make Collage</xmbtext>
+ </stringres>
+ <stringres id="IDS_WARN_REDEYE_ACCURACY">
+  <xmbtext>This image&#039;s orientation has been modified by the Straighten tool, which can cause inaccuracies when selecting red eye  rectangles.\r\nIf your redeye fixes appear to be misaligned (or non-existent), try undoing the Straighten fix, then reapply red eye fixes, and Straighten again if necessary.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_SET_DESKTOP">
+  <xmbtext>This will replace your current desktop background with the current image.  Are you sure you want to proceed?</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASA_FORUM_URL">
+  <xmbtext>http://forums.picasa.com/</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONFIRM_DESKTOPCOLLAGE">
+  <xmbtext os="win">This will replace your Windows destop with a collage of the currently selected images.\r\nThe background will be the first image in the selection.\r\nDo you want to continue?</xmbtext>
+  <xmbtext os="mac">This will replace your destop picture with a collage of the currently selected images.\r\nThe background will be the first image in the selection.\r\nDo you want to continue?</xmbtext>
+ </stringres>
+ <stringres id="DeleteMessage::DeleteMultiple">
+  <xmbtext os="win">Are you sure you want to send the %d selected items to the recycle bin? (They will also be removed from any albums in which they appear.)</xmbtext>
+  <xmbtext os="mac">Are you sure you want to send the %d selected items to the Trash? (They will also be removed from any albums in which they appear.)</xmbtext>
+ </stringres>
+ <stringres id="DeleteMessage::DeleteSingle">
+  <xmbtext os="win">Are you sure you want to send the selected file to the recycle bin? (It will also be removed from any albums in which it appears.)</xmbtext>
+  <xmbtext os="mac">Are you sure you want to send the selected file to the Trash? (It will also be removed from any albums in which it appears.)</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyPictures" os="mac">
+  <xmbtext>Pictures</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::Desktop">
+  <xmbtext>Desktop</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyMusic" os="win">
+  <xmbtext>My Music</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyMusic" os="mac">
+  <xmbtext>Music</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyVideos" os="win">
+  <xmbtext>My Videos</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyVideos" os="mac">
+  <xmbtext>Movies</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyDocuments" os="win">
+  <xmbtext>My Documents</xmbtext>
+ </stringres>
+ <stringres id="SystemPaths::MyDocuments" os="mac">
+  <xmbtext>Documents</xmbtext>
+ </stringres>
+ <stringres id="uploadprefs::sizeorig">
+  <xmbtext>Original size (slowest upload)</xmbtext>
+ </stringres>
+ <stringres id="uploadprefs::size1600">
+  <xmbtext>Recommended: 1600 pixels (for prints, screensavers, and sharing)</xmbtext>
+ </stringres>
+ <stringres id="uploadprefs::size1024">
+  <xmbtext>Medium: 1024 pixels (for sharing)</xmbtext>
+ </stringres>
+ <stringres id="uploadprefs::size640">
+  <xmbtext>Small: 640 pixels (for blogs and webpages)</xmbtext>
+ </stringres>
+ <stringres id="NetworkPrefs::LogNone">
+  <xmbtext>Disable Logging</xmbtext>
+ </stringres>
+ <stringres id="NetworkPrefs::LogErrors">
+  <xmbtext>Log errors only</xmbtext>
+ </stringres>
+ <stringres id="NetworkPrefs::LogMinimal">
+  <xmbtext>Minimal log information</xmbtext>
+ </stringres>
+ <stringres id="NetworkPrefs::LogDetails">
+  <xmbtext>Detailed log information</xmbtext>
+ </stringres>
+ <stringres id="NetworkPrefs::LogAll">
+  <xmbtext>Log all network information</xmbtext>
+ </stringres>
+ <stringres id="NetworkPrefs::LogInsecure">
+  <xmbtext>Log HTTPS (insecure)</xmbtext>
+ </stringres>
+ <stringres id="CUploadPrefs::title">
+  <xmbtext>Web Albums</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::deffolder">
+  <xmbtext>Picasa Exports/</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qualcombo1">
+  <xmbtext>Automatic</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qualcombo2">
+  <xmbtext>Normal</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qualcombo3">
+  <xmbtext>Maximum</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qualcombo4">
+  <xmbtext>Minimum</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qualcombo5">
+  <xmbtext>Custom (%d)</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qual1">
+  <xmbtext>Preserves original image quality</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qual2">
+  <xmbtext>Good balance of quality and size</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qual3">
+  <xmbtext>Very large file size, preserves fine detail</xmbtext>
+ </stringres>
+ <stringres id="CExportPrefsDialog::qual4">
+  <xmbtext>Smallest file size, some quality loss</xmbtext>
+ </stringres>
+ <stringres id="confirmsync::public">
+  <xmbtext>Public on the web</xmbtext>
+ </stringres>
+ <stringres id="confirmsync::unlisted">
+  <xmbtext>Anyone with the link</xmbtext>
+ </stringres>
+ <stringres id="confirmsync::signinRequired">
+  <xmbtext>Private</xmbtext>
+ </stringres>
+ <stringres id="il_BurnPanel::InsertNext::2">
+  <xmbtext>Please insert a blank disc, then press \"Continue\".\n</xmbtext>
+ </stringres>
+ <stringres id="WarnClosePlugins::message">
+  <xmbtext>Quitting Picasa will cancel unfinished operations. Are you sure you want to quit?</xmbtext>
+ </stringres>
+ <stringres id="WarnClosePlugins::YesButton">
+  <xmbtext>Quit Anyway</xmbtext>
+ </stringres>
+ <stringres id="WarnClosePlugins::NoButton">
+  <xmbtext>Don't Quit</xmbtext>
+ </stringres>
+ <stringres id="CThumbUI::ConfirmAbandonModifiedEdit">
+  <xmbtext>Apply changes to current image before quitting?</xmbtext>
+ </stringres>
+ <stringres id="HelpURL::ReadMe">
+  <xmbtext>http://googlephotos.blogspot.com/</xmbtext>
+ </stringres>
+ <stringres id="CYouTubeLoginDlg::usernameurl">
+  <xmbtext>http://www.youtube.com/forgot_username?next=/</xmbtext>
+ </stringres>
+ <stringres id="CYouTubeLoginDlg::passwordurl">
+  <xmbtext>http://www.youtube.com/forgot?next=/</xmbtext>
+ </stringres>
+ <stringres id="CThumbUI::FileSave::typechangeMX">
+  <xmbtext> Movie files will be saved as QuickTime movies. Choose "Skip" to leave these files unchanged.</xmbtext>
+ </stringres>
+ <stringres id="CThumbUI::FileSave::typechangeX">
+  <xmbtext> Non-JPEG files will be saved as JPEG. Choose "Skip" to avoid saving these files.</xmbtext>
+ </stringres>
+ <stringres id="CThumbUI::FileSave::typechangeM1">
+  <xmbtext> This movie will be saved as a QuickTime movie.</xmbtext>
+ </stringres>
+ <stringres id="il_BurnPanel::DefBkFolder">
+  <xmbtext>Picasa Backup/</xmbtext>
+ </stringres>
+</resources>

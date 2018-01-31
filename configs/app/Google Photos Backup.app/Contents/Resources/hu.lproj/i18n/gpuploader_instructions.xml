@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_instructions/instruction_window.title">
+  <xmbtext>Google Fotók Automatikus mentés</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_header.title">
+  <xmbtext>Elindult a Google Fotók Automatikus mentés funkciója!</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_label.title">
+  <xmbtext>A Fotók ikonra kattintva szüneteltetheti, módosíthatja a beállításokat vagy ellenőrizheti a folyamatot.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

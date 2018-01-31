@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>Info Masuk Tidak Sah - Coba lagi nanti</xmbtext>
+ </stringres>
+ <stringres id="FilmstripHandler::getfilmstat">
+  <xmbtext>%1$d dari %2$d</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_image">
+  <xmbtext>Gambar Tidak Valid</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::ConnectionCheck">
+  <xmbtext>Anda harus tersambung ke internet untuk mengunggah foto</xmbtext>
+ </stringres>
+ <stringres id="slingshot::friendly_app_name_debug">
+  <xmbtext>Penampil Foto Picasa (Awakutu)</xmbtext>
+ </stringres>
+ <stringres id="ss:upload_command">
+  <xmbtext>Shell\\Unggah ke Album Web\\Command</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name">
+  <xmbtext>Konfigurasi Penampil Foto</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name2">
+  <xmbtext>Unggah ke Web Picasa</xmbtext>
+ </stringres>
+ <stringres id="OptionsDialog::RAW">
+  <xmbtext>Format RAW</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_default">
+  <xmbtext>Default</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_finish">
+  <xmbtext>Selesai</xmbtext>
+ </stringres>
+ <stringres id="slingshot::without_association">
+  <xmbtext>%s (tanpa kaitan)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::with_association">
+  <xmbtext>%1$s (sebelumnya %2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::current_association">
+  <xmbtext>%1$s (%2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_out">
+  <xmbtext>Keluar</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_in">
+  <xmbtext>Masuk</xmbtext>
+ </stringres>
+ <stringres id="slingshot::quick_upload_fail">
+  <xmbtext>Gagal mengunggah</xmbtext>
+ </stringres>
+ <stringres id="slingshot::account_creation_url">
+  <xmbtext>https://www.google.com/accounts/ServiceLogin?hl=id_ID&amp;continue=http%3A%2F%2Fpicasaweb.google.com%2Fhome&amp;service=lh2&amp;ltmpl=pwasignup</xmbtext>
+ </stringres>
+ <stringres id="slingshot::forgot_password_url">
+  <xmbtext>https://www.google.com/accounts/ForgotPasswd</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_enabled_error">
+  <xmbtext>Akun ini belum diaktifkan untuk Album Web.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_forbidden">
+  <xmbtext>Upaya Masuk Tidak Sah - Coba lagi nanti.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_incorrect">
+  <xmbtext>Info Masuk Salah.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_cookie_error">
+  <xmbtext>Setelan privasi cookie Anda terlalu ketat untuk masuk aplikasi.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_server_error">
+  <xmbtext>Tidak dapat tersambung ke server masuk.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_general_failure">
+  <xmbtext>Gagal masuk.</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat1">
+  <xmbtext>Status Pengunggahan: %1$s - %2$d %%  (%3$d tersisa)</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat2">
+  <xmbtext>Status Pengunggahan: %1$s - %2$s</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_selection">
+  <xmbtext>Lokasi &#039;%s&#039; tak berisi file gambar yang valid.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_file">
+  <xmbtext>File &#039;%s&#039; bukan file gambar yang valid.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::imagefiles">
+  <xmbtext>File gambar</xmbtext>
+ </stringres>
+ <stringres id="slingshot::window_name">
+  <xmbtext>Penampil Foto Picasa</xmbtext>
+ </stringres>
+ <stringres id="slingshot::viapicasa_separator">
+  <xmbtext>Picasa...</xmbtext>
+ </stringres>
+ <stringres id="slingshot::print">
+  <xmbtext>Cetak   (P)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::email">
+  <xmbtext>Email   (M)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::blogthis">
+  <xmbtext>BlogThis!   (B)</xmbtext>
+ </stringres>
+ <stringres id="ss:config">
+  <xmbtext>Konfigurasi  (C)</xmbtext>
+ </stringres>
+ <stringres id="ss:help">
+  <xmbtext>Bantuan  (F1)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::openwith_separator">
+  <xmbtext>Buka Dengan...</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_COPY">
+  <xmbtext>Salin</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EDIT">
+  <xmbtext>Edit di Picasa</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_PRINT_PHOTO">
+  <xmbtext>Cetak</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EMAIL">
+  <xmbtext>Email</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_BLOG">
+  <xmbtext>Blog</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_QUICKUPLOAD">
+  <xmbtext>Unggah Cepat</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_LOCATEONDISK">
+  <xmbtext>Temukan di Disk</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_SHOW_CAPTIONS">
+  <xmbtext>Tampilkan Teks</xmbtext>
+ </stringres>
+ <stringres id="slingshot::welcome">
+  <xmbtext>Selamat datang di Penampil Foto Picasa</xmbtext>
+ </stringres>
+</resources>

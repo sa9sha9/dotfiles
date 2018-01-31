@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_instructions/instruction_window.title">
+  <xmbtext>Google 相簿備份</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_header.title">
+  <xmbtext>Google 相簿備份已正式推出！</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_label.title">
+  <xmbtext>如需暫停、變更偏好設定或查看進度，請點選「Google 相簿」圖示執行相關操作。</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/okbutton.title">
+  <xmbtext>確定</xmbtext>
+ </stringres>
+</resources>

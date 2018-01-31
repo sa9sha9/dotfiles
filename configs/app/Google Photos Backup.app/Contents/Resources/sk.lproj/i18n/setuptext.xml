@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="setup/tab1" xmbdesc="Label(setup/tab1)">
+  <xmbtext>Formáty súborov</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab2" xmbdesc="Label(setup/tab2)">
+  <xmbtext>Webové albumy</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab3" xmbdesc="Label(setup/tab3)">
+  <xmbtext>Používateľské rozhranie</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_enable" xmbdesc="Label(setup/radio_enable)">
+  <xmbtext>Používať program Picasa Photo Viewer ako predvolený zobrazovač týchto typov súborov:</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_disable" xmbdesc="Label(setup/radio_disable)">
+  <xmbtext>Nepoužívať program Picasa Photo Viewer</xmbtext>
+ </action>
+ <action type="Label" target="setup/try" xmbdesc="Label(setup/try)">
+  <xmbtext>Vyskúšajte to! Môžete sa kedykoľvek vrátiť na aktuálne nastavenia.</xmbtext>
+ </action>
+ <action type="Label" target="setup/finish" xmbdesc="Label(setup/finish)">
+  <xmbtext>Zrušiť</xmbtext>
+ </action>
+ <action type="Label" target="setup/ok" xmbdesc="Label(setup/ok)">
+  <xmbtext>OK</xmbtext>
+ </action>
+ <action type="Label" target="setup/description" xmbdesc="Label(setup/description)">
+  <xmbtext>Program Picasa teraz obsahuje rýchly a výkonný zobrazovač fotografií, ktorý vám umožní zobraziť fotografie priamo v programe Windows Prieskumník.</xmbtext>
+ </action>
+ <action type="Label" target="setup/title" xmbdesc="Label(setup/title)">
+  <xmbtext>Picasa</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_default" xmbdesc="Label(setup/select_default)">
+  <xmbtext>Aktuálne</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_all" xmbdesc="Label(setup/select_all)">
+  <xmbtext>Vybrať všetky</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_none" xmbdesc="Label(setup/select_none)">
+  <xmbtext>Nevybrať nič</xmbtext>
+ </action>
+ <action type="Label" target="setup/features" xmbdesc="Label(setup/features)">
+  <xmbtext>Prekrásne pohľady. Rýchle nahranie. Prezentácie.</xmbtext>
+ </action>
+ <action type="Label" target="setup/picasaintro" xmbdesc="Label(setup/picasaintro)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ptext" xmbdesc="Label(setup/ptext)">
+  <xmbtext>Pomocou služby Webové albumy môžete zdieľať online fotografické albumy s priateľmi a rodinou, alebo môžete vytvárať verejné albumy a zdieľať ich so svetom. Táto služba je zadarmo a jednoducho sa používa.</xmbtext>
+ </action>
+ <action type="Label" target="setup/gphotoslink" xmbdesc="Label(setup/gphotoslink)">
+  <xmbtext>Kliknutím získate ďalšie informácie.</xmbtext>
+ </action>
+ <action type="Label" target="setup/loginheader" xmbdesc="Label(setup/loginheader)">
+  <xmbtext>Prihláste sa pomocou svojho účtu Google</xmbtext>
+ </action>
+ <action type="Label" target="setup/usernametxt" xmbdesc="Label(setup/usernametxt)">
+  <xmbtext>Používateľské meno:</xmbtext>
+ </action>
+ <action type="Label" target="setup/signin" xmbdesc="Label(setup/signin)">
+  <xmbtext>Prihlásiť sa</xmbtext>
+ </action>
+ <action type="Label" target="setup/focsignin" xmbdesc="Label(setup/focsignin)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ui_option1" xmbdesc="Label(setup/ui_option1)">
+  <xmbtext>Priblížiť pomocou kolieska myši (na navigáciu podržte kláves Ctrl)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option2" xmbdesc="Label(setup/ui_option2)">
+  <xmbtext>Automaticky skryť panel akcií zobrazovača fotografií v zobrazení na celú obrazovku</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option3" xmbdesc="Label(setup/ui_option3)">
+  <xmbtext>Spustenie na celú obrazovku (prejaví sa až po reštartovaní zobrazovača fotografií)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option4" xmbdesc="Label(setup/ui_option4)">
+  <xmbtext>Priehľadné pozadie (prejaví sa až po reštartovaní zobrazovača fotografií)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option5" xmbdesc="Label(setup/ui_option5)">
+  <xmbtext>Povoliť správu farieb (prejaví sa až po reštartovaní programu Photo Viewer)</xmbtext>
+ </action>
+</tooltips>

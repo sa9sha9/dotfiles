@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_storage_notify/window.title">
+  <xmbtext>Säkerhetskopiering i Google Foto</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_header.title">
+  <xmbtext>Nya Säkerhetskopiering i Google Foto</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_text.title">
+  <xmbtext>Lagringsalternativen för dina foton och videoklipp har blivit ännu bättre.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.title">
+  <xmbtext>Läs mer</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.url">
+  <xmbtext>https://support.google.com/plus/answer/1647509#cost</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size.title">
+  <xmbtext>Hög kvalitet (gratis obegränsat lagringsutrymme)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size_desc.title">
+  <xmbtext>Hög visuell kvalitet och reducerad filstorlek</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size.title">
+  <xmbtext>Original (kontrollerar återstående kapacitet ...)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size_desc.title">
+  <xmbtext>Full upplösning som räknas in i din kvot</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_extra.title">
+  <xmbtext>Bläddra bland det som redan har laddats upp och titta närmare på alla de nya funktionerna i Google Foto på photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>Pieteikšanās nav atļauta. Lūdzu, vēlāk mēģiniet vēlreiz</xmbtext>
+ </stringres>
+ <stringres id="FilmstripHandler::getfilmstat">
+  <xmbtext>%1$d. no %2$d</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_image">
+  <xmbtext>Nederīgs attēls</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::ConnectionCheck">
+  <xmbtext>Lai augšupielādētu fotoattēlus, ir jāizveido savienojums ar internetu</xmbtext>
+ </stringres>
+ <stringres id="slingshot::friendly_app_name_debug">
+  <xmbtext>Picasa fotoattēlu skatītājs (atkļūdot)</xmbtext>
+ </stringres>
+ <stringres id="ss:upload_command">
+  <xmbtext>Čaula\\Augšupielādēt tīmekļa albumos\\Komanda</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name">
+  <xmbtext>Fotoattēlu skatītāja konfigurācija</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name2">
+  <xmbtext>Augšupielādēt Picasa tīmekļa albumā</xmbtext>
+ </stringres>
+ <stringres id="OptionsDialog::RAW">
+  <xmbtext>RAW formāti</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_default">
+  <xmbtext>Noklusējums</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_finish">
+  <xmbtext>Pabeigt</xmbtext>
+ </stringres>
+ <stringres id="slingshot::without_association">
+  <xmbtext>%s (bez saistības)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::with_association">
+  <xmbtext>%1$s (bija %2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::current_association">
+  <xmbtext>%1$s (%2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_out">
+  <xmbtext>Izrakstīties</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_in">
+  <xmbtext>Pierakstīties</xmbtext>
+ </stringres>
+ <stringres id="slingshot::quick_upload_fail">
+  <xmbtext>Augšupielāde neizdevās</xmbtext>
+ </stringres>
+ <stringres id="slingshot::account_creation_url">
+  <xmbtext>https://www.google.com/accounts/ServiceLogin?hl=lv_LV&amp;continue=http%3A%2F%2Fpicasaweb.google.com%2Fhome&amp;service=lh2&amp;ltmpl=pwasignup</xmbtext>
+ </stringres>
+ <stringres id="slingshot::forgot_password_url">
+  <xmbtext>https://www.google.com/accounts/ForgotPasswd</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_enabled_error">
+  <xmbtext>Šis konts nav iespējots tīmekļa albumu izmantošanai.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_forbidden">
+  <xmbtext>Pieteikšanās nav atļauta. Lūdzu, vēlāk mēģiniet vēlreiz</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_incorrect">
+  <xmbtext>Nepareiza pieteikuminformācija.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_cookie_error">
+  <xmbtext>Sīkfailu konfidencialitātes iestatījumos ir iestatīts pārāk stingrs drošības līmenis, lai pieteiktos.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_server_error">
+  <xmbtext>Nevarēja izveidot savienojumu ar pieteikšanās serveri.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_general_failure">
+  <xmbtext>Pieteikšanās neizdevās.</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat1">
+  <xmbtext>Augšupielādes statuss: %1$s–%2$d%% (atlikuši %3$d)</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat2">
+  <xmbtext>Augšupielādes statuss: %1$s–%2$s</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_selection">
+  <xmbtext>Atrašanās vietā &#039;%s&#039; nav derīga attēla faila.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_file">
+  <xmbtext>Fails &#039;%s&#039; nav derīgs attēla fails.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::imagefiles">
+  <xmbtext>Attēlu faili</xmbtext>
+ </stringres>
+ <stringres id="slingshot::window_name">
+  <xmbtext>Picasa fotoattēlu skatītājs</xmbtext>
+ </stringres>
+ <stringres id="slingshot::viapicasa_separator">
+  <xmbtext>Picasa...</xmbtext>
+ </stringres>
+ <stringres id="slingshot::print">
+  <xmbtext>Drukāt (P)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::email">
+  <xmbtext>E-pasts (M)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::blogthis">
+  <xmbtext>BlogThis! (B)</xmbtext>
+ </stringres>
+ <stringres id="ss:config">
+  <xmbtext>Konfigurācija (C)</xmbtext>
+ </stringres>
+ <stringres id="ss:help">
+  <xmbtext>Palīdzība (taustiņš F1)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::openwith_separator">
+  <xmbtext>Atvērt, izmantojot...</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_COPY">
+  <xmbtext>Kopēt</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EDIT">
+  <xmbtext>Rediģēt, izmantojot Picasa</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_PRINT_PHOTO">
+  <xmbtext>Drukāt</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EMAIL">
+  <xmbtext>E-pasts</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_BLOG">
+  <xmbtext>Emuārs</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_QUICKUPLOAD">
+  <xmbtext>Ātrā augšupielāde</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_LOCATEONDISK">
+  <xmbtext>Atrast diskā</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_SHOW_CAPTIONS">
+  <xmbtext>Rādīt parakstus</xmbtext>
+ </stringres>
+ <stringres id="slingshot::welcome">
+  <xmbtext>Esiet sveicināts Picasa fotoattēlu skatītājā!</xmbtext>
+ </stringres>
+</resources>

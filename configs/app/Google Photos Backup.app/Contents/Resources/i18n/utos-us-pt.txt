@@ -1,0 +1,233 @@
+﻿Termos de Serviço do Google
+
+Bem-vindo ao Google!
+
+1. Relação do usuário com o Google
+
+    1.1 O uso de produtos, software, serviços e sites da web do Google (denominados coletivamente “Serviços” neste documento e excluindo quaisquer serviços fornecidos ao usuário pelo Google de acordo com um contrato por escrito separado) por parte do usuário está sujeito aos termos de um contrato entre o usuário e o Google. “Google” significa Google Inc., empresa com sede principal em 1600 Amphitheatre Parkway, Mountain View, CA 94043, Estados Unidos. Este documento explica como é constituído o contrato e apresenta alguns dos seus termos.
+
+    1.2 Exceto se acordado de outra forma por escrito pelo Google, o contrato do usuário com o Google incluirá sempre, no mínimo, os termos e condições apresentados neste documento. Tais termos são denominados “Termos Universais”.
+
+    1.3 O contrato do usuário com o Google também incluirá os termos de quaisquer Notificações Legais aplicáveis aos Serviços, além dos Termos Universais. Todos esses termos são referidos a seguir como “Termos Adicionais”. Nos casos em que forem aplicáveis Termos Adicionais a um Serviço, tais termos estarão disponíveis para leitura por parte do usuário nesse Serviço ou por meio do uso do mesmo.
+
+    1.4 Os Termos Universais, juntamente com os Termos Adicionais, formam um acordo com efeito jurídico entre o usuário e o Google relativamente ao uso dos Serviços por parte do usuário. É importante que o usuário os leia com atenção. Coletivamente, este contrato é denominado “Termos”.
+
+    1.5 No caso de haver alguma contradição entre o que indicam os Termos Adicionais e o que indicam os Termos Universais, deverão prevalecer os Termos Adicionais em relação a esse Serviço.
+
+2. Aceitação dos Termos
+
+    2.1 Para usar os Serviços, o usuário deverá primeiro concordar com os Termos. Não é permitido o uso dos Serviços por parte do usuário se ele não aceitar os Termos.
+
+    2.2 O usuário pode aceitar os Termos:
+
+        (A) clicando para aceitar ou concordar com os Termos, no caso de essa opção ser disponibilizada pelo Google na interface do usuário para qualquer Serviço; ou
+
+        (B) usando efetivamente os Serviços. Nesse caso, o usuário compreende e aceita que o Google considerará o seu uso dos Serviços uma aceitação dos Termos a partir desse momento.
+
+    2.3 O usuário não poderá usar os Serviços nem aceitar os Termos se: (a) não tiver idade legal para celebrar um acordo com efeito jurídico com o Google; ou (b) for uma pessoa com restrições quanto ao recebimento de serviços impostas pelas leis dos Estados Unidos ou de outros países, incluindo o país onde o usuário é residente ou a partir do qual usa os Serviços.
+
+    2.4 Antes de continuar, o usuário deverá imprimir ou guardar uma cópia local dos Termos Universais em seus registros.
+
+3. Idioma dos Termos
+
+    3.1 No caso de o Google fornecer uma tradução da versão em língua inglesa dos Termos, o usuário aceita que essa tradução lhe é fornecida apenas para sua conveniência e que a versão em língua inglesa dos Termos regerá o seu relacionamento com o Google.
+
+    3.2 No caso de existir alguma contradição entre o que indica a versão em língua inglesa dos Termos e o que indica uma tradução, a versão em língua inglesa deverá prevalecer.
+
+4. Prestação dos Serviços pelo Google
+
+    4.1 O Google tem subsidiárias e empresas afiliadas em todo o mundo (“Subsidiárias e Afiliadas”). Ocasionalmente, serão essas empresas que prestarão os Serviços ao usuário em nome do próprio Google. O usuário tem conhecimento e concorda que as Subsidiárias e Afiliadas têm direito de prestar os Serviços.
+
+    4.2 O Google está constantemente inovando para poder oferecer a melhor experiência possível aos seus usuários. O usuário tem conhecimento e aceita que a forma e natureza dos Serviços fornecidos pelo Google podem mudar ocasionalmente sem aviso prévio ao usuário.
+
+    4.3 Como parte dessa constante inovação, o usuário tem conhecimento e concorda que o Google pode, a seu próprio critério, deixar (permanente ou temporariamente) de fornecer os Serviços (ou qualquer funcionalidade dos Serviços) aos usuários em geral, sem aviso prévio. O usuário pode deixar de utilizar os Serviços a qualquer momento. O usuário não necessita informar especificamente o Google quando deixar de usar os Serviços.
+
+    4.4 O usuário reconhece e aceita que, se o Google desativar a sua conta, poderá ser impedido de acessar os Serviços, os detalhes da conta ou quaisquer arquivos ou outros conteúdos que estejam na conta.
+
+    4.5 O usuário reconhece e concorda que, apesar de o Google atualmente não fixar um limite máximo quanto ao número de transmissões que é possível enviar ou receber através dos Serviços ou quanto ao espaço de armazenamento utilizado para a prestação de qualquer Serviço, o mesmo poderá, segundo critérios próprios e a qualquer momento, fixar esses limites máximos.
+
+5. Uso dos Serviços por parte do usuário
+
+    5.1 Para acessar determinados Serviços, poderá ser solicitado ao usuário que forneça informações pessoais (tais como identificação ou detalhes de contato) como parte do processo de registro para o Serviço ou como parte da utilização continuada dos Serviços por parte do usuário. O usuário concorda que as informações de registro que fornecer ao Google serão sempre exatas, corretas e atualizadas.
+
+    5.2 O usuário concorda em usar os Serviços somente para os fins permitidos: (a) pelos Termos; e (b) quaisquer leis, regulamentos ou práticas ou diretrizes geralmente aceitas nas jurisdições relevantes (inclusive todas as leis em relação à exportação de dados ou software para e dos Estados Unidos ou outros países relevantes).
+
+    5.3 O usuário concorda em não acessar (nem tentar acessar) qualquer um dos Serviços por qualquer meio que não seja através da interface fornecida pelo Google, exceto se for especificamente autorizado a tal em um contrato em separado firmado com o Google. O usuário concorda especificamente em não acessar (nem tentar acessar) qualquer um dos Serviços por meio de meios automatizados (inclusive uso de scripts ou rastreadores da web), bem como deverá garantir que esteja em conformidade com as instruções definidas em todos os arquivos robots.txt apresentados nos Serviços.
+
+    5.4 O usuário concorda em não participar de nenhuma atividade que interfira ou interrompa o funcionamento dos Serviços (ou servidores e redes conectados aos Serviços).
+
+    5.5 Exceto se tiver sido especificamente autorizado por meio de um contrato em separado firmado com o Google, o usuário concorda em não reproduzir, duplicar, copiar, vender, comercializar ou revender os Serviços para qualquer efeito.
+
+    5.6 O usuário concorda que será o único responsável (e que o Google não tem qualquer responsabilidade perante o usuário ou terceiros) por qualquer não cumprimento das suas obrigações no que diz respeito aos Termos e pelas conseqüências (incluindo qualquer perda ou dano que o Google possa sofrer) resultantes desse não cumprimento.
+
+6. Segurança da conta e senhas do usuário
+
+    6.1 O usuário concorda e compreende que será responsável por manter a confidencialidade das senhas associadas a qualquer conta que utilize para acessar os Serviços.
+
+    6.2 Dessa forma, o usuário concorda que será o único responsável perante o Google por todas as atividades que ocorram na respectiva conta.
+
+    6.3 Se tomar conhecimento de qualquer utilização não autorizada da sua senha ou da sua conta, o usuário concorda em notificar imediatamente o Google em http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=pt.
+
+7. Privacidade e informações pessoais do usuário
+
+    7.1 Para obter informações sobre as práticas de proteção de dados do Google, leia a Política de Privacidade do Google em http://www.google.com.br/privacy.html. Essa política explica como o Google trata as informações pessoais e protege a privacidade quando o usuário utiliza os Serviços.
+
+    7.2 O usuário concorda com a utilização de seus dados de acordo com as políticas de privacidade do Google.
+
+8. Conteúdo nos Serviços
+
+    8.1 O usuário compreende que a responsabilidade integral por todas as informações (tais como arquivos de dados, texto escrito, software de computador, música, arquivos de áudio ou outros sons, fotografias, vídeos ou outras imagens) a que possa ter acesso como parte dos Serviços, ou através da utilização dos mesmos, é da pessoa que deu origem a esse conteúdo. Todas essas informações são denominadas “Conteúdo”.
+
+    8.2 O usuário deverá estar ciente de que o Conteúdo que lhe é apresentado como parte dos Serviços, incluindo, sem limitação, anúncios nos Serviços e Conteúdo patrocinado nos Serviços, pode estar protegido por direitos de propriedade intelectual que são de propriedade dos patrocinadores ou anunciantes que fornecem esse Conteúdo ao Google (ou por outras pessoas ou empresas em seu nome). O usuário não poderá efetuar modificação, aluguel, arrendamento, empréstimo, venda, distribuição ou criação de obras derivadas baseadas neste Conteúdo (no todo ou em parte), a menos que tenha sido especificamente autorizado a fazê-lo, através de um contrato em separado, pelo Google ou pelos proprietários desse Conteúdo.
+
+    8.3 O Google se reserva o direito (mas não tem qualquer obrigação) de pré-selecionar, rever, marcar, filtrar, modificar, recusar ou remover qualquer ou todo Conteúdo de qualquer Serviço. Para alguns dos Serviços, o Google pode fornecer ferramentas para filtrar conteúdos sexuais explícitos. Essas ferramentas incluem a configuração do SafeSearch (consulte http://www.google.com/help/customize.html#safe). Além disso, existem serviços e software disponíveis comercialmente para limitar o acesso a material que o usuário possa considerar ofensivo.
+
+    8.4 O usuário compreende que, ao utilizar os Serviços, pode estar exposto a Conteúdo que possa considerar ofensivo, indecente ou censurável e que, a este respeito, utiliza os Serviços por sua conta e risco.
+
+    8.5 O usuário concorda que será o único responsável (e que o Google não tem qualquer responsabilidade perante o usuário ou terceiros) por qualquer Conteúdo que crie, transmita ou visualize enquanto utiliza os Serviços e pelas conseqüências das suas ações (incluindo qualquer perda ou dano que o Google possa sofrer) resultantes disso.
+
+9. Direitos de propriedade
+
+    9.1 O usuário reconhece e concorda que o Google (ou os licenciadores do Google) detém todos os direitos legais, títulos e participações relativas aos Serviços, incluindo quaisquer direitos de propriedade intelectual que subsistam nos Serviços (quer esses direitos estejam registrados ou não, e em qualquer parte do mundo onde esses direitos possam existir). Além disso, o usuário reconhece que os Serviços podem conter informações designadas confidenciais pelo Google e que não as revelará sem o prévio consentimento escrito do Google.
+
+    9.2 A menos que o usuário tenha concordado por escrito em contrário com o Google, nada nos Termos lhe dá o direito de utilizar qualquer uma das marcas registradas, marcas comerciais, marcas de serviços, logotipos, nomes de domínios e outras características de marca especiais do Google.
+
+    9.3 Se lhe tiver sido concedido um direito explícito de utilização de qualquer uma dessas características de marca através de um contrato escrito em separado celebrado com o Google, o usuário concorda que o uso dessas características será feito de acordo com esse contrato, com quaisquer cláusulas aplicáveis dos Termos e com as diretrizes de uso das características de marca do Google, conforme possam ser atualizadas periodicamente. Essas diretrizes podem ser consultadas on-line em http://www.google.com.br/permissions/guidelines.html (ou qualquer outro URL que o Google possa fornecer com esse fim periodicamente).
+
+    9.4 À exceção da licença limitada referida na Seção 11, o Google reconhece e aceita que não obtém qualquer direito, título ou participação do usuário (ou dos seus licenciadores) de acordo com estes Termos relativamente a qualquer Conteúdo que o usuário possa enviar, publicar, transmitir ou apresentar nos Serviços ou através deles, incluindo quaisquer direitos de propriedade intelectual que subsistam nesse Conteúdo (quer esses direitos estejam registrados ou não, e em qualquer parte do mundo onde esses direitos possam existir). A menos que tenha acordado por escrito de outra forma com o Google, o usuário concorda que é responsável por proteger e aplicar esses direitos e que o Google não tem qualquer obrigação de fazê-lo em seu nome.
+
+    9.5 O usuário concorda que não removerá, ocultará nem alterará quaisquer avisos de direitos de propriedade (incluindo avisos de direitos de autor e de marcas comerciais) que possam estar afixados ou contidos nos Serviços.
+
+    9.6 A menos que tenha sido expressamente autorizado por escrito pelo Google a fazê-lo, o usuário concorda que, ao usar os Serviços, não irá utilizar qualquer marca comercial, marca de serviço, marca registrada, logotipo de qualquer empresa ou organização de forma que seja provável ou pretendido que cause confusão relativamente ao proprietário ou usuário autorizado dessas marcas, nomes ou logotipos.
+
+10. Licença do Google
+
+    10.1 O Google concede ao usuário uma licença pessoal, internacional, isenta de royalties, não atribuível e não exclusiva para utilizar o software fornecido ao usuário pelo Google como parte dos serviços fornecidos ao usuário pelo Google (denominado “Software” a seguir). Essa licença tem como único objetivo permitir o uso, por parte do usuário, dos benefícios dos Serviços tal como são fornecidos pelo Google, da forma permitida pelos Termos.
+
+    10.2 O usuário não poderá (nem poderá permitir a mais ninguém) copiar, modificar, criar uma obra derivada de, realizar engenharia inversa, descompilar ou, de qualquer outro modo, tentar extrair o código-fonte do Software ou de qualquer parte que o componha, a menos que seja expressamente permitido ou previsto por lei, ou que o usuário tenha sido especificamente autorizado a fazê-lo pelo Google, por escrito.
+
+    10.3 A menos que o Google lhe tenha concedido uma permissão específica, por escrito, para fazê-lo, o usuário não poderá atribuir (ou conceder uma sublicença de) seus direitos de utilização do Software, conceder uma garantia relativa aos seus direitos de utilização do Software ou, de qualquer outro modo, transferir qualquer parte dos seus direitos de utilização do Software.
+
+11. Licença de conteúdo do usuário
+
+    11.1 O usuário retém direitos autorais e quaisquer outros direitos que já tiver posse em relação ao Conteúdo que enviar, publicar ou exibir nos Serviços ou através deles. Ao enviar, publicar ou exibir conteúdo, o usuário concede ao Google uma licença irrevogável, perpétua, mundial, isenta de royalties e não exclusiva de reproduzir, adaptar, modificar, traduzir, publicar, distribuir publicamente, exibir publicamente e distribuir qualquer Conteúdo que o usuário enviar, publicar ou exibir nos Serviços ou através deles. Essa licença tem como único objetivo permitir ao Google apresentar, distribuir e promover os Serviços e pode ser revogada para certos Serviços, conforme definido nos Termos Adicionais desses Serviços.
+
+    11.2 O usuário concorda que essa licença inclui o direito do Google de disponibilizar esse Conteúdo a outras empresas, organizações ou indivíduos com quem o Google tenha relações para o fornecimento de serviços licenciados e para o uso desse Conteúdo relacionado ao fornecimento desses serviços.
+
+    11.3 O usuário compreende que o Google, ao efetuar as etapas técnicas necessárias para fornecer os Serviços aos nossos usuários, pode (a) transmitir ou distribuir o seu Conteúdo por várias redes públicas e em várias mídias de dados; e (b) efetuar as alterações necessárias ao Conteúdo do usuário para ajustar e adaptar esse Conteúdo aos requisitos técnicos de conexão de redes, dispositivos, serviços ou mídia. O usuário concorda que essa licença permitirá ao Google realizar tais ações.
+
+    11.4 O usuário confirma e garante ao Google que tem todos os direitos, poderes e autoridade necessários para outorgar a licença citada anteriormente.
+
+12. Atualizações de software
+
+    12.1 O Software usado pelo usuário pode, ocasionalmente, fazer download e instalar automaticamente atualizações do Google. Essas atualizações são concebidas para melhorar, aperfeiçoar e desenvolver os Serviços e podem ser apresentadas sob a forma de correções de erros, funções aprimoradas, novos módulos de software e versões completamente novas. O usuário concorda em receber essas atualizações (e permitir que o Google lhe forneça) como parte da utilização dos Serviços.
+
+13. Término da relação do usuário com o Google
+
+    13.1 Os Termos continuarão a ser aplicáveis até serem encerrados pelo usuário ou pelo Google, conforme estabelecido a seguir.
+
+    13.2 Se o usuário quiser encerrar o seu contrato com o Google, pode fazê-lo (a) notificando o Google a qualquer momento e (b) encerrando as contas relativas a todos os Serviços que utiliza, no caso de essa opção ser disponibilizada pelo Google. A notificação deverá ser enviada pelo usuário, por escrito, para o endereço do Google indicado no início destes Termos.
+
+    13.3 O Google pode, a qualquer momento, encerrar o contrato com o usuário se:
+
+        (A) o usuário tiver violado qualquer cláusula dos Termos (ou tiver agido de forma que claramente mostre que não pretende ou não pode cumprir as cláusulas dos Termos); ou
+
+        (B) tal for exigido ao Google por lei (por exemplo, quando o fornecimento dos Serviços ao usuário for ou se tornar ilegal); ou
+
+        (C) o parceiro com o qual o Google ofereceu os Serviços ao usuário tiver encerrado a sua relação com o Google ou tiver deixado de oferecer os Serviços ao usuário; ou
+
+        (D) o Google estiver em fase de transição para uma situação em que já não fornece os Serviços aos usuários do país no qual o usuário é residente ou a partir do qual utiliza os Serviços; ou
+
+        (E) o fornecimento dos Serviços ao usuário pelo Google já não for, na opinião do Google, comercialmente viável.
+
+    13.4 Nada nesta Seção afetará os direitos do Google relativos ao fornecimento de Serviços de acordo com a Seção 4 dos Termos.
+
+    13.5 Quando estes Termos forem encerrados, todos os direitos, obrigações e responsabilidades de que o usuário ou o Google tenham se beneficiado, tenham sido sujeitos a (ou que tenham acumulado enquanto os Termos tiverem estado em vigor) ou que expressamente devam continuar em vigor indefinidamente não serão afetados por essa resolução, e as cláusulas do parágrafo 20.7 continuarão a ser aplicáveis a esses direitos, obrigações e responsabilidades indefinidamente.
+
+14. EXCLUSÃO DE GARANTIAS
+
+    14.1 NADA NESTES TERMOS, INCLUSIVE AS SEÇÕES 14 E 15, EXCLUIRÁ OU LIMITARÁ A RESPONSABILIDADE OU GARANTIA DO GOOGLE POR PERDAS QUE NÃO POSSAM SER LEGALMENTE EXCLUÍDAS OU LIMITADAS PELA LEI APLICÁVEL. ALGUMAS JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO DE CERTAS GARANTIAS OU CONDIÇÕES OU A LIMITAÇÃO OU EXCLUSÃO DE RESPONSABILIDADE POR PERDA OU DANO CAUSADOS POR NEGLIGÊNCIA, QUEBRA DE CONTRATO OU QUEBRA DOS TERMOS IMPLÍCITOS, OU DANOS INCIDENTAIS E CONSEQÜENCIAIS. CONSEQÜENTEMENTE, APENAS AS LIMITAÇÕES QUE FOREM PERMITIDAS POR LEI NA SUA JURISDIÇÃO SE APLICARÃO AO USUÁRIO, E A NOSSA RESPONSABILIDADE LIMITADA AO MÁXIMO PERMITIDO POR LEI.
+
+    14.2 O USUÁRIO ENTENDE E CONCORDA EXPRESSAMENTE QUE O USO DOS SERVIÇOS É POR CONTA E RISCO DO USUÁRIO E QUE OS SERVIÇOS SÃO FORNECIDOS “NA FORMA EM QUE SE ENCONTRAM” E “DE ACORDO COM A DISPONIBILIDADE”.
+
+    14.3 ESPECIFICAMENTE, O GOOGLE, AS SUAS SUBSIDIÁRIAS E AFILIADAS E LICENCIADORES NÃO GARANTEM QUE:
+
+        (A) O USO DOS SERVIÇOS ATENDERÁ AOS REQUISITOS DO USUÁRIO;
+
+        (B) O USO DOS SERVIÇOS SERÁ ININTERRUPTO, PONTUAL, SEGURO E ISENTO DE ERROS;
+
+        (C) QUALQUER INFORMAÇÃO OBTIDA PELO USUÁRIO EM DECORRÊNCIA DO SEU USO DOS SERVIÇOS SERÁ PRECISA OU CONFIÁVEL; E
+
+        (D) OS DEFEITOS NO FUNCIONAMENTO OU NA FUNCIONALIDADE DE QUALQUER SOFTWARE FORNECIDO AO USUÁRIO COMO PARTE DOS SERVIÇOS SERÃO CORRIGIDOS.
+
+    14.4 QUALQUER MATERIAL BAIXADO OU OBTIDO DE OUTRA FORMA POR MEIO DOS SERVIÇOS É OBTIDO A SEU PRÓPRIO CRITÉRIO E RISCO, E QUE O USUÁRIO SERÁ O ÚNICO RESPONSÁVEL POR QUALQUER DANO AO SISTEMA DO SEU COMPUTADOR OU QUALQUER OUTRO APARELHO, OU PELA PERDA DE DADOS QUE ACONTEÇA COMO RESULTADO DO DOWNLOAD DE QUALQUER MATERIAL.
+
+    14.5 NENHUM CONSELHO OU INFORMAÇÃO, SEJA ORAL OU ESCRITO, OBTIDO PELO USUÁRIO DO GOOGLE, DOS SERVIÇOS OU POR MEIO DESSES, CRIARÁ QUALQUER GARANTIA QUE NÃO ESTEJA EXPRESSAMENTE DECLARADA NOS TERMOS.
+
+    14.6 O GOOGLE AINDA EXPRESSAMENTE SE ISENTA DE TODAS AS RESPONSABILIDADES, GARANTIAS OU CONDIÇÕES DE QUALQUER NATUREZA, SEJAM EXPRESSAS OU IMPLÍCITAS, INCLUINDO, ENTRE OUTROS, GARANTIAS IMPLÍCITAS E AS CONDIÇÕES DE MERCADO, A ADAPTAÇÃO PARA UM PROPÓSITO PARTICULAR E O NÃO-INFRINGIMENTO.
+
+15. LIMITAÇÃO DE RESPONSABILIDADE
+
+    15.1 SUJEITO À CLÁUSULA GERAL MENCIONADA NO PARÁGRAFO 14.1 ACIMA, O USUÁRIO ENTENDE E CONCORDA QUE O GOOGLE, AS SUAS SUBSIDIÁRIAS E AFILIADAS E RESPECTIVOS LICENCIADORES NÃO SERÃO RESPONSÁVEIS PERANTE O USUÁRIO POR:
+
+        (A) QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQÜENCIAIS OU EXEMPLARES, INCORRIDOS PELO USUÁRIO, CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE. ISSO INCLUIRÁ, MAS NÃO SE LIMITARÁ A, QUALQUER PERDA DE LUCROS (INCORRIDA DIRETA OU INDIRETAMENTE), QUALQUER PERDA RELACIONADA COM A BOA-FÉ OU REPUTAÇÃO COMERCIAL, QUALQUER PERDA DE DADOS QUE O USUÁRIO POSSA SOFRER, CUSTOS DE AQUISIÇÃO DE BENS OU SERVIÇOS OU OUTRA PERDA INTANGÍVEL;
+
+        (B) QUALQUER PERDA OU DANO EM QUE O USUÁRIO POSSA INCORRER, INCLUSIVE, MAS NÃO SE LIMITANDO A, PERDA OU DANOS EM DECORRÊNCIA DE:
+
+            (I) QUALQUER EXPECTATIVA DO USUÁRIO QUANTO À INTEGRIDADE, PRECISÃO OU EXISTÊNCIA DE QUALQUER PUBLICIDADE, OU EM RESULTADO DE QUALQUER RELAÇÃO OU TRANSAÇÃO REALIZADA COM QUALQUER ANUNCIANTE OU PATROCINADOR CUJA PUBLICIDADE APAREÇA NOS SERVIÇOS;
+
+            (II) QUAISQUER ALTERAÇÕES QUE O GOOGLE POSSA FAZER AOS SERVIÇOS, OU POR QUALQUER CESSAÇÃO PERMANENTE OU TEMPORÁRIA DO FORNECIMENTO DOS SERVIÇOS (OU QUAISQUER FUNCIONALIDADES NOS PRÓPRIOS SERVIÇOS);
+
+            (III) A ELIMINAÇÃO, CORRUPÇÃO OU INCAPACIDADE DE ARMAZENAMENTO DE QUALQUER CONTEÚDO OU OUTROS DADOS DE COMUNICAÇÕES MANTIDOS OU TRANSMITIDOS POR OU ATRAVÉS DA UTILIZAÇÃO DOS SERVIÇOS POR PARTE DO USUÁRIO;
+
+            (III) O NÃO FORNECIMENTO AO GOOGLE, POR PARTE DO USUÁRIO, DE INFORMAÇÕES CORRETAS RELATIVAS À CONTA;
+
+            (IV) A NÃO MANUTENÇÃO, POR PARTE DO USUÁRIO, DA SEGURANÇA E DA CONFIDENCIALIDADE DOS DETALHES DA SUA CONTA E SENHA.
+
+    15.2 AS LIMITAÇÕES DE RESPONSABILIDADE DO GOOGLE PERANTE O USUÁRIO, MENCIONADAS NO PARÁGRAFO 15.1 ACIMA, SERÃO APLICÁVEIS INDEPENDENTEMENTE DE O GOOGLE TER OU NÃO SIDO NOTIFICADO OU AINDA QUE DEVESSE TER CONHECIMENTO DA POSSIBILIDADE DE OCORRÊNCIA DE TAIS PERDAS.
+
+16. Políticas relativas a direitos autorais e marcas comerciais
+
+    16.1 É política do Google responder a avisos sobre supostas infrações de direitos autorais, conforme a lei internacional aplicável sobre propriedade intelectual (incluindo, nos Estados Unidos, o Digital Millennium Copyright Act), bem como encerrar as contas de infratores reincidentes. Detalhes sobre a política do Google podem ser obtidos em http://www.google.com/dmca.html.
+
+    16.2 O Google utiliza um procedimento de reclamações sobre marcas comerciais relacionado com o seu serviço de publicidade, cujos detalhes poderão ser obtidos em http://www.google.com/tm_complaint.html.
+
+17. Anúncios
+
+    17.1 Alguns dos Serviços são mantidos por receita proveniente de publicidade e podem exibir anúncios e promoções. Tais anúncios podem ser contextuais ao conteúdo da informação armazenada nos Serviços, pesquisas feitas por meio dos Serviços ou outras informações.
+
+    17.2 A maneira, modo e abrangência da publicidade do Google nos Serviços estão sujeitos a alterações sem aviso prévio específico ao usuário.
+
+    17.3 Considerando a concessão por parte do Google do acesso e uso dos Serviços, o usuário manifesta o seu acordo sobre a possibilidade de o Google colocar tais anúncios nos Serviços.
+
+18. Outros conteúdos
+
+    18.1 Os Serviços podem incluir hiperlinks a outros sites, conteúdo ou recursos da web. O Google pode não ter nenhum controle sobre quaisquer sites ou recursos da web fornecidos por empresas ou pessoas que não o Google.
+
+    18.2 O usuário reconhece e concorda que o Google não é responsável pela disponibilidade de qualquer um desses sites ou recursos externos e nem endossa qualquer anúncio, produto ou outro material disponível ou originado em tais sites e recursos da web.
+
+    18.3 O usuário reconhece e concorda que o Google não é responsável por qualquer perda ou dano em que possa incorrer em resultado da disponibilidade de tais sites ou recursos externos, ou em decorrência de qualquer expectativa esperada pelo usuário em relação à integridade, precisão ou existência de quaisquer anúncios, produtos ou outros materiais presentes ou disponíveis a partir de tais sites ou recursos da web.
+
+19. Alterações nos Termos
+
+    19.1 O Google poderá alterar periodicamente os Termos Universais ou Termos Adicionais. Quando essas alterações forem efetuadas, o Google fará uma nova cópia dos Termos Universais disponíveis em http://www.google.com.br/accounts/TOS?hl=pt e quaisquer novos Termos Adicionais serão disponibilizados ao usuário nos Serviços afetados ou através deles.
+
+    19.2 O usuário compreende e concorda que, se utilizar os Serviços após a data de alteração dos Termos Universais ou Termos Adicionais, o Google considerará essa utilização como uma aceitação dos Termos Universais ou Termos Adicionais atualizados.
+
+20. Termos jurídicos gerais
+
+    20.1 Ocasionalmente, durante a utilização dos Serviços, o usuário poderá (em resultado da ou através da utilização dos Serviços) usar um serviço, fazer download de um componente de software ou comprar bens fornecidos por outra pessoa ou empresa. A utilização de tais serviços, software ou bens por parte do usuário poderá estar sujeita a termos em separado entre o usuário e a empresa ou pessoa em questão. Nesse caso, os Termos não afetam a relação jurídica do usuário com essas empresas ou indivíduos.
+
+    20.2 Os Termos constituem o contrato integral entre o usuário e o Google e regulam a utilização dos Serviços (excluindo quaisquer serviços que possam eventualmente ser fornecidos pelo Google de acordo com um contrato escrito em separado), substituindo na íntegra quaisquer contratos anteriores estabelecidos entre o usuário e o Google em relação aos Serviços.
+
+    20.3 O usuário concorda que o Google poderá lhe enviar avisos, incluindo aqueles sobre alterações feitas aos Termos, por e-mail, carta ou publicações nos Serviços.
+
+    20.4 O usuário concorda que, se o Google não exercer ou utilizar qualquer direito legal ou direito reconhecido contido nos Termos (ou ao qual o Google tenha direito nos termos de qualquer lei aplicável), isso não será considerado como uma renúncia formal aos direitos do Google, mantendo-se tais direitos disponíveis para todos os devidos efeitos.
+
+    20.5 Se qualquer tribunal, tendo jurisdição para decidir sobre essa questão, determinar que qualquer cláusula destes Termos é inválida, tal cláusula será removida dos Termos sem afetar a validade do restante dos Termos. As cláusulas restantes dos Termos continuarão sendo válidas e aplicáveis.
+
+    20.6 O usuário reconhece e concorda que cada membro do grupo de empresas das quais o Google é a empresa controladora será tido como beneficiário dos Termos e que essas outras empresas terão direito a aplicar diretamente, e a contar com, qualquer cláusula dos Termos que lhes atribua um benefício (ou um direito a favor delas). Exceto o caso anterior, nenhuma outra pessoa ou empresa poderá ser beneficiária relativamente a estes Termos.
+
+    20.7 Os Termos, e o relacionamento entre o usuário e o Google conforme os Termos, serão regidos pelas leis do Estado da Califórnia, independentemente do conflito de cláusulas legais. O usuário e o Google concordam em submeter à exclusiva jurisdição dos tribunais localizados no condado de Santa Clara, Califórnia, a resolução de quaisquer questões legais resultantes dos Termos. Não obstante o referido, o usuário concorda que o Google poderá ainda apresentar medidas injuntivas (ou de tipo equivalente de compensação legal urgente) em qualquer jurisdição.
+
+    16 de abril de 2007

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="setup/tab1" xmbdesc="Label(setup/tab1)">
+  <xmbtext>Типы файлов</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab2" xmbdesc="Label(setup/tab2)">
+  <xmbtext>Веб-альбомы</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab3" xmbdesc="Label(setup/tab3)">
+  <xmbtext>Пользовательский интерфейс</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_enable" xmbdesc="Label(setup/radio_enable)">
+  <xmbtext>Использовать программу Picasa Photo Viewer по умолчанию для просмотра следующих типов файлов:</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_disable" xmbdesc="Label(setup/radio_disable)">
+  <xmbtext>Не использовать программу Picasa Photo Viewer</xmbtext>
+ </action>
+ <action type="Label" target="setup/try" xmbdesc="Label(setup/try)">
+  <xmbtext>Попробуйте! Всегда можно вернуть текущие настройки.</xmbtext>
+ </action>
+ <action type="Label" target="setup/finish" xmbdesc="Label(setup/finish)">
+  <xmbtext>Отмена</xmbtext>
+ </action>
+ <action type="Label" target="setup/ok" xmbdesc="Label(setup/ok)">
+  <xmbtext>OK</xmbtext>
+ </action>
+ <action type="Label" target="setup/description" xmbdesc="Label(setup/description)">
+  <xmbtext>Теперь в состав Picasa входит быстрое и эффективное средство для просмотра фотографий, которое позволяет просматривать изображения непосредственно из проводника.</xmbtext>
+ </action>
+ <action type="Label" target="setup/title" xmbdesc="Label(setup/title)">
+  <xmbtext>Picasa</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_default" xmbdesc="Label(setup/select_default)">
+  <xmbtext>Текущий</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_all" xmbdesc="Label(setup/select_all)">
+  <xmbtext>Выбрать все</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_none" xmbdesc="Label(setup/select_none)">
+  <xmbtext>Не выбирать ничего</xmbtext>
+ </action>
+ <action type="Label" target="setup/features" xmbdesc="Label(setup/features)">
+  <xmbtext>Удобные представления. Быстрое добавление. Слайд-шоу.</xmbtext>
+ </action>
+ <action type="Label" target="setup/picasaintro" xmbdesc="Label(setup/picasaintro)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ptext" xmbdesc="Label(setup/ptext)">
+  <xmbtext>Веб-альбомы позволяют делиться фотографиями друзьями, близкими или всеми пользователями Интернета. Это не требует специальных навыков и финансовых затрат.</xmbtext>
+ </action>
+ <action type="Label" target="setup/gphotoslink" xmbdesc="Label(setup/gphotoslink)">
+  <xmbtext>Нажмите здесь, чтобы получить подробную информацию.</xmbtext>
+ </action>
+ <action type="Label" target="setup/loginheader" xmbdesc="Label(setup/loginheader)">
+  <xmbtext>Войти с помощью аккаунта Google</xmbtext>
+ </action>
+ <action type="Label" target="setup/usernametxt" xmbdesc="Label(setup/usernametxt)">
+  <xmbtext>Имя пользователя:</xmbtext>
+ </action>
+ <action type="Label" target="setup/signin" xmbdesc="Label(setup/signin)">
+  <xmbtext>Войти</xmbtext>
+ </action>
+ <action type="Label" target="setup/focsignin" xmbdesc="Label(setup/focsignin)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ui_option1" xmbdesc="Label(setup/ui_option1)">
+  <xmbtext>Масштабирование с помощью колесика мыши (удерживайте клавишу Ctrl для навигации)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option2" xmbdesc="Label(setup/ui_option2)">
+  <xmbtext>Автоматически скрывать панель с действиями программы Picasa Photo Viewer в полноэкранном режиме</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option3" xmbdesc="Label(setup/ui_option3)">
+  <xmbtext>Полноэкранный запуск (требуется перезапуск программы Photo Viewer)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option4" xmbdesc="Label(setup/ui_option4)">
+  <xmbtext>Прозрачный фон (для активации требуется перезапуск программы Photo Viewer)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option5" xmbdesc="Label(setup/ui_option5)">
+  <xmbtext>Включить параметр управления цветом (требуется перезагрузка программы Picasa Photo Viewer)</xmbtext>
+ </action>
+</tooltips>

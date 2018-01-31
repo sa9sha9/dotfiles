@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_main/window.title">
+  <xmbtext>Device and Auto Backup Status</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/show_options.title">
+  <xmbtext>Beállítások...</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_retry.title">
+  <xmbtext>Újra</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_skip.title">
+  <xmbtext>Kihagyás</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/device_title.title">
+  <xmbtext>Eszközök</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/namecolumn.title">
+  <xmbtext>Name</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/statuscolumn.title">
+  <xmbtext>Status</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/import_from_device.title">
+  <xmbtext>Importálás</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/exit.title">
+  <xmbtext>Kilépés</xmbtext>
+ </stringres>
+</resources>

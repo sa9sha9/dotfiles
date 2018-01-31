@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_main/window.title">
+  <xmbtext>Device and Auto Backup Status</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/show_options.title">
+  <xmbtext>Opcions...</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_retry.title">
+  <xmbtext>Prova-ho</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_skip.title">
+  <xmbtext>Omet</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/device_title.title">
+  <xmbtext>Dispositius</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/namecolumn.title">
+  <xmbtext>Name</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/statuscolumn.title">
+  <xmbtext>Status</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/import_from_device.title">
+  <xmbtext>Importa</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/exit.title">
+  <xmbtext>Surt</xmbtext>
+ </stringres>
+</resources>

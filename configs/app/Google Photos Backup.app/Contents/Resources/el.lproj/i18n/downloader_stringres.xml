@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Αυτή η εφαρμογή πραγματοποιεί λήψη νέων εκδόσεων του Picasa και των στοιχείων τους.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Δεν πρέπει να πραγματοποιηθεί απευθείας εκκίνηση της εφαρμογής</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Δεν είναι δυνατός ο έλεγχος ταυτότητας</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Δεν είναι δυνατή η σύνδεση</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Η εφαρμογή αυτή έχει ενημερωθεί</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Σύνδεση στους διακομιστές της Google</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Πραγματοποίηση σύνδεσης...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Ενημέρωση του Picasa σε εξέλιξη </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Λήψη ενημέρωσης του Picasa...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Για την εκτέλεση της ενέργειας αυτής απαιτείται μια ενεργή σύνδεση στο Διαδίκτυο. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Δεν ήταν δυνατός ο έλεγχος για την τελευταία έκδοση από τον διακομιστή του Google.\n\nΔοκιμάστε ξανά σε λίγα λεπτά.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Δεν ήταν δυνατή η λήψη από %1$s έως %2$s (%3$x). Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο και δοκιμάστε ξανά.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Μια νέα έκδοση του Picasa έχει ήδη ληφθεί.\nΘα γίνει αυτόματη εγκατάσταση της νέας έκδοσης την επόμενη φορά που θα εκτελέσετε το Picasa.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Σφάλμα %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Σφάλμα %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Σφάλμα</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Το αρχείο είναι αυθεντικό</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Το αρχείο ΔΕΝ είναι αυθεντικό</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d%% ολοκληρώθηκε, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>%1$02d:%2$02d:%3$02dδ απομένουν.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>%1$02d:%2$02d απομένουν.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Αυτή η έκδοση του Picasa δεν είναι ενημερωμένη και ορισμένα διαδικτυακά χαρακτηριστικά ενδέχεται να μην λειτουργούν σωστά. Θέλετε να κάνετε ενημέρωση τώρα;</xmbtext>
+ </stringres>
+</resources>

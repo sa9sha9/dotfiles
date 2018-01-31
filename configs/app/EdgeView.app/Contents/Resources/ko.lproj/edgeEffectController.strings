@@ -1,0 +1,48 @@
+
+/* Class = "NSTextFieldCell"; title = "Bias :"; ObjectID = "3aU-cJ-HrX"; */
+"3aU-cJ-HrX.title" = "가중치 :";
+
+/* Class = "NSButtonCell"; title = "Unsharpen Mask"; ObjectID = "Fl6-x5-a3F"; */
+"Fl6-x5-a3F.title" = "언샤픈 마스크";
+
+/* Class = "NSTextFieldCell"; title = "Black Point :"; ObjectID = "JN8-zm-Olw"; */
+"JN8-zm-Olw.title" = "블랙 포인트 :";
+
+/* Class = "NSBox"; title = "Insert Shadow in Double Page"; ObjectID = "KwK-hG-cJ0"; */
+"KwK-hG-cJ0.title" = "양 페이지 사이에 그림자 넣기";
+
+/* Class = "NSTextFieldCell"; title = "Auto Level Strength :"; ObjectID = "Lyj-zM-hAP"; */
+"Lyj-zM-hAP.title" = "자동 레벨 가중치 :";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "Ppd-5g-Se3"; */
+"Ppd-5g-Se3.title" = "%";
+
+/* Class = "NSBox"; title = "Auto Level"; ObjectID = "QRC-k7-8KU"; */
+"QRC-k7-8KU.title" = "자동 레벨";
+
+/* Class = "NSButtonCell"; title = "Auto Level"; ObjectID = "Zhd-WJ-uvb"; */
+"Zhd-WJ-uvb.title" = "자동 레벨";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "cwh-Bd-g1S"; */
+"cwh-Bd-g1S.title" = "%";
+
+/* Class = "NSTextFieldCell"; title = "White Point :"; ObjectID = "geC-5N-wpc"; */
+"geC-5N-wpc.title" = "화이트 포인트 :";
+
+/* Class = "NSButtonCell"; title = "Insert Shadow In Double Page"; ObjectID = "jPQ-XU-PpM"; */
+"jPQ-XU-PpM.title" = "양 페이지 사이에 그림자 넣기";
+
+/* Class = "NSButtonCell"; title = "Sharpen"; ObjectID = "lCW-a2-o2A"; */
+"lCW-a2-o2A.title" = "선명도";
+
+/* Class = "edgeEffectPanel"; title = "Effect Manager"; ObjectID = "tJX-Kd-FvN"; */
+"tJX-Kd-FvN.title" = "특수효과 관리자";
+
+/* Class = "NSTextFieldCell"; title = "Page Shadow Width :"; ObjectID = "vYr-SY-IXT"; */
+"vYr-SY-IXT.title" = "그림자 너비 비율 :";
+
+/* Class = "NSBox"; title = "Sharpen"; ObjectID = "zNa-7U-83c"; */
+"zNa-7U-83c.title" = "선명도";
+
+/* Class = "NSButtonCell"; title = "Grayscale"; ObjectID = "1G3-2C-UKA"; */
+"1G3-2C-UKA.title" = "회색조";

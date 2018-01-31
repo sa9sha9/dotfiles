@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Скрийнсейвър на Google Фото</xmbtext>
+ </stringres>
+ <stringres id="DazzleUrl::GetMoreFeeds">
+  <xmbtext>/feeds?hl=bg</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Feed:">
+  <xmbtext>Емисия:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Source:">
+  <xmbtext>Източник:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:ImageLink:">
+  <xmbtext>Сайт:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:untitledfeedcaption">
+  <xmbtext>Неозаглавена фотоемисия</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDefault">
+  <xmbtext>Виждате стандартната фотоемисия на Google. За да се покажат други снимки, изберете „Конфигуриране на скрийнсейвъра на Google Фото“ от стартовото меню.</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDiscover">
+  <xmbtext>Открийте нови емисии! Посетете http://pack.google.com/feeds.</xmbtext>
+ </stringres>
+ <stringres id="CaptionNode::empty_caption_replacement">
+  <xmbtext>без заглавие</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo1::Logout">
+  <xmbtext>Изход</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo2::Login">
+  <xmbtext>Вход</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddOtherUsers1">
+  <xmbtext>Други потребители</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddNoUsersItem">
+  <xmbtext>Няма добавени потребители</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddFavorites1">
+  <xmbtext>Моите любими</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites1b">
+  <xmbtext>Влезте, за да изтеглите списък с любимите си</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites2">
+  <xmbtext>Скорошни снимки от „Моите любими“</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddMyWebAlbums">
+  <xmbtext>Моите уеб албуми</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum1b">
+  <xmbtext>Вход в Google</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum2">
+  <xmbtext>Снимки от най-скоро променените ми уеб албуми</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum3">
+  <xmbtext>Снимки в скритите ми албуми</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AppendNumberAlbums">
+  <xmbtext>албуми</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::showVerifying">
+  <xmbtext>ПРОВЕРЯВА СЕ</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::doBadMsg">
+  <xmbtext>Не отговаря</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::CheckSelections">
+  <xmbtext>Наистина ли искате да продължите, без да изберете нито един уеб албум?\nНяма да се покажат снимки от уеб албумите.</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::GetMyCaption">
+  <xmbtext>Уеб Албуми</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologines">
+  <xmbtext>Наистина ли искате да продължите, без да влезете в профила си?\nНяма да се покажат снимки от Google Фото.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologin">
+  <xmbtext>Наистина ли искате да продължите, без да влезете в профила си?\nНяма да се покажат снимки от Уеб Албуми.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselectedes">
+  <xmbtext>Наистина ли искате да продължите, без да активирате нито една опция?\nНяма да се покажат снимки от Google Фото.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselected">
+  <xmbtext>Наистина ли искате да продължите, без да активирате нито една опция?\nНяма да се покажат снимки от Уеб Албуми.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::loginfailed">
+  <xmbtext>Информацията за вход не е налице.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::notloggedin">
+  <xmbtext>Няма потребителска информация. Моля, влезте в профила си--&gt;</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::login">
+  <xmbtext>Вход</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::ChangeUser">
+  <xmbtext>Промяна на потребителя</xmbtext>
+ </stringres>
+ <stringres id="CLocalPrefs::GetMyCaption">
+  <xmbtext>Настройки на папките</xmbtext>
+ </stringres>
+ <stringres id="Add_Folder">
+  <xmbtext>Добавяне на папка</xmbtext>
+ </stringres>
+ <stringres id="saver2::noservice">
+  <xmbtext>Профилът ви не поддържа тази услуга.</xmbtext>
+ </stringres>
+ <stringres id="saver2::loginfailed">
+  <xmbtext>Неуспешно: Потребителското име и паролата са неправилни.</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginServerError">
+  <xmbtext>Неуспешно: Настройките ви за поверителност на „бисквитките“ са твърде строги, за да влезете в Google.</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginGenericError">
+  <xmbtext>Неуспешно: При влизането в Google възникна грешка.</xmbtext>
+ </stringres>
+ <stringres id="CPicasaPrefs::nothingselected">
+  <xmbtext>Наистина ли искате да продължите, без да активирате нито една опция?\nНяма да се покажат снимки от Picasa.</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::PicasaConfigDlgTitle">
+  <xmbtext>Настройки на скрийнсейвъра на Google Фото</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader1">
+  <xmbtext>Източник</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader2">
+  <xmbtext>Заглавие</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::NoPhotosInFeed2">
+  <xmbtext>(Няма снимки) </xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::OnAccept">
+  <xmbtext>Наистина ли искате да продължите, без да изберете нито един източник на снимки?\nНяма да се покажат снимки.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::GetMyCaption">
+  <xmbtext>Обществени фотосайтове</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::NoPhotosInFeed">
+  <xmbtext>В тази емисия няма нито едно изображение...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::true">
+  <xmbtext>да</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::false">
+  <xmbtext>не</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlInvalid">
+  <xmbtext>URL адресът на емисията е невалиден.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::notLoggedIn">
+  <xmbtext>Моля, влезете в профила си по-долу, за да публикувате.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::tooManyPublished">
+  <xmbtext>Не можете да публикувате повече от 500 емисии.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlTooLong">
+  <xmbtext>URL адресът на емисията е твърде дълъг за публикуване.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::dlError">
+  <xmbtext>Грешка при изтегляне на публикуваната конфигурация.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::postError">
+  <xmbtext>Грешка при качване на новата конфигурация.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::connectionError">
+  <xmbtext>Грешка при свързване със сървъра за публикуване.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::authError">
+  <xmbtext>Грешка при влизане в сървъра за публикуване.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::unknownError">
+  <xmbtext>Публикуването не може да се извърши поради неизвестна грешка.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::checking">
+  <xmbtext>извършва се проверка...</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::ChangeUser">
+  <xmbtext>Промяна на потребителя</xmbtext>
+ </stringres>
+ <stringres id="saver2::notloggedin">
+  <xmbtext>Няма потребителска информация. Моля, влезте в профила си--&gt;</xmbtext>
+ </stringres>
+ <stringres id="saver2::login">
+  <xmbtext>Вход</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::linkNotLoggedIn">
+  <xmbtext>Моля, влезте в профила си по-долу, за да получите URL адрес.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::EnableHeader">
+  <xmbtext>Активирано</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::PublishHeader">
+  <xmbtext>Публикувани</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::FeedTitleHeader">
+  <xmbtext>Име на фотоемисията</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::updating">
+  <xmbtext>публикува се...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::deleting">
+  <xmbtext>изтрива се...</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header1">
+  <xmbtext>Профил</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header2">
+  <xmbtext>Име</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::AlbumsListHeader1">
+  <xmbtext>Име на албума</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums1">
+  <xmbtext>Профил</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums2">
+  <xmbtext>Име</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums3">
+  <xmbtext>Албум</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed1">
+  <xmbtext>Снимките ще се изтеглят в папката </xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed">
+  <xmbtext>Визуализация</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::showBad">
+  <xmbtext>(Не отговаря)</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::ConfigureButton">
+  <xmbtext>Конфигуриране...</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::GetPicasa">
+  <xmbtext>Изтеглете Picasa</xmbtext>
+ </stringres>
+ <stringres id="CScrTitle">
+  <xmbtext>Скрийнсейвър на Google Фото</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::collage">
+  <xmbtext>Колаж</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::wipe">
+  <xmbtext>Изтриване</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::crossfade">
+  <xmbtext>Преливане</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::panzoom">
+  <xmbtext>Панорама и увеличение</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::push">
+  <xmbtext>Изтласкване</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::rect">
+  <xmbtext>Правоъгълник</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::circle">
+  <xmbtext>Кръг</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::diagonal">
+  <xmbtext>Диагонал</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::checkerboard">
+  <xmbtext>Шахматна дъска</xmbtext>
+ </stringres>
+ <stringres id="CSettingsDialog::MustRestartBrowser">
+  <xmbtext>След като рестартирате браузъра си, можете да кликвате с десния бутон на мишката върху връзките към фотоемисии, за да ги добавяте към скрийнсейвъра.</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::PicasaHomepage">
+  <xmbtext>http://picasa.google.com/intl/bg/#utm_source=gph-et-bg&amp;utm_medium=et&amp;utm_campaign=bg-screensaver</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::nothingselected">
+  <xmbtext>Наистина ли не искате да активирате нито един източник на снимки?\nНяма да се покажат изображения.</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::gadgets">
+  <xmbtext>Google Притурки</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::nothingselected">
+  <xmbtext>Наистина ли не искате да активирате нито един източник на снимки?\nНяма да се покажат изображения.</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::KBHookProc">
+  <xmbtext>Натиснете „Да“, за да възстановите стандартните настройки на скрийнсейвъра, или „Не“ за отказ.</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::NoFeedForEmail">
+  <xmbtext>За този имейл адрес няма публикувани емисии...</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::FeedTitleHeader">
+  <xmbtext>Споделен конфигурационен имейл</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPictures">
+  <xmbtext>Папка „Моите снимки“</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPicturesRelPath">
+  <xmbtext>MyPictures\\</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalPicasa">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaScreensaverAlbum">
+  <xmbtext>Албум за скрийнсейвъра на Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaStarredPhotos">
+  <xmbtext>Снимки със звезда в Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalFolder">
+  <xmbtext>Локална папка с файлове</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaptionES">
+  <xmbtext>Google Фото</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaption">
+  <xmbtext>Picasa Уеб Албуми</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACredit">
+  <xmbtext>Google</xmbtext>
+ </stringres>
+ <stringres id="CCollectionImageEnum::LoadNextDefaultImage">
+  <xmbtext>Стандартен албум (не са намерени изображения)</xmbtext>
+ </stringres>
+ <stringres id="DefaultPhotoFeedCredit">
+  <xmbtext>Google Фото</xmbtext>
+ </stringres>
+ <stringres id="RecentPhotosFeedCredit">
+  <xmbtext>Google Фото</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirm">
+  <xmbtext>Направена е заявка от приложение за добавяне на емисия към скрийнсейвъра на Google Фото. URL адресът е:\n\n%s\n\nИскате ли да добавите тази емисия?</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirmCaption">
+  <xmbtext>Скрийнсейвър на Google Фото</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::SubscriptionConfirm">
+  <xmbtext>Направена е заявка от приложение за добавяне на абонамент за публикувани конфигурации към скрийнсейвъра на Google Фото.\nИмейл адресът на издателя е:\n\n%s\n\nИскате ли да добавите този абонамент?</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::SaveSelWebAlbums">
+  <xmbtext>Уеб албумът на %s</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::MyAlbumsLabel">
+  <xmbtext>Моите албуми</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::DefaultPhotoFeedCaption">
+  <xmbtext>Емисия за Google Фото</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedURL">
+  <xmbtext>http://lh2.google.com/data/feed/api/all?kind=photo&amp;filter=1&amp;max-results=100&amp;alt=rss</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedCaption">
+  <xmbtext>Скорошни снимки</xmbtext>
+ </stringres>
+</resources>

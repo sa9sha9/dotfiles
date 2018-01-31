@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="featurewindow/nextbutton" xmbdesc="Label(featurewindow/nextbutton)">
+  <xmbtext>是否为现有用户？登录</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/activatebutton" xmbdesc="Label(featurewindow/activatebutton)">
+  <xmbtext>新的用户？请登录！</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/moreinfobutton" xmbdesc="Label(featurewindow/moreinfobutton)">
+  <xmbtext>了解更多</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/closebutton" xmbdesc="Label(featurewindow/closebutton)">
+  <xmbtext>关闭</xmbtext>
+ </action>
+</tooltips>

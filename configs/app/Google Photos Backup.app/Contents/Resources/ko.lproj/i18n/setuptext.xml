@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="setup/tab1" xmbdesc="Label(setup/tab1)">
+  <xmbtext>파일 형식</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab2" xmbdesc="Label(setup/tab2)">
+  <xmbtext>웹앨범</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab3" xmbdesc="Label(setup/tab3)">
+  <xmbtext>사용자 인터페이스</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_enable" xmbdesc="Label(setup/radio_enable)">
+  <xmbtext>다음 파일 형식의 기본 뷰어로 Picasa 사진 뷰어 사용</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_disable" xmbdesc="Label(setup/radio_disable)">
+  <xmbtext>Picasa 사진 뷰어 사용 안함</xmbtext>
+ </action>
+ <action type="Label" target="setup/try" xmbdesc="Label(setup/try)">
+  <xmbtext>시도해 보세요. 현재 설정으로 언제든지 다시 변경할 수 있습니다.</xmbtext>
+ </action>
+ <action type="Label" target="setup/finish" xmbdesc="Label(setup/finish)">
+  <xmbtext>취소</xmbtext>
+ </action>
+ <action type="Label" target="setup/ok" xmbdesc="Label(setup/ok)">
+  <xmbtext>확인</xmbtext>
+ </action>
+ <action type="Label" target="setup/description" xmbdesc="Label(setup/description)">
+  <xmbtext>Picasa에는 이제 Windows 탐색기에서 직접 사진을 볼 수 있는 빠르고, 강력한 사진 뷰어가 포함되었습니다.</xmbtext>
+ </action>
+ <action type="Label" target="setup/title" xmbdesc="Label(setup/title)">
+  <xmbtext>Picasa</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_default" xmbdesc="Label(setup/select_default)">
+  <xmbtext>현재</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_all" xmbdesc="Label(setup/select_all)">
+  <xmbtext>모두 선택</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_none" xmbdesc="Label(setup/select_none)">
+  <xmbtext>선택 안함</xmbtext>
+ </action>
+ <action type="Label" target="setup/features" xmbdesc="Label(setup/features)">
+  <xmbtext>아름다운 광경. 빠른 업로드. 슬라이드쇼.</xmbtext>
+ </action>
+ <action type="Label" target="setup/picasaintro" xmbdesc="Label(setup/picasaintro)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ptext" xmbdesc="Label(setup/ptext)">
+  <xmbtext>웹앨범을 사용하면 친구 및 가족과 온라인 사진 앨범을 공유하거나 공개 앨범을 만들어서 전 세계 사람들과 공유할 수 있습니다. 웹앨범은 사용이 간편한 무료 서비스입니다.</xmbtext>
+ </action>
+ <action type="Label" target="setup/gphotoslink" xmbdesc="Label(setup/gphotoslink)">
+  <xmbtext>자세히 보려면 여기를 클릭하세요.</xmbtext>
+ </action>
+ <action type="Label" target="setup/loginheader" xmbdesc="Label(setup/loginheader)">
+  <xmbtext>Google 계정으로 로그인</xmbtext>
+ </action>
+ <action type="Label" target="setup/usernametxt" xmbdesc="Label(setup/usernametxt)">
+  <xmbtext>사용자 이름:</xmbtext>
+ </action>
+ <action type="Label" target="setup/signin" xmbdesc="Label(setup/signin)">
+  <xmbtext>로그인</xmbtext>
+ </action>
+ <action type="Label" target="setup/focsignin" xmbdesc="Label(setup/focsignin)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ui_option1" xmbdesc="Label(setup/ui_option1)">
+  <xmbtext>마우스휠로 축소/확대(탐색 시 Ctrl 키를 누름)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option2" xmbdesc="Label(setup/ui_option2)">
+  <xmbtext>전체화면에서 사진 뷰어 작업 표시줄 자동 숨기기</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option3" xmbdesc="Label(setup/ui_option3)">
+  <xmbtext>전체화면 시작(적용하려면 사진 뷰어를 다시 시작해야 함)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option4" xmbdesc="Label(setup/ui_option4)">
+  <xmbtext>투명 배경(적용하려면 사진 뷰어를 다시 시작해야 함)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option5" xmbdesc="Label(setup/ui_option5)">
+  <xmbtext>색상 관리 사용(적용하려면 사진 뷰어를 다시 시작해야 함)</xmbtext>
+ </action>
+</tooltips>

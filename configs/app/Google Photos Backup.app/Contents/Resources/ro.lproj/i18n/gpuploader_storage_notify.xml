@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_storage_notify/window.title">
+  <xmbtext>Backup Google Foto</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_header.title">
+  <xmbtext>Noul Backup Google Foto</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_text.title">
+  <xmbtext>Opțiunile de stocare pentru fotografii și videoclipuri s-au îmbunătățit.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.title">
+  <xmbtext>Află mai multe</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.url">
+  <xmbtext>https://support.google.com/plus/answer/1647509#cost</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size.title">
+  <xmbtext>Calitate înaltă (spațiu de stocare nelimitat gratuit)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size_desc.title">
+  <xmbtext>Calitate excepțională a imaginii la o dimensiune redusă a fișierelor</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size.title">
+  <xmbtext>Original (se calculează capacitatea de stocare rămasă...)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size_desc.title">
+  <xmbtext>Fotografiile la rezoluție completă sunt luate în considerare la calcularea cotei de stocare</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_extra.title">
+  <xmbtext>Răsfoiește elementele încărcate deja și descoperă toate funcțiile noi din Google Foto la photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

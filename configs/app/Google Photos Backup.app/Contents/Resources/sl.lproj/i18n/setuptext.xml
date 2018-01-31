@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="setup/tab1" xmbdesc="Label(setup/tab1)">
+  <xmbtext>Vrste datotek</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab2" xmbdesc="Label(setup/tab2)">
+  <xmbtext>Spletni albumi</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab3" xmbdesc="Label(setup/tab3)">
+  <xmbtext>Uporabniški vmesnik</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_enable" xmbdesc="Label(setup/radio_enable)">
+  <xmbtext>Uporabi Pregledovalnik fotografij Picasa kot privzeti pregledovalnik za te vrste datotek:</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_disable" xmbdesc="Label(setup/radio_disable)">
+  <xmbtext>Ne uporabi Pregledovalnika fotografij Picasa</xmbtext>
+ </action>
+ <action type="Label" target="setup/try" xmbdesc="Label(setup/try)">
+  <xmbtext>Poskusite! Še vedno lahko obnovite trenutne nastavitve</xmbtext>
+ </action>
+ <action type="Label" target="setup/finish" xmbdesc="Label(setup/finish)">
+  <xmbtext>Prekliči</xmbtext>
+ </action>
+ <action type="Label" target="setup/ok" xmbdesc="Label(setup/ok)">
+  <xmbtext>V redu</xmbtext>
+ </action>
+ <action type="Label" target="setup/description" xmbdesc="Label(setup/description)">
+  <xmbtext>Picasa zdaj vključuje hiter, zmogljiv pregledovalnik fotografij, s katerim si fotografije lahko ogledate neposredno iz Raziskovalca</xmbtext>
+ </action>
+ <action type="Label" target="setup/title" xmbdesc="Label(setup/title)">
+  <xmbtext>Picasa</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_default" xmbdesc="Label(setup/select_default)">
+  <xmbtext>Trenutno</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_all" xmbdesc="Label(setup/select_all)">
+  <xmbtext>Izberi vse</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_none" xmbdesc="Label(setup/select_none)">
+  <xmbtext>Ne izberi ničesar</xmbtext>
+ </action>
+ <action type="Label" target="setup/features" xmbdesc="Label(setup/features)">
+  <xmbtext>Čudoviti pogledi. Hitro nalaganje. Diaprojekcije.</xmbtext>
+ </action>
+ <action type="Label" target="setup/picasaintro" xmbdesc="Label(setup/picasaintro)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ptext" xmbdesc="Label(setup/ptext)">
+  <xmbtext>Spletni albumi vam omogočajo skupno rabo albumov v spletu s prijatelji in družino ali ustvarjanje javnih albumov, ki jih lahko daste v skupno rabo z vsemi po svetu. Poleg tega so brezplačni in preprosti za uporabo.</xmbtext>
+ </action>
+ <action type="Label" target="setup/gphotoslink" xmbdesc="Label(setup/gphotoslink)">
+  <xmbtext>Kliknite tukaj, če želite izvedeti več o tem.</xmbtext>
+ </action>
+ <action type="Label" target="setup/loginheader" xmbdesc="Label(setup/loginheader)">
+  <xmbtext>Prijavite se s svojim Google Računom</xmbtext>
+ </action>
+ <action type="Label" target="setup/usernametxt" xmbdesc="Label(setup/usernametxt)">
+  <xmbtext>Uporabniško ime:</xmbtext>
+ </action>
+ <action type="Label" target="setup/signin" xmbdesc="Label(setup/signin)">
+  <xmbtext>Prijava</xmbtext>
+ </action>
+ <action type="Label" target="setup/focsignin" xmbdesc="Label(setup/focsignin)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ui_option1" xmbdesc="Label(setup/ui_option1)">
+  <xmbtext>Povečava z miško s kolescem (pridrži Ctrl za krmarjenje)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option2" xmbdesc="Label(setup/ui_option2)">
+  <xmbtext>V celozaslonskem načinu samodejno skrij vrstico dejanja pregledovalnika fotografij</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option3" xmbdesc="Label(setup/ui_option3)">
+  <xmbtext>Zaženi na celotnem zaslonu (zahteva uveljavitev ponovnega zagona pregledovalnika fotografij) </xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option4" xmbdesc="Label(setup/ui_option4)">
+  <xmbtext>Prosojno ozadje (če ga želite uporabiti, ponovno zaženite pregledovalnik fotografij) </xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option5" xmbdesc="Label(setup/ui_option5)">
+  <xmbtext>Omogoči upravljanje barv (pregledovalnik fotografij je treba ponovno zagnati)</xmbtext>
+ </action>
+</tooltips>

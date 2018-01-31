@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_instructions/instruction_window.title">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_header.title">
+  <xmbtext>Google Photos Backup 已正式推出！</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_label.title">
+  <xmbtext>点击“Google 相册”图标即可暂停、更改偏好设置或检查进度。</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/okbutton.title">
+  <xmbtext>确定</xmbtext>
+ </stringres>
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>ログインが認証されていません。しばらくしてから再度試してください。</xmbtext>
+ </stringres>
+ <stringres id="FilmstripHandler::getfilmstat">
+  <xmbtext>%1$d / %2$d</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_image">
+  <xmbtext>無効な画像</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::ConnectionCheck">
+  <xmbtext>写真をアップロードするには、インターネットに接続している必要があります</xmbtext>
+ </stringres>
+ <stringres id="slingshot::friendly_app_name_debug">
+  <xmbtext>Picasa フォト ビューア（デバッグ）</xmbtext>
+ </stringres>
+ <stringres id="ss:upload_command">
+  <xmbtext>Shell\\ウェブ アルバムにアップロード\\Command</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name">
+  <xmbtext>フォト ビューアの設定</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name2">
+  <xmbtext>Picasa ウェブにアップロード</xmbtext>
+ </stringres>
+ <stringres id="OptionsDialog::RAW">
+  <xmbtext>RAW フォーマット</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_default">
+  <xmbtext>デフォルト</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_finish">
+  <xmbtext>終了</xmbtext>
+ </stringres>
+ <stringres id="slingshot::without_association">
+  <xmbtext>%s（関連なし）</xmbtext>
+ </stringres>
+ <stringres id="slingshot::with_association">
+  <xmbtext>%1$s（%2$s）</xmbtext>
+ </stringres>
+ <stringres id="slingshot::current_association">
+  <xmbtext>%1$s（%2$s）</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_out">
+  <xmbtext>ログアウト</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_in">
+  <xmbtext>ログイン</xmbtext>
+ </stringres>
+ <stringres id="slingshot::quick_upload_fail">
+  <xmbtext>アップロードできませんでした</xmbtext>
+ </stringres>
+ <stringres id="slingshot::account_creation_url">
+  <xmbtext>https://www.google.com/accounts/ServiceLogin?hl=ja_JP&amp;continue=http%3A%2F%2Fpicasaweb.google.com%2Fhome&amp;service=lh2&amp;ltmpl=pwasignup</xmbtext>
+ </stringres>
+ <stringres id="slingshot::forgot_password_url">
+  <xmbtext>https://www.google.com/accounts/ForgotPasswd</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_enabled_error">
+  <xmbtext>このアカウントではウェブ アルバムを使用できません。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_forbidden">
+  <xmbtext>ログインが認証されませんでした - しばらくしてからもう一度試してください。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_incorrect">
+  <xmbtext>ログイン情報が正しくありません。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_cookie_error">
+  <xmbtext>ご使用の Cookie のプライバシー設定が高すぎるため、ログインできません。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_server_error">
+  <xmbtext>ログイン サーバーに接続できませんでした。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_general_failure">
+  <xmbtext>ログインできませんでした。</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat1">
+  <xmbtext>アップロード ステータス: %1$s - %2$d%%（残り %3$d）</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat2">
+  <xmbtext>アップロード ステータス: %1$s - %2$s</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_selection">
+  <xmbtext>場所「%s」には有効な画像ファイルがありません。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_file">
+  <xmbtext>ファイル「%s」は有効な画像ファイルではありません。</xmbtext>
+ </stringres>
+ <stringres id="slingshot::imagefiles">
+  <xmbtext>画像ファイル</xmbtext>
+ </stringres>
+ <stringres id="slingshot::window_name">
+  <xmbtext>Picasa フォト ビューア</xmbtext>
+ </stringres>
+ <stringres id="slingshot::viapicasa_separator">
+  <xmbtext>Picasa...</xmbtext>
+ </stringres>
+ <stringres id="slingshot::print">
+  <xmbtext>印刷（P）</xmbtext>
+ </stringres>
+ <stringres id="slingshot::email">
+  <xmbtext>メール（M）</xmbtext>
+ </stringres>
+ <stringres id="slingshot::blogthis">
+  <xmbtext>BlogThis!（B）</xmbtext>
+ </stringres>
+ <stringres id="ss:config">
+  <xmbtext>設定(C)</xmbtext>
+ </stringres>
+ <stringres id="ss:help">
+  <xmbtext>ヘルプ（F1）</xmbtext>
+ </stringres>
+ <stringres id="slingshot::openwith_separator">
+  <xmbtext>開く...</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_COPY">
+  <xmbtext>コピー</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EDIT">
+  <xmbtext>Picasa で編集</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_PRINT_PHOTO">
+  <xmbtext>印刷</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EMAIL">
+  <xmbtext>メール</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_BLOG">
+  <xmbtext>ブログ</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_QUICKUPLOAD">
+  <xmbtext>クイック アップロード</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_LOCATEONDISK">
+  <xmbtext>保存フォルダを開く</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_SHOW_CAPTIONS">
+  <xmbtext>説明を表示</xmbtext>
+ </stringres>
+ <stringres id="slingshot::welcome">
+  <xmbtext>Picasa フォト ビューア へようこそ</xmbtext>
+ </stringres>
+</resources>

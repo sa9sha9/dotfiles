@@ -1,0 +1,280 @@
+﻿Google’s betingelser for tjenesteydelser
+
+Velkommen til Google! 
+
+1.	Din forbindelse med Google
+
+1.1 Din brug af Google’s produkter, software, tjenesteydelser og websites (under et kaldet "Tjenesteydelserne og eksklusiv tjenesteydelser, som du har modtaget af Google i henhold til en separat skriftlig aftale) er underlagt betingelserne i en juridisk aftale mellem dig og Google. "Google" betyder Google Inc., hvis hovedkvarter er på 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Dette dokument forklarer, hvorledes aftalen er affattet, og forklarer nogle af betingelserne i denne aftale.
+
+1.2 Medmindre du skriftligt har aftalt andet med Google, vil din aftale med Google som et minimum indeholde vilkår og betingelser, der er fremhævet i dette dokument. Disse kaldes i det følgende for "Generelle Betingelser". 
+
+1.3 Din aftale med Google vil også inkludere betingelser i juridiske meddelelser, der i tillæg til de Generelle Betingelser finder anvendelse på Tjenesteydelserne. Alle disse betegnes i det følgende som "Tillægsbetingelserne". Hvor Tillægsbetingelser gælder for en Tjenesteydelse, vil du få adgang til dem, så de kan læses enten i eller gennem din brug af en sådan Tjenesteydelse.
+
+1.4 De Generelle Betingelser danner sammen med Tillægsbetingelserne en juridisk bindende aftale mellem dig og Google i relation til din brug af Tjenesteydelserne. Det er vigtigt, at du tager dig tid til at læse dem nøje. Denne juridiske aftale kaldes samlet "Betingelserne" i det følgende.
+
+1.5 Hvis der er modsigelse mellem hvad Tillægsbetingelserne siger, og hvad de Generelle Betingelser siger, har Tillægsbetingelserne forret I forbindelse med den pågældende Tjenesteydelse.
+
+
+
+2.	Accept af betingelserne
+
+2.1 For at bruge Tjenesteydelserne må du først acceptere Betingelserne. Du må ikke bruge Tjenesteydelserne, hvis du ikke accepterer Betingelserne.
+
+2.2	Du kan acceptere Betingelserne ved at:
+
+(A) klikke på accept eller acceptere Betingelserne hvor Google stiller denne mulighed til din rådighed i brugerfladen i nogen tjenesteydelse; eller 
+
+(B) ved faktisk at bruge Tjenesteydelserne. I så fald forstår du og accepterer, at Google vil behandle din brug af Tjenesteydelserne som en accept af Betingelserne fra og med dette tidspunkt. 
+
+
+
+2.3 Du må ikke bruge Tjenesteydelserne eller acceptere Betingelserne, hvis (a) du ikke er myndig til at indgå en bindende kontrakt med Google, eller (b) du er forhindret i at modtage Tjenesteydelserne ifølge lovene i USA eller andre lande, herunder det land, hvor du har bopæl eller hvorfra du bruger Tjenesteydelserne.
+
+2.4	Før du fortsætter, bør du udskrive eller gemme en lokal kopi af de Generelle Betingelser til dit arkiv. 
+
+
+
+3.	Sproget i Betingelserne
+
+3.1 Hvis Google har forsynet dig med en oversættelse af den engelsksprogede version af Betingelserne, så accepterer du, at oversættelsen kun er stillet til rådighed for din egen bekvemmelighed, og at de engelsksprogede versioner vil være bestemmende for dit forhold til Google.
+
+3.2 Hvis der er uoverensstemmelser mellem hvad den engelsksprogede version af Betingelserne siger og hvad en oversættelse siger, er det den engelsksprogede version, der har forret.
+
+
+
+4.	Levering af Tjenesteydelserne fra Google
+
+4.1 Google har juridiske søster- og datterselskaber over hele verden ("Søster- og Datterselskaber"). Til tider vil disse selskaber levere Tjenesteydelserne til dig på vegne af Google selv. Du accepterer, at Søster- og Datterselskaber vil have ret til at levere Tjenesteydelserne til dig.
+
+4.2 Google innoverer konstant for at give sine brugere den bedst mulige oplevelse. Du accepterer, at den form og egenart, som Google giver Tjenesteydelserne, kan ændres løbende uden forudgående varsel til dig.
+
+4.3 Som del af denne løbende innovation accepterer du, at Google kan stoppe (permanent eller midlertidigt) levering af Tjenesteydelserne (eller ethvert element som indeholdes i Tjenesteydelserne) til dig eller til brugere generelt efter Google’s eget skøn og uden forudgående varsel til dig. Du kan til enhver tid stoppe brugen af Tjenesteydelserne. Du behøver ikke udtrykkeligt meddele Google, når du holder op med at bruge Tjenesteydelserne. 
+
+4.4 Du accepterer, at hvis Google spærrer for adgang til din konto, kan du blive afskåret fra adgang til Tjenesteydelserne, dine kontodetaljer eller alle filer eller andet indhold, der indeholdes i din konto.
+
+4.5 Du accepterer, at selvom Google måske ikke løbende har sat en fast, øvre grænse for det antal transmissioner, du må sende eller modtage gennem Tjenesteydelserne for den mængde lagerplads som bruges til at levere en Tjenesteydelse, kan Google efter eget valg til enhver tid fastsætte sådanne øvre grænser.
+
+
+
+5.	Din brug af Tjenesteydelserne
+
+5.1 For at få adgang til visse Tjenesteydelser kan du blive afkrævet oplysninger om dig selv (som for eksempel identifikations- eller kontaktoplysninger) som en del af registreringsprocessen til en Tjenesteydelse, eller som en del af din fortsatte brug af en Tjenesteydelse. Du accepterer, at enhver registreringsoplysning du giver til Google altid skal være nøjagtig, rigtig og up-to-date.
+
+5.2 Du accepterer at bruge Tjenesteydelserne alene til formål, der tillades af (a) Betingelserne og (b) enhver gældende lov, regulering eller generelt godkendt praksis eller vejledning i de relevante jurisdiktioner (herunder enhver lov som vedrører eksport af data eller software til eller fra USA eller andre relevante lande).
+
+5.3 Du accepterer ikke at tilegne dig adgang til (eller forsøge at få adgang til) nogen af Tjenesteydelserne ved andre midler end ved hjælp af den grænseflade, som Google leverer, med mindre du har fået udtrykkelig tilladelse hertil ifølge en separat aftale med Google.
+
+5.4 Du accepterer, at du ikke vil tage del i nogen aktivitet, der forstyrrer eller afbryder Tjenesteydelserne (eller de servere eller net, der er forbundet med Tjenesteydelserne).
+
+5.5 Medmindre du har fået udtrykkelig tilladelse i en separat aftale med Google, accepterer du ikke at ville reproducere, kopiere, sælge, bytte eller gensælge Tjenesteydelserne til noget formål.
+
+5.6 Du accepterer, at du alene er ansvarlig for (og at Google ikke har noget ansvar overfor dig eller overfor nogen tredjemand) misligholdelse af dine forpligtelser iflg. Betingelserne og for følgerne (herunder ethvert tab og enhver skade, som Google lider) af en sådan misligholdelse.
+
+
+
+6.	Dine passwords og kontosikkerhed
+
+6.1 Du accepterer og forstår, at du er ansvarlig for bevarelse af fortroligheden af passwords, der er forbundet med enhver konto du bruger for at få adgang til Tjenesteydelserne.
+
+6.2	Heraf følger, at du er eneansvarlig overfor Google for alle aktiviteter, der foregår under din konto. 
+
+6.3 Hvis du bliver bekendt med uautoriseret brug af dit password eller af din konto, accepterer du at meddele dette til Google øjeblikkeligt på http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=da.
+
+
+
+7.	Fortrolighed og dine personlige oplysninger 
+
+7.1 Vedrørende oplysninger om Google’s praksis for databeskyttelse beder vi dig læse Google’s fortrolighedspolitik på http://www.google.co.uk/privacy.html. Denne politik forklarer, hvorledes Google behandler dine personlige oplysninger og beskytter dit privatliv, når du gør brug af Tjenesteydelserne.
+
+7.2	Du accepterer brugen af dine data i overensstemmelse med Google’s fortrolighedspolitik. 
+
+
+
+8.	Indholdet i Tjenesteydelserne
+
+8.1 Du forstår, at enhver oplysning (for eksempel datafiler, skreven tekst, computer software, musik, audiofiler eller anden lyd, fotos, videoer eller andre billeder), som du kan have adgang til som del af eller gennem din brug af Tjenesteydelserne, udelukkende er den persons ansvar fra hvem sådant indhold stammede. Alle sådanne oplysninger omtales i det følgende som "Indholdet".
+
+8.2 Du skal være vidende om, at det Indhold, som bringes til din kundskab som en del af Tjenesteydelserne, herunder men ikke begrænset til annoncer i Tjenesteydelserne og sponsoreret Indhold i Tjenesteydelserne, kan være beskyttet af immaterielle rettigheder, der ejes af de sponsorer eller annoncører, der leverer dette Indhold til Google (eller af andre personer eller selskaber på deres vegne). Du må ikke ændre, udleje, lease, låne, sælge, distribuere eller fremstille afledte produkter baseret på dette Indhold (hverken helt eller delvis) med mindre du udtrykkeligt i en separat aftale er blevet meddelt, at du har fået tilladelse, enten af Google eller af ejerne af dette Indhold. 
+
+8.3 Google forbeholder sig ret til (men har ikke pligt til) at screene, gennemgå, mærke, filtrere, ændre, forkaste eller fjerne noget af eller hele Indholdet fra nogen Tjenesteydelse. For nogle af Tjenesteydelserne kan Google levere værktøjer til at filtrere eksplicit seksuelt indhold fra. Disse værktøjer inkluderer SafeSearch præferenceindstillingerne (se http://www.google.co.uk/help/customize.html#safe). Desuden er der kommercielt tilgængelige tjenesteydelser og software til at begrænse adgang til materiale, som du eventuelt måtte finde anstødeligt.
+
+8.4 Du forstår, at du ved anvendelse af Tjenesteydelserne kan blive udsat for Indhold som finder frastødende, uanstændigt eller kritisabelt, og at du i dette henseende bruger Tjenesteydelserne på egen risiko.
+
+8.5 Du accepterer, at du er eneansvarlig for (og at Google ikke har noget ansvar overfor dig eller nogen tredjemand) ethvert indhold, som du fremstiller, videregiver eller udstiller under brugen af Tjenesteydelserne og for følgerne af dine handlinger (herunder alle tab eller skader, som Google måtte lide) i denne sammenhæng.
+
+
+
+9.	Ejendomsrettigheder
+
+9.1 Du accepterer, at Google (eller Google’s licensgivere) ejer alle juridiske og økonomiske rettigheder og adkomster til Tjenesteydelserne, inklusive alle immaterielle rettigheder, der består i Tjenesteydelserne (uanset om disse rettigheder er tinglyst eller ej, og hvor i verden de findes). Endvidere accepterer du, at Tjenesteydelserne kan indeholde information, der af Google betegnes som fortrolig, og at du ikke må videregive sådan information uden forudgående skriftlig tilladelse fra Google.
+
+9.2 Medmindre du har anden skriftlig aftale med Google, giver intet i Betingelserne dig ret til at bruge nogen af Google’s varebetegnelser, varemærker, servicemærker, logoer, domænenavne og andre karakteristiske varemærkeelementer.
+
+9.3 Hvis du har fået en udtrykkelig ret til at bruge nogen af disse varemærkeelementer i henhold til en separat skriftlig aftale med Google, anerkender du at din brug af sådanne elementer skal være i overensstemmelse med en sådan aftale, enhvert gældende vilkår i Betingelserne, og Google's retningslinier for brug af varemærker, således som de løbende bliver opdateret. Disse retningslinier kan ses online på http://www.google.com/permissions/guidelines.html (eller andre URL som Google løbende måtte benytte til dette formål).
+
+9.4 Bortset fra den begrænsede licens der behandles i Afsnit 11, accepterer Google under disse Betingelser ikke at få nogen juridiske eller økonomiske rettigheder eller adkomster fra dig (eller dine licensgivere) til noget Indhold som du måtte meddele, fremvise, overføre til eller udstille på eller gennem Tjenesteydelserne, herunder enhver immateriel rettighed, der måtte være indeholdt i dette Indhold (uanset om disse rettigheder er tinglyst eller ej, og uanset hvor i verden sådanne rettigheder findes). Medmindre du har anden skriftlig aftale med Google, accepterer du at være ansvarlig for at beskytte og håndhæve disse rettigheder og at Google ikke har pligt til at gøre dette på dine vegne.
+
+9.5 Du accepterer, at du ikke må fjerne, skjule eller ændre nogen meddelelser om ejendomsrettigheder (herunder meddelelser om copyright og varemærker), som kan være anbragt på eller indeholdt i Tjenesteydelserne. 
+
+9.6 Medmindre Google har givet dig udtrykkelig skriftlig fuldmagt hertil, accepterer du at du under brug af Tjenesteydelserne ikke vil bruge noget varemærke, servicemærke, varebetegnelse eller noget selskabs eller nogen organisations logo på en måde, der sandsynligvis vil eller er ment til at forårsage usikkerhed vedrørende ejeren eller den autoriserede bruger af sådanne mærker eller logoer.
+
+
+
+10.	Licens fra Google
+
+10.1 Google giver dig en personlig, verdensdækkende, royalty-fri, uoverdragelig og ikke-eksklusiv licens til at bruge den software, som Google forsyner dig med som en del af de Tjenesteydelser, som Google stiller til din rådighed (i det følgende kaldet "Softwaren"). Denne licens har som eneste formål at sætte dig i stand til at bruge og nyde fordelene af Tjenesteydelserne, således som de leveres af Google og som det tillades i Betingelserne.
+
+10.2 Du må ikke (og du må ikke tillade andre at) kopiere, ændre, frembringe afledt arbejde af, udøve reverse engineering, dekompilere eller på anden måde forsøge at uddrage kildekoden af Softwaren eller nogen del deraf, medmindre dette udtrykkeligt følger af eller er tilladt i henhold til lov, eller medmindre du har fået udtrykkelig skriftlig tilladelse hertil af Google.
+
+10.3 Medmindre Google har givet dig udtrykkelig, skriftlig tilladelse, må du ikke overdrage (eller give underlicens til) dine rettigheder til at bruge Softwaren, pantsætte dine rettigheder til at bruge Softwaren, eller på anden måde overdrage dele af dine rettigheder til at bruge Softwaren.
+
+
+
+11.	Indhold af licens fra dig
+
+11.1 Du beholder ophavsrettigheder og alle andre rettigheder, som du allerede har i det Indhold, du forelægger, fremviser eller udstiller på eller gennem Tjenesteydelserne. Ved at forelægge, fremvise eller udstille indholdet giver du Google en vedvarende, uigenkaldelig, royalty-fri og ikke-eksklusiv licens til at gengive, tilpasse, modificere, oversætte, offentliggøre, offentligt fremføre, offentligt fremvise og distribuere ethvert Indhold som du fremlægger, foreviser eller udstiller på eller gennem Tjenesteydelserne. Denne licens har som eneste formål at sætte Google i stand til at fremvise, distribuere og reklamere for Tjenesteydelserne, og det kan tilbagekaldes for visse Tjenesteydelser som defineret i Tillægsbetingelserne til disse Tjenesteydelser.
+
+11.2 Du accepterer, at denne licens indbefatter en ret for Google til at stille sådant Indhold til rådighed for andre selskaber, organisationer eller personer med hvem Google har forbindelser med henblik på at tilvejebringe syndikerede tjenesteydelser, og at bruge sådant Indhold i forbindelse med tilvejebringelse af disse tjenesteydelser.
+
+11.3 Du forstår, at Google, når vi tager de fornødne, tekniske skridt for at gøre Tjenesteydelserne tilgængelige for vores brugere, må (a) overføre eller distribuere dit Indhold via forskellige offentlige netværk og i forskellige medier, og (b) foretage de ændringer i dit Indhold, som er nødvendige for at tilpasse dette Indhold til de tekniske krav der stilles af tilsluttede netværk, udstyr, tjenesteydelser eller media. Du accepterer, at denne licens tillader Google at tage disse skridt.
+
+11.4 Du bekræfter og garanterer overfor Google, at du har alle de rettigheder, fuldmagter og bemyndigelser, der kræves til at give ovennævnte licens.
+
+
+
+12.	Opdateringer af software
+
+12.1 Den software, som du bruger, kan automatisk downloade og løbende installere opdateringer fra Google. Disse opdateringer har til formål at forbedre og videreudvikle Tjenesteydelserne og kan udgøre fejlretning, forbedring af funktioner, nye softwaremoduler og helt nye versioner. Du accepterer at modtage sådanne opdateringer (og tillader Google at levere dem til dig) som en del af din brug af Tjenesteydelserne. 
+
+
+
+13.	Afslutning af din forbindelse med Google
+
+13.1	Betingelserne vil fortsat gælde indtil de opsiges enten af dig eller af Google, som angivet nedenfor. 
+
+13.2 Hvis du ønsker at opsige din juridiske aftale med Google, kan du gøre det ved at (a) til enhver tid meddele det til Google og (b) lukke dine konti for alle de Tjenesteydelser du bruger, hvor Google har givet dig denne mulighed. Du bør sende din opsigelse skriftligt til Google’s adresse, som er anført i begyndelsen af disse Betingelser. 
+
+13.3	Google kan til enhver tid opsige sin juridiske aftale med dig, hvis:
+
+(A) du har misligholdt vilkår i Betingelserne (eller har handlet på nogen måde, der klart viser, at du ikke har til hensigt eller er ude af stand til at opfylde vilkår i Betingelserne), 
+
+(B)	det ifølge lovkrav kræves af Google (for eksempel hvis levering af Tjenesteydelser til dig er eller bliver ulovlige), 
+
+(C) den partner, med hvem Google tilbød dig Tjenesteydelserne, har afsluttet sin forbindelse med Google eller ikke mere tilbyder dig Tjenesteydelserne, eller 
+
+(D) Google overgår til ikke længere at levere Tjenesteydelserne til brugere i det land, hvor du har bopæl, eller hvorfra du bruger tjenesteydelsen, eller
+
+(E)	levering af Tjenesteydelser til dig fra Google efter Google’s mening ikke mere er kommercielt rentabelt.
+
+
+
+13.4 Intet i dette Afsnit påvirker Google’s rettigheder med hensyn til tilvejebringelse af Tjenesteydelser under Afsnit 4 i Betingelserne. 
+
+13.5 Når disse Betingelser ophører, skal alle de juridiske rettigheder, forpligtelser og ansvar, som du og Google har haft udbytte af, været underkastet (eller som er opstået i den periode, hvor Betingelserne har været i kraft) eller som udtrykkeligt skal fortsætte på ubestemt tid, være uberørt af dette ophør, og bestemmelserne i art. 20.7 skal fortsat gælde på ubestemt tid for sådanne rettigheder, forpligtelser og ansvar.
+
+
+
+14.	Udelukkelse af garantier
+
+14.1 Tjenesteydelserne tilvejebringes "som de forefindes" og Google, dets søster- og datterselskaber og dets licensgivere yder dig ingen garanti med hensyn til dem.
+
+14.2	I særdeleshed tilkendegiver eller garanterer Google, dets søster- og datterselskaber ikke at:
+
+(A)	din brug af Tjenesteydelserne vil tilfredsstille dine behov,
+
+(B)	din brug af Tjenesteydelserne vil være uden afbrydelser, betids, sikker eller fejlfri,
+
+(C)	nogen information du får som resultat af din brug af Tjenesteydelserne vil være nøjagtig eller pålidelig, og
+
+(D)	at mangler ved driften eller funktionaliteten af noget Software du modtager som del af Tjenesteydelserne vil blive rettet.
+
+
+
+14.3 Ingen betingelser, garantier eller andre vilkår (inklusive alle underforståede betingelser såsom tilfredsstillende kvalitet, egnethed til formål eller overensstemmelse med beskrivelser) gælder for Tjenesteydelserne, medmindre det udtrykkeligt fremgår af Betingelserne.
+
+14.4 Intet i Betingelserne skal påvirke de lovfæstede rettigheder du altid er berettiget til som forbruger, og som du ikke ved aftale kan acceptere at ændre eller give afkald på.
+
+
+
+15.	Ansvarsbegrænsning
+
+15.1 Intet i disse Betingelser skal udelukke eller begrænse Google’s ansvar for tab, der ikke lovligt kan fraskrives ller begrænses på grund af gældende lov.
+
+15.2 Med forbehold af den generelle bestemmelse i art. 15.1 ovenfor er Google, dets søster- og datterselskaber og dets licensgivere ikke ansvarlige overfor dig for:
+
+(A) enhver indirekte skade eller følgeskade, som du måtte lide. Dette omfatter ethvert tab af fortjeneste (uanset om dette sker direkte eller indirekte), ethvert tab af goodwill eller forretningsomdømme eller ethvert tab af data, som du måtte lide;
+
+(B)	noget tab eller nogen skade, som du lider som følge af:
+
+(i) enhver tillid du har haft til den fuldstændighed, nøjagtighed eller eksistens af nogen annoncering, eller som resultat af nogen forbindelse eller transaktion mellem dig og nogen annoncør eller sponsor, hvis annoncer vises i Tjenesteydelserne;
+
+(ii) enhver ændring Google foretager i Tjenesteydelserne, eller for nogen permanent eller midlertidig afbrydelse i leveringen af Tjenesteydelserne (eller nogen del af Tjenesteydelserne);
+
+(iii) sletning, ødelæggelse eller manglende lagring af noget Indhold og andre kommunikationsdata, der vedligeholdes eller sendes med eller igennem din brug af Tjenesteydelserne;
+
+(iv)	at du ikke har givet Google nøjagtig kontoinformation;
+
+(v)	at du ikke har holdt dit password eller kontodata beskyttet og fortroligt;
+
+
+
+
+
+15.3 Begrænsningerne i Google’s ansvar overfor dig i art. 15.2 ovenfor er gyldige uanset om Google har fået meddelelse om eller burde have været bekendt med muligheden for, at sådanne tab kunne opstå. 
+
+
+
+16.	Copyright og varemærkepolitikker
+
+16.1 Det er Google’s politik at besvare henvendelser om påståede krænkelse af ophavsrettigheder, der overholder gældende international immaterialretlige regler (herunder, i USA, Digital Millennium Copyright Act) og at opsige de kontrakter, hvor der sker gentagne krænkelser. Nærmere detaljer om Google’s politik kan ses på http://www.google.co.uk/dmca.html. 
+
+16.2 Google har en procedure til behandling af varemærkeklager i forbindelse med Google’s reklamevirksomhed, hvorom nærmere detaljer kan findes på http://www.google.co.uk/tm_complaint.html. 
+
+
+
+17.	Annoncer 
+
+17.1 Nogle af Tjenesteydelserne understøttes af annonceindtægter og kan vise annoncer og reklamer. Disse annoncer kan være målrettet mod indholdet af information der er lagret på Tjenesteydelserne, forespørgsler der fremsættes gennem Tjenesteydelserne eller anden information.
+
+17.2 Måden, formen og omfanget af Google’s annoncering på Tjenesteydelserne kan ændres uden at du får meddelelse herom i hvert tilfælde.
+
+17.3 Som modydelse for at Google giver dig adgang til og brug af Tjenesteydelserne, accepterer du at Google må placere sådan reklame på Tjenesteydelserne.
+
+
+
+18.	Andet indhold
+
+18.1 Tjenesteydelserne kan indeholde hyperlinks til andre websites eller indhold eller ressourcer. Google ha rikke nødvendigvis kontrol med enhver website eller ressource som tilbydes af andre selskaber eller personer end Google.
+
+18.2 Du accepterer, at Google ikke er ansvarlig for at nogen sådan ekstern site eller ressource er til rådighed, og ikke støtter annoncering, produkter eller andre materialer på eller som kan fås igennem sådanne websites eller ressourcer. 
+
+18.3 Du accepterer, at Google ikke er ansvarlig for noget tab eller nogen skade, der lides af dig som en følge af at sådanne eksterne sites eller ressourcer ikke er tilgængelige, eller som resultat af, at du har haft tillid til fuldstændighed, nøjagtighed eller eksistens af nogen reklame, noget produkt eller andre materialer på eller til rådighed igennem sådanne websites eller ressourcer.
+
+
+
+19.	Ændringer i Betingelserne
+
+19.1 Google kan løbende foretage ændringer i de Generelle Betingelser eller i Tillægsbetingelserne. Når disse ændringer er foretaget, stiller Google en ny version af de Generelle Betingelser til rådighed på http://www.google.com/accounts/TOS?hl=da, og du vil få stillet enhver ny Tillægsbetingelse til rådighed i eller gennem de pågældende Tjenesteydelser.
+
+19.2 Du forstår og accepterer, at hvis du bruger Tjenesteydelserne efter den dato på hvilken de Generelle Betingelser eller Tillægsbetingelserne er blevet ændret, vil Google behandle din brug som en accept af de opdaterede Generelle Betingelser eller Tillægsbetingelser.
+
+
+
+20. Generelle juridiske betingelser
+
+20.1 Somme tider når du bruger Tjenesteydelserne kan du (som resultat af eller gennem din brug af tjenesteydelserne) bruge en tjenesteydelse eller downloade et stykke software, eller købe produkter, som er tilvejebragt af en anden person eller et andet selskab. Din brug af disse andre tjenesteydelser, software eller produkter kan være underlagt separate betingelser mellem dig og det pågældende selskab eller pågældende person person. I så fald påvirker Betingelserne ikke din juridiske forbindelse med disse andre selskaber eller personer.
+
+20.2 Betingelserne udgør hele den juridiske aftale mellem dig og Google og er bestemmende for din brug af tjenesteydelserne (men eksklusiv tjenesteydelser, som Google måtte stille til din rådighed i henhold til en separat skriftlig aftale), og erstatter enhver forudgående aftale mellem dig og Google i relation til Tjenesteydelserne. 
+
+20.3 Du accepterer, at Google kan give dig meddelelser, herunder sådanne som vedrører ændringer til Betingelserne, med e-mail, eller almindeligt opslag på Tjenesteydelserne.
+
+20.4 Du accepterer, at hvis Google ikke udøver eller håndhæver en hvilken som helst juridisk rettighed eller retsmiddel, som er indeholdt i Betingelserne (eller som Google har ret til i henhold til gældende lov), kan dette ikke opfattes som et formelt afkald på Google’s rettigheder, og disse rettigheder eller retsmidler vil stadig være til Google’s rådighed.
+
+20.5 Hvis nogen domstol med jurisdiktion til at træffe afgørelser i denne sag træffer afgørelse om at en bestemmelse i disse Betingelser er ugyldig, så skal denne bestemmelse fjernes fra Betingelserne uden at dette påvirker resten af Betingelserne. De øvrige bestemmelser i Betingelserne vil fortsat være gyldige og retskraftige.
+
+20.6 Du accepterer, at hvert medlem af den gruppe selskaber, som Google er moderselskab til, skal være tredjepartsbegunstigede til Betingelserne og at sådanne andre selskaber skal være berettigede til direkte at håndhæve og påberåbe sig enhver bestemmelse i Betingelserne, der giver dem en fordel (eller rettighed i deres favør). Herudover skal ingen person eller noget selskab være tredjepartsbegunstigede til Betingelserne.
+
+20.7 Betingelserne og din forbindelse med Google i henhold til Betingelserne skal være underkastet engelsk ret. Du og Google accepterer at underkaste jer de engelske domstoles eksklusive jurisdiktion til løsning af ethvert juridisk mellemværende, der måtte opstå i forbindelse med Betingelserne. Uanset dette accepterer du, at google stadig skal have lov til at anmode en domstol om nedlæggelse af forbud eller påbud (eller tilsvarende retsmidler) i enhver jurisdiktion.
+
+
+

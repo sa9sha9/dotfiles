@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_DIALOG>
+  <res resid="#601">
+   <dtitle>
+    <xmbtext>Доступно је ажурирање Picasa-е</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 275 90)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(7 43 134 59)">
+    <xmbtext>Да, преузми одмах</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(141 43 268 59)">
+    <xmbtext>Не, преузми касније</xmbtext>
+   </item>
+   <item itemid="1020" itemtype="Static" layout="rect(35 11 268 35)">
+    <xmbtext>Доступно је бесплатно ажурирање Picasa-е.\nДа ли желите сада да преузмете нову верзију?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(6 10 26 30)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 69 268 85)">
+    <xmbtext>Напомена: Морате да полажете административна права на овај рачунар да бисте могли да инсталирате ажурирање.</xmbtext>
+   </item>
+  </res>
+  <res resid="#602">
+   <dtitle>
+    <xmbtext>Ажурирање Picasa-е је спремно</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Да, ажурирај сада</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Касније</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Picasa је спремна да инсталира ажурирање.\nДа ли желите да поново покренете Picasa-у и одмах инсталирате ово ажурирање?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+  <res resid="#603">
+   <dtitle>
+    <xmbtext>Ажурирање Picasa-е је спремно</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Ажурирај сада</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Питај касније</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Picasa је спремна за инсталирање ажурирања.\nМожда ће од вас бити затражено да се пријавите као администратор.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+ </RT_DIALOG>
+</Win32Res>

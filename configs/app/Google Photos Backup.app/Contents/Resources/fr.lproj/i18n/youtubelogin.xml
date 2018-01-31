@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="youtubelogin/window1.title">
+  <xmbtext>Connexion</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/label2.title">
+  <xmbtext>Entrez votre nom d&#039;utilisateur et votre mot de passe YouTube.</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup3.title">
+  <xmbtext>Nom d&#039;utilisateur :</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup5.title">
+  <xmbtext>Mot de passe :</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.title">
+  <xmbtext>Nom d&#039;utilisateur oublié</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.url">
+  <xmbtext>http://www.youtube.com/forgot_username?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.title">
+  <xmbtext>Mot de passe oublié</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.url">
+  <xmbtext>http://www.youtube.com/forgot?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button11.title">
+  <xmbtext>Se connecter</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button12.title">
+  <xmbtext>Annuler</xmbtext>
+ </stringres>
+</resources>

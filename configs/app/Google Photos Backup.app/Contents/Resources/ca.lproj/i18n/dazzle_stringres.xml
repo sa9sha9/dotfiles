@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Protector de pantalla de Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="DazzleUrl::GetMoreFeeds">
+  <xmbtext>/feeds?hl=ca&amp;gl=es</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Feed:">
+  <xmbtext>Feed:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Source:">
+  <xmbtext>Font:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:ImageLink:">
+  <xmbtext>Lloc:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:untitledfeedcaption">
+  <xmbtext>Feed de fotos sense títol</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDefault">
+  <xmbtext>Estàs veient el feed de fotos predeterminat de Google. Per visualitzar altres fotos, selecciona \&quot;Configurar protector de pantalla de Google Fotos\&quot; del menú d&#039;Inici.</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDiscover">
+  <xmbtext>Descobreix feeds nous! Visita http://pack.google.com/feeds.</xmbtext>
+ </stringres>
+ <stringres id="CaptionNode::empty_caption_replacement">
+  <xmbtext>sense títol</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo1::Logout">
+  <xmbtext>Final de sessió</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo2::Login">
+  <xmbtext>Inici de sessió</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddOtherUsers1">
+  <xmbtext>Altres usuaris</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddNoUsersItem">
+  <xmbtext>No s&#039;ha afegit cap usuari</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddFavorites1">
+  <xmbtext>Els meus preferits</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites1b">
+  <xmbtext>Inicia la sessió per obtenir la llista de Preferits</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites2">
+  <xmbtext>Fotos recents d&#039;Els meus preferits</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddMyWebAlbums">
+  <xmbtext>Els meus àlbums web</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum1b">
+  <xmbtext>Inicia la sessió a Google</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum2">
+  <xmbtext>Fotos dels meus àlbums web modificats més recentment</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum3">
+  <xmbtext>Fotos dels meus àlbums ocults</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AppendNumberAlbums">
+  <xmbtext>àlbums</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::showVerifying">
+  <xmbtext>S&#039;ESTÀ VERIFICANT</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::doBadMsg">
+  <xmbtext>No respon</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::CheckSelections">
+  <xmbtext>Segur que vols continuar sense seleccionar cap àlbum web?\nNo es mostraran imatges d&#039;àlbums Web.</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::GetMyCaption">
+  <xmbtext>Àlbums web</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologines">
+  <xmbtext>Confirmes que vols continuar sense iniciar la sessió?\nNo es mostrarà cap foto de Google Fotos.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologin">
+  <xmbtext>Estàs segur que vols continuar sense iniciar la sessió?\nNo es mostraran imatges dels àlbums web.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselectedes">
+  <xmbtext>Confirmes que vols continuar sense activar cap opció?\nNo es mostrarà cap foto de Google Fotos.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselected">
+  <xmbtext>Segur que vols continuar sense habilitar cap opció?\nNo es mostrarà cap imatge d&#039;Àlbums web.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::loginfailed">
+  <xmbtext>La informació d&#039;inici de sessió no està disponible.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::notloggedin">
+  <xmbtext>No hi ha cap informació de l&#039;usuari. Inicia la sessió--&gt;</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::login">
+  <xmbtext>Inici de sessió</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::ChangeUser">
+  <xmbtext>Canvia l&#039;usuari</xmbtext>
+ </stringres>
+ <stringres id="CLocalPrefs::GetMyCaption">
+  <xmbtext>Configuració de carpeta</xmbtext>
+ </stringres>
+ <stringres id="Add_Folder">
+  <xmbtext>Afegeix carpeta</xmbtext>
+ </stringres>
+ <stringres id="saver2::noservice">
+  <xmbtext>El teu compte no admet aquest servei.</xmbtext>
+ </stringres>
+ <stringres id="saver2::loginfailed">
+  <xmbtext>Error: el nom d&#039;usuari/contrasenya no coincideixen.</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginServerError">
+  <xmbtext>La configuració de privadesa de galetes és massa estricta per iniciar sessió a Google.</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginGenericError">
+  <xmbtext>S&#039;ha produït un error en iniciar la sessió a Google.</xmbtext>
+ </stringres>
+ <stringres id="CPicasaPrefs::nothingselected">
+  <xmbtext>Segur que vols continuar sense habilitar cap opció?\nNo es mostrarà cap imatge de Picasa.</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::PicasaConfigDlgTitle">
+  <xmbtext>Configuració del protector de pantalla Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader1">
+  <xmbtext>Font</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader2">
+  <xmbtext>Títol</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::NoPhotosInFeed2">
+  <xmbtext>(Fotos no disponibles) </xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::OnAccept">
+  <xmbtext>Estàs segur que vols continuar sense seleccionar cap font de fotos?\nNo es mostrarà cap imatge.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::GetMyCaption">
+  <xmbtext>Llocs de fotos públics</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::NoPhotosInFeed">
+  <xmbtext>Sembla que aquest feed no té imatges...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::true">
+  <xmbtext>sí</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::false">
+  <xmbtext>no</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlInvalid">
+  <xmbtext>L&#039;URL del feed no és vàlid.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::notLoggedIn">
+  <xmbtext>Inicia la sessió a continuació per publicar.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::tooManyPublished">
+  <xmbtext>No pots publicar més de 500 feeds.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlTooLong">
+  <xmbtext>L&#039;URL del feed és massa llarg per publicar-lo.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::dlError">
+  <xmbtext>Error en baixar la configuració publicada.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::postError">
+  <xmbtext>Error en carregar la nova configuració.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::connectionError">
+  <xmbtext>Error de connexió al servidor de publicació.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::authError">
+  <xmbtext>Error en iniciar la sessió al servidor de publicació.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::unknownError">
+  <xmbtext>Un error desconegut fa impossible la publicació.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::checking">
+  <xmbtext>s&#039;està verificant...</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::ChangeUser">
+  <xmbtext>Canvia l&#039;usuari</xmbtext>
+ </stringres>
+ <stringres id="saver2::notloggedin">
+  <xmbtext>No hi ha cap informació de l&#039;usuari. Inicia la sessió--&gt;</xmbtext>
+ </stringres>
+ <stringres id="saver2::login">
+  <xmbtext>Inici de sessió</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::linkNotLoggedIn">
+  <xmbtext>Inicia la sessió per obtenir un url.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::EnableHeader">
+  <xmbtext>Habilitat</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::PublishHeader">
+  <xmbtext>Publicat</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::FeedTitleHeader">
+  <xmbtext>Títol del fitxer de fotos</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::updating">
+  <xmbtext>s&#039;està publicant...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::deleting">
+  <xmbtext>s&#039;està suprimint...</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header1">
+  <xmbtext>Compte</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header2">
+  <xmbtext>Nom</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::AlbumsListHeader1">
+  <xmbtext>Nom de l&#039;àlbum</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums1">
+  <xmbtext>Compte</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums2">
+  <xmbtext>Nom</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums3">
+  <xmbtext>Àlbum</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed1">
+  <xmbtext>Les fotos es descarregaran a la carpeta </xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed">
+  <xmbtext>Previsualització</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::showBad">
+  <xmbtext>(No respon)</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::ConfigureButton">
+  <xmbtext>Configura...</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::GetPicasa">
+  <xmbtext>Obtén Picasa</xmbtext>
+ </stringres>
+ <stringres id="CScrTitle">
+  <xmbtext>Protector de pantalla de Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::collage">
+  <xmbtext>Collage</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::wipe">
+  <xmbtext>Esborra</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::crossfade">
+  <xmbtext>Encadenament</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::panzoom">
+  <xmbtext>Panoràmica i apropa o allunya</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::push">
+  <xmbtext>Prem</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::rect">
+  <xmbtext>Rectangle</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::circle">
+  <xmbtext>Cercle</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::diagonal">
+  <xmbtext>Diagonal</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::checkerboard">
+  <xmbtext>Tauler d&#039;escacs</xmbtext>
+ </stringres>
+ <stringres id="CSettingsDialog::MustRestartBrowser">
+  <xmbtext>Un cop reiniciat el navegador, fes clic amb el botó secundari a l&#039;enllaç a feeds de fotos per afegir-los al protector de pantalla.</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::PicasaHomepage">
+  <xmbtext>http://picasa.google.com/intl/ca/#utm_source=gph-et-en&amp;utm_medium=et&amp;utm_campaign=en-protectordepantalla</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::nothingselected">
+  <xmbtext>Segur que no vols activar cap origen d&#039;imatge?\nNo es mostrarà cap imatge.</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::gadgets">
+  <xmbtext>Gadgets de Google</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::nothingselected">
+  <xmbtext>Segur que no vols activar cap origen d&#039;imatge?\nNo es mostrarà cap imatge.</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::KBHookProc">
+  <xmbtext>Prem \&quot;Sí\&quot; per restablir la configuració del protector de pantalla a la predeterminada pel sistema, o bé \&quot;No\&quot; per cancel·lar.</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::NoFeedForEmail">
+  <xmbtext>Aquest correu electrònic sembla que no té cap feed publicat...</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::FeedTitleHeader">
+  <xmbtext>Correu electrònic de configuració compartida</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPictures">
+  <xmbtext>Carpeta Les meves imatges</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPicturesRelPath">
+  <xmbtext>Les meves imatges\\</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalPicasa">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaScreensaverAlbum">
+  <xmbtext>Àlbum de protector de pantalla Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaStarredPhotos">
+  <xmbtext>Fotos destacades de Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalFolder">
+  <xmbtext>Carpeta de fitxers locals</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaptionES">
+  <xmbtext>Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaption">
+  <xmbtext>Àlbums web de Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACredit">
+  <xmbtext>Google</xmbtext>
+ </stringres>
+ <stringres id="CCollectionImageEnum::LoadNextDefaultImage">
+  <xmbtext>Àlbum per defecte (no s&#039;han trobat imatges)</xmbtext>
+ </stringres>
+ <stringres id="DefaultPhotoFeedCredit">
+  <xmbtext>Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="RecentPhotosFeedCredit">
+  <xmbtext>Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirm">
+  <xmbtext>Una aplicació ha sol·licitat afegir un feed al protector de pantalla de Google Fotos. L&#039;URL és:\n\n%s\n\nVols afegir aquest feed?</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirmCaption">
+  <xmbtext>Protector de pantalla de Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::SubscriptionConfirm">
+  <xmbtext>Una aplicació ha sol·licitat afegir una subscripció de configuració editada al protector de pantalla de Google Fotos.\nL&#039;adreça electrònica de l&#039;editor és:\n\n%s\n\nVols afegir aquesta subscripció?</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::SaveSelWebAlbums">
+  <xmbtext>Àlbum web de %s</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::MyAlbumsLabel">
+  <xmbtext>Els meus àlbums</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::DefaultPhotoFeedCaption">
+  <xmbtext>Feed de Google Foto</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedURL">
+  <xmbtext>http://lh2.google.com/data/feed/api/all?kind=photo&amp;filter=1&amp;max-results=100&amp;alt=rss</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedCaption">
+  <xmbtext>Fotografies recents</xmbtext>
+ </stringres>
+</resources>

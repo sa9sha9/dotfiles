@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_DIALOG>
+  <res resid="#601">
+   <dtitle>
+    <xmbtext>Picasa の最新版がご利用いただけます。</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 275 90)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(7 43 134 59)">
+    <xmbtext>はい、今すぐダウンロードします</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(141 43 268 59)">
+    <xmbtext>後でダウンロード</xmbtext>
+   </item>
+   <item itemid="1020" itemtype="Static" layout="rect(35 11 268 35)">
+    <xmbtext>Picasa を無料で更新できます。\n新しいバージョンを今すぐダウンロードしますか？</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(6 10 26 30)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 69 268 85)">
+    <xmbtext>注: アップデートをインストールするには、ご使用のコンピュータの管理者権限が必要です。</xmbtext>
+   </item>
+  </res>
+  <res resid="#602">
+   <dtitle>
+    <xmbtext>Picasa のアップデート準備ができました</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>はい、今すぐアップデートします</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>後で実行</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>アップデートをインストールする準備ができました。\nPicasa を再起動して今すぐインストールしますか？</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+  <res resid="#603">
+   <dtitle>
+    <xmbtext>Picasa のアップデートの準備ができました</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>今すぐアップデート</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>後で確認する</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>アップデートをインストールする準備ができました。\n管理者としてのログインを要求される場合があります。</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+ </RT_DIALOG>
+</Win32Res>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>„Google“ nuotraukų ekrano užsklanda</xmbtext>
+ </stringres>
+ <stringres id="DazzleUrl::GetMoreFeeds">
+  <xmbtext>/feeds?hl=lt&amp;gl=us</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Feed:">
+  <xmbtext>Kanalas:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Source:">
+  <xmbtext>Šaltinis:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:ImageLink:">
+  <xmbtext>Svetainė:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:untitledfeedcaption">
+  <xmbtext>Neįvardytas nuotraukų kanalas</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDefault">
+  <xmbtext>Matote „Google“ numatytąją nuotraukų informacijos santrauką. Jei norite, kad būtų rodomos kitos nuotraukos, eikite į meniu „Paleisti“ ir nurodykite „Konfigūruoti „Google“ nuotraukų ekrano užsklandą“.</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDiscover">
+  <xmbtext>Raskite naujų informacijos santraukų! Apsilankykite http://pack.google.com/feeds.</xmbtext>
+ </stringres>
+ <stringres id="CaptionNode::empty_caption_replacement">
+  <xmbtext>Be pavadinimo</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo1::Logout">
+  <xmbtext>Atsijungti</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo2::Login">
+  <xmbtext>Prisijungimas</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddOtherUsers1">
+  <xmbtext>Kiti naudotojai</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddNoUsersItem">
+  <xmbtext>Nėra pridėtų naudotojų</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddFavorites1">
+  <xmbtext>Mano mėgstamiausieji</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites1b">
+  <xmbtext>Prisijunkite, kad gautumėte mėgstamiausiųjų sąrašą</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites2">
+  <xmbtext>Pastarosios nuotraukos iš „Mano mėgstamiausieji“</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddMyWebAlbums">
+  <xmbtext>Mano žiniatinklio albumai</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum1b">
+  <xmbtext>Prisijungimas prie „Google“</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum2">
+  <xmbtext>Nuotraukos iš mano mėgstamiausių vėliausiai keistų žiniatinklio albumų</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum3">
+  <xmbtext>Nuotraukos, esančios albumuose, neįtrauktuose į mano sąrašus</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AppendNumberAlbums">
+  <xmbtext>albumai</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::showVerifying">
+  <xmbtext>TIKRINAMA</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::doBadMsg">
+  <xmbtext>Nereaguoja</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::CheckSelections">
+  <xmbtext>Ar tikrai norite tęsti nenurodę jokių žiniatinklio albumų?\nNebus rodoma nė viena nuotrauka iš žiniatinklio albumų.</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::GetMyCaption">
+  <xmbtext>Žiniatinklio albumai</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologines">
+  <xmbtext>Ar tikrai norite tęsti neprisijungę?\nNebus rodoma nė viena nuotrauka iš „Google“ nuotraukų.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologin">
+  <xmbtext>Ar tikrai norite tęsti neprisijungę? \nNebus rodoma nė viena nuotrauka iš žiniatinklio albumų.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselectedes">
+  <xmbtext>Ar tikrai norite tęsti neįgalinę jokių parinkčių?\nNebus rodoma nė viena nuotrauka iš „Google“ nuotraukų.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselected">
+  <xmbtext>Ar tikrai norite tęsti neįjungę jokių parinkčių?\nNebus rodoma nė viena nuotrauka iš žiniatinklio albumų.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::loginfailed">
+  <xmbtext>Prisijungimo informacija negalima.</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::notloggedin">
+  <xmbtext>Nėra informacijos apie naudotoją. Prašome prisijungti–&gt;</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::login">
+  <xmbtext>Prisijungimas</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::ChangeUser">
+  <xmbtext>Keisti naudotoją</xmbtext>
+ </stringres>
+ <stringres id="CLocalPrefs::GetMyCaption">
+  <xmbtext>Aplankų nustatymai</xmbtext>
+ </stringres>
+ <stringres id="Add_Folder">
+  <xmbtext>Pridėti aplanką</xmbtext>
+ </stringres>
+ <stringres id="saver2::noservice">
+  <xmbtext>Jūsų paskyra nepalaiko šios paslaugos.</xmbtext>
+ </stringres>
+ <stringres id="saver2::loginfailed">
+  <xmbtext>Nesėkminga: naudotojo vardas / slaptažodis netinka.</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginServerError">
+  <xmbtext>Nesėkminga: jūsų slapukų privatumo nustatymai yra per griežti, kad galėtumėte prisijungti prie „Google“.</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginGenericError">
+  <xmbtext>Nesėkminga: jungiantis prie „Google“ įvyko klaida.</xmbtext>
+ </stringres>
+ <stringres id="CPicasaPrefs::nothingselected">
+  <xmbtext>Ar tikrai norite tęsti neįjungę jokių parinkčių? \nNebus rodoma nė viena nuotrauka iš „Picasa“.</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::PicasaConfigDlgTitle">
+  <xmbtext>„Google“ nuotraukų ekrano užsklandos nustatymai</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader1">
+  <xmbtext>Šaltinis</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader2">
+  <xmbtext>Pavadinimas</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::NoPhotosInFeed2">
+  <xmbtext>(Nuotraukos negalimos) </xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::OnAccept">
+  <xmbtext>Ar tikrai norite tęsti nenurodę jokių nuotraukų šaltinių?\nNebus rodoma nė viena nuotrauka.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::GetMyCaption">
+  <xmbtext>Viešos nuotraukų svetainės</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::NoPhotosInFeed">
+  <xmbtext>Atrodo, kad šiame kanale nėra vaizdų...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::true">
+  <xmbtext>Taip</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::false">
+  <xmbtext>Ne</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlInvalid">
+  <xmbtext>Kanalo URL neteisingas.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::notLoggedIn">
+  <xmbtext>Prisiregistruokite žemiau, kad paskelbtumėte.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::tooManyPublished">
+  <xmbtext>Jūs galite paskelbti ne daugiau kaip 500 kanalų.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlTooLong">
+  <xmbtext>Kanalo URL per ilgas skelbti.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::dlError">
+  <xmbtext>Klaida siunčiantis paskelbtą sąranką.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::postError">
+  <xmbtext>Klaida įkeliant naują sąranką.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::connectionError">
+  <xmbtext>Klaida jungiantis prie skelbimo serverio.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::authError">
+  <xmbtext>Klaida prisijungiant prie paskelbimo serverio.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::unknownError">
+  <xmbtext>Dėl nežinomos klaidos paskelbti negalima.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::checking">
+  <xmbtext>tikrinama...</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::ChangeUser">
+  <xmbtext>Keisti naudotoją</xmbtext>
+ </stringres>
+ <stringres id="saver2::notloggedin">
+  <xmbtext>Nėra informacijos apie naudotoją. Prašome prisijungti–&gt;</xmbtext>
+ </stringres>
+ <stringres id="saver2::login">
+  <xmbtext>Prisijungimas</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::linkNotLoggedIn">
+  <xmbtext>Prisijunkite žemiau, kad gautumėte url.</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::EnableHeader">
+  <xmbtext>Įjungta</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::PublishHeader">
+  <xmbtext>Paskelbta</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::FeedTitleHeader">
+  <xmbtext>Nuotraukos kanalo pavadinimas</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::updating">
+  <xmbtext>skelbiama...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::deleting">
+  <xmbtext>trinama...</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header1">
+  <xmbtext>Paskyra</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header2">
+  <xmbtext>Vardas</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::AlbumsListHeader1">
+  <xmbtext>Albumo pavadinimas</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums1">
+  <xmbtext>Paskyra</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums2">
+  <xmbtext>Vardas</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums3">
+  <xmbtext>Albumas</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed1">
+  <xmbtext>Nuotraukos bus atsiųstos į aplanką </xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed">
+  <xmbtext>Peržiūra</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::showBad">
+  <xmbtext>(Nereaguoja)</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::ConfigureButton">
+  <xmbtext>Konfigūruoti...</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::GetPicasa">
+  <xmbtext>Įsigyti „Picasa“</xmbtext>
+ </stringres>
+ <stringres id="CScrTitle">
+  <xmbtext>„Google“ nuotraukų ekrano užsklanda</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::collage">
+  <xmbtext>Koliažas</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::wipe">
+  <xmbtext>Ištrinti</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::crossfade">
+  <xmbtext>Sklandusis virsmas</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::panzoom">
+  <xmbtext>Pastumti ir keisti mastelį</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::push">
+  <xmbtext>Paspausti</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::rect">
+  <xmbtext>Stačiakampis</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::circle">
+  <xmbtext>Apskritimas</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::diagonal">
+  <xmbtext>Įstrižas</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::checkerboard">
+  <xmbtext>Tikrinimo lenta</xmbtext>
+ </stringres>
+ <stringres id="CSettingsDialog::MustRestartBrowser">
+  <xmbtext>Kai tik perkrausite naršyklę, galite spustelėti dešiniuoju pelės klavišu ant nuorodų į nuotraukų informacijos santraukas – taip įdėsite jas į ekrano užsklandą.</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::PicasaHomepage">
+  <xmbtext>http://picasa.google.com/intl/lt/#utm_source=gph-et-lt&amp;utm_medium=et&amp;utm_campaign=lt-screensaver</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::nothingselected">
+  <xmbtext>Ar tikrai nenorite aktyvinti jokių nuotraukų laikmenų?\nNebus rodoma nė viena nuotrauka.</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::gadgets">
+  <xmbtext>„Google“ programėlės</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::nothingselected">
+  <xmbtext>Ar tikrai nenorite aktyvinti jokių nuotraukų laikmenų?\nNebus rodoma nė viena nuotrauka.</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::KBHookProc">
+  <xmbtext>Spauskite „Taip“, jei norite atkurti ekrano užsklandos numatytąją reikšmę, arba – „Ne“, jei norite atšaukti.</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::NoFeedForEmail">
+  <xmbtext>Šis el. paštas neturi jokių skelbiamų kanalų...</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::FeedTitleHeader">
+  <xmbtext>Bendrinamas konfigūracijos el. paštas</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPictures">
+  <xmbtext>Aplankas „Mano nuotraukos“</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPicturesRelPath">
+  <xmbtext>Mano nuotraukos\\</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalPicasa">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaScreensaverAlbum">
+  <xmbtext>„Picasa“ ekrano užsklandos albumas</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaStarredPhotos">
+  <xmbtext>„Picasa“ žvaigždute pažymėtos nuotraukos</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalFolder">
+  <xmbtext>Vietinių failų aplankas</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaptionES">
+  <xmbtext>„Google“ nuotraukos</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaption">
+  <xmbtext>„Picasa“ žiniatinklio albumai</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACredit">
+  <xmbtext>Google</xmbtext>
+ </stringres>
+ <stringres id="CCollectionImageEnum::LoadNextDefaultImage">
+  <xmbtext>Numatytasis albumas (vaizdų nėra)</xmbtext>
+ </stringres>
+ <stringres id="DefaultPhotoFeedCredit">
+  <xmbtext>„Google“ nuotraukos</xmbtext>
+ </stringres>
+ <stringres id="RecentPhotosFeedCredit">
+  <xmbtext>„Google“ nuotraukos</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirm">
+  <xmbtext>Programoje prie „Google“ nuotraukų ekrano užsklandos reikia pridėti informacijos santrauką. Jos URL yra:\n\n%s\n\nAr norite pridėti šią informacijos santrauką?</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirmCaption">
+  <xmbtext>„Google“ nuotraukų ekrano užsklanda</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::SubscriptionConfirm">
+  <xmbtext>Programoje prie „Google“ nuotraukų ekrano užsklandos reikia pridėti publikuojamą konfigūravimo prenumeratą.\nLeidėjo el. pašto adresas yra:\n\n%s\n\nAr norite įdėti šią prenumeratą?</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::SaveSelWebAlbums">
+  <xmbtext>%s&#039;s žiniatinklio albumas</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::MyAlbumsLabel">
+  <xmbtext>Mano albumai</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::DefaultPhotoFeedCaption">
+  <xmbtext>„Google“ nuotraukų kanalas</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedURL">
+  <xmbtext>http://lh2.google.com/data/feed/api/all?kind=photo&amp;filter=1&amp;max-results=100&amp;alt=rss</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedCaption">
+  <xmbtext>Naujausios nuotraukos</xmbtext>
+ </stringres>
+</resources>

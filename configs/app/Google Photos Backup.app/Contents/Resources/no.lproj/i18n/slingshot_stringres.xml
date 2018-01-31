@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>Ugyldig pålogging. Prøv igjen senere.</xmbtext>
+ </stringres>
+ <stringres id="FilmstripHandler::getfilmstat">
+  <xmbtext>%1$d av %2$d</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_image">
+  <xmbtext>Ugyldig bilde</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::ConnectionCheck">
+  <xmbtext>Du må være koblet til Internett for å kunne laste opp bilder</xmbtext>
+ </stringres>
+ <stringres id="slingshot::friendly_app_name_debug">
+  <xmbtext>Picasa Bildevisning (feilsøking)</xmbtext>
+ </stringres>
+ <stringres id="ss:upload_command">
+  <xmbtext>Skall\\Last opp til Nettalbum\\Kommando</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name">
+  <xmbtext>Konfigurering av bildevisning</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name2">
+  <xmbtext>Last opp til Picasa Nettalbum</xmbtext>
+ </stringres>
+ <stringres id="OptionsDialog::RAW">
+  <xmbtext>RAW-formater</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_default">
+  <xmbtext>Standard</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_finish">
+  <xmbtext>Fullfør</xmbtext>
+ </stringres>
+ <stringres id="slingshot::without_association">
+  <xmbtext>%s (uten tilknytning)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::with_association">
+  <xmbtext>%1$s (var %2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::current_association">
+  <xmbtext>%1$s (%2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_out">
+  <xmbtext>Logg av</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_in">
+  <xmbtext>Logg på</xmbtext>
+ </stringres>
+ <stringres id="slingshot::quick_upload_fail">
+  <xmbtext>Fikk ikke lastet opp</xmbtext>
+ </stringres>
+ <stringres id="slingshot::account_creation_url">
+  <xmbtext>https://www.google.com/accounts/ServiceLogin?hl=no_US&amp;continue=http%3A%2F%2Fpicasaweb.google.com%2Fhome&amp;service=lh2&amp;ltmpl=pwasignup</xmbtext>
+ </stringres>
+ <stringres id="slingshot::forgot_password_url">
+  <xmbtext>https://www.google.com/accounts/ForgotPasswd</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_enabled_error">
+  <xmbtext>Denne kontoen er ikke aktivert for Nettalbum.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_forbidden">
+  <xmbtext>Pålogging ikke tillatt. Prøv igjen senere.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_incorrect">
+  <xmbtext>Feil pålogging.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_cookie_error">
+  <xmbtext>Personverninnstillingene for informasjonskapsler er for strenge til at du får logget på.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_server_error">
+  <xmbtext>Fikk ikke koblet til påloggingstjeneren.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_general_failure">
+  <xmbtext>Pålogging mislyktes.</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat1">
+  <xmbtext>Opplastingsstatus: %1$s–%2$d %% (%3$d gjenstår)</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat2">
+  <xmbtext>Opplastingsstatus: %1$s–%2$s</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_selection">
+  <xmbtext>Plasseringen %s inneholder ikke en gyldig bildefil.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_file">
+  <xmbtext>Filen %s er ikke en gyldig bildefil.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::imagefiles">
+  <xmbtext>Bildefiler</xmbtext>
+ </stringres>
+ <stringres id="slingshot::window_name">
+  <xmbtext>Picasa Bildevisning</xmbtext>
+ </stringres>
+ <stringres id="slingshot::viapicasa_separator">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="slingshot::print">
+  <xmbtext>Skriv ut (P)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::email">
+  <xmbtext>E-post (M)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::blogthis">
+  <xmbtext>Publiser dette i en blogg (B)</xmbtext>
+ </stringres>
+ <stringres id="ss:config">
+  <xmbtext>Konfigurering (C)</xmbtext>
+ </stringres>
+ <stringres id="ss:help">
+  <xmbtext>Hjelp (F1)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::openwith_separator">
+  <xmbtext>Åpne med</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_COPY">
+  <xmbtext>Kopier</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EDIT">
+  <xmbtext>Rediger i Picasa</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_PRINT_PHOTO">
+  <xmbtext>Skriv ut</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EMAIL">
+  <xmbtext>E-post</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_BLOG">
+  <xmbtext>Blogg</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_QUICKUPLOAD">
+  <xmbtext>Hurtigopplasting</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_LOCATEONDISK">
+  <xmbtext>Finn på disk</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_SHOW_CAPTIONS">
+  <xmbtext>Vis bildetekster</xmbtext>
+ </stringres>
+ <stringres id="slingshot::welcome">
+  <xmbtext>Velkommen til Picasa Bildevisning</xmbtext>
+ </stringres>
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>Registracija atmesta – bandykite vėliau</xmbtext>
+ </stringres>
+ <stringres id="FilmstripHandler::getfilmstat">
+  <xmbtext>%1$d iš %2$d</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_image">
+  <xmbtext>Netinkamas vaizdas</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::ConnectionCheck">
+  <xmbtext>Jūs turite būti prisijungę prie interneto, kad įkeltumėte nuotraukas</xmbtext>
+ </stringres>
+ <stringres id="slingshot::friendly_app_name_debug">
+  <xmbtext>„Picasa“ nuotraukų peržiūros programa (derinti)</xmbtext>
+ </stringres>
+ <stringres id="ss:upload_command">
+  <xmbtext>Shell\\Įkelti į žiniatinklio albumus\\Command</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name">
+  <xmbtext>Nuotraukų peržiūros programos konfigūracija</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name2">
+  <xmbtext>Įkelti į „Picasa“ žiniatinklio albumus</xmbtext>
+ </stringres>
+ <stringres id="OptionsDialog::RAW">
+  <xmbtext>RAW formatai</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_default">
+  <xmbtext>Numatytasis</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_finish">
+  <xmbtext>Baigti</xmbtext>
+ </stringres>
+ <stringres id="slingshot::without_association">
+  <xmbtext>%s (be sąsajos)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::with_association">
+  <xmbtext>%1$s (buvo %2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::current_association">
+  <xmbtext>%1$s (%2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_out">
+  <xmbtext>Atsijungti</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_in">
+  <xmbtext>Prisijungti</xmbtext>
+ </stringres>
+ <stringres id="slingshot::quick_upload_fail">
+  <xmbtext>Nepavyko įkelti</xmbtext>
+ </stringres>
+ <stringres id="slingshot::account_creation_url">
+  <xmbtext>https://www.google.com/accounts/ServiceLogin?hl=en_US&amp;continue=http%3A%2F%2Fpicasaweb.google.com%2Fhome&amp;service=lh2&amp;ltmpl=pwasignup</xmbtext>
+ </stringres>
+ <stringres id="slingshot::forgot_password_url">
+  <xmbtext>https://www.google.com/accounts/ForgotPasswd</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_enabled_error">
+  <xmbtext>Šiai paskyrai nėra įgalinti žiniatinklio albumai.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_forbidden">
+  <xmbtext>Prisijungti neleidžiama – bandykite dar kartą.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_incorrect">
+  <xmbtext>Prisijungimas neteisingas.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_cookie_error">
+  <xmbtext>Jūsų slapukų privatumo nustatymai yra per griežti, kad galėtumėte prisijungti.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_server_error">
+  <xmbtext>Nepavyko prisijungti prie serverio.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_general_failure">
+  <xmbtext>Prisijungti nepavyko.</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat1">
+  <xmbtext>Įkėlimo būsena: %1$s–%2$d%% (liko %3$d)</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat2">
+  <xmbtext>Įkėlimo būsena: %1$s – %2$s</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_selection">
+  <xmbtext>Vietoje „%s“ nėra tinkamo vaizdo failo.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_file">
+  <xmbtext>Failas„%s“ nėra galiojantis vaizdo failas.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::imagefiles">
+  <xmbtext>Vaizdo failai</xmbtext>
+ </stringres>
+ <stringres id="slingshot::window_name">
+  <xmbtext>„Picasa“ nuotraukų peržiūros priemonė</xmbtext>
+ </stringres>
+ <stringres id="slingshot::viapicasa_separator">
+  <xmbtext>„Picasa“...</xmbtext>
+ </stringres>
+ <stringres id="slingshot::print">
+  <xmbtext>Spausdinti   (P)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::email">
+  <xmbtext>El. paštas   (M)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::blogthis">
+  <xmbtext>BlogThis!   (B)</xmbtext>
+ </stringres>
+ <stringres id="ss:config">
+  <xmbtext>Sąranka (C)</xmbtext>
+ </stringres>
+ <stringres id="ss:help">
+  <xmbtext>Pagalba (F1)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::openwith_separator">
+  <xmbtext>Atidaryti naudojant...</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_COPY">
+  <xmbtext>Kopijuoti</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EDIT">
+  <xmbtext>Redaguoti naudojant „Picasa“</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_PRINT_PHOTO">
+  <xmbtext>Spausdinti</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EMAIL">
+  <xmbtext>El. paštas</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_BLOG">
+  <xmbtext>Tinklaraštis</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_QUICKUPLOAD">
+  <xmbtext>Greitas įkėlimas</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_LOCATEONDISK">
+  <xmbtext>Surasti diske</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_SHOW_CAPTIONS">
+  <xmbtext>Rodyti antraštes</xmbtext>
+ </stringres>
+ <stringres id="slingshot::welcome">
+  <xmbtext>Sveiki! Tai - „Picasa“ nuotraukų peržiūros programa</xmbtext>
+ </stringres>
+</resources>

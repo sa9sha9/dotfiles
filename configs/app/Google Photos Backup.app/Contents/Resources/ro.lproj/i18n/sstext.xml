@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="ss/launch_picasa" xmbdesc="Label(ss/launch_picasa)">
+  <xmbtext>Editaţi în Picasa</xmbtext>
+ </action>
+ <action type="Label" target="ss/to_web" xmbdesc="Label(ss/to_web)">
+  <xmbtext>Încărcaţi</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/actualsize" xmbdesc="Tooltip(ss/actualsize)">
+  <xmbtext>Faceţi zoom la 1:1</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/zoom_plus" xmbdesc="Tooltip(ss/zoom_plus)">
+  <xmbtext>Măriți</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/zoom_minus" xmbdesc="Tooltip(ss/zoom_minus)">
+  <xmbtext>Micşoraţi</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/play_slideshow" xmbdesc="Tooltip(ss/play_slideshow)">
+  <xmbtext>Redaţi slideshow-ul</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/to_web" xmbdesc="Tooltip(ss/to_web)">
+  <xmbtext>Încărcaţi rapid</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/more" xmbdesc="Tooltip(ss/more)">
+  <xmbtext>Mai multe opţiuni</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/prev" xmbdesc="Tooltip(ss/prev)">
+  <xmbtext>Fotografia precedentă</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/next" xmbdesc="Tooltip(ss/next)">
+  <xmbtext>Fotografia următoare</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/rotate_cw" xmbdesc="Tooltip(ss/rotate_cw)">
+  <xmbtext>Rotiţi spre dreapta</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/rotate_ccw" xmbdesc="Tooltip(ss/rotate_ccw)">
+  <xmbtext>Rotiţi spre stânga</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/launch_picasa" xmbdesc="Tooltip(ss/launch_picasa)">
+  <xmbtext>Lansaţi Picasa</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/star" xmbdesc="Tooltip(ss/star)">
+  <xmbtext>Marcaţi cu stea</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/close" xmbdesc="Tooltip(ss/close)">
+  <xmbtext>Ieşire</xmbtext>
+ </action>
+</tooltips>

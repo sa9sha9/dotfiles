@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_DIALOG>
+  <res resid="#601">
+   <dtitle>
+    <xmbtext>Er is een update van Picasa beschikbaar</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 275 90)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(7 43 134 59)">
+    <xmbtext>Ja, nu downloaden</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(141 43 268 59)">
+    <xmbtext>Nee, later downloaden</xmbtext>
+   </item>
+   <item itemid="1020" itemtype="Static" layout="rect(35 11 268 35)">
+    <xmbtext>Er is een gratis update van Picasa beschikbaar. \nWilt u de nieuwe versie nu downloaden?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(6 10 26 30)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 69 268 85)">
+    <xmbtext>Opmerking: U moet beheerdersrechten voor deze computer hebben om de update te kunnen installeren.</xmbtext>
+   </item>
+  </res>
+  <res resid="#602">
+   <dtitle>
+    <xmbtext>Er is een update van Picasa beschikbaar</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Ja, nu bijwerken</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Later, graag</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Er kan een update voor Picasa worden geïnstalleerd.\nWilt u Picasa nu opnieuw starten en deze update installeren?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+  <res resid="#603">
+   <dtitle>
+    <xmbtext>Er is een update van Picasa beschikbaar</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Nu bijwerken</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Later vragen</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Er kan een update voor Picasa worden geïnstalleerd.\nU wordt mogelijk gevraagd in te loggen als beheerder.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+ </RT_DIALOG>
+</Win32Res>

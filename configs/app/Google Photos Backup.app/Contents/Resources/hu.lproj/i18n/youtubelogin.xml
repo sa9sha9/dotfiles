@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="youtubelogin/window1.title">
+  <xmbtext>Bejelentkezés</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/label2.title">
+  <xmbtext>Adja meg YouTube-felhasználónevét és -jelszavát.</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup3.title">
+  <xmbtext>Felhasználónév:</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup5.title">
+  <xmbtext>Jelszó:</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.title">
+  <xmbtext>Elfelejtett felhasználónév</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.url">
+  <xmbtext>http://www.youtube.com/forgot_username?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.title">
+  <xmbtext>Elfelejtett jelszó</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.url">
+  <xmbtext>http://www.youtube.com/forgot?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button11.title">
+  <xmbtext>Bejelentkezés</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button12.title">
+  <xmbtext>Mégse</xmbtext>
+ </stringres>
+</resources>

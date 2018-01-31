@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="setup/tab1" xmbdesc="Label(setup/tab1)">
+  <xmbtext>Mga Uri ng File</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab2" xmbdesc="Label(setup/tab2)">
+  <xmbtext>Mga Web Album</xmbtext>
+ </action>
+ <action type="Label" target="setup/tab3" xmbdesc="Label(setup/tab3)">
+  <xmbtext>Interface ng User</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_enable" xmbdesc="Label(setup/radio_enable)">
+  <xmbtext>Gamitin ang Picasa Photo Viewer bilang default na viewer para sa ganitong uri ng mga file:</xmbtext>
+ </action>
+ <action type="Label" target="setup/radio_disable" xmbdesc="Label(setup/radio_disable)">
+  <xmbtext>Huwag gamitin ang Picasa Photo Viewer</xmbtext>
+ </action>
+ <action type="Label" target="setup/try" xmbdesc="Label(setup/try)">
+  <xmbtext>Subukan ito! Kahit na kailan ay maaari kang bumalik sa iyong mga kasalukuyang setting</xmbtext>
+ </action>
+ <action type="Label" target="setup/finish" xmbdesc="Label(setup/finish)">
+  <xmbtext>Kanselahin</xmbtext>
+ </action>
+ <action type="Label" target="setup/ok" xmbdesc="Label(setup/ok)">
+  <xmbtext>Ok</xmbtext>
+ </action>
+ <action type="Label" target="setup/description" xmbdesc="Label(setup/description)">
+  <xmbtext>Ang Picasa ay may kasama na ngayon na mabilis at mahusay na viewer ng larawan para kung ibig mong direktang i-view ang mga larawan mula sa Windows Explorer</xmbtext>
+ </action>
+ <action type="Label" target="setup/title" xmbdesc="Label(setup/title)">
+  <xmbtext>Picasa</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_default" xmbdesc="Label(setup/select_default)">
+  <xmbtext>Kasalukuyan</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_all" xmbdesc="Label(setup/select_all)">
+  <xmbtext>Piliin Lahat</xmbtext>
+ </action>
+ <action type="Label" target="setup/select_none" xmbdesc="Label(setup/select_none)">
+  <xmbtext>Piliin ang Wala</xmbtext>
+ </action>
+ <action type="Label" target="setup/features" xmbdesc="Label(setup/features)">
+  <xmbtext>Mga magagandang tanawin. Mabibilis na pag-upload. Mga slideshow.</xmbtext>
+ </action>
+ <action type="Label" target="setup/picasaintro" xmbdesc="Label(setup/picasaintro)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ptext" xmbdesc="Label(setup/ptext)">
+  <xmbtext>Sa web albums, maaari mong ibahagi ang mga online na album ng larawan sa mga kaibigan at pamilya, o lumikha na mga pampublikong album upang ibahagi sa mundo. Ito ay libre, at madaling gamitin.</xmbtext>
+ </action>
+ <action type="Label" target="setup/gphotoslink" xmbdesc="Label(setup/gphotoslink)">
+  <xmbtext>Mag-click dito upang matuto nang higit pa.</xmbtext>
+ </action>
+ <action type="Label" target="setup/loginheader" xmbdesc="Label(setup/loginheader)">
+  <xmbtext>Mag-sign in gamit ang iyong Google Account</xmbtext>
+ </action>
+ <action type="Label" target="setup/usernametxt" xmbdesc="Label(setup/usernametxt)">
+  <xmbtext>Username:</xmbtext>
+ </action>
+ <action type="Label" target="setup/signin" xmbdesc="Label(setup/signin)">
+  <xmbtext>Mag-sign In</xmbtext>
+ </action>
+ <action type="Label" target="setup/focsignin" xmbdesc="Label(setup/focsignin)">
+  <xmbtext/>
+ </action>
+ <action type="Label" target="setup/ui_option1" xmbdesc="Label(setup/ui_option1)">
+  <xmbtext>Mag-zoom gamit ang mousewheel (pindutin nang matagal ang Ctrl upang magnabiga)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option2" xmbdesc="Label(setup/ui_option2)">
+  <xmbtext>I-awto-hide ang Photo Viewer na action bar mula sa fullscreen</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option3" xmbdesc="Label(setup/ui_option3)">
+  <xmbtext>Fullscreen na startup (kailangan ng muling pagsimula ng Photo Viewer upang gumana)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option4" xmbdesc="Label(setup/ui_option4)">
+  <xmbtext>Transparent na background (kailangang simulan muli ang Photo Viewer upang gumana)</xmbtext>
+ </action>
+ <action type="Label" target="setup/ui_option5" xmbdesc="Label(setup/ui_option5)">
+  <xmbtext>Paganahin ang Pamamahala ng Kulay (kailangang simulan muli ang Photo Viewer para umepekto) </xmbtext>
+ </action>
+</tooltips>

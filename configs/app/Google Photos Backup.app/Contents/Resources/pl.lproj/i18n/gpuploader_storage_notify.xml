@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_storage_notify/window.title">
+  <xmbtext>Kopia zapasowa Zdjęć Google</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_header.title">
+  <xmbtext>Nowa Kopia zapasowa Zdjęć Google</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_text.title">
+  <xmbtext>Masz teraz dostęp do jeszcze lepszych opcji miejsca na zdjęcia i filmy.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.title">
+  <xmbtext>Dowiedz się więcej</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.url">
+  <xmbtext>https://support.google.com/plus/answer/1647509#cost</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size.title">
+  <xmbtext>Wysoka jakość (bezpłatne nieograniczone miejsce)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size_desc.title">
+  <xmbtext>Świetna jakość i mniejszy rozmiar pliku</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size.title">
+  <xmbtext>Oryginalne (sprawdzanie wolnego miejsca...)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size_desc.title">
+  <xmbtext>Pełna rozdzielczość (pliki zajmują miejsce na Dysku)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_extra.title">
+  <xmbtext>Przejrzyj przesłane pliki i zapoznaj się z nowymi funkcjami Zdjęć Google na photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

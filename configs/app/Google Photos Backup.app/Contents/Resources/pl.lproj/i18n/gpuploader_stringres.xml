@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="UploaderLogin::Title">
+  <xmbtext>Zaloguj się w Zdjęciach Google</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderApp::UpgradeToGPlus">
+  <xmbtext>Aby korzystać z Kopii zapasowej Zdjęć Google, musisz najpierw skonfigurować swoje konto Zdjęć Google. Aby to zrobić, otwórz Zdjęcia Google.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotos">
+  <xmbtext>Otwórz Zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="Cancel">
+  <xmbtext>Anuluj</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotosTitle">
+  <xmbtext>Skonfiguruj swoje konto Zdjęć Google</xmbtext>
+ </stringres>
+ <stringres id="GooglePhotos">
+  <xmbtext>https://photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortReadingDirectory">
+  <xmbtext>Odczytywanie zdjęć (znaleziono: %1$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortWaiting">
+  <xmbtext>Oczekiwanie</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImporting">
+  <xmbtext>Importowanie zdjęć (pozostało: %1$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortUploading">
+  <xmbtext>Przesyłanie plików do Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportComplete">
+  <xmbtext>Zaktualizowane</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportFailed">
+  <xmbtext>Nie udało się zaimportować danych</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ReadingDirectory">
+  <xmbtext>Odczytywanie zdjęć z: %1$s (znaleziono: %2$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Waiting">
+  <xmbtext>Oczekiwanie na zakończenie pobierania przez inne urządzenie</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Importing">
+  <xmbtext>Importowanie %1$s zdjęć z: %2$s (pozostało: %3$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportingNoTotal">
+  <xmbtext>Importowanie %1$s plików z: %2$s</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading2">
+  <xmbtext>Przesyłanie plików do Google (przesłano %1$d z %2$d)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading">
+  <xmbtext>Przesyłanie plików do Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportComplete">
+  <xmbtext>Zaktualizowane</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportFailed">
+  <xmbtext>Nie udało się zaimportować</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::CopyFailureMessage">
+  <xmbtext>Nie udało się skopiować Kopii zapasowej Zdjęć Google do aplikacji.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::LaunchFailureMessage">
+  <xmbtext>Nie udało się uruchomić Kopii zapasowej Zdjęć Google z aplikacji.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Message">
+  <xmbtext>Kopia zapasowa Zdjęć Google jest obecnie uruchomiona z obrazu dysku. Czy chcesz ją skopiować do folderu aplikacji?</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::YesButton">
+  <xmbtext>Kopiuj i uruchom ponownie</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::NoButton">
+  <xmbtext>Nie kopiuj</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Title">
+  <xmbtext>Skopiować do aplikacji?</xmbtext>
+ </stringres>
+ <stringres id="GPUp::RAWNotification">
+  <xmbtext>Trwa dołączanie plików obrazów w formacie RAW. Kliknij, aby sprawdzić ustawienia.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::DriveSyncNotification">
+  <xmbtext>Kliknij, by przeczytać ważne informacje o synchronizowaniu Dysku</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifySingular">
+  <xmbtext>Nie udało się przesłać 1 pliku. Kliknij, by go wyświetlić.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifyPlural">
+  <xmbtext>Nie udało się przesłać %d plików. Kliknij, by je wyświetlić.</xmbtext>
+ </stringres>
+ <stringres id="NeedsLogin">
+  <xmbtext>Zaloguj się w Google.</xmbtext>
+ </stringres>
+ <stringres id="UploadIdle">
+  <xmbtext>Gotowe</xmbtext>
+ </stringres>
+ <stringres id="UploadError">
+  <xmbtext>Podczas przesyłania wystąpił błąd</xmbtext>
+ </stringres>
+ <stringres id="UploaderPaused">
+  <xmbtext>Wstrzymano, oczekiwanie na wznowienie.</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingLast">
+  <xmbtext>Tworzenie kopii zapasowej 1 nowego pliku.</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingFormat">
+  <xmbtext>Tworzenie kopii zapasowej %1$s nowych plików, pozostało: %2$s.</xmbtext>
+ </stringres>
+ <stringres id="ScanningDisk">
+  <xmbtext>Wyszukiwanie zdjęć.</xmbtext>
+ </stringres>
+ <stringres id="UploaderState::Completed">
+  <xmbtext>Zakończono przesyłanie %s zdjęć</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Idle">
+  <xmbtext>Utworzono kopie zapasowe %s zdjęć</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::RetryError">
+  <xmbtext>Ponów</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::SkipError">
+  <xmbtext>Pomiń</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Login">
+  <xmbtext>Zaloguj się w Zdjęciach Google</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Resume">
+  <xmbtext>Wznów tworzenie kopii zapasowej</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Pause">
+  <xmbtext>Wstrzymaj tworzenie kopii zapasowej</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::FileError">
+  <xmbtext>Wyświetl pliki, których kopii zapasowych nie udało się utworzyć...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewRecentPhotos">
+  <xmbtext>Wyświetl przesłane zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewPhotosOnline">
+  <xmbtext>Otwórz Zdjęcia Google</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsMac">
+  <xmbtext>Ustawienia...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsWindows">
+  <xmbtext>Ustawienia...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::HelpMenu">
+  <xmbtext>Pomoc</xmbtext>
+ </stringres>
+ <stringres id="GPUp::About">
+  <xmbtext>Informacje...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::FileStatus">
+  <xmbtext>Stan pliku...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowDebug">
+  <xmbtext>Okno debugowania...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Quit">
+  <xmbtext>Zamknij</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Initializing">
+  <xmbtext>Wyszukiwanie zdjęć</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Paused">
+  <xmbtext>Tworzenie kopii zapasowej zostało wstrzymane</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Stopped">
+  <xmbtext>Nie zalogowałeś się</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Uploading">
+  <xmbtext>Tworzenie kopii zapasowej zdjęć (pozostało: %1$s)</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Invalid">
+  <xmbtext>Stan nieznany</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OnBeforeQuitConfirmation::Message">
+  <xmbtext>Kopia zapasowa jest włączona.\nZamknięcie aplikacji spowoduje przerwanie operacji przesyłania.\nNa pewno zamknąć?</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderAppTitle">
+  <xmbtext>Kopia zapasowa Zdjęć Google</xmbtext>
+ </stringres>
+ <stringres id="GPUImplicitLogout">
+  <xmbtext>Dane logowania anulowane. Zaloguj się jeszcze raz.</xmbtext>
+ </stringres>
+ <stringres id="LowStorageText">
+  <xmbtext>75% miejsca na Twoim Dysku Google jest zajęte. Kliknij, by zwiększyć ilość miejsca.</xmbtext>
+ </stringres>
+ <stringres id="DriveSyncVisitError">
+  <xmbtext>Nie udało się otworzyć przeglądarki, aby wyświetlić informacje o synchronizacji Dysku.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::days">
+  <xmbtext>dni</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::hours">
+  <xmbtext>godz.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::minutes">
+  <xmbtext>min</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::seconds">
+  <xmbtext>s</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_quota">
+  <xmbtext>Oryginalne (wolne miejsce: %s)</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited">
+  <xmbtext>Oryginalne</xmbtext>
+ </stringres>
+ <stringres id="free_size_with_unlimited">
+  <xmbtext>Wysoka jakość</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited_desc">
+  <xmbtext>Pełna rozdzielczość i oryginalna jakość</xmbtext>
+ </stringres>
+ <stringres id="GPUConfirmQuit">
+  <xmbtext>Zamknąć Kopię zapasową?</xmbtext>
+ </stringres>
+ <stringres id="Quit">
+  <xmbtext>Zamknij</xmbtext>
+ </stringres>
+ <stringres id="il_Cancel">
+  <xmbtext>Anuluj</xmbtext>
+ </stringres>
+ <stringres id="AddWatchedFolderTitle">
+  <xmbtext>Dodaj obejrzane foldery</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutHeader">
+  <xmbtext>Wyloguj się z Kopii zapasowej Zdjęć Google</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutText">
+  <xmbtext>Po wylogowaniu się nie możesz tworzyć kopii zapasowych zdjęć.</xmbtext>
+ </stringres>
+ <stringres id="LogoutButton">
+  <xmbtext>Wyloguj się</xmbtext>
+ </stringres>
+ <stringres id="CancelLogout">
+  <xmbtext>Anuluj</xmbtext>
+ </stringres>
+ <stringres id="GoogleDriveFolderName">
+  <xmbtext>Dysk Google</xmbtext>
+ </stringres>
+ <stringres id="PicasaFolderName">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="gpuploader:default_tooltip">
+  <xmbtext>Nieaktywne</xmbtext>
+ </stringres>
+ <stringres id="UploadError::NoConnection">
+  <xmbtext>Brak połączenia</xmbtext>
+ </stringres>
+ <stringres id="album_hint::rootpath">
+  <xmbtext>Zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="Prefs::DeviceItem">
+  <xmbtext>Aparaty i karty pamięci</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotosWithAperture">
+  <xmbtext>Biblioteki iPhoto i Aperture</xmbtext>
+ </stringres>
+ <stringres id="Prefs::Aperture">
+  <xmbtext>Biblioteka Aperture</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotos">
+  <xmbtext>Biblioteka iPhoto</xmbtext>
+ </stringres>
+ <stringres id="Prefs::ApplePhotos">
+  <xmbtext>Biblioteka Zdjęć Apple</xmbtext>
+ </stringres>
+ <stringres id="WelcomeDialog:LoggedInFormat">
+  <xmbtext>Zalogowany jako %s</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckFailed">
+  <xmbtext>Nie udało się sprawdzić dostępności aktualizacji Automatycznej kopii zapasowej Google+. Spróbuj jeszcze raz później.</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UpToDate">
+  <xmbtext>Automatyczna kopia zapasowa Google+ jest aktualna</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UnknownCheckError">
+  <xmbtext>Podczas sprawdzania dostępności aktualizacji wystąpił błąd. Spróbuj jeszcze raz później.</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::SuccessTitle">
+  <xmbtext>Zakończono sprawdzanie aktualizacji</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::ErrorTitle">
+  <xmbtext>Błąd aktualizacji</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckTimedOut">
+  <xmbtext>Przekroczono limit czasu podczas sprawdzania dostępności aktualizacji. Spróbuj jeszcze raz później.</xmbtext>
+ </stringres>
+ <stringres id="StatusIcon:MenuTitle">
+  <xmbtext>Kopia zapasowa Zdjęć Google</xmbtext>
+ </stringres>
+ <stringres id="ytApp::JPEGFilter">
+  <xmbtext>Pliki JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ErrorTitle">
+  <xmbtext>Błąd</xmbtext>
+ </stringres>
+ <stringres id="ytApp::MemErrorPrompt">
+  <xmbtext>Napotkano błąd pamięci.</xmbtext>
+ </stringres>
+ <stringres id="ytApp::InfoTitle">
+  <xmbtext>Informacje</xmbtext>
+ </stringres>
+ <stringres id="ytZoomString::Value">
+  <xmbtext>Powiększenie %3.0f%%</xmbtext>
+ </stringres>
+ <stringres id="il_OKButton">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+ <stringres id="il_Yes">
+  <xmbtext>Tak</xmbtext>
+ </stringres>
+ <stringres id="il_No">
+  <xmbtext>Nie</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ConfirmTitle">
+  <xmbtext>Potwierdź</xmbtext>
+ </stringres>
+ <stringres id="February">
+  <xmbtext>Luty</xmbtext>
+ </stringres>
+ <stringres id="March">
+  <xmbtext>Marzec</xmbtext>
+ </stringres>
+ <stringres id="April">
+  <xmbtext>Kwiecień</xmbtext>
+ </stringres>
+ <stringres id="May">
+  <xmbtext>Maj</xmbtext>
+ </stringres>
+ <stringres id="June">
+  <xmbtext>Czerwiec</xmbtext>
+ </stringres>
+ <stringres id="July">
+  <xmbtext>Lipiec</xmbtext>
+ </stringres>
+ <stringres id="August">
+  <xmbtext>Sierpień</xmbtext>
+ </stringres>
+ <stringres id="September">
+  <xmbtext>Wrzesień</xmbtext>
+ </stringres>
+ <stringres id="October">
+  <xmbtext>Październik</xmbtext>
+ </stringres>
+ <stringres id="November">
+  <xmbtext>Listopad</xmbtext>
+ </stringres>
+ <stringres id="December">
+  <xmbtext>Grudzień</xmbtext>
+ </stringres>
+ <stringres id="Jan">
+  <xmbtext>Sty</xmbtext>
+ </stringres>
+ <stringres id="Feb">
+  <xmbtext>Lut</xmbtext>
+ </stringres>
+ <stringres id="Mar">
+  <xmbtext>Mar</xmbtext>
+ </stringres>
+ <stringres id="Apr">
+  <xmbtext>Kwi</xmbtext>
+ </stringres>
+ <stringres id="Abbreviation::May">
+  <xmbtext>Maj</xmbtext>
+ </stringres>
+ <stringres id="Jun">
+  <xmbtext>Cze</xmbtext>
+ </stringres>
+ <stringres id="Jul">
+  <xmbtext>Lip</xmbtext>
+ </stringres>
+ <stringres id="Aug">
+  <xmbtext>Sie</xmbtext>
+ </stringres>
+ <stringres id="Sep">
+  <xmbtext>Wrz</xmbtext>
+ </stringres>
+ <stringres id="Oct">
+  <xmbtext>Paź</xmbtext>
+ </stringres>
+ <stringres id="Nov">
+  <xmbtext>Lis</xmbtext>
+ </stringres>
+ <stringres id="Dec">
+  <xmbtext>Gru</xmbtext>
+ </stringres>
+ <stringres id="January">
+  <xmbtext>Styczeń</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format1">
+  <xmbtext>%1$s %2$d, %3$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format2">
+  <xmbtext>%1$s %2$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format3">
+  <xmbtext>%1$d:%2$02d:%3$02d %4$cM</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format4">
+  <xmbtext>%1$.2d:%2$.2d:%3$.2d</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigB">
+  <xmbtext>Liczba bajtów: %.0f</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigKB">
+  <xmbtext>%.0f KB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigMB">
+  <xmbtext>%.1f MB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigGB">
+  <xmbtext>%.1f GB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigTB">
+  <xmbtext>%.1f TB</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::videotype">
+  <xmbtext>Wideo: %s</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::audiotype">
+  <xmbtext>Dźwięk :%1$s %2$d-bitowy %3$.1fK %4$d-kanałowy</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyPictures">
+  <xmbtext>Zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Desktop">
+  <xmbtext>Pulpit</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyMusic">
+  <xmbtext>Muzyka</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyVideos">
+  <xmbtext>Filmy</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyDocuments">
+  <xmbtext>Dokumenty</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::ApplicationData">
+  <xmbtext>Biblioteki/Application Support</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::CommonApplicationData">
+  <xmbtext>Library/Application Support</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Library">
+  <xmbtext>Biblioteka</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyPictures">
+  <xmbtext>Moje zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::Desktop">
+  <xmbtext>Pulpit</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyMusic">
+  <xmbtext>Moja muzyka</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyVideos">
+  <xmbtext>Moje filmy wideo</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyDocuments">
+  <xmbtext>Moje dokumenty</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::ApplicationData">
+  <xmbtext>Dane aplikacji</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::CommonApplicationData">
+  <xmbtext>Wspólne dane aplikacji</xmbtext>
+ </stringres>
+ <stringres id="ytFileUtils::CopyProgress">
+  <xmbtext>%1$s z %2$s</xmbtext>
+ </stringres>
+ <stringres id="BinaryMetadata::GetString">
+  <xmbtext>{%d bajtów}</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Yes">
+  <xmbtext>Tak</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::No">
+  <xmbtext>Nie</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:4">
+  <xmbtext>YCbCr 4:4:4</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:0">
+  <xmbtext>YCbCr 4:4:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:1">
+  <xmbtext>YCbCr 4:4:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:2">
+  <xmbtext>YCbCr 4:2:2</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:0">
+  <xmbtext>YCbCr 4:2:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:1">
+  <xmbtext>YCbCr 4:2:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:1">
+  <xmbtext>YCbCr 4:1:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:0">
+  <xmbtext>YCbCr 4:1:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime1">
+  <xmbtext>%s s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime2">
+  <xmbtext> (1/%d)</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashUsed">
+  <xmbtext>Użyto</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashNotUsed">
+  <xmbtext>Nie użyto</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat" meaning="GPS Coordinates - Hours Minutes&#039;Seconds">
+  <xmbtext>%1$s %2$s\&#039;%3$s\&quot;</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat2">
+  <xmbtext> %s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::UnnamedColorProfile">
+  <xmbtext>Nienazwany profil koloru</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileName">
+  <xmbtext>Nazwa profilu kolorów</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileDescription">
+  <xmbtext>Opis profilu kolorów</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::sRGB">
+  <xmbtext>sRGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::AdobeRGB">
+  <xmbtext>Adobe RGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Uncalibrated">
+  <xmbtext>Nieskalibrowane</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::DimensionsFormat">
+  <xmbtext>Rozmiar w pikselach: %1$d x %2$d</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::2">
+  <xmbtext>%1$s Ogniskowa: %2$3.1f mm </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::3">
+  <xmbtext>(odpowiednik 35 mm: %3.0f mm)  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::4">
+  <xmbtext>1/%d s  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::5">
+  <xmbtext>%2.1f s  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::6">
+  <xmbtext>f/%3.1f  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::7">
+  <xmbtext>ISO: %2d</xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::Flash">
+  <xmbtext>lampa błyskowa </xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::iso">
+  <xmbtext> iso: %d </xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::focal">
+  <xmbtext> ogniskowa: %d </xmbtext>
+ </stringres>
+ <stringres id="EXIF::Elipses">
+  <xmbtext>... (łącznie: %d)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::GetTitle">
+  <xmbtext>EXIF (%1$s:0x%2$X)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::UndefinedOut">
+  <xmbtext>{%d bajtów}</xmbtext>
+ </stringres>
+ <stringres id="ytIPTCMetadata::GetString">
+  <xmbtext>%1$d:%2$d %3$d bajtów</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Enter">
+  <xmbtext>Enter</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Delete">
+  <xmbtext>Usuń</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::CtrlPrefix">
+  <xmbtext>Ctrl+</xmbtext>
+ </stringres>
+ <stringres id="ytMesu::ShiftPrefix">
+  <xmbtext>Shift+</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::AltPrefix">
+  <xmbtext>Alt+</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>Ukończono: %d%%, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>Pozostało %1$02d:%2$02d:%3$02d s</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>Pozostało %1$02d:%2$02d.</xmbtext>
+ </stringres>
+ <stringres id="ytResampler::Prog">
+  <xmbtext>Przetwarzanie...</xmbtext>
+ </stringres>
+ <stringres id="ytResMgr::LoadError">
+  <xmbtext>Podczas uruchamiania aplikacji wystąpiły błędy.\nPrzepraszamy za niedogodność, ale rozwiązanie problemu wymaga ponownej instalacji programu.</xmbtext>
+ </stringres>
+ <stringres id="ytFPSNode::time">
+  <xmbtext>Czas = %1$d ms = %2$d kl./s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilePath">
+  <xmbtext>Lokalizacja</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileSize">
+  <xmbtext>Rozmiar pliku</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileDate">
+  <xmbtext>Data pliku</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Dimensions">
+  <xmbtext>Wymiary</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::RelatedDimensions">
+  <xmbtext>Powiązane wymiary zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::CCDWidth">
+  <xmbtext>Szerokość CCD</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Comment">
+  <xmbtext>Komentarz JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Quality">
+  <xmbtext>Jakość JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieInfo">
+  <xmbtext>Informacje o filmie</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieRate">
+  <xmbtext>Szybkość odtwarzania filmu</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieLength">
+  <xmbtext>Długość filmu</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Text">
+  <xmbtext>Tekst</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::LayerNames">
+  <xmbtext>Nazwy warstw</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilterString">
+  <xmbtext>Ciąg filtrowania</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::OnlinePhotoID">
+  <xmbtext>Identyfikator zdjęcia online</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IsTempFile">
+  <xmbtext>Plik tymczasowy</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IPTCUnknown">
+  <xmbtext>Nieznane pole IPTC</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::XMPUnknown">
+  <xmbtext>Nieznane pole XMP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BitsPerSample">
+  <xmbtext>Liczba bitów na próbkę</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Compression">
+  <xmbtext>Kompresja</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PhotometricInterpretation">
+  <xmbtext>Interpretacja fotometryczna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thresholding">
+  <xmbtext>Progowanie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellWidth">
+  <xmbtext>Szerokość komórki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellLength">
+  <xmbtext>Długość komórki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FillOrder">
+  <xmbtext>Wypełnij zamówienie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CameraID">
+  <xmbtext>Identyfikator aparatu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Make">
+  <xmbtext>Marka aparatu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Model">
+  <xmbtext>Model aparatu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripOffsets">
+  <xmbtext>Przesunięcie pasa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Orientation">
+  <xmbtext>Orientacja</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SamplesPerPixel">
+  <xmbtext>Liczba próbek na piksel</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RowsPerStrip">
+  <xmbtext>Liczby wierszy na pas</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripByteCounts">
+  <xmbtext>Liczba bajtów na pas</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinSampleValue">
+  <xmbtext>Najmniejsza wartość próbki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxSampleValue">
+  <xmbtext>Największa wartość próbki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::XResolution">
+  <xmbtext>Rozdzielczość X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YResolution">
+  <xmbtext>Rozdzielczość Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PlanarConfiguration">
+  <xmbtext>Konfiguracja planarna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeOffsets">
+  <xmbtext>Wolne przesunięcia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeByteCounts">
+  <xmbtext>Liczba wolnych bajtów</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseUnit">
+  <xmbtext>Jednostka reakcji szarości</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseCurve">
+  <xmbtext>Krzywa reakcji szarości</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ResolutionUnit">
+  <xmbtext>Jednostka rozdzielczości</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Software">
+  <xmbtext>Oprogramowanie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTime">
+  <xmbtext>Data modyfikacji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Artist">
+  <xmbtext>Artysta</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HostComputer">
+  <xmbtext>Komputer-host</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhitePoint">
+  <xmbtext>Punkt bieli</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PrimaryChromaticities">
+  <xmbtext>Chromatyczność barw podstawowych</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorMap">
+  <xmbtext>Mapa kolorów</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExtraSamples">
+  <xmbtext>Dodatkowe próbki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrCoefficients">
+  <xmbtext>Współczynniki YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrSubSampling">
+  <xmbtext>Podpróbkowanie YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrPositioning">
+  <xmbtext>Pozycjonowanie YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReferenceBlackWhite">
+  <xmbtext>Odwołanie czarno-białe</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Copyright">
+  <xmbtext>Prawa autorskie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureTime">
+  <xmbtext>Czas ekspozycji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumber">
+  <xmbtext>Ogniskowa (wartość F)</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumberUnits">
+  <xmbtext>f/%s</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureProgram">
+  <xmbtext>Program ekspozycji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpectralSensitivity">
+  <xmbtext>Czułość widmowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOSpeedRatings">
+  <xmbtext>ISO</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OECF">
+  <xmbtext>OECF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeOriginal">
+  <xmbtext>Data aparatu fotograficznego</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeDigitized">
+  <xmbtext>Data w postaci cyfrowej</xmbtext>
+ </stringres>
+ <stringres id="ComponentsConfiguration">
+  <xmbtext>Konfiguracja składników</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CompressedBitsPerPixel">
+  <xmbtext>Liczba skompresowanych bitów na piksel</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterSpeedValue">
+  <xmbtext>Szybkość migawki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ApertureValue">
+  <xmbtext>Przesłona</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BrightnessValue">
+  <xmbtext>Jasność</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureBiasValue">
+  <xmbtext>Korekta ekspozycji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxApertureValue">
+  <xmbtext>Największa przesłona</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistance">
+  <xmbtext>Odległość od obiektu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::m">
+  <xmbtext>%s m</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MeteringMode">
+  <xmbtext>Tryb pomiaru</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LightSource">
+  <xmbtext>Balans bieli</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Flash">
+  <xmbtext>Lampa błyskowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLength">
+  <xmbtext>Ogniskowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::mm">
+  <xmbtext>%s mm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectArea">
+  <xmbtext>Obszar obiektu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MakernoteData">
+  <xmbtext>Makernote</xmbtext>
+ </stringres>
+ <stringres id="EXIF::UserComment">
+  <xmbtext>Komentarz użytkownika</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashpixVersion">
+  <xmbtext>Wersja Flashpix</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSpace">
+  <xmbtext>Przestrzeń kolorów</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedSoundFile">
+  <xmbtext>Powiązany plik dźwiękowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashEnergy">
+  <xmbtext>Moc lampy błyskowej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpatialFrequencyResponse">
+  <xmbtext>Reakcja na częstotliwość przestrzenną</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneXResolution">
+  <xmbtext>Rozdzielczość płaszczyzny ogniskowej X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneYResolution">
+  <xmbtext>Rozdzielczość płaszczyzny ogniskowej Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneResolutionUnit">
+  <xmbtext>Jednostka rozdzielczości płaszczyzny ogniskowej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectLocation">
+  <xmbtext>Lokalizacja obiektu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureIndex">
+  <xmbtext>Wskaźnik ekspozycji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SensingMethod">
+  <xmbtext>Metoda wykrywania</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FileSource">
+  <xmbtext>Źródło pliku</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneType">
+  <xmbtext>Typ scenerii</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CFAPattern">
+  <xmbtext>Wzorzec CFA</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CustomRendered">
+  <xmbtext>Renderowanie niestandardowe</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureMode">
+  <xmbtext>Tryb ekspozycji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteBalance">
+  <xmbtext>Balans bieli</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalZoomRatio">
+  <xmbtext>Współczynnik powiększenia cyfrowego</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLengthIn35mmFilm">
+  <xmbtext>Ogniskowa na kliszy 35 mm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneCaptureType">
+  <xmbtext>Typ przechwytywania scenerii</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GainControl">
+  <xmbtext>Kontrola wzmocnienia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Contrast">
+  <xmbtext>Kontrast</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Saturation">
+  <xmbtext>Nasycenie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sharpness">
+  <xmbtext>Ostrość</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DeviceSettingDescription">
+  <xmbtext>Opis ustawienia urządzenia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistanceRange">
+  <xmbtext>Zakres odległości od obiektu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageUniqueID">
+  <xmbtext>Unikatowy identyfikator</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageType">
+  <xmbtext>Typ zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareVersion">
+  <xmbtext>Wersja oprogramowania układowego</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFileNumber">
+  <xmbtext>Liczba plików</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OwnerName">
+  <xmbtext>Nazwa właściciela</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SerialNumber">
+  <xmbtext>Numer seryjny</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareRevision">
+  <xmbtext>Wersja oprogramowania układowego</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensModel">
+  <xmbtext>Model obiektywu</xmbtext>
+ </stringres>
+ <stringres id="EXIF:SerialNumber">
+  <xmbtext>Numer seryjny</xmbtext>
+ </stringres>
+ <stringres id="EXIF:LensType">
+  <xmbtext>Typ obiektywu</xmbtext>
+ </stringres>
+ <stringres id="EXIF:ShutterCount">
+  <xmbtext>Liczba uruchomień migawki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSVersionID">
+  <xmbtext>GPS – identyfikator wersji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLatitude">
+  <xmbtext>GPS – szerokość geograficzna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLongitude">
+  <xmbtext>GPS – długość geograficzna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitudeRef">
+  <xmbtext>GPS – odwołanie do wysokości nad poziomem morza</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitude">
+  <xmbtext>GPS – wysokość nad poziomem morza</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTimeStamp">
+  <xmbtext>GPS – znacznik godziny</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSatellites">
+  <xmbtext>GPS – satelity</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSStatus">
+  <xmbtext>GPS – stan</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMeasureMode">
+  <xmbtext>GPS – tryb pomiaru</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDOP">
+  <xmbtext>GPS – rozmycie dokładności</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeedRef">
+  <xmbtext>GPS – odwołanie do szybkości</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeed">
+  <xmbtext>GPS – szybkość</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrackRef">
+  <xmbtext>GPS – odwołanie do śledzenia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrack">
+  <xmbtext>GPS – śledzenie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirectionRef">
+  <xmbtext>GPS – odwołanie do kierunku zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirection">
+  <xmbtext>GPS – kierunek zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMapDatum">
+  <xmbtext>GPS – układ odniesienia mapy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitudeRef">
+  <xmbtext>GPS – odwołanie do docelowej szerokości geograficznej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitude">
+  <xmbtext>GPS – docelowa szerokość geograficzna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitudeRef">
+  <xmbtext>GPS – odwołanie do docelowej długości geograficznej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitude">
+  <xmbtext>GPS – docelowa długość geograficzna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearingRef">
+  <xmbtext>GPS – odwołanie do kierunku docelowego</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearing">
+  <xmbtext>GPS – kierunek docelowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistanceRef">
+  <xmbtext>GPS – odwołanie do odległości docelowej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistance">
+  <xmbtext>GPS – odległość docelowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSProcessingMethod">
+  <xmbtext>GPS – metoda przetwarzania</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAreaInformation">
+  <xmbtext>GPS – informacje obszarowe</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDateStamp">
+  <xmbtext>GPS – znacznik daty</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDifferential">
+  <xmbtext>GPS – system różnicowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::InteroperabilityIndex">
+  <xmbtext>Indeks współdziałania</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedImageFileFormat">
+  <xmbtext>Format pliku powiązanego obrazu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Uncompressed">
+  <xmbtext>Nieskompresowany</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CCITT1D">
+  <xmbtext>CCITT 1D</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T4/Group3Fax">
+  <xmbtext>T4/Group 3 Fax</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T6/Group4Fax">
+  <xmbtext>T6/Group 4 Fax</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LZW">
+  <xmbtext>LZW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEGOldStyle">
+  <xmbtext>JPEG (starszego typu)</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG">
+  <xmbtext>JPEG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AdobeDeflate">
+  <xmbtext>Adobe Deflate</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGB&amp;W">
+  <xmbtext>JBIG czarno-biały</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGColor">
+  <xmbtext>Kolor JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Kodak262">
+  <xmbtext>Kodak 262</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Next">
+  <xmbtext>Następny</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SonyARWCompressed">
+  <xmbtext>Skompresowany Sony ARW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::EpsonERFCompressed">
+  <xmbtext>Skompresowany Epson ERF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PackBits">
+  <xmbtext>PackBits</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thunderscan">
+  <xmbtext>Thunderscan</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakKDCCompressed">
+  <xmbtext>Skompresowany Kodak KDC</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8CTPAD">
+  <xmbtext>IT8CTPAD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8LW">
+  <xmbtext>IT8LW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8MP">
+  <xmbtext>IT8MP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8BL">
+  <xmbtext>IT8BL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarFilm">
+  <xmbtext>PixarFilm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLog">
+  <xmbtext>PixarLog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Deflate">
+  <xmbtext>Deflacja</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DCS">
+  <xmbtext>DCS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIG">
+  <xmbtext>JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog">
+  <xmbtext>SGILog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog24">
+  <xmbtext>SGILog24</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG2000">
+  <xmbtext>JPEG 2000</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NikonNEFCompressed">
+  <xmbtext>Skompresowany Nikon NEF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIBinaryLevelCodec">
+  <xmbtext>Kodek poziomu binarnego MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIProgressiveTransformCodec">
+  <xmbtext>Kodek transformacji progresywnej MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIVector">
+  <xmbtext>Wektor MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakDCRCompressed">
+  <xmbtext>Skompresowany Kodak DCR</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PentaxPEFCompressed">
+  <xmbtext>Skompresowany Pentax PEF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteIsZero">
+  <xmbtext>Kolor biały ma wartość zerową</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BlackIsZero">
+  <xmbtext>Kolor czarny ma wartość zerową</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGB">
+  <xmbtext>RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGBPalette">
+  <xmbtext>Paleta RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TransparencyMask">
+  <xmbtext>Maska przezroczystości</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CMYK">
+  <xmbtext>CMYK</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCr">
+  <xmbtext>YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CIELab">
+  <xmbtext>CIE L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ICCLab">
+  <xmbtext>ICC L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ITULab">
+  <xmbtext>ITU L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorFilterArray">
+  <xmbtext>Tablica kolorowych filtrów</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogL">
+  <xmbtext>Pixar LogL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogLuv">
+  <xmbtext>Pixar LogLuv</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LinearRaw">
+  <xmbtext>Liniowy plik Raw</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Bilevel">
+  <xmbtext>Dwupoziomowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Halftone">
+  <xmbtext>Półton</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Random">
+  <xmbtext>Losowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Normal">
+  <xmbtext>Normalna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Reversed">
+  <xmbtext>Odwrócony</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Undefined">
+  <xmbtext>Niezdefiniowana</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HorizontallyFlipped">
+  <xmbtext>Z przerzuceniem w poziomie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate180">
+  <xmbtext>Z obrotem o 180 stopni</xmbtext>
+ </stringres>
+ <stringres id="EXIF::VerticallyFlipped">
+  <xmbtext>Z przerzuceniem w pionie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transposed">
+  <xmbtext>Z transpozycją</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate90">
+  <xmbtext>Z obrotem o 90 stopni</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transverse">
+  <xmbtext>Poprzeczna</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate270">
+  <xmbtext>Z obrotem o 270 stopni</xmbtext>
+ </stringres>
+ <stringres id="EXIF::None">
+  <xmbtext>Brak</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Inches">
+  <xmbtext>Cale</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centimeters">
+  <xmbtext>Centymetry</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Millimeters">
+  <xmbtext>Milimetry</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Micrometers">
+  <xmbtext>Mikrometry</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centered">
+  <xmbtext>Wyśrodkowane</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoSited">
+  <xmbtext>Współlokalizowany</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDefined">
+  <xmbtext>Nie zdefiniowano</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Manual">
+  <xmbtext>Ręcznie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Program">
+  <xmbtext>Program</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AperturePriority">
+  <xmbtext>Priorytet przesłony</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterPriority">
+  <xmbtext>Priorytet migawki</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CreativeProgram">
+  <xmbtext>Program kreatywny</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ActionProgram">
+  <xmbtext>Program czynności</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PortraitMode">
+  <xmbtext>Orientacja pionowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LandscapeMode">
+  <xmbtext>Orientacja pozioma</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Unknown">
+  <xmbtext>Brak informacji</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Average">
+  <xmbtext>Średnia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CenterWeight">
+  <xmbtext>Wyśrodkuj ciężar</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Spot">
+  <xmbtext>Punktowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MultiSpot">
+  <xmbtext>Wielopunktowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Matrix">
+  <xmbtext>Matrycowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Partial">
+  <xmbtext>Częściowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Other">
+  <xmbtext>Inne</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sunny">
+  <xmbtext>Słońce</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fluorescent">
+  <xmbtext>Jarzeniówka</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Incandescent">
+  <xmbtext>Żarówka</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FineWeather">
+  <xmbtext>Ładna pogoda</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Cloudy">
+  <xmbtext>Zachmurzenie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Shade">
+  <xmbtext>Cień</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DaylightFlourescent">
+  <xmbtext>Światło dzienne, fluorescencyjne</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DayWhiteFlourescent">
+  <xmbtext>Światło dzienne białe, fluorescencyjne</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoolWhiteFlourescent">
+  <xmbtext>Chłodne białe, fluorescencyjne</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteFlourescent">
+  <xmbtext>Białe, fluorescencyjne</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightA">
+  <xmbtext>Światło standardowe A</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightB">
+  <xmbtext>Światło standardowe B</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightC">
+  <xmbtext>Światło standardowe C</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D55">
+  <xmbtext>D55</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D65">
+  <xmbtext>D65</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D75">
+  <xmbtext>D75</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D50">
+  <xmbtext>D50</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOStudioTungsten">
+  <xmbtext>ISO Studio Tungsten</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeArea">
+  <xmbtext>Obszar monochromatyczny</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OneChipColorArea">
+  <xmbtext>Jednoukładowy obszar koloru</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TwoChipColorArea">
+  <xmbtext>Dwuukładowy obszar koloru</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ThreeChipColorArea">
+  <xmbtext>Trójukładowy obszar koloru</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialArea">
+  <xmbtext>Sekwencyjny obszar koloru</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeLinear">
+  <xmbtext>Monochromatyczny liniowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Trilinear">
+  <xmbtext>Trójliniowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialLinear">
+  <xmbtext>Kolor sekwencyjny liniowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FilmScanner">
+  <xmbtext>Skaner klisz</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReflectionPrintScanner">
+  <xmbtext>Skaner odbitek</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalCamera">
+  <xmbtext>Cyfrowy aparat fotograficzny</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DirectlyPhotographed">
+  <xmbtext>Fotografowany bezpośrednio</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Custom">
+  <xmbtext>Niestandardowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Auto">
+  <xmbtext>Automatycznie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AutoBracket">
+  <xmbtext>Automatyczny nawias</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Standard">
+  <xmbtext>Standardowy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Landscape">
+  <xmbtext>Poziomo</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Portrait">
+  <xmbtext>Pionowo</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Night">
+  <xmbtext>Noc</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainUp">
+  <xmbtext>Niskie wzmocnienie na górze</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainUp">
+  <xmbtext>Wysokie wzmocnienie na górze</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainDown">
+  <xmbtext>Niskie wzmocnienie na dole</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainDown">
+  <xmbtext>Wysokie wzmocnienie na dole</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Low">
+  <xmbtext>Niska</xmbtext>
+ </stringres>
+ <stringres id="EXIF::High">
+  <xmbtext>Najwyższa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Soft">
+  <xmbtext>Miękkie</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Hard">
+  <xmbtext>Twarde</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Macro">
+  <xmbtext>Makro</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Close">
+  <xmbtext>Zamknij</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Distant">
+  <xmbtext>Odległy</xmbtext>
+ </stringres>
+ <stringres id="EXIF::On">
+  <xmbtext>Włączona</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Off">
+  <xmbtext>Wyłącz</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NoDetection">
+  <xmbtext>Brak wykrycia</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDetected">
+  <xmbtext>Nie wykryto</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Detected">
+  <xmbtext>Wykryto</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFlashMode">
+  <xmbtext>Tryb lampy błyskowej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensType">
+  <xmbtext>Typ obiektywu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LongFocal">
+  <xmbtext>Długa ogniskowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShortFocal">
+  <xmbtext>Krótka ogniskowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalUnits">
+  <xmbtext>Jednostki ogniskowej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxAperture">
+  <xmbtext>Maksymalna przesłona</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinAperture">
+  <xmbtext>Min. przesłona</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalType">
+  <xmbtext>Typ ogniskowej</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneX">
+  <xmbtext>Płaszczyzna ogniskowej X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneY">
+  <xmbtext>Płaszczyzna ogniskowej Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReduction">
+  <xmbtext>Redukcja efektu czerwonych oczu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SlowSync">
+  <xmbtext>Wolna synchronizacja</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionAuto">
+  <xmbtext>Automatyczna redukcja efektu czerwonych oczu</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionOn">
+  <xmbtext>Redukcja efektu czerwonych oczu włączona</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExternalFlash">
+  <xmbtext>Zewnętrzna lampa błyskowa</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fixed">
+  <xmbtext>Stałe</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Zoom">
+  <xmbtext>Powiększenie</xmbtext>
+ </stringres>
+ <stringres id="XMP::Certificate">
+  <xmbtext>Certyfikat</xmbtext>
+ </stringres>
+ <stringres id="XMP::Marked">
+  <xmbtext>Oznaczone znakiem praw autorskich</xmbtext>
+ </stringres>
+ <stringres id="XMP::Owner">
+  <xmbtext>Właściciel</xmbtext>
+ </stringres>
+ <stringres id="XMP::UsageTerms">
+  <xmbtext>Warunki użytkowania</xmbtext>
+ </stringres>
+ <stringres id="XMP::WebStatement">
+  <xmbtext>Oświadczenie internetowe</xmbtext>
+ </stringres>
+ <stringres id="XMP::Advisory">
+  <xmbtext>Porada</xmbtext>
+ </stringres>
+ <stringres id="XMP::BaseURL">
+  <xmbtext>Podstawowy adres URL</xmbtext>
+ </stringres>
+ <stringres id="XMP::Identifier">
+  <xmbtext>Identyfikator</xmbtext>
+ </stringres>
+ <stringres id="XMP::Label">
+  <xmbtext>Etykieta</xmbtext>
+ </stringres>
+ <stringres id="XMP::MetadataDate">
+  <xmbtext>Data metadanych</xmbtext>
+ </stringres>
+ <stringres id="XMP::Nickname">
+  <xmbtext>Pseudonim</xmbtext>
+ </stringres>
+ <stringres id="XMP::Rating">
+  <xmbtext>Ocena</xmbtext>
+ </stringres>
+ <stringres id="XMP::Firmware">
+  <xmbtext>Oprogramowanie układowe</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashCompensation">
+  <xmbtext>Kompensacja lampy błyskowej</xmbtext>
+ </stringres>
+ <stringres id="XMP::ImageNumber">
+  <xmbtext>Numer zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="XMP::Lens">
+  <xmbtext>Obiektyw</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensID">
+  <xmbtext>Identyfikator obiektywu</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensInfo">
+  <xmbtext>Informacje o obiektywie</xmbtext>
+ </stringres>
+ <stringres id="XMP::OwnerName">
+  <xmbtext>Nazwa właściciela</xmbtext>
+ </stringres>
+ <stringres id="XMP::SerialNumber">
+  <xmbtext>Numer seryjny</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashFunction">
+  <xmbtext>Funkcja lampy błyskowej niedostępna</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashMode">
+  <xmbtext>Tryb lampy błyskowej</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashRedEyeMode">
+  <xmbtext>Obsługuje redukcję efektu czerwonych oczu</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashReturn">
+  <xmbtext>Zwrotny błysk lampy</xmbtext>
+ </stringres>
+ <stringres id="XMP::contributor">
+  <xmbtext>Współtwórcy</xmbtext>
+ </stringres>
+ <stringres id="XMP::coverage">
+  <xmbtext>Zasięg</xmbtext>
+ </stringres>
+ <stringres id="XMP::date">
+  <xmbtext>Data</xmbtext>
+ </stringres>
+ <stringres id="XMP::format">
+  <xmbtext>Format</xmbtext>
+ </stringres>
+ <stringres id="XMP::language">
+  <xmbtext>Języki</xmbtext>
+ </stringres>
+ <stringres id="XMP::publisher">
+  <xmbtext>Wydawcy</xmbtext>
+ </stringres>
+ <stringres id="XMP::relation">
+  <xmbtext>Związki</xmbtext>
+ </stringres>
+ <stringres id="XMP::type">
+  <xmbtext>Typ</xmbtext>
+ </stringres>
+ <stringres id="XMP::IntellectualGenre">
+  <xmbtext>Gatunek intelektualny</xmbtext>
+ </stringres>
+ <stringres id="XMP::Scene">
+  <xmbtext>Sceneria</xmbtext>
+ </stringres>
+ <stringres id="XMP::SubjectCode">
+  <xmbtext>Kod obiektu</xmbtext>
+ </stringres>
+ <stringres id="XMP::Location">
+  <xmbtext>Lokalizacja</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrExtadr">
+  <xmbtext>Informacje kontaktowe – adres</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCity">
+  <xmbtext>Informacje kontaktowe – miasto</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCtry">
+  <xmbtext>Informacje kontaktowe – kraj</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiEmailWork">
+  <xmbtext>Informacje kontaktowe – adres e-mail</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiTelWork">
+  <xmbtext>Informacje kontaktowe – telefon</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrPcode">
+  <xmbtext>Informacje kontaktowe – kod pocztowy</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrRegion">
+  <xmbtext>Informacje kontaktowe – region</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiUrlWork">
+  <xmbtext>Informacje kontaktowe – adres URL</xmbtext>
+ </stringres>
+ <stringres id="XMP::AddlModelInfo">
+  <xmbtext>Dodatkowe informacje o modelu</xmbtext>
+ </stringres>
+ <stringres id="XMP::ArtworkOrObject">
+  <xmbtext>Grafika lub obiekt</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageCode">
+  <xmbtext>Kod organizacji</xmbtext>
+ </stringres>
+ <stringres id="XMP::CVterm">
+  <xmbtext>Wyrażenie ze słownictwa narzuconego</xmbtext>
+ </stringres>
+ <stringres id="XMP::LocationShown">
+  <xmbtext>Wyświetlana lokalizacja</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelAge">
+  <xmbtext>Wiek modela</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageName">
+  <xmbtext>Nazwa organizacji</xmbtext>
+ </stringres>
+ <stringres id="XMP::PersonInImage">
+  <xmbtext>Pokazana osoba</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigImageGUID">
+  <xmbtext>Identyfikator GUID zdjęcia cyfrowego</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourcefileType">
+  <xmbtext>Typ cyfrowego pliku źródłowego</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourceType">
+  <xmbtext>Typ źródła cyfrowego</xmbtext>
+ </stringres>
+ <stringres id="XMP::Event">
+  <xmbtext>Wydarzenie</xmbtext>
+ </stringres>
+ <stringres id="XMP::IptcLastEdited">
+  <xmbtext>Ostatnio edytowane dane IPTC</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailHeight">
+  <xmbtext>Największa dostępna wysokość</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailWidth">
+  <xmbtext>Największa dostępna szerokość</xmbtext>
+ </stringres>
+ <stringres id="XMP::Version">
+  <xmbtext>Wersja PLUS</xmbtext>
+ </stringres>
+ <stringres id="XMP::MinorModelAgeDisclosure">
+  <xmbtext>Oświadczenie o niepełnoletności modela</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseID">
+  <xmbtext>Identyfikator zgody na wykorzystywanie wizerunku modela</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseStatus">
+  <xmbtext>Zgoda na wykorzystywanie wizerunku modela</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseID">
+  <xmbtext>Identyfikator zgody na wykorzystywanie zdjęcia obiektu</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseStatus">
+  <xmbtext>Zgoda na wykorzystywanie zdjęcia obiektu</xmbtext>
+ </stringres>
+ <stringres id="XMP::Regions">
+  <xmbtext>Tagi osób</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeVersion">
+  <xmbtext>Wersja koperty</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Destination">
+  <xmbtext>Miejsce docelowe</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormat">
+  <xmbtext>Format pliku</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormatVersion">
+  <xmbtext>Wersja formatu pliku</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ServiceIdentifier">
+  <xmbtext>Identyfikator usługi</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeNumber">
+  <xmbtext>Numer koperty</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProductID">
+  <xmbtext>Identyfikator produktu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopePriority">
+  <xmbtext>Priorytet koperty</xmbtext>
+ </stringres>
+ <stringres id="IPTC::DateSent">
+  <xmbtext>Data wysłania</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TimeSent">
+  <xmbtext>Godzina wysłania</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CodedCharacterSet">
+  <xmbtext>Kodowany zestaw znaków</xmbtext>
+ </stringres>
+ <stringres id="IPTC::UNO">
+  <xmbtext>UNO</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMIdentifier">
+  <xmbtext>Identyfikator ARM</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMVersion">
+  <xmbtext>Wersja ARM</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ApplicationVersion">
+  <xmbtext>Wersja aplikacji</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectTypeReference">
+  <xmbtext>Odniesienie do typu obiektu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectAttributeReference">
+  <xmbtext>Odniesienie atrybutu obiektu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectName">
+  <xmbtext>Tytuł</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditStatus">
+  <xmbtext>Edytuj stan</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditorialUpdate">
+  <xmbtext>Aktualizacja redakcyjna</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Urgency">
+  <xmbtext>Pilność</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubjectReference">
+  <xmbtext>Odniesienie do obiektu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Category">
+  <xmbtext>Kategoria</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SupplementalCategory">
+  <xmbtext>Kategoria uzupełniająca</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FixtureIdentifier">
+  <xmbtext>Identyfikator osprzętu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Keywords">
+  <xmbtext>Tagi</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationCode">
+  <xmbtext>Kod lokalizacji zawartości</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationName">
+  <xmbtext>Nazwa lokalizacji zawartości</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseDate">
+  <xmbtext>Data wydania</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseTime">
+  <xmbtext>Godzina wydania</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationDate">
+  <xmbtext>Data ważności</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationTime">
+  <xmbtext>Data ważności</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Instructions">
+  <xmbtext>Instrukcje</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ActionAdvised">
+  <xmbtext>Zalecana czynność</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceService">
+  <xmbtext>Usługa odniesienia</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceDate">
+  <xmbtext>Data odniesienia</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceNumber">
+  <xmbtext>Numer referencyjny</xmbtext>
+ </stringres>
+ <stringres id="IPTC::OriginatingProgram">
+  <xmbtext>Program źródłowy</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProgramVersion">
+  <xmbtext>Wersja programu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectCycle">
+  <xmbtext>Cykl obiektu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AuthorsPosition">
+  <xmbtext>Tytuł wiersza autora</xmbtext>
+ </stringres>
+ <stringres id="IPTC::City">
+  <xmbtext>Miasto</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubLocation">
+  <xmbtext>Lokalizacja podrzędna</xmbtext>
+ </stringres>
+ <stringres id="IPTC::State">
+  <xmbtext>Stan</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CountryCode">
+  <xmbtext>Kod kraju</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Country">
+  <xmbtext>Kraj</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TransmissionReference">
+  <xmbtext>Odniesienie transmisji</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Headline">
+  <xmbtext>Nagłówek</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Credit">
+  <xmbtext>Środki</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Source">
+  <xmbtext>Źródło</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Contact">
+  <xmbtext>Kontakt</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Caption">
+  <xmbtext>Podpis</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CaptionWriter">
+  <xmbtext>Autor podpisu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::RasterizedCaption">
+  <xmbtext>Zrasteryzowany podpis</xmbtext>
+ </stringres>
+ <stringres id="IPTC::PicasaURL">
+  <xmbtext>Adres URL programu Picasa</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageType">
+  <xmbtext>Typ obrazu</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageOrientation">
+  <xmbtext>Orientacja zdjęcia</xmbtext>
+ </stringres>
+ <stringres id="IPTC::LanguageIdentifier">
+  <xmbtext>Identyfikator języka</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioType">
+  <xmbtext>Typ audio</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingRate">
+  <xmbtext>Próbkowanie audio</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingResolution">
+  <xmbtext>Rozdzielczość próbkowania audio</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioDuration">
+  <xmbtext>Czas trwania dźwięku</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioOutcue">
+  <xmbtext>Komunikat dźwiękowy</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseTitle">
+  <xmbtext>Umowa licencyjna</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseSubTitle">
+  <xmbtext>Zanim zainstalujesz Automatyczną kopię zapasową Zdjęć Google, zapoznaj się z warunkami licencji</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseLabel">
+  <xmbtext>Korzystając z Automatycznej kopii zapasowej Zdjęć Google, akceptujesz Warunki korzystania z usług i Politykę prywatności Google.</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosText">
+  <xmbtext>Warunki korzystania z usługi</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosLink">
+  <xmbtext>https://www.google.com/policies/terms/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyText">
+  <xmbtext>Polityka prywatności</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyLink">
+  <xmbtext>https://www.google.com/policies/privacy/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseButtonText">
+  <xmbtext>Zgadzam się</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_RenameFolderErr">
+  <xmbtext>Nie udało się zmienić nazwy katalogu na importowane zdjęcia. Wcześniej zaimportowane zdjęcia są nadal w poprzednim katalogu.</xmbtext>
+ </stringres>
+</resources>

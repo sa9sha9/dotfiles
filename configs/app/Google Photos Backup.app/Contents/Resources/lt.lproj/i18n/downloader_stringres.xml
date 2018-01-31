@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Ši programa siunčia naujas „Picasa“ versijas ir komponentus.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Šios programos nederėtų paleisti tiesiogiai</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Neįmanoma patvirtinti autentiškumo</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Nepavyko prisijungti</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Ši programa atnaujinta</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Prisijungimas prie „Google“ serverių</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Jungiamasi...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Vykdomas „Picasa“ naujinimas </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Atsiunčiamas „Picasa“ naujinys...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Norint atlikti šį veiksmą, reikia būti prisijungus prie interneto. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Iš „Google“ serverio neįmanoma patikrinti, ar yra naujausia versija.\n\nPrašome po kelių minučių bandyti dar kartą.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Neįmanoma atsisiųsti nuo %1$s iki %2$s (%3$x). Patikrinkite interneto ryšį ir bandykite dar kartą.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Naujausia „Picasa“ versija jau buvo atsiųsta.\nNaujoji versija bus diegiama automatiškai, kitą kartą paleidus „Picasa“.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Klaida %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Klaida %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Klaida</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Failas autentiškas</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Failas NEAUTENTIŠKAS</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>Baigta %d%%, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>Liko %1$02d:%2$02d:%3$02d.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>%1$02d:%2$02d liko.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Ši „Picasa“ versija nėra pati naujausia, todėl kai kurios interneto funkcijos gali veikti ne taip, kaip turėtų. Ar norite naujinti programą dabar?</xmbtext>
+ </stringres>
+</resources>

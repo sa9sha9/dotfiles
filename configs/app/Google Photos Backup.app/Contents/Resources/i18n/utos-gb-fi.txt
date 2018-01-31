@@ -1,0 +1,229 @@
+﻿Googlen Palveluehdot
+
+Tervetuloa Googleen!
+
+1. Asiakkaan ja Googlen sopimussuhde
+
+1.1 Googlen tuotteiden, ohjelmistojen, palvelujen ja verkkosivustojen (joista tässä asiakirjassa käytetään yhteistä nimitystä "Palvelut", lukuun ottamatta mahdollisia palveluja, joita Google toimittaa asiakkaalle erillisen sopimuksen nojalla) käyttöön asiakkaan toimesta sovelletaan asiakkaan ja Googlen välisen laillisesti sitovan sopimuksen ehtoja. “Google” tarkoittaa Google Inc. -nimistä yhtiötä, jonka päätoimipaikka sijaitsee osoitteessa Amphitheatre Parkway, Mountain View, CA 94043, United States. Tässä asiakirjassa kerrotaan, miten sopimus muodostuu, ja tuodaan esiin joitakin kyseisessä sopimuksessa olevia ehtoja.
+
+1.2 Ellei Googlen kanssa kirjallisesti toisin sovita, asiakkaan ja Googlen väliseen sopimukseen sisältyy aina vähintään tässä asiakirjassa todetut ehdot ja määräykset. Näistä käytetään jäljempänä nimitystä ”Yleiset Ehdot”.
+
+1.3 Asiakkaan ja Googlen välinen sopimus sisältää Yleisten Ehtojen lisäksi myös Palveluihin mahdollisesti sovellettavat Oikeudelliset Ilmoitukset. Kaikista näistä käytetään jäljempänä nimitystä ”Lisäehdot”. Milloin johonkin Palveluun sovelletaan Lisäehtoja, ne ovat asiakkaan luettavissa joko kyseisessä Palvelussa tai sen käytön yhteydessä.
+
+1.4 Yleiset Ehdot yhdessä Lisäehtojen kanssa muodostavat asiakkaan ja Googlen välisen laillisesti sitovan sopimuksen koskien asiakkaan toimesta tapahtuvaa Palvelujen käyttöä. On tärkeää, että asiakas lukee ne huolellisesti ajan kanssa. Tästä laillisesti sitovasta sopimuksesta käytetään jäljempänä nimitystä "Ehdot".
+
+1.5 Mikäli Lisäehtojen ja Yleisten Ehtojen välillä ilmenee ristiriitaisuutta, kyseiseen Palveluun sovelletaan ensisijaisesti Lisäehtoja.
+
+2. Ehtojen hyväksyntä
+
+2.1 Jotta asiakas voi käyttää Palveluja, asiakkaan on ensin hyväksyttävä Ehdot. Asiakas ei saa käyttää Palveluja, ellei hän hyväksy Ehtoja.
+
+2.2 Ehdot voi hyväksyä:
+
+(A) klikkaamalla hyväksyvänsä Ehdot, milloin Google tarjoaa tämän vaihtoehdon jonkin Palvelun käyttöliittymässä, tai
+
+(B) pelkästään käyttämällä Palvelua. Siinä tapauksessa asiakas ymmärtää ja hyväksyy, että Google katsoo asiakkaan toimesta tapahtuvan Palvelun käytön muodostavan Ehtojen hyväksynnän kyseisestä hetkestä lukien.
+
+2.3 Asiakas ei saa käyttää Palveluja eikä hyväksyä Ehtoja, mikäli (a) hänellä ei ikänsä puolesta tai muutoin ole toimivaltaa tehdä sitovaa sopimusta Googlen kanssa tai (b) hän ei ole oikeutettu vastaanottamaan Palveluja Yhdysvaltain tai muiden maiden, kuten hänen asuinmaansa tai maan, josta käsin hän käyttää Palveluja, lakien mukaan.
+
+2.4 Ennen käytön jatkamista asiakkaan tulee tulostaa tai tallentaa itselleen kopio Yleisistä Ehdoista arkistointia varten.
+
+3. Ehdoissa sovellettava kieli
+
+3.1 Milloin Google on toimittanut asiakkaalle käännöksen Ehtojen englanninkielisestä versiosta, asiakas hyväksyy, että kyseinen käännös tarjotaan ainoastaan käytön helpottamiseksi ja että asiakkaan ja Googlen väliseen sopimussuhteeseen sovelletaan Ehtojen englanninkielisiä versioita.
+
+3.2 Mikäli Ehtojen englanninkielisen version ja sen käännöksen välillä ilmenee ristiriitaisuutta, sovelletaan englanninkielistä versiota.
+
+4. Palvelujen tarjoaminen Googlen toimesta
+
+4.1 Googlella on tytäryhtiöitä ja konserniyhtiöitä ympäri maailmaa (”Tytäryhtiöt ja Konserniyhtiöt”). Nämä yhtiöt tarjoavat ajoittain Palveluja asiakkaalle Googlen puolesta. Asiakas ymmärtää ja hyväksyy, että Tytäryhtiöillä ja Konserniyhtiöillä on oikeus tarjota Palveluja asiakkaalle.
+
+4.2 Google kehittää toimintojaan jatkuvasti voidakseen tarjota käyttäjilleen mahdollisimman hyvän käyttäjäkokemuksen. Asiakas ymmärtää ja hyväksyy sen, että Googlen tarjoamien Palvelujen muoto ja laatu voivat aika ajoin muuttua ilman asiakkaalle etukäteen annettavaa ilmoitusta.
+
+4.3 Asiakas ymmärtää ja hyväksyy, että osana tätä jatkuvaa kehitystyötä Google voi lopettaa (pysyvästi tai väliaikaisesti) Palvelujen tarjoamisen (tai minkä tahansa Palvelujen sisältämän ominaisuuden) asiakkaalle tai käyttäjille yleisesti Googlen yksinomaisen harkinnan mukaan ilman asiakkaalle etukäteen annettavaa ilmoitusta. Asiakas voi lopettaa Palvelujen käytön milloin tahansa. Asiakkaan ei tarvitse erityisesti ilmoittaa Googlelle, kun hän lopettaa Palvelujen käytön.
+
+4.4 Asiakas ymmärtää ja hyväksyy, että mikäli Google estää pääsyn asiakkaan tiliin, asiakas ei välttämättä pääse Palveluihin, oman tilinsä tietoihin, tiedostoihin tai muuhun asiakkaan tilin sisältämään sisältöön.
+
+4.5 Asiakas ymmärtää ja hyväksyy, että vaikka Googlella ei tällä hetkellä välttämättä ole kiinteää ylärajaa asiakkaan Palvelujen kautta mahdollisesti lähettämien tai vastaanottamien lähetysten lukumäärälle tai tallennustilan määrälle, Google voi milloin tahansa yksinomaisesta harkinnastaan asettaa tällaisen kiinteän ylärajan.
+
+5. Palvelujen käyttö asiakkaan toimesta
+
+5.1 Jotta asiakas voi muodostaa yhteyden määrättyihin Palveluihin, häneltä voidaan pyytää itseään koskevia tietoja (kuten henkilö- ja yhteystiedot) osana rekisteröintimenettelyä tai Palvelun käytön jatkamista. Asiakas vakuuttaa, että kaikki hänen rekisteröinnin yhteydessä Googlelle antamansa tiedot ovat aina tarkat, oikeat ja ajantasaiset.
+
+5.2 Asiakas sitoutuu käyttämään Palveluja ainoastaan tarkoituksiin, jotka sallitaan (a) näiden Ehtojen ja (b) asianomaisella lainkäyttöalueella sovellettavien lakien, säännösten tai yleisesti hyväksyttyjen käytäntöjen tai ohjeiden mukaan (mukaan lukien tietojen tai ohjelmistojen maastavientiä sääntelevät lait Yhdysvaltain tai asianomaisten muiden maiden lakien osalta).
+
+5.3 Asiakas sitoutuu olemaan muodostamatta (tai yrittämättä muodostaa) yhteyttä mihinkään Palveluun millään muulla tavalla kuin Googlen toimittaman käyttöliittymän kautta, ellei asiakas nimenomaisesti ole saanut siihen Googlen suostumusta erillisellä sopimuksella.
+
+5.4 Asiakas sitoutuu olemaan osallistumatta minkäänlaiseen Palveluja (tai näihin liitettyjä palvelimia ja verkkoja) häiritsevään toimintaan.
+
+5.5 Ellei asiakas ole nimenomaisesti saanut Googlen suostumusta erillisellä sopimuksella, asiakas sitoutuu olemaan jäljentämättä, kopioimatta, myymättä, kauppaamatta tai jälleenmyymättä Palveluja mihinkään tarkoitukseen.
+
+5.6 Asiakas hyväksyy, että hän on yksin vastuussa (ja että Googlella ei ole mitään vastuuta asiakkaaseen tai kolmansiin osapuoliin nähden) kaikista näiden Ehtojen mukaisten velvoitteiden rikkomuksista ja kaikista niiden seuraamuksista (mukaan lukien Googlen mahdollisesti kärsimät menetykset ja vahingot).
+
+6. Asiakkaan salasanat ja tilin turvallisuus
+
+6.1 Asiakas hyväksyy ja ymmärtää olevansa vastuussa kaikkien sellaisten tilien salasanojen salassapidosta, joita hän käyttää muodostaakseen yhteyden Palveluihin.
+
+6.2 Asiakas hyväksyy, että hän yksin on vastuussa Googlelle kaikista hänen tilinsä tapahtumista.
+
+6.3 Mikäli asiakas saa tietää mahdollisesta salasanansa tai tilinsä luvattomasta käytöstä, asiakas sitoutuu ilmoittamaan siitä viipymättä Googlelle osoitteessa http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=fi.
+
+7. Tietosuoja ja asiakkaan henkilötiedot
+
+7.1 Saadakseen tietoja Googlen tietosuojakäytännöistä asiakas voi lukea Googlen tietosuojakäytännön osoitteessa http://www.google.fi/privacy.html. Tässä tietosuojakäytännössä kerrotaan, kuinka Google käsittelee asiakkaan henkilötietoja ja suojelee asiakkaan yksityisyyttä hänen käyttäessään Palveluja.
+
+7.2 Asiakas sitoutuu siihen, että hänen henkilötietojaan käytetään Googlen tietosuojakäytännön mukaisesti.
+
+8. Palvelujen sisältö
+
+8.1 Asiakas ymmärtää, että kaikki tiedot (kuten datatiedostot, tekstit, tietokoneohjelmistot, musiikki, äänitiedostot tai muut äänet, valokuvat, videot tai muut kuvat), joihin asiakas voi muodostaa yhteyden osana Palveluja tai käyttämällä niitä, ovat sen henkilön yksinomaisella vastuulla, jolta kyseinen sisältö on lähtöisin. Kaikesta tällaisesta tiedosta käytetään jäljempänä nimitystä "Sisältö".
+
+8.2 Asiakkaan tulee tiedostaa, että Palvelujen osana esitetty Sisältö, mukaan lukien rajoituksetta Palveluissa olevat mainokset ja sponsoroitu Sisältö voivat olla suojattuja niiden mainostajien ja sponsoreiden (tai muiden näiden puolesta toimivien henkilöiden) immateriaalioikeuksilla, jotka tarjoavat kyseisen Sisällön Googlelle. Asiakas ei saa muokata, vuokrata, lainata, myydä, jaella tai luoda johdannaisteoksia, jotka pohjautuvat tähän Sisältöön (joko kokonaisuudessaan tai osittain), ellei Google tai kyseisen Sisällön omistajat ole erillisellä sopimuksella hänelle nimenomaisesti ilmoittanut, että hän voi näin tehdä.
+
+8.3 Google pidättää itsellään oikeuden (mutta ilman velvollisuutta) tarkastaa ennakkoon, katsella, merkitä, suodattaa, muokata, torjua tai poistaa minkä tahansa Sisällön mistä tahansa Palvelusta. Joidenkin Palvelujen osalta Google voi tarjota työkaluja selkeästi sukupuolisiveellisyyttä loukkaavan sisällön suodattamiseksi. SafeSearch-valinta-asetukset kuuluvat näihin työkaluihin (katso http://www.google.fi/help/customize.html#safe). Tämän lisäksi on saatavilla kaupallisia palveluja ja ohjelmistoja, joilla voi rajoittaa pääsyä aineistoon, jota asiakas saattaa pitää paheksuttavana.
+
+8.4 Asiakas ymmärtää, että käyttämällä Palveluja hän saattaa altistua Sisällölle, jota hän voi pitää loukkaavana, sopimattomana tai paheksuttavana ja että tässä suhteessa hän käyttää Palveluja omalla vastuullaan.
+
+8.5 Asiakas hyväksyy, että hän on yksin vastuussa (ja että Google ei ole missään vastuussa asiakkaalle tai kolmansille osapuolille) kaikesta luomastaan, välittämästään tai näyttämästään Sisällöstä käyttäessään Palveluja sekä tällaiseen toimintaan perustuvista seuraamuksista (mukaan lukien Googlen tällaisesta mahdollisesti kärsimät menetykset ja vahingot).
+
+9. Omistusoikeudet
+
+9.1 Asiakas ymmärtää ja hyväksyy, että Google (tai Googlelle käyttöoikeuden myöntäneet tahot) omistavat kaikki Palveluihin liittyvät omistus- ja muut oikeudet ja etuudet mukaan lukien kaikki Palveluihin liittyvät immateriaalioikeudet (riippumatta siitä, ovatko kyseiset oikeudet rekisteröityjä vai eivät, ja siitä, missä maassa ne mahdollisesti ovat voimassa). Asiakas on tämän lisäksi tietoinen siitä, että Palvelut saattavat sisältää tietoja, jotka Google on määritellyt luottamukselliseksi, ja että asiakas ei saa luovuttaa tällaista tietoa ilman Googlen etukäteen antamaa kirjallista suostumusta.
+
+9.2 Ellei asiakas ole kirjallisesti toisin sopinut Googlen kanssa, mikään näissä Ehdoissa ei muodosta asiakkaalle oikeutta käyttää Googlen tuotenimiä, tavaramerkkejä, palvelumerkkejä, logoja, verkkotunnuksia ja muita erottamiskykyisiä tunnusmerkkejä.
+
+9.3 Mikäli asiakkaalle on Googlen kanssa tehdyllä erillisellä sopimuksella annettu nimenomainen oikeus käyttää jotain tunnusmerkkiä, asiakas sitoutuu käyttämään kyseisiä tunnuksia kulloinkin voimassa olevan asianomaisen sopimuksen, Ehtojen soveltuvien määräysten ja Googlen tunnusmerkkien käyttöä koskevien ohjeiden mukaisesti. Näihin ohjeisiin voi tutustua osoitteessa http://www.google.fi/permissions/guidelines.html (tai muussa Googlen kulloinkin tähän tarkoitukseen ilmoittamassa verkko-osoitteessa).
+
+9.4 Paitsi Kohdassa 11 asetetun rajoitetun käyttöoikeuden osalta, Google ymmärtää ja hyväksyy, että näiden Ehtojen nojalla se ei saa asiakkaalta (tai asiakkaalle käyttöoikeuden myöntäneiltä tahoilta) mitään oikeuksia tai etuuksia mihinkään asiakkaan Palveluissa tai niiden kautta lähettämään, liittämään, välittämään tai näyttämään Sisältöön, mukaan lukien kaikki kyseiseen Sisältöön liittyvät immateriaalioikeudet (riippumatta siitä, ovatko kyseiset oikeudet rekisteröityjä vai eivät, ja siitä, missä maassa ne mahdollisesti ovat voimassa). Ellei asiakas ole kirjallisesti toisin sopinut Googlen kanssa, asiakas hyväksyy, että hän on vastuussa kyseisten oikeuksien suojaamisesta ja täytäntöönpanosta ja että Googlella ei ole mitään velvollisuutta toimia näin asiakkaan puolesta.
+
+9.5 Asiakas sitoutuu olemaan poistamatta, peittämättä tai muuttamatta mitään tekijänoikeusmerkintöjä (mukaan lukien tekijänoikeusmerkintöjä ja tavaramerkkejä koskevia merkintöjä), joita voi olla kiinnitettynä tai jotka voivat sisältyä Palveluihin.
+
+9.6 Ellei Google ole nimenomaisesti kirjallisesti valtuuttanut asiakasta niin toimimaan, asiakas suostuu Palveluja käyttäessään olemaan käyttämättä mitään tavaramerkkiä, palvelumerkkiä, tuotenimeä, minkään yhtiön tai organisaation logoa tavalla, joka on omiaan tai tarkoitettu aiheuttamaan sekaannusta merkintöjen, nimien tai logojen omistajasta tai valtuutetusta käyttäjästä.
+
+10. Googlen myöntämä käyttöoikeus
+
+10.1 Google myöntää asiakkaalle henkilökohtaisen, maailmanlaajuisen, rojaltivapaan, ei-siirrettävän ja ei-yksinomaisen oikeuden käyttää Googlen Palvelujen osana asiakkaalle toimittamia ohjelmistoja siten, kuin Googlen niitä tarjoaa (jäljempänä ”Ohjelmisto”). Tämä käyttöoikeus on tarkoitettu yksinomaan sen mahdollistamiseksi, että asiakas voi käyttää Googlen tarjoamia Palveluja ja nauttia niiden eduista Ehtojen sallimin tavoin.
+
+10.2 Asiakas ei (eikä hänen luvallaan kukaan muukaan) saa kopioida tai muokata mitään Ohjelmiston tai sen osan lähdekoodia, valmistaa siitä johdannaisteosta, tutkia sen valmistustapaa perusteellisesti, purkaa sitä osiin tai muulla tavoin pyrkiä paljastamaan tai johtamaan sitä, ellei laki sitä nimenomaisesti salli tai edellytä, tai ellei Google ole nimenomaisesti ilmoittanut kirjallisesti asiakkaalle, että hän voi näin toimia.
+
+10.3 Ellei Google ole nimenomaisesti antanut asiakkaalle kirjallista lupaa niin tehdä, asiakas ei saa siirtää oikeuttaan käyttää Ohjelmistoa (tai myöntää siihen alikäyttöoikeutta), perustaa niihin mitään oikeuksia taikka muulla tavoin siirtää mitään Ohjelmiston käyttöä koskevaa oikeutta.
+
+11. Asiakkaan myöntämä käyttöoikeus Sisältöön
+
+11.1 Asiakas säilyttää tekijänoikeutensa ja muut mahdollisesti jo omistamansa oikeudet Palvelussa tai sen kautta lähettämäänsä, liittämäänsä tai esittämäänsä Sisältöön. Lähettämällä, liittämällä tai esittämällä sisältöä asiakas myöntää Googlelle pysyvän, peruuttamattoman, maailmanlaajuisen, rojaltivapaan ja ei-yksinomaisen oikeuden jäljentää, mukauttaa, muokata, kääntää, julkaista, esittää ja levittää julkisesti mitä tahansa asiakkaan Palveluissa tai niiden kautta lähettämää, liittämää tai esittämää Sisältöä. Tämä käyttöoikeus on tarkoitettu siihen yksinomaiseen tarkoitukseen, että Google voi esittää, levittää ja markkinoida Palveluja, ja se on kumottavissa määrättyjen Palvelujen osalta niiden Lisäehdoissa määritellyin tavoin.
+
+11.2 Asiakas hyväksyy, että tämä käyttöoikeus sisältää oikeuden, jonka mukaan Google voi saattaa tällaista Sisältöä muiden sellaisten yhtiöiden, organisaatioiden tai yksittäisten henkilöiden saataville, joiden kanssa Googlella on liikesuhde syndikoitujen palvelujen tarjoamiseksi, sekä oikeuden käyttää tällaista Sisältöä näiden palvelujen tarjoamisen yhteydessä.
+
+11.3 Asiakas ymmärtää, että suorittaessaan käyttäjilleen tarkoitettujen Palvelujen tarjoamiseksi tarvittavia teknisiä toimenpiteitä Google voi (a) lähettää tai jaella asiakkaan Sisältöä useiden julkisten verkkojen ja median kautta, ja (b) tehdä muutoksia liittymäverkkojen, laitteiden, palvelujen tai median vaatimien teknisten vaatimusten noudattamiseksi ja niihin mukautumiseksi. Asiakas hyväksyy, että Google saa tehdä näitä toimenpiteitä tämän käyttöoikeuden nojalla.
+
+11.4 Asiakas vahvistaa ja vakuuttaa Googlelle, että hänellä on kaikki tarvittavat oikeudet ja valtuudet edellä mainitun käyttöoikeuden myöntämiseksi.
+
+12. Ohjelmistopäivitykset
+
+12.1 Asiakkaan käyttämä Ohjelmisto voi aika ajoin automaattisesti ladata ja asentaa Googlen päivityksiä tämän koneelle. Nämä päivitykset on suunniteltu parantamaan, tehostamaan ja kehittämään Palveluja edelleen ja ne voivat olla muodoltaan virheiden korjauksia, tehostettua toiminnallisuutta, uusia ohjelmistomoduuleja ja täysin uusia versioita. Asiakas suostuu vastaanottamaan tällaisia päivityksiä (ja sallimaan, että Google toimittaa näitä asiakkaalle) osana Palvelujen käyttöä asiakkaan toimesta.
+
+13. Asiakkaan ja Googlen sopimussuhteen päättäminen
+
+13.1 Ehdot pysyvät voimassa, kunnes joko asiakas tai Google päättää niiden voimassaolon jäljempänä kuvatulla tavalla.
+
+13.2 Mikäli asiakas haluaa päättää Googlen kanssa tekemänsä sitovan sopimuksen, asiakas voi tehdä niin (a) ilmoittamalla siitä Googlelle milloin tahansa ja (b) sulkemalla kaikkia käyttämiään Palveluja koskevat tilinsä, milloin Google tarjoaa asiakkaalle tällaista vaihtoehtoa. Asiakkaan tulee lähettää ilmoituksensa kirjallisena Googlen näiden Ehtojen alussa ilmoitettuun osoitteeseen.
+
+13.3 Google voi milloin tahansa purkaa asiakkaan kanssa tehdyn sitovan sopimuksen, jos:
+
+(A) asiakas on rikkonut jotain Ehtojen määräystä (tai toiminut tavalla, joka osoittaa selvästi, että asiakas ei aio tai kykene noudattamaan Ehtojen määräyksiä); tai
+
+(B) Googlen on toimittava siten lain määräyksestä (esimerkiksi, milloin Palvelujen tarjoaminen asiakkaalle on lainvastaista, tai muuttuu lainvastaiseksi); tai
+
+(C) kumppani, jonka kanssa Google on tarjonnut Palveluja asiakkaalle, on purkanut liikesuhteensa Googlen kanssa tai lakannut tarjoamasta Palveluja asiakkaalle; tai
+
+(D) Google lakkaa toimittamasta Palveluja käyttäjille asiakkaan asuinmaassa tai maassa, josta käsin hän käyttää palvelua; tai
+
+(E) Palvelujen tarjoaminen asiakkaalle Googlen toimesta ei Googlen käsityksen mukaan ole enää kaupallisesti perusteltua.
+
+13.4 Mikään tässä Kohdassa ei vaikuta Googlen oikeuksiin, jotka koskevat Ehtojen Kohdan 4 mukaista Palvelujen tarjoamista.
+
+13.5 Näiden Ehtojen lakatessa olemasta voimassa kaikki lainmukaiset oikeudet, velvollisuudet ja vastuut, joista asiakas ja Google ovat hyötyneet, joita niihin on sovellettu (tai jotka ovat muodostuneet Ehtojen voimassaolon aikana) tai joiden on ilmaistu pysyvän voimassa rajoittamattoman ajan, pysyvät muuttumattomina päättymisestä huolimatta, ja kappaleen 20.7 määräyksiä sovelletaan edelleen kyseisiin oikeuksiin, velvollisuuksiin ja vastuihin rajoittamattoman ajan.
+
+14. Takuiden kiistäminen
+
+14.1 Palvelut toimitetaan ”sellaisina kuin ne ovat” eikä Google, sen Tytäryhtiöt ja Konserniyhtiöt myönnä mitään niitä koskevia takuita.
+
+14.2 Erityisesti, Google, sen Tytäryhtiöt ja Konserniyhtiöt sekä käyttöoikeuden myöntäjät eivät takaa asiakkaalle, että:
+
+(A) Palvelujen käyttö asiakkaan toimesta vastaa hänen vaatimuksiaan,
+
+(B) Palvelujen käyttö asiakkaan toimesta on häiriötöntä, oikea-aikaista, turvallista tai virheetöntä,
+
+(C) asiakkaan Palvelujen käytön tuloksena saama tieto on tarkkaa tai luotettavaa, ja
+
+(D) Palvelujen osana asiakkaalle toimitetun Ohjelmiston toiminnassa tai toiminnallisuudessa esiintyvät virheet korjataan.
+
+14.3 Palveluihin ei sovelleta mitään vakuutuksia, takuita tai muita ehtoja (mukaan lukien oletetut takuut laadusta, sopivuudesta tarkoitukseensa tai kuvauksen mukaisuudesta), paitsi siltä osin, kuin ne on nimenomaisesti ilmaistu Ehdoissa.
+
+14.4 Mikään näissä Ehdoissa ei vaikuta niihin lakiin perustuviin oikeuksiin, joihin asiakas on aina kuluttajana oikeutettu ja joita asiakas ei sopimusperusteisesti voi hyväksyä muuttavansa tai joista hän ei voi sopimusperusteisesti luopua.
+
+15. Vastuunrajoitus
+
+15.1 Mikään näissä Ehdoissa ei sulje pois tai rajoita Googlen vastuuta menetyksistä, joita sovellettavan lain mukaan ei voida sulkea pois tai rajoittaa.
+
+15.2 Edellisen kappaleen 15.1 yleisluontoinen ehto huomioon ottaen Google, sen Tytäryhtiöt ja Konserniyhtiöt sekä Googlelle käyttöoikeuden myöntäneet tahot eivät ole vastuussa asiakkaalle:
+
+(A) mistään asiakkaalle mahdollisesti aiheutuneista epäsuorista tai välillisistä menetyksistä. Tämä käsittää asiakkaalle (suoraan tai välillisesti) aiheutuneen voiton, liikearvon, maineen tai tietojen menetyksen;
+
+(B) mistään menetyksestä tai vahingosta, joka voi kohdata asiakasta seurauksena:
+
+(i) tukeutumisesta minkä tahansa mainonnan täydellisyyteen, tarkkuuteen tai olemassaoloon, tai seurauksena mistä tahansa asiakkaan ja sellaisen mainostajan tai sponsorin välisestä liikesuhteesta, jonka mainontaa esiintyy Palveluissa;
+
+(ii) mistään Googlen mahdollisesti Palveluihin tekemistä muutoksista tai mistään pysyvästä tai väliaikaisesta Palvelujen (tai jostain Palveluissa olevan ominaisuuden) tarjoamisen keskeytyksestä;
+
+(iii) Palveluissa ylläpidetyn tai välitetyn Sisällön ja muun yhteydenpitoon liittyvän tiedon poistamisesta, vioittumisesta tai tallennuksen laiminlyömisestä Palvelujen tai niiden käytön johdosta asiakkaan toimesta;
+
+(iii) siitä, että asiakas ei ole toimittanut Googlelle tarkkoja tilitietojaan;
+
+(iv) siitä, että asiakas ei ole säilyttänyt salasanaansa tai tilitietojaan turvassa ja luottamuksellisina.
+
+15.3 Edellä kappaleessa 15.2 mainittuja Googlen vastuun rajoituksia asiakkaaseen nähden sovelletaan riippumatta siitä, onko Googlelle ilmoitettu tai olisiko Googlen tullut olla tietoinen tällaisten menetysten mahdollisuudesta.
+
+16. Tekijänoikeutta ja tavaramerkkejä koskevat käytännöt
+
+16.1 Googlen periaatteena on vastata väitettyä tekijänoikeuden loukkausta koskeviin ilmoituksiin, jotka noudattavat soveltuvia kansainvälisiä immateriaalioikeuslakeja (mukaan lukien Yhdysvaltojen Digital Millennium Copyright Act -laki) ja lakkauttaa oikeuksia toistuvasti loukkaavien henkilöiden tilit. Tarkempia tietoja Googlen käytännöstä löytyy osoitteesta http://www.google.fi/dmca.html.
+
+16.2 Google noudattaa määrättyä Googlen mainontaan liittyvää valitusmenettelyä tavaramerkkien osalta, jonka tarkemmat tiedot löytyvät osoitteesta http://www.google.fi/tm_complaint.html.
+
+17. Mainokset
+
+17.1 Joitakin Palveluja ylläpidetään mainostuloilla ja niissä voidaan harjoittaa mainontaa ja markkinointia. Näitä mainoksia on voitu kohdistaa Palveluihin tallennettujen tietojen sisältöön, Palvelujen kautta tehtyihin kyselyihin tai muuhun informaatioon.
+
+17.2 Googlen Palvelujen yhteydessä harjoittaman mainonnan tapaan, toimintaan ja laajuuteen voidaan tehdä muutoksia ilman asiakkaalle annettua eri ilmoitusta.
+
+17.3 Vastikkeena siitä, että Google myöntää asiakkaalle mahdollisuuden muodostaa yhteys Palveluihin ja käyttää niitä, asiakas hyväksyy sen, että Google voi sijoittaa tällaista mainontaa Palveluihin.
+
+18. Muu sisältö
+
+18.1 Palvelut saattavat sisältää hyperlinkkejä muille verkkosivustoille, sisältöön tai resursseihin. Googlella ei välttämättä ole määräysvaltaa muiden yhtiöiden tai henkilöiden kuin Googlen tarjoamiin verkkosivustoihin tai resursseihin.
+
+18.2 Asiakas ymmärtää ja hyväksyy, että Google ei vastaa tällaisten ulkopuolisten sivustojen tai resurssien saatavuudesta eikä ilmaise tukea millekään näillä sivustoilla olevalle tai näiden kautta saatavilla olevalle mainonnalle, tuotteille tai muille materiaaleille.
+
+18.3 Asiakas ymmärtää ja hyväksyy, että Google ei ole korvausvastuussa mistään asiakkaalle mahdollisesti aiheutuneesta menetyksestä tai vahingosta, joka on seurausta tällaisten ulkopuolisten sivustojen tai resurssien saatavuudesta, tai seurausta tukeutumisesta kyseisillä sivustoilla tai resursseissa olevien tai niiden kautta saatavilla olevien mainoksien, tuotteiden tai muiden materiaalien täydellisyyteen, tarkkuuteen tai olemassaoloon.
+
+19. Ehtoihin tehtävät muutokset
+
+19.1 Google voi ajoittain tehdä muutoksia Yleisiin Ehtoihin tai Lisäehtoihin. Muutosten yhteydessä Google laatii uuden version Yleisistä Ehdoista, joka on saatavilla osoitteessa http://www.google.com/accounts/TOS?hl=fi, ja mahdolliset uudet Lisäehdot ovat asiakkaan saatavilla muutetuissa Palveluissa tai niiden kautta.
+
+19.2 Asiakas ymmärtää ja hyväksyy, että jos hän käyttää Palveluja sen päivän jälkeen, kun Yleiset Ehdot tai Lisäehdot ovat muuttuneet, Google katsoo asiakkaan toimesta tapahtuvan käytön muodostavan päivitettyjen Yleisten Ehtojen tai Lisäehtojen hyväksynnän.
+
+20. Yleiset oikeudelliset ehdot
+
+20.1 Käyttäessään Palveluja asiakas saattaa joskus (joko seurauksena Palvelujen käytöstään tai sen kautta) käyttää jotain palvelua tai ladata jonkin ohjelmiston osan tai ostaa tuotteita, jonka tai jotka tarjoaa jokin muu henkilö tai yhtiö. Tällaisten muiden palvelujen käyttöön asiakkaan toimesta ja muihin ohjelmistoihin tai tuotteisiin saatetaan soveltaa asiakkaan ja asianomaisen yhtiön tai henkilön välisiä eri ehtoja. Siinä tapauksessa nämä Ehdot eivät vaikuta asiakkaan ja näiden muiden yhtiöiden tai yksittäisten henkilöiden välisiin sitoviin sopimussuhteisiin.
+
+20.2 Nämä Ehdot muodostavat asiakkaan ja Googlen välisen koko sopimuksen ja niitä sovelletaan Palvelujen käyttöön asiakkaan toimesta (lukuun ottamatta mahdollisia palveluja, jotka Google toimittaa asiakkaalle erillisen kirjallisen sopimuksen nojalla), ja ne syrjäyttävät kokonaisuudessaan mahdolliset aikaisemmat Palveluihin liittyvät asiakkaan ja Googlen väliset sopimukset.
+
+20.3 Asiakas hyväksyy, että Google voi toimittaa asiakkaalle ilmoituksia, mukaan lukien Ehtoihin tehtäviä muutoksia koskevat ilmoitukset, sähköpostitse, postitse tai liittämällä ilmoitus Palveluihin.
+
+20.4 Asiakas hyväksyy sen, että mikäli Google ei harjoita tai pane täytäntöön jotain laillista Ehtoihin sisältyvää (tai sovellettavan lain mukaista) oikeuttaan, Googlen ei katsota luopuvan oikeuksistaan, vaan kyseiset oikeudet tai korvaukset ovat edelleen Googlen käytettävissä.
+
+20.5 Mikäli jokin toimivaltainen tuomioistuin katsoo, että jokin näiden Ehtojen määräyksistä on pätemätön, kyseinen määräys poistetaan näistä Ehdoista sen vaikuttamatta muiden Ehtojen pätevyyteen. Näiden Ehtojen muut ehdot pysyvät pätevinä ja täytäntöönpanokelpoisina.
+
+20.6 Asiakas ymmärtää ja hyväksyy, että kukin yhtiö, joka kuuluu siihen konserniin, jonka emoyhtiö Google on, on näiden Ehtojen mukainen edunsaaja kolmantena osapuolena, ja että tällaisilla yhtiöillä on oikeus suoraan vaatia minkä tahansa asianomaisten yhtiöiden etua palvelevan, näihin Ehtoihin sisältyvän määräyksen täytäntöönpanoa ja vedota sellaiseen. Tämän ohella kukaan muu henkilö tai mikään muu yhtiö ei ole näiden Ehtojen edunsaaja kolmantena osapuolena.
+
+20.7 Näihin Ehtoihin ja niiden mukaiseen asiakkaan ja Googlen väliseen sopimussuhteeseen sovelletaan Englannin lakeja. Asiakas ja Google sitoutuvat siihen, että Englannin tuomioistuimilla on yksinomainen toimivalta ratkaista kaikki mahdolliset näistä Ehdoista aiheutuvat oikeudelliset kysymykset. Tästä huolimatta asiakas hyväksyy, että Googlella on oikeus hakea kieltotuomiota (tai vastaavanlaista määräystä) millä tahansa lainkäyttöalueella.

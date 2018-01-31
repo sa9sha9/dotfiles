@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_storage_notify/window.title">
+  <xmbtext>Zálohování Fotek Google</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_header.title">
+  <xmbtext>Nové Zálohování Fotek Google</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_text.title">
+  <xmbtext>Možnosti úložiště pro vaše fotky a videa jsou teď ještě lepší.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.title">
+  <xmbtext>Další informace</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.url">
+  <xmbtext>https://support.google.com/plus/answer/1647509#cost</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size.title">
+  <xmbtext>Ve vysoké kvalitě (neomezený úložný prostor zdarma)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size_desc.title">
+  <xmbtext>Skvělá kvalita obrazu při menší velikosti souboru</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size.title">
+  <xmbtext>Původní (zjišťuje se zbývající kapacita...)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size_desc.title">
+  <xmbtext>V plném rozlišení se fotky započítávají do limitu vašeho úložiště</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_extra.title">
+  <xmbtext>Na adrese photos.google.com můžete procházet nahraný obsah a vyzkoušet všechny nové funkce Fotek Google</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

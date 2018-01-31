@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="UploaderLogin::Title">
+  <xmbtext>登录 Google 相册</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderApp::UpgradeToGPlus">
+  <xmbtext>您需要设置 Google 相册帐户才能使用 Google Photos Backup。要设置帐户，请打开 Google 相册</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotos">
+  <xmbtext>打开 Google 相册</xmbtext>
+ </stringres>
+ <stringres id="Cancel">
+  <xmbtext>取消</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotosTitle">
+  <xmbtext>设置您的 Google 相册帐户</xmbtext>
+ </stringres>
+ <stringres id="GooglePhotos">
+  <xmbtext>https://photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortReadingDirectory">
+  <xmbtext>正在读取照片（已找到 %1$s 张）</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortWaiting">
+  <xmbtext>正在等待</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImporting">
+  <xmbtext>正在导入照片（还剩 %1$s 张）</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortUploading">
+  <xmbtext>正在将文件上传到 Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportComplete">
+  <xmbtext>已是最新</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportFailed">
+  <xmbtext>无法导入</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ReadingDirectory">
+  <xmbtext>正在读取“%1$s”中的照片（已找到 %2$s 张）</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Waiting">
+  <xmbtext>正在等待其他设备完成下载</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Importing">
+  <xmbtext>正在导入“%2$s”中的 %1$s 个文件，还剩 %3$s 个</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportingNoTotal">
+  <xmbtext>正在导入“%2$s”中的 %1$s 个文件</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading2">
+  <xmbtext>正在将文件上传到 Google（已上传 %1$d 个，共 %2$d 个）</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading">
+  <xmbtext>正在将文件上传到 Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportComplete">
+  <xmbtext>已是最新</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportFailed">
+  <xmbtext>无法导入。</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::CopyFailureMessage">
+  <xmbtext>无法将 Google Photos Backup 复制到“应用”。</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::LaunchFailureMessage">
+  <xmbtext>无法从“应用”启动 Google Photos Backup。</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Message">
+  <xmbtext>Google Photos Backup 当前是从磁盘映像运行的。是否要将其复制到您的“应用”文件夹？</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::YesButton">
+  <xmbtext>复制并重新启动</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::NoButton">
+  <xmbtext>不复制</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Title">
+  <xmbtext>要复制到“应用”文件夹吗？</xmbtext>
+ </stringres>
+ <stringres id="GPUp::RAWNotification">
+  <xmbtext>现在添加RAW图片文件。点击即可控制设置。</xmbtext>
+ </stringres>
+ <stringres id="GPUp::DriveSyncNotification">
+  <xmbtext>点击即可查看关于云端硬盘同步的重要信息</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifySingular">
+  <xmbtext>有1个文件无法上传。点击查看</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifyPlural">
+  <xmbtext>有%d个文件无法上传。点击查看</xmbtext>
+ </stringres>
+ <stringres id="NeedsLogin">
+  <xmbtext>请登录 Google。</xmbtext>
+ </stringres>
+ <stringres id="UploadIdle">
+  <xmbtext>就绪</xmbtext>
+ </stringres>
+ <stringres id="UploadError">
+  <xmbtext>上传时出现问题</xmbtext>
+ </stringres>
+ <stringres id="UploaderPaused">
+  <xmbtext>已暂停，正在等待继续上传。</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingLast">
+  <xmbtext>正在备份 1 个新文件。</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingFormat">
+  <xmbtext>正在备份 %1$s 个新文件，还剩 %2$s 个。</xmbtext>
+ </stringres>
+ <stringres id="ScanningDisk">
+  <xmbtext>正在寻找照片。</xmbtext>
+ </stringres>
+ <stringres id="UploaderState::Completed">
+  <xmbtext>%s 张照片已上传完毕</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Idle">
+  <xmbtext>已备份 %s 张照片</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::RetryError">
+  <xmbtext>重试</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::SkipError">
+  <xmbtext>跳过</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Login">
+  <xmbtext>登录 Google 相册</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Resume">
+  <xmbtext>继续备份</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Pause">
+  <xmbtext>暂停备份</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::FileError">
+  <xmbtext>查看未成功备份的内容…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewRecentPhotos">
+  <xmbtext>查看已上传的照片</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewPhotosOnline">
+  <xmbtext>转到 Google 相册</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsMac">
+  <xmbtext>偏好设置…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsWindows">
+  <xmbtext>设置…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::HelpMenu">
+  <xmbtext>帮助</xmbtext>
+ </stringres>
+ <stringres id="GPUp::About">
+  <xmbtext>关于…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::FileStatus">
+  <xmbtext>文件状态…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowDebug">
+  <xmbtext>调试窗口…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Quit">
+  <xmbtext>退出</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Initializing">
+  <xmbtext>正在寻找照片</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Paused">
+  <xmbtext>备份已暂停</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Stopped">
+  <xmbtext>未登录</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Uploading">
+  <xmbtext>正在备份照片（还剩 %1$s 张）</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Invalid">
+  <xmbtext>未知状态</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OnBeforeQuitConfirmation::Message">
+  <xmbtext>Google Photos Backup 当前正在运行。\n退出应用会取消所有未完成的上传操作。\n确定要退出吗？</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderAppTitle">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="GPUImplicitLogout">
+  <xmbtext>凭据已被撤消，请重新登录。</xmbtext>
+ </stringres>
+ <stringres id="LowStorageText">
+  <xmbtext>您已使用 75% 的 Google 云端硬盘存储空间。点击即可获取更多存储空间</xmbtext>
+ </stringres>
+ <stringres id="DriveSyncVisitError">
+  <xmbtext>无法打开浏览器以显示云端硬盘同步信息。</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::days">
+  <xmbtext>天</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::hours">
+  <xmbtext>小时</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::minutes">
+  <xmbtext>分钟</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::seconds">
+  <xmbtext>秒</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_quota">
+  <xmbtext>原始大小（可用空间：%s）</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited">
+  <xmbtext>原始大小</xmbtext>
+ </stringres>
+ <stringres id="free_size_with_unlimited">
+  <xmbtext>高品质</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited_desc">
+  <xmbtext>完整分辨率，原始品质</xmbtext>
+ </stringres>
+ <stringres id="GPUConfirmQuit">
+  <xmbtext>要退出 Google Photos Backup 吗？</xmbtext>
+ </stringres>
+ <stringres id="Quit">
+  <xmbtext>退出</xmbtext>
+ </stringres>
+ <stringres id="il_Cancel">
+  <xmbtext>取消</xmbtext>
+ </stringres>
+ <stringres id="AddWatchedFolderTitle">
+  <xmbtext>添加“监控”文件夹</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutHeader">
+  <xmbtext>退出 Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutText">
+  <xmbtext>退出后，您将无法备份照片。</xmbtext>
+ </stringres>
+ <stringres id="LogoutButton">
+  <xmbtext>退出</xmbtext>
+ </stringres>
+ <stringres id="CancelLogout">
+  <xmbtext>取消</xmbtext>
+ </stringres>
+ <stringres id="GoogleDriveFolderName">
+  <xmbtext>Google 云端硬盘</xmbtext>
+ </stringres>
+ <stringres id="PicasaFolderName">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="gpuploader:default_tooltip">
+  <xmbtext>空闲</xmbtext>
+ </stringres>
+ <stringres id="UploadError::NoConnection">
+  <xmbtext>无连接</xmbtext>
+ </stringres>
+ <stringres id="album_hint::rootpath">
+  <xmbtext>相册</xmbtext>
+ </stringres>
+ <stringres id="Prefs::DeviceItem">
+  <xmbtext>相机和存储卡</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotosWithAperture">
+  <xmbtext>iPhoto 和 Aperture 照片库</xmbtext>
+ </stringres>
+ <stringres id="Prefs::Aperture">
+  <xmbtext>Aperture 照片库</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotos">
+  <xmbtext>iPhoto 照片库</xmbtext>
+ </stringres>
+ <stringres id="Prefs::ApplePhotos">
+  <xmbtext>Apple 照片库</xmbtext>
+ </stringres>
+ <stringres id="WelcomeDialog:LoggedInFormat">
+  <xmbtext>目前登录身份是 %s</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckFailed">
+  <xmbtext>Google+ 自动备份无法检查更新，请稍后重试。</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UpToDate">
+  <xmbtext>Google+ 自动备份已是最新</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UnknownCheckError">
+  <xmbtext>检查更新时出错，请稍后重试。</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::SuccessTitle">
+  <xmbtext>更新检查已完成</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::ErrorTitle">
+  <xmbtext>更新错误</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckTimedOut">
+  <xmbtext>检查更新超时，请稍后重试。</xmbtext>
+ </stringres>
+ <stringres id="StatusIcon:MenuTitle">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="ytApp::JPEGFilter">
+  <xmbtext>JPEG 文件</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ErrorTitle">
+  <xmbtext>错误</xmbtext>
+ </stringres>
+ <stringres id="ytApp::MemErrorPrompt">
+  <xmbtext>出现内存错误。</xmbtext>
+ </stringres>
+ <stringres id="ytApp::InfoTitle">
+  <xmbtext>信息</xmbtext>
+ </stringres>
+ <stringres id="ytZoomString::Value">
+  <xmbtext>缩放至 %3.0f%%</xmbtext>
+ </stringres>
+ <stringres id="il_OKButton">
+  <xmbtext>确定</xmbtext>
+ </stringres>
+ <stringres id="il_Yes">
+  <xmbtext>是</xmbtext>
+ </stringres>
+ <stringres id="il_No">
+  <xmbtext>否</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ConfirmTitle">
+  <xmbtext>确认</xmbtext>
+ </stringres>
+ <stringres id="February">
+  <xmbtext>2 月</xmbtext>
+ </stringres>
+ <stringres id="March">
+  <xmbtext>3 月</xmbtext>
+ </stringres>
+ <stringres id="April">
+  <xmbtext>4 月</xmbtext>
+ </stringres>
+ <stringres id="May">
+  <xmbtext>5 月</xmbtext>
+ </stringres>
+ <stringres id="June">
+  <xmbtext>6 月</xmbtext>
+ </stringres>
+ <stringres id="July">
+  <xmbtext>7 月</xmbtext>
+ </stringres>
+ <stringres id="August">
+  <xmbtext>8 月</xmbtext>
+ </stringres>
+ <stringres id="September">
+  <xmbtext>9 月</xmbtext>
+ </stringres>
+ <stringres id="October">
+  <xmbtext>10 月</xmbtext>
+ </stringres>
+ <stringres id="November">
+  <xmbtext>11 月</xmbtext>
+ </stringres>
+ <stringres id="December">
+  <xmbtext>12 月</xmbtext>
+ </stringres>
+ <stringres id="Jan">
+  <xmbtext>1 月</xmbtext>
+ </stringres>
+ <stringres id="Feb">
+  <xmbtext>2 月</xmbtext>
+ </stringres>
+ <stringres id="Mar">
+  <xmbtext>3 月</xmbtext>
+ </stringres>
+ <stringres id="Apr">
+  <xmbtext>4 月</xmbtext>
+ </stringres>
+ <stringres id="Abbreviation::May">
+  <xmbtext>5 月</xmbtext>
+ </stringres>
+ <stringres id="Jun">
+  <xmbtext>6 月</xmbtext>
+ </stringres>
+ <stringres id="Jul">
+  <xmbtext>7 月</xmbtext>
+ </stringres>
+ <stringres id="Aug">
+  <xmbtext>8 月</xmbtext>
+ </stringres>
+ <stringres id="Sep">
+  <xmbtext>9 月</xmbtext>
+ </stringres>
+ <stringres id="Oct">
+  <xmbtext>10 月</xmbtext>
+ </stringres>
+ <stringres id="Nov">
+  <xmbtext>11 月</xmbtext>
+ </stringres>
+ <stringres id="Dec">
+  <xmbtext>12 月</xmbtext>
+ </stringres>
+ <stringres id="January">
+  <xmbtext>1 月</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format1">
+  <xmbtext>%1$s %2$d，%3$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format2">
+  <xmbtext>%1$s %2$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format3">
+  <xmbtext>%1$d:%2$02d:%3$02d %4$cM</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format4">
+  <xmbtext>%1$.2d:%2$.2d:%3$.2d</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigB">
+  <xmbtext>%.0f 字节</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigKB">
+  <xmbtext>%.0fKB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigMB">
+  <xmbtext>%.1fMB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigGB">
+  <xmbtext>%.1fGB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigTB">
+  <xmbtext>%.1fTB</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::videotype">
+  <xmbtext>视频：%s</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::audiotype">
+  <xmbtext>音频：%1$s %2$d 位 %3$.1fK %4$d 更改</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyPictures">
+  <xmbtext>图片</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Desktop">
+  <xmbtext>桌面</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyMusic">
+  <xmbtext>音乐</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyVideos">
+  <xmbtext>视频</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyDocuments">
+  <xmbtext>文档</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::ApplicationData">
+  <xmbtext>图片库/应用支持</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::CommonApplicationData">
+  <xmbtext>图片库/应用支持</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Library">
+  <xmbtext>图片库</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyPictures">
+  <xmbtext>我的图片</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::Desktop">
+  <xmbtext>桌面</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyMusic">
+  <xmbtext>我的音乐</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyVideos">
+  <xmbtext>我的视频</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyDocuments">
+  <xmbtext>我的文档</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::ApplicationData">
+  <xmbtext>应用数据</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::CommonApplicationData">
+  <xmbtext>公共应用数据</xmbtext>
+ </stringres>
+ <stringres id="ytFileUtils::CopyProgress">
+  <xmbtext>%1$s 个，共 %2$s 个</xmbtext>
+ </stringres>
+ <stringres id="BinaryMetadata::GetString">
+  <xmbtext>{%d 字节}</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Yes">
+  <xmbtext>是</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::No">
+  <xmbtext>否</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:4">
+  <xmbtext>YCbCr 4:4:4</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:0">
+  <xmbtext>YCbCr 4:4:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:1">
+  <xmbtext>YCbCr 4:4:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:2">
+  <xmbtext>YCbCr 4:2:2</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:0">
+  <xmbtext>YCbCr 4:2:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:1">
+  <xmbtext>YCbCr 4:2:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:1">
+  <xmbtext>YCbCr 4:1:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:0">
+  <xmbtext>YCbCr 4:1:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime1">
+  <xmbtext>%s 秒</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime2">
+  <xmbtext>(1/%d)</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashUsed">
+  <xmbtext>已使用</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashNotUsed">
+  <xmbtext>未使用</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat" meaning="GPS Coordinates - Hours Minutes&#039;Seconds">
+  <xmbtext>%1$s %2$s\&#039;%3$s\&quot;</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat2">
+  <xmbtext> %s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::UnnamedColorProfile">
+  <xmbtext>未命名的颜色配置文件</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileName">
+  <xmbtext>颜色配置文件名称</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileDescription">
+  <xmbtext>颜色配置文件说明</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::sRGB">
+  <xmbtext>sRGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::AdobeRGB">
+  <xmbtext>Adobe RGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Uncalibrated">
+  <xmbtext>取消校准</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::DimensionsFormat">
+  <xmbtext>%1$dx%2$d 像素</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::2">
+  <xmbtext>%1$s  焦距：%2$3.1fmm</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::3">
+  <xmbtext>（35mm 等效：%3.0fmm）</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::4">
+  <xmbtext>1/%d</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::5">
+  <xmbtext>%2.1f 秒</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::6">
+  <xmbtext>f/%3.1f</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::7">
+  <xmbtext>ISO：%2d</xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::Flash">
+  <xmbtext>闪光灯</xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::iso">
+  <xmbtext>ISO：%d</xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::focal">
+  <xmbtext>焦点：%d</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Elipses">
+  <xmbtext>...（总共 %d 个）</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::GetTitle">
+  <xmbtext>EXIF (%1$s:0x%2$X)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::UndefinedOut">
+  <xmbtext>{%d 字节}</xmbtext>
+ </stringres>
+ <stringres id="ytIPTCMetadata::GetString">
+  <xmbtext>%1$d:%2$d %3$d 字节</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Enter">
+  <xmbtext>Enter</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Delete">
+  <xmbtext>删除</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::CtrlPrefix">
+  <xmbtext>Ctrl+</xmbtext>
+ </stringres>
+ <stringres id="ytMesu::ShiftPrefix">
+  <xmbtext>Shift+</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::AltPrefix">
+  <xmbtext>Alt+</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>已完成 %d%%，</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>剩余 %1$02d:%2$02d:%3$02d。</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>剩余 %1$02d:%2$02d。</xmbtext>
+ </stringres>
+ <stringres id="ytResampler::Prog">
+  <xmbtext>正在处理...</xmbtext>
+ </stringres>
+ <stringres id="ytResMgr::LoadError">
+  <xmbtext>此应用启动时出现错误。\n对于给您造成的不便，我们深感抱歉。请您重新安装程序，解决此问题。</xmbtext>
+ </stringres>
+ <stringres id="ytFPSNode::time">
+  <xmbtext>时间 = %1$dms = %2$dfps。</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilePath">
+  <xmbtext>位置</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileSize">
+  <xmbtext>文件大小</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileDate">
+  <xmbtext>文件日期</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Dimensions">
+  <xmbtext>尺寸</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::RelatedDimensions">
+  <xmbtext>相关的图片尺寸</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::CCDWidth">
+  <xmbtext>CCD 宽度</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Comment">
+  <xmbtext>JPEG 评论</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Quality">
+  <xmbtext>JPEG 质量</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieInfo">
+  <xmbtext>视频信息</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieRate">
+  <xmbtext>视频速率</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieLength">
+  <xmbtext>视频片长</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Text">
+  <xmbtext>文本</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::LayerNames">
+  <xmbtext>层名称</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilterString">
+  <xmbtext>过滤器字符串</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::OnlinePhotoID">
+  <xmbtext>在线照片 ID</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IsTempFile">
+  <xmbtext>是临时文件</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IPTCUnknown">
+  <xmbtext>IPTC 字段未知</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::XMPUnknown">
+  <xmbtext>XMP 字段未知</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BitsPerSample">
+  <xmbtext>每个样例的比特数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Compression">
+  <xmbtext>压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PhotometricInterpretation">
+  <xmbtext>光度表示</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thresholding">
+  <xmbtext>阈值</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellWidth">
+  <xmbtext>单元格宽度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellLength">
+  <xmbtext>单元格长度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FillOrder">
+  <xmbtext>填写订单</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CameraID">
+  <xmbtext>相机 ID</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Make">
+  <xmbtext>相机制造商</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Model">
+  <xmbtext>相机型号</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripOffsets">
+  <xmbtext>频带偏移量</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Orientation">
+  <xmbtext>方向</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SamplesPerPixel">
+  <xmbtext>每一像素的样例数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RowsPerStrip">
+  <xmbtext>每个频带的行数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripByteCounts">
+  <xmbtext>频带字节计数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinSampleValue">
+  <xmbtext>最小样例值</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxSampleValue">
+  <xmbtext>最大样例值</xmbtext>
+ </stringres>
+ <stringres id="EXIF::XResolution">
+  <xmbtext>分辨率为 X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YResolution">
+  <xmbtext>Y 分辨率</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PlanarConfiguration">
+  <xmbtext>平面配置</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeOffsets">
+  <xmbtext>自由偏移量</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeByteCounts">
+  <xmbtext>可用字节计数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseUnit">
+  <xmbtext>灰色响应单元</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseCurve">
+  <xmbtext>灰色响应曲线</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ResolutionUnit">
+  <xmbtext>分辨率单位</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Software">
+  <xmbtext>软件</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTime">
+  <xmbtext>修改日期</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Artist">
+  <xmbtext>艺术家</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HostComputer">
+  <xmbtext>主机</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhitePoint">
+  <xmbtext>白点</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PrimaryChromaticities">
+  <xmbtext>主色度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorMap">
+  <xmbtext>有色地图</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExtraSamples">
+  <xmbtext>特别样例</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrCoefficients">
+  <xmbtext>YCbCr 系数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrSubSampling">
+  <xmbtext>YCbCr 二次采样</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrPositioning">
+  <xmbtext>YCbCr 定位</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReferenceBlackWhite">
+  <xmbtext>参考黑/白</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Copyright">
+  <xmbtext>版权声明</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureTime">
+  <xmbtext>曝光时间</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumber">
+  <xmbtext>F 编号</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumberUnits">
+  <xmbtext>f/%s</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureProgram">
+  <xmbtext>曝光程序</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpectralSensitivity">
+  <xmbtext>光谱灵敏度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOSpeedRatings">
+  <xmbtext>ISO</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OECF">
+  <xmbtext>OECF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeOriginal">
+  <xmbtext>相机日期</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeDigitized">
+  <xmbtext>数字化日期</xmbtext>
+ </stringres>
+ <stringres id="ComponentsConfiguration">
+  <xmbtext>组件配置</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CompressedBitsPerPixel">
+  <xmbtext>每个像素已压缩的比特数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterSpeedValue">
+  <xmbtext>快门速度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ApertureValue">
+  <xmbtext>光圈</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BrightnessValue">
+  <xmbtext>亮度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureBiasValue">
+  <xmbtext>曝光偏差</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxApertureValue">
+  <xmbtext>最大光圈</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistance">
+  <xmbtext>物距</xmbtext>
+ </stringres>
+ <stringres id="EXIF::m">
+  <xmbtext>%s米</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MeteringMode">
+  <xmbtext>测光模式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LightSource">
+  <xmbtext>白平衡</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Flash">
+  <xmbtext>闪光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLength">
+  <xmbtext>焦距</xmbtext>
+ </stringres>
+ <stringres id="EXIF::mm">
+  <xmbtext>%s 毫米</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectArea">
+  <xmbtext>主题区域</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MakernoteData">
+  <xmbtext>制造商注释</xmbtext>
+ </stringres>
+ <stringres id="EXIF::UserComment">
+  <xmbtext>用户评论</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashpixVersion">
+  <xmbtext>Flashpix 版本</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSpace">
+  <xmbtext>颜色空间</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedSoundFile">
+  <xmbtext>相关声音文件</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashEnergy">
+  <xmbtext>闪光灯功率</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpatialFrequencyResponse">
+  <xmbtext>空间频率响应</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneXResolution">
+  <xmbtext>焦平面 X 分辨率</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneYResolution">
+  <xmbtext>焦平面 Y 分辨率</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneResolutionUnit">
+  <xmbtext>焦平面分辨率单位</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectLocation">
+  <xmbtext>主题位置</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureIndex">
+  <xmbtext>曝光索引</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SensingMethod">
+  <xmbtext>传感方法</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FileSource">
+  <xmbtext>文件来源</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneType">
+  <xmbtext>场景类型</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CFAPattern">
+  <xmbtext>CFA 样式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CustomRendered">
+  <xmbtext>自定义显示</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureMode">
+  <xmbtext>曝光模式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteBalance">
+  <xmbtext>白平衡</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalZoomRatio">
+  <xmbtext>数字可变焦比</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLengthIn35mmFilm">
+  <xmbtext>35 毫米胶片焦距</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneCaptureType">
+  <xmbtext>场景捕获类型</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GainControl">
+  <xmbtext>增益控制</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Contrast">
+  <xmbtext>对比度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Saturation">
+  <xmbtext>饱和度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sharpness">
+  <xmbtext>锐度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DeviceSettingDescription">
+  <xmbtext>设备设置说明</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistanceRange">
+  <xmbtext>物距范围</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageUniqueID">
+  <xmbtext>唯一 ID</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageType">
+  <xmbtext>图片类型</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareVersion">
+  <xmbtext>固件版本</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFileNumber">
+  <xmbtext>文件号</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OwnerName">
+  <xmbtext>所有者姓名</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SerialNumber">
+  <xmbtext>序列号</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareRevision">
+  <xmbtext>固件修订版本</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensModel">
+  <xmbtext>镜头型号</xmbtext>
+ </stringres>
+ <stringres id="EXIF:SerialNumber">
+  <xmbtext>序列号</xmbtext>
+ </stringres>
+ <stringres id="EXIF:LensType">
+  <xmbtext>镜头类型</xmbtext>
+ </stringres>
+ <stringres id="EXIF:ShutterCount">
+  <xmbtext>快门数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSVersionID">
+  <xmbtext>GPS 版本 ID</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLatitude">
+  <xmbtext>GPS 纬度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLongitude">
+  <xmbtext>GPS 经度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitudeRef">
+  <xmbtext>GPS 海拔高度参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitude">
+  <xmbtext>GPS 海拔高度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTimeStamp">
+  <xmbtext>GPS 时间戳</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSatellites">
+  <xmbtext>GPS 卫星</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSStatus">
+  <xmbtext>GPS 状态</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMeasureMode">
+  <xmbtext>GPS 测量模式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDOP">
+  <xmbtext>GPS DOP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeedRef">
+  <xmbtext>GPS 速度参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeed">
+  <xmbtext>GPS 速度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrackRef">
+  <xmbtext>GPS 跟踪引用</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrack">
+  <xmbtext>GPS 跟踪</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirectionRef">
+  <xmbtext>GPS 图片方向参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirection">
+  <xmbtext>GPS 图片方向</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMapDatum">
+  <xmbtext>GPS 地图数据</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitudeRef">
+  <xmbtext>GPS 目标维度参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitude">
+  <xmbtext>GPS 目标维度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitudeRef">
+  <xmbtext>GPS 目标经度参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitude">
+  <xmbtext>GPS 目标经度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearingRef">
+  <xmbtext>GPS 目标方向参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearing">
+  <xmbtext>GPS 目标导向</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistanceRef">
+  <xmbtext>GPS 目标距离参考</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistance">
+  <xmbtext>GPS 目标距离</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSProcessingMethod">
+  <xmbtext>GPS 处理方法</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAreaInformation">
+  <xmbtext>GPS 区域信息</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDateStamp">
+  <xmbtext>GPS 日期戳记</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDifferential">
+  <xmbtext>GPS 差分</xmbtext>
+ </stringres>
+ <stringres id="EXIF::InteroperabilityIndex">
+  <xmbtext>互用性索引</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedImageFileFormat">
+  <xmbtext>相关图片文件格式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Uncompressed">
+  <xmbtext>未经压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CCITT1D">
+  <xmbtext>CCITT 1D</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T4/Group3Fax">
+  <xmbtext>T4/Group 3 Fax</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T6/Group4Fax">
+  <xmbtext>T6/Group 4 Fax</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LZW">
+  <xmbtext>LZW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEGOldStyle">
+  <xmbtext>JPEG（旧样式）</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG">
+  <xmbtext>JPEG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AdobeDeflate">
+  <xmbtext>Adobe 压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGB&amp;W">
+  <xmbtext>JBIG 黑白</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGColor">
+  <xmbtext>JBIG 颜色</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Kodak262">
+  <xmbtext>Kodak 262</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Next">
+  <xmbtext>下一个</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SonyARWCompressed">
+  <xmbtext>Sony ARW 已压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::EpsonERFCompressed">
+  <xmbtext>Epson ERF 已压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PackBits">
+  <xmbtext>PackBit</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thunderscan">
+  <xmbtext>迅雷扫描</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakKDCCompressed">
+  <xmbtext>Kodak KDC 已压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8CTPAD">
+  <xmbtext>IT8CTPAD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8LW">
+  <xmbtext>IT8LW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8MP">
+  <xmbtext>IT8MP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8BL">
+  <xmbtext>IT8BL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarFilm">
+  <xmbtext>PixarFilm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLog">
+  <xmbtext>PixarLog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Deflate">
+  <xmbtext>缩小</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DCS">
+  <xmbtext>DCS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIG">
+  <xmbtext>JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog">
+  <xmbtext>SGILog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog24">
+  <xmbtext>SGILog24</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG2000">
+  <xmbtext>JPEG 2000</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NikonNEFCompressed">
+  <xmbtext>Nikon NEF 已压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIBinaryLevelCodec">
+  <xmbtext>MDI 二进制级别编解码器</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIProgressiveTransformCodec">
+  <xmbtext>MDI 渐进转换编解码器</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIVector">
+  <xmbtext>MDI 矢量</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakDCRCompressed">
+  <xmbtext>Kodak DCR 已压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PentaxPEFCompressed">
+  <xmbtext>Pentax PEF 已压缩</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteIsZero">
+  <xmbtext>WhiteIsZero</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BlackIsZero">
+  <xmbtext>BlackIsZero</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGB">
+  <xmbtext>RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGBPalette">
+  <xmbtext>RGB 调色板</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TransparencyMask">
+  <xmbtext>透明掩码</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CMYK">
+  <xmbtext>CMYK</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCr">
+  <xmbtext>YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CIELab">
+  <xmbtext>CIE L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ICCLab">
+  <xmbtext>ICC L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ITULab">
+  <xmbtext>ITU L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorFilterArray">
+  <xmbtext>色彩滤镜矩阵</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogL">
+  <xmbtext>Pixar LogL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogLuv">
+  <xmbtext>Pixar LogLuv</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LinearRaw">
+  <xmbtext>线性 RAW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Bilevel">
+  <xmbtext>二值</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Halftone">
+  <xmbtext>中间色</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Random">
+  <xmbtext>随机</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Normal">
+  <xmbtext>正常</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Reversed">
+  <xmbtext>反转</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Undefined">
+  <xmbtext>未定义</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HorizontallyFlipped">
+  <xmbtext>水平翻转</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate180">
+  <xmbtext>已旋转 180 度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::VerticallyFlipped">
+  <xmbtext>垂直翻转</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transposed">
+  <xmbtext>已变换</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate90">
+  <xmbtext>已旋转 90 度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transverse">
+  <xmbtext>横向</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate270">
+  <xmbtext>已旋转 270 度</xmbtext>
+ </stringres>
+ <stringres id="EXIF::None">
+  <xmbtext>无</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Inches">
+  <xmbtext>英寸</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centimeters">
+  <xmbtext>厘米</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Millimeters">
+  <xmbtext>毫米</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Micrometers">
+  <xmbtext>微米</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centered">
+  <xmbtext>居中</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoSited">
+  <xmbtext>同站点</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDefined">
+  <xmbtext>未定义</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Manual">
+  <xmbtext>手动</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Program">
+  <xmbtext>程序</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AperturePriority">
+  <xmbtext>光圈先决</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterPriority">
+  <xmbtext>快门先决</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CreativeProgram">
+  <xmbtext>创作程序</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ActionProgram">
+  <xmbtext>操作程序</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PortraitMode">
+  <xmbtext>纵向模式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LandscapeMode">
+  <xmbtext>横向模式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Unknown">
+  <xmbtext>未知</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Average">
+  <xmbtext>平均数</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CenterWeight">
+  <xmbtext>中央重点</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Spot">
+  <xmbtext>点测光</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MultiSpot">
+  <xmbtext>多地点</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Matrix">
+  <xmbtext>矩阵</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Partial">
+  <xmbtext>部分</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Other">
+  <xmbtext>其他</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sunny">
+  <xmbtext>晴天</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fluorescent">
+  <xmbtext>荧光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Incandescent">
+  <xmbtext>白炽灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FineWeather">
+  <xmbtext>好天气</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Cloudy">
+  <xmbtext>多云</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Shade">
+  <xmbtext>颜色深浅</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DaylightFlourescent">
+  <xmbtext>日光荧光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DayWhiteFlourescent">
+  <xmbtext>日光白荧光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoolWhiteFlourescent">
+  <xmbtext>冷白荧光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteFlourescent">
+  <xmbtext>白色荧光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightA">
+  <xmbtext>标准光 A</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightB">
+  <xmbtext>标准光 B</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightC">
+  <xmbtext>标准光 C</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D55">
+  <xmbtext>D55</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D65">
+  <xmbtext>D65</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D75">
+  <xmbtext>D75</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D50">
+  <xmbtext>D50</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOStudioTungsten">
+  <xmbtext>ISO 工作室用钨灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeArea">
+  <xmbtext>单色区域</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OneChipColorArea">
+  <xmbtext>一片彩色区域</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TwoChipColorArea">
+  <xmbtext>两片彩色区域</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ThreeChipColorArea">
+  <xmbtext>三片颜色区域</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialArea">
+  <xmbtext>彩色顺序区域</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeLinear">
+  <xmbtext>单色线性</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Trilinear">
+  <xmbtext>三线</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialLinear">
+  <xmbtext>彩色顺序线性</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FilmScanner">
+  <xmbtext>胶片扫描仪</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReflectionPrintScanner">
+  <xmbtext>反射打印扫描仪</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalCamera">
+  <xmbtext>数码相机</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DirectlyPhotographed">
+  <xmbtext>直接拍摄</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Custom">
+  <xmbtext>自定义</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Auto">
+  <xmbtext>自动</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AutoBracket">
+  <xmbtext>自动包围</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Standard">
+  <xmbtext>标准</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Landscape">
+  <xmbtext>横向</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Portrait">
+  <xmbtext>纵向</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Night">
+  <xmbtext>夜间</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainUp">
+  <xmbtext>低收益上升</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainUp">
+  <xmbtext>高收益上升</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainDown">
+  <xmbtext>低收益下降</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainDown">
+  <xmbtext>高增益下降</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Low">
+  <xmbtext>最低</xmbtext>
+ </stringres>
+ <stringres id="EXIF::High">
+  <xmbtext>高</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Soft">
+  <xmbtext>软</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Hard">
+  <xmbtext>硬</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Macro">
+  <xmbtext>宏</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Close">
+  <xmbtext>关闭</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Distant">
+  <xmbtext>遥远</xmbtext>
+ </stringres>
+ <stringres id="EXIF::On">
+  <xmbtext>打开</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Off">
+  <xmbtext>关闭</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NoDetection">
+  <xmbtext>没有检测</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDetected">
+  <xmbtext>未检测到</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Detected">
+  <xmbtext>上次检测到此错误的时间</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFlashMode">
+  <xmbtext>闪光灯模式</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensType">
+  <xmbtext>镜头类型</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LongFocal">
+  <xmbtext>长焦距</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShortFocal">
+  <xmbtext>短焦距</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalUnits">
+  <xmbtext>焦距单位</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxAperture">
+  <xmbtext>最大光圈</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinAperture">
+  <xmbtext>最小光圈</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalType">
+  <xmbtext>焦点类型</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneX">
+  <xmbtext>焦平面 X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneY">
+  <xmbtext>焦平面 Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReduction">
+  <xmbtext>消除红眼</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SlowSync">
+  <xmbtext>慢速同步</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionAuto">
+  <xmbtext>自动消除红眼</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionOn">
+  <xmbtext>消除红眼功能已开启</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExternalFlash">
+  <xmbtext>外部闪光灯</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fixed">
+  <xmbtext>固定</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Zoom">
+  <xmbtext>缩放</xmbtext>
+ </stringres>
+ <stringres id="XMP::Certificate">
+  <xmbtext>证书</xmbtext>
+ </stringres>
+ <stringres id="XMP::Marked">
+  <xmbtext>使用版权进行标记</xmbtext>
+ </stringres>
+ <stringres id="XMP::Owner">
+  <xmbtext>所有者</xmbtext>
+ </stringres>
+ <stringres id="XMP::UsageTerms">
+  <xmbtext>使用条款</xmbtext>
+ </stringres>
+ <stringres id="XMP::WebStatement">
+  <xmbtext>网络声明</xmbtext>
+ </stringres>
+ <stringres id="XMP::Advisory">
+  <xmbtext>咨询</xmbtext>
+ </stringres>
+ <stringres id="XMP::BaseURL">
+  <xmbtext>基准网址</xmbtext>
+ </stringres>
+ <stringres id="XMP::Identifier">
+  <xmbtext>标识符</xmbtext>
+ </stringres>
+ <stringres id="XMP::Label">
+  <xmbtext>标签</xmbtext>
+ </stringres>
+ <stringres id="XMP::MetadataDate">
+  <xmbtext>元数据日期</xmbtext>
+ </stringres>
+ <stringres id="XMP::Nickname">
+  <xmbtext>昵称</xmbtext>
+ </stringres>
+ <stringres id="XMP::Rating">
+  <xmbtext>评分</xmbtext>
+ </stringres>
+ <stringres id="XMP::Firmware">
+  <xmbtext>固件</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashCompensation">
+  <xmbtext>闪光补偿</xmbtext>
+ </stringres>
+ <stringres id="XMP::ImageNumber">
+  <xmbtext>图片编号</xmbtext>
+ </stringres>
+ <stringres id="XMP::Lens">
+  <xmbtext>镜头</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensID">
+  <xmbtext>镜头 ID</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensInfo">
+  <xmbtext>镜头信息</xmbtext>
+ </stringres>
+ <stringres id="XMP::OwnerName">
+  <xmbtext>拥有者名称</xmbtext>
+ </stringres>
+ <stringres id="XMP::SerialNumber">
+  <xmbtext>序列号</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashFunction">
+  <xmbtext>闪光灯功能未显示</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashMode">
+  <xmbtext>闪光灯模式</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashRedEyeMode">
+  <xmbtext>支持防红眼功能</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashReturn">
+  <xmbtext>Flash 返回</xmbtext>
+ </stringres>
+ <stringres id="XMP::contributor">
+  <xmbtext>贡献者</xmbtext>
+ </stringres>
+ <stringres id="XMP::coverage">
+  <xmbtext>覆盖</xmbtext>
+ </stringres>
+ <stringres id="XMP::date">
+  <xmbtext>日期</xmbtext>
+ </stringres>
+ <stringres id="XMP::format">
+  <xmbtext>格式</xmbtext>
+ </stringres>
+ <stringres id="XMP::language">
+  <xmbtext>语言</xmbtext>
+ </stringres>
+ <stringres id="XMP::publisher">
+  <xmbtext>发布商</xmbtext>
+ </stringres>
+ <stringres id="XMP::relation">
+  <xmbtext>关系</xmbtext>
+ </stringres>
+ <stringres id="XMP::type">
+  <xmbtext>类型</xmbtext>
+ </stringres>
+ <stringres id="XMP::IntellectualGenre">
+  <xmbtext>智能类型</xmbtext>
+ </stringres>
+ <stringres id="XMP::Scene">
+  <xmbtext>场景</xmbtext>
+ </stringres>
+ <stringres id="XMP::SubjectCode">
+  <xmbtext>主题代码</xmbtext>
+ </stringres>
+ <stringres id="XMP::Location">
+  <xmbtext>位置</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrExtadr">
+  <xmbtext>联系人信息：地址</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCity">
+  <xmbtext>联系人信息：城市</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCtry">
+  <xmbtext>联系人信息：国家/地区</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiEmailWork">
+  <xmbtext>联系人信息：电子邮件</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiTelWork">
+  <xmbtext>联系人信息：电话</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrPcode">
+  <xmbtext>联系人信息：邮编</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrRegion">
+  <xmbtext>联系人信息：区域</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiUrlWork">
+  <xmbtext>联系人信息：网址</xmbtext>
+ </stringres>
+ <stringres id="XMP::AddlModelInfo">
+  <xmbtext>模特的更多信息</xmbtext>
+ </stringres>
+ <stringres id="XMP::ArtworkOrObject">
+  <xmbtext>艺术作品或对象</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageCode">
+  <xmbtext>组织代码</xmbtext>
+ </stringres>
+ <stringres id="XMP::CVterm">
+  <xmbtext>已控制的词汇表术语</xmbtext>
+ </stringres>
+ <stringres id="XMP::LocationShown">
+  <xmbtext>显示的位置</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelAge">
+  <xmbtext>模特年龄</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageName">
+  <xmbtext>组织机构名称</xmbtext>
+ </stringres>
+ <stringres id="XMP::PersonInImage">
+  <xmbtext>显示的人物</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigImageGUID">
+  <xmbtext>数字图片 GUID</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourcefileType">
+  <xmbtext>数字源文件类型</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourceType">
+  <xmbtext>数字源类型</xmbtext>
+ </stringres>
+ <stringres id="XMP::Event">
+  <xmbtext>活动</xmbtext>
+ </stringres>
+ <stringres id="XMP::IptcLastEdited">
+  <xmbtext>IPTC 上次修改</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailHeight">
+  <xmbtext>最大可用高度</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailWidth">
+  <xmbtext>最大的可用宽度上限</xmbtext>
+ </stringres>
+ <stringres id="XMP::Version">
+  <xmbtext>PLUS 版本</xmbtext>
+ </stringres>
+ <stringres id="XMP::MinorModelAgeDisclosure">
+  <xmbtext>披露最年轻模特的年龄</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseID">
+  <xmbtext>模特肖像权授权 ID</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseStatus">
+  <xmbtext>模特肖像权授权状态</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseID">
+  <xmbtext>属性发布 ID</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseStatus">
+  <xmbtext>属性发布状态</xmbtext>
+ </stringres>
+ <stringres id="XMP::Regions">
+  <xmbtext>人物标签</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeVersion">
+  <xmbtext>信封版本</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Destination">
+  <xmbtext>目标</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormat">
+  <xmbtext>文件格式</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormatVersion">
+  <xmbtext>文件格式版本</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ServiceIdentifier">
+  <xmbtext>服务标识符</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeNumber">
+  <xmbtext>信封编号</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProductID">
+  <xmbtext>产品 ID</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopePriority">
+  <xmbtext>信封优先级</xmbtext>
+ </stringres>
+ <stringres id="IPTC::DateSent">
+  <xmbtext>发送日期</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TimeSent">
+  <xmbtext>发送时间</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CodedCharacterSet">
+  <xmbtext>已编码的字符集</xmbtext>
+ </stringres>
+ <stringres id="IPTC::UNO">
+  <xmbtext>UNO</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMIdentifier">
+  <xmbtext>ARM 标识符</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMVersion">
+  <xmbtext>ARM 版本</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ApplicationVersion">
+  <xmbtext>应用版本</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectTypeReference">
+  <xmbtext>对象类型参考</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectAttributeReference">
+  <xmbtext>对象属性参考</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectName">
+  <xmbtext>标题</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditStatus">
+  <xmbtext>编辑状态</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditorialUpdate">
+  <xmbtext>编辑更新</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Urgency">
+  <xmbtext>紧急</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubjectReference">
+  <xmbtext>主题参考</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Category">
+  <xmbtext>类别</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SupplementalCategory">
+  <xmbtext>补充类别</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FixtureIdentifier">
+  <xmbtext>固定设备标识符</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Keywords">
+  <xmbtext>标签</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationCode">
+  <xmbtext>当前位置代码</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationName">
+  <xmbtext>内容位置名称</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseDate">
+  <xmbtext>发行日期</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseTime">
+  <xmbtext>发布时间</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationDate">
+  <xmbtext>到期日期</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationTime">
+  <xmbtext>有效期</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Instructions">
+  <xmbtext>指示</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ActionAdvised">
+  <xmbtext>建议的操作</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceService">
+  <xmbtext>参考服务</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceDate">
+  <xmbtext>参考日期</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceNumber">
+  <xmbtext>参考编号</xmbtext>
+ </stringres>
+ <stringres id="IPTC::OriginatingProgram">
+  <xmbtext>源程序</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProgramVersion">
+  <xmbtext>程序版本</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectCycle">
+  <xmbtext>Object Cycle</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AuthorsPosition">
+  <xmbtext>署名行标题</xmbtext>
+ </stringres>
+ <stringres id="IPTC::City">
+  <xmbtext>城市</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubLocation">
+  <xmbtext>子位置</xmbtext>
+ </stringres>
+ <stringres id="IPTC::State">
+  <xmbtext>省/直辖市/自治区</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CountryCode">
+  <xmbtext>国家/地区代码</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Country">
+  <xmbtext>国家/地区</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TransmissionReference">
+  <xmbtext>传输参考</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Headline">
+  <xmbtext>标题</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Credit">
+  <xmbtext>信用</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Source">
+  <xmbtext>来源</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Contact">
+  <xmbtext>联系方式</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Caption">
+  <xmbtext>图片说明</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CaptionWriter">
+  <xmbtext>图片说明作者</xmbtext>
+ </stringres>
+ <stringres id="IPTC::RasterizedCaption">
+  <xmbtext>光栅化的图片说明</xmbtext>
+ </stringres>
+ <stringres id="IPTC::PicasaURL">
+  <xmbtext>Picasa 网址</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageType">
+  <xmbtext>图片类型</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageOrientation">
+  <xmbtext>图片方向</xmbtext>
+ </stringres>
+ <stringres id="IPTC::LanguageIdentifier">
+  <xmbtext>语音标识符</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioType">
+  <xmbtext>音频类型</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingRate">
+  <xmbtext>音频采样率</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingResolution">
+  <xmbtext>音频采样分辨率</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioDuration">
+  <xmbtext>音频时长</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioOutcue">
+  <xmbtext>音频输出信号</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseTitle">
+  <xmbtext>许可协议</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseSubTitle">
+  <xmbtext>安装 Google 相册自动备份前，请先阅读许可条款。</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseLabel">
+  <xmbtext>使用 Google 相册即表示您同意 Google 服务条款和隐私权政策。</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosText">
+  <xmbtext>服务条款</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosLink">
+  <xmbtext>https://www.google.com/policies/terms/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyText">
+  <xmbtext>隐私权政策</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyLink">
+  <xmbtext>https://www.google.com/policies/privacy/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseButtonText">
+  <xmbtext>我同意</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_RenameFolderErr">
+  <xmbtext>无法重命名您的已导入照片目录。此前导入的照片仍然位于之前的目录中。</xmbtext>
+ </stringres>
+</resources>

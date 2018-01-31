@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_storage_notify/window.title">
+  <xmbtext>Backup do Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_header.title">
+  <xmbtext>O novo Backup do Google Fotos</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_text.title">
+  <xmbtext>As opões de armazenamento para suas fotos e seus vídeos ficaram ainda melhores.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.title">
+  <xmbtext>Saber mais</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.url">
+  <xmbtext>https://support.google.com/plus/answer/1647509#cost</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size.title">
+  <xmbtext>Alta qualidade (armazenamento ilimitado gratuito)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size_desc.title">
+  <xmbtext>Excelente qualidade visual com um tamanho de arquivo reduzido</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size.title">
+  <xmbtext>Original (Verificando capacidade restante...)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size_desc.title">
+  <xmbtext>Resolução total que reduz sua cota</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_extra.title">
+  <xmbtext>Navegue pelos uploads realizados e confira os novos recursos do Google Fotos em photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

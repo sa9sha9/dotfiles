@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_instructions/instruction_window.title">
+  <xmbtext>Google フォト バックアップ</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_header.title">
+  <xmbtext>Google フォト バックアップをご利用いただけます</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_label.title">
+  <xmbtext>フォト アイコンをクリックすると、一時停止、設定の変更、進行状況の確認が行えます。</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

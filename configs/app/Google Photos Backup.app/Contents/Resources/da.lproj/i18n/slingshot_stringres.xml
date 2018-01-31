@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_EMAIL_LOGINFORBIDDEN">
+  <xmbtext>Uautoriseret login. Prøv igen senere</xmbtext>
+ </stringres>
+ <stringres id="FilmstripHandler::getfilmstat">
+  <xmbtext>%1$d ud af %2$d</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_image">
+  <xmbtext>Ugyldigt billede</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::ConnectionCheck">
+  <xmbtext>Du skal have oprettet forbindelse til internettet for at uploade billeder</xmbtext>
+ </stringres>
+ <stringres id="slingshot::friendly_app_name_debug">
+  <xmbtext>Picasa Photo Viewer (foretag fejlretning)</xmbtext>
+ </stringres>
+ <stringres id="ss:upload_command">
+  <xmbtext>Shell\\Upload til Webalbum\\Command</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name">
+  <xmbtext>Konfiguration af Photo Viewer</xmbtext>
+ </stringres>
+ <stringres id="slingshot::config_window_name2">
+  <xmbtext>Upload til Picasa Web</xmbtext>
+ </stringres>
+ <stringres id="OptionsDialog::RAW">
+  <xmbtext>RAW-formater</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_default">
+  <xmbtext>Standard</xmbtext>
+ </stringres>
+ <stringres id="slingshot::setup_finish">
+  <xmbtext>Afslut</xmbtext>
+ </stringres>
+ <stringres id="slingshot::without_association">
+  <xmbtext>%s (uden association)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::with_association">
+  <xmbtext>%1$s (var %2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::current_association">
+  <xmbtext>%1$s (%2$s)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_out">
+  <xmbtext>Log ud</xmbtext>
+ </stringres>
+ <stringres id="slingshot::sign_in">
+  <xmbtext>Log ind</xmbtext>
+ </stringres>
+ <stringres id="slingshot::quick_upload_fail">
+  <xmbtext>Kunne ikke uploade</xmbtext>
+ </stringres>
+ <stringres id="slingshot::account_creation_url">
+  <xmbtext>https://www.google.com/accounts/ServiceLogin?hl=en_US&amp;continue=http%3A%2F%2Fpicasaweb.google.com%2Fhome&amp;service=lh2&amp;ltmpl=pwasignup</xmbtext>
+ </stringres>
+ <stringres id="slingshot::forgot_password_url">
+  <xmbtext>https://www.google.com/accounts/ForgotPasswd</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_enabled_error">
+  <xmbtext>Denne konto er ikke aktiveret til Webalbum.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_forbidden">
+  <xmbtext>Uautoriseret login. Prøv igen senere</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_incorrect">
+  <xmbtext>Forkert login.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_cookie_error">
+  <xmbtext>Dine cookie-indstillinger er for restriktive til at logge ind.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_login_server_error">
+  <xmbtext>Kunne ikke oprette forbindelse til loginserver.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::photos_general_failure">
+  <xmbtext>Login mislykkedes.</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat1">
+  <xmbtext>Uploadstatus: %1$s - %2$d%% (%3$d tilbage)</xmbtext>
+ </stringres>
+ <stringres id="QuickUploadHandler::stat2">
+  <xmbtext>Uploadstatus: %1$s - %2$s</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_selection">
+  <xmbtext>Stedet &#039;%s&#039; indeholder ikke en gyldig billedfil.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::invalid_file">
+  <xmbtext>Filen &#039;%s&#039; er ikke en gyldig billedfil.</xmbtext>
+ </stringres>
+ <stringres id="slingshot::imagefiles">
+  <xmbtext>Billedfiler</xmbtext>
+ </stringres>
+ <stringres id="slingshot::window_name">
+  <xmbtext>Picasa Photo Viewer</xmbtext>
+ </stringres>
+ <stringres id="slingshot::viapicasa_separator">
+  <xmbtext>Picasa...</xmbtext>
+ </stringres>
+ <stringres id="slingshot::print">
+  <xmbtext>Udskriv (P)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::email">
+  <xmbtext>E-mail   (M)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::blogthis">
+  <xmbtext>BlogThis! (B)</xmbtext>
+ </stringres>
+ <stringres id="ss:config">
+  <xmbtext>Konfiguration  (C)</xmbtext>
+ </stringres>
+ <stringres id="ss:help">
+  <xmbtext>Hjælp (F1)</xmbtext>
+ </stringres>
+ <stringres id="slingshot::openwith_separator">
+  <xmbtext>Åbn med...</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_COPY">
+  <xmbtext>Kopier</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EDIT">
+  <xmbtext>Rediger i Picasa</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_PRINT_PHOTO">
+  <xmbtext>Udskriv</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_EMAIL">
+  <xmbtext>E-mail</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_BLOG">
+  <xmbtext>Blog</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_QUICKUPLOAD">
+  <xmbtext>Hurtig upload</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_FILE_LOCATEONDISK">
+  <xmbtext>Find på disk</xmbtext>
+ </stringres>
+ <stringres id="Slingshot::ID_SHOW_CAPTIONS">
+  <xmbtext>Vis billedtekster</xmbtext>
+ </stringres>
+ <stringres id="slingshot::welcome">
+  <xmbtext>Velkommen til Picasa Photo Viewer</xmbtext>
+ </stringres>
+</resources>

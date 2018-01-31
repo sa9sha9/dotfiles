@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="featurewindow/nextbutton" xmbdesc="Label(featurewindow/nextbutton)">
+  <xmbtext>Picasa 사용자세요? 로그인해주세요</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/activatebutton" xmbdesc="Label(featurewindow/activatebutton)">
+  <xmbtext>처음 오셨어요? 등록하세요!</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/moreinfobutton" xmbdesc="Label(featurewindow/moreinfobutton)">
+  <xmbtext>자세히 알아보기</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/closebutton" xmbdesc="Label(featurewindow/closebutton)">
+  <xmbtext>닫기</xmbtext>
+ </action>
+</tooltips>

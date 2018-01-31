@@ -1,0 +1,12 @@
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "6XV-7F-XdK"; */
+"6XV-7F-XdK.title" = "승인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8r1-Xq-m6w"; */
+"8r1-Xq-m6w.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "Slideshow Interval Time (s) :"; ObjectID = "AOB-Ou-5WT"; */
+"AOB-Ou-5WT.title" = "슬라이드쇼 표시 간격 (초) :";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";

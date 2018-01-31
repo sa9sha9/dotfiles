@@ -1,0 +1,21 @@
+# https://cs.corp.google.com/#google3/devtools/metadata/presubmit.proto
+
+presubmit: {
+  path_expression: "//depot/googleclient/apps/webdrive_sync/resources/i18n/string_resources.py"
+  path_expression: "//depot/googleclient/apps/webdrive_sync/resources/i18n/locale/en_US/LC_MESSAGES/syncclient.po"
+
+  review_notify: "drive-sync-eng"
+  review_notify: "rishisharma"
+}
+
+presubmit: {
+  path_expression: "//depot/googleclient/apps/webdrive_sync/resources/i18n/string_resources.py"
+  path_expression: "//depot/googleclient/apps/webdrive_sync/resources/i18n/locale/en_US/LC_MESSAGES/syncclient.po"
+
+  check_file_set: {
+    failure_message: "Please update and include the master PO file via $ ./linux/py.sh i18n/py/update-po.py"
+    failure_status: ERROR
+    required_path: "//depot/googleclient/apps/webdrive_sync/resources/i18n/string_resources.py"
+    required_path: "//depot/googleclient/apps/webdrive_sync/resources/i18n/locale/en_US/LC_MESSAGES/syncclient.po"
+  }
+}

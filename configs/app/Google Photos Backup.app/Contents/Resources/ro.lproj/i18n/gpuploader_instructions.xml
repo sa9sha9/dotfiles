@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_instructions/instruction_window.title">
+  <xmbtext>Backup Google Foto</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_header.title">
+  <xmbtext>Backup Google Foto are undă verde!</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_label.title">
+  <xmbtext>Dă clic pe pictograma Fotografii ca să întrerupi, să schimbi preferințele sau să verifici progresul.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/okbutton.title">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+</resources>

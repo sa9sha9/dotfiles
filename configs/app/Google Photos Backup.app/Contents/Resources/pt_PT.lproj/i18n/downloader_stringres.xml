@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Esta aplicação transfere novas versões do Picasa e dos seus componentes.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Esta aplicação não deve ser iniciada diretamente</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Não é possível efectuar a autenticação</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Não é possível estabelecer ligação</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Esta aplicação está atualizada</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>A estabelecer ligação aos servidores do Google</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>A estabelecer ligação...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Actualização do Picasa em curso </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>A transferir a actualização do Picasa...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>A execução desta acção requer uma ligação à internet activa. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Não foi possível verificar a versão mais recente no servidor do Google.\n\nTente novamente dentro de alguns minutos.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Não foi possível transferir de %1$s para %2$s (%3$x). Verifique a sua ligação à internet e tente novamente.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Já foi transferida uma versão mais recente do Picasa.\nA nova versão irá instalar-se automaticamente da próxima vez que executar o Picasa.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Erro %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Erro %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Erro</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>O ficheiro é autêntico</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>O ficheiro NÃO é autêntico</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d%% concluído, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>faltam %1$02d:%2$02d:%3$02ds.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>Falta(m) %1$02d:%2$02d.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Esta versão do Picasa não está atualizada, pelo que algumas funcionalidades on-line podem não funcionar correctamente. Quer efectuar a actualização agora?</xmbtext>
+ </stringres>
+</resources>

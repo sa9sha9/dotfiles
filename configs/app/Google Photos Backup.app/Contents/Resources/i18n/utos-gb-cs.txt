@@ -1,0 +1,278 @@
+﻿Podmínky používání Služeb společnosti Google Vítejte na internetových stránkách společnosti Google!
+
+1.	Váš vztah se společností Google
+
+1.1	Používání produktů, softwaru, služeb a internetových stránek společnosti Google (dále společně jen jako „Služby“ s vyloučením jakýchkoliv služeb, které Vám společnost Google poskytuje na základě samostatné písemné smlouvy) se řídí podmínkami smluvního vztahu mezi Vámi a společností Google. Společností Google se rozumí společnost Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, Spojené státy americké. V tomto dokumentu je vysvětleno, v čem smluvní vztah spočívá, a jsou zde stanoveny některé podmínky smluvního vztahu.
+
+1.2	Nebude-li se společností Google písemně dohodnuto něco jiného, pak Váš smluvní vztah se společností Google bude vždy tvořen přinejmenším podmínkami stanovenými v tomto dokumentu. Tyto podmínky jsou v tomto dokumentu označovány jako „Všeobecné podmínky“.
+
+1.3	Součástí Vašeho smluvního vztahu se společností Google jsou kromě Všeobecných podmínek také podmínky případných právních upozornění vztahujících se k jednotlivým Službám. V tomto dokumentu jsou dále označovány společně jen jako „Doplňující podmínky“. U Služby, pro kterou se uplatní Doplňující podmínky, budete mít možnost si takové podmínky přečíst buď v rámci přístupu k takové Službě, nebo při jejím používání.
+
+1.4	Všeobecné podmínky tvoří společně s Doplňujícími podmínkami právně závaznou dohodu mezi Vámi a společností Google ve vztahu k Vašemu využívání Služeb. Proto je důležité, abyste si všechny tyto podmínky důkladně přečetl(a). Tyto závazné podmínky smluvního vztahu jsou v tomto dokumentu označovány společně jen jako „Podmínky“.
+
+1.5	Bude-li jakýkoliv rozpor mezi ustanovením Doplňujících podmínek, a ustanovením Všeobecných podmínek, budou mít ve vztahu k dané Službě přednost ustanovení Doplňujících podmínek.
+
+
+
+2.	Souhlas s Podmínkami
+
+2.1	Abyste mohl(a) Službu používat, musíte nejprve vyjádřit souhlas s Podmínkami. Pokud s Podmínkami nesouhlasíte, nemůžete Službu používat.
+
+2.2	Souhlas s Podmínkami můžete vyjádřit:
+
+(A)	kliknutím na tlačítko představující souhlas a přistoupení k Podmínkám, pokud Vám společnost Google tuto možnost nabídne v uživatelském rozhraní dané Služby, nebo
+
+(B)	tím, že začnete Službu skutečně používat. V takovém případě berete na vědomí a souhlasíte s tím, že společnost Google bude Vaše používání Služby považovat za projevení Vašeho souhlasu s Podmínkami od okamžiku, kdy Službu začnete skutečně používat.
+
+
+
+2.3	Službu nesmíte používat a s Podmínkami nemůžete vyjádřit svůj souhlas, jestliže (a) nejste vzhledem k Vašemu věku způsobilý (způsobilá) k platnému uzavření závazné smlouvy se společností Google, nebo (b) podle zákonů Spojených států amerických či jiných zemí, včetně země, v níž máte trvalé bydliště nebo v níž Službu používáte, nesmíte tyto Služby používat.
+
+2.4	Předtím než budete pokračovat, měl(a) byste si Všeobecné podmínky vytisknout nebo si uložit jejich kopii pro Vaši potřebu.
+
+
+
+3.	Jazyková verze Podmínek
+
+3.1	Poskytne-li Vám společnost Google překlad anglické verze Podmínek, pak souhlasíte s tím, že takový překlad je Vám poskytován pouze pro usnadnění s tím, že Váš vztah se společností Google se bude řídit výhradně anglickou jazykovou verzí Podmínek.
+
+3.2	Bude-li jakýkoli rozpor mezi ustanovením anglické verze Podmínek a ustanovením jejich překladu, platí anglická verze.
+
+
+
+4.	Poskytování Služeb společností Google
+
+4.1	Společnost Google má dceřiné a přidružené společnosti v různých zemích světa (dále jen „Dceřiné a přidružené společnosti“). Někdy Vám bude Služby místo společnosti Google a jejím jménem poskytovat některá z jejích Dceřiných nebo přidružených společností. Berete na vědomí a souhlasíte s tím, že Dceřiné a přidružené společnosti jsou oprávněny Vám Služby poskytovat.
+
+4.2	Společnost Google své Služby nepřetržitě inovuje, aby svým uživatelům mohla vždy nabídnout nejlepší možný užitek. Berete na vědomí a souhlasíte s tím, že podoba a povaha Služeb, které Vám společnost Google bude poskytovat, se může čas od času změnit, aniž byste o tom byl(a) předem informován(a).
+
+4.3	V rámci těchto nepřetržitých inovací berete na vědomí a souhlasíte s tím, že společnost Google může (trvale nebo dočasně) přestat poskytovat Služby (nebo některé jejich prvky nebo některé funkce v rámci Služeb) Vám nebo obecně všem uživatelům, a to výhradně podle vlastního uvážení a bez povinnosti Vás o tom předem informovat. I Vy můžete kdykoli přestat používat Služby společnosti Google, aniž byste ji o tom musel(a) zvlášť informovat.
+
+4.4	Berete na vědomí a souhlasíte s tím, že v případě, že Vám společnost Google znemožní přístup k Vašemu uživatelskému účtu, je možné, že nebudete mít přístup ke Službám, nastavení Vašeho uživatelského účtu ani souborům či jinému obsahu, který tvoří součást Vašeho uživatelského účtu.
+
+4.5	Berete však na vědomí a souhlasíte s tím, že i když společnost Google zatím nestanovila žádné pevné maximální omezení pro počet zpráv, které můžete prostřednictvím Služeb posílat nebo přijímat, nebo pro rozsah paměti, který může být k poskytování jakékoli ze Služeb využíván, společnost Google může kdykoli podle vlastního uvážení takové pevné maximální omezení stanovit.
+
+
+
+5.	Používání Služeb
+
+5.1	Pro přístup k určitým Službám může být nezbytné poskytnutí Vašich údajů (např. osobních nebo kontaktních údajů) v rámci registrace pro používání dané Služby nebo jako podmínka pro další používání dané Služby. Zavazujete se, že veškeré údaje, které společnosti Google při registraci sdělíte, budou vždy přesné, správné a aktuální.
+
+5.2	Zavazujete se, že budete Služby používat pouze k účelům, které jsou dovoleny podle (a) Podmínek a (b) jakýchkoliv platných právních předpisů a obecně přijímaných postupů, směrnic či zásad dle příslušné jurisdikce (včetně jakýchkoliv právních předpisů upravujících dovoz a vývoz dat nebo softwaru do/ze Spojených států amerických nebo jiných příslušných zemí).
+
+5.3	Souhlasíte s tím, že pro přístup k jakékoliv Službě nebudete využívat (a ani se snažit využívat) žádné jiné prostředky než rozhraní poskytnuté společností Google, pokud k používání jiných prostředků nezískáte výslovný souhlas v samostatné dohodě se společností Google.
+
+5.4	Souhlasíte s tím, že nebudete činit nic, co by narušovalo nebo poškozovalo Služby (nebo servery a sítě, které jsou připojené ke Službám).
+
+5.5	Souhlasíte s tím, že bez výslovného souhlasu, v samostatné dohodě se společností Google, nebudete Služby za jakýmkoliv účelem reprodukovat, rozmnožovat, kopírovat, prodávat, obchodovat s nimi ani zprostředkovávat jejich prodej.
+
+5.6 Souhlasíte s tím, že za jakékoliv případné porušení Vašich povinností vyplývajících z těchto Podmínek a za případné následky takového porušení (včetně ztráty nebo škody, kterou tím může společnost Google utrpět) ponesete výhradní odpovědnost Vy.
+
+
+
+6.	Vaše hesla a zabezpečení Vašeho uživatelského účtu
+
+6.1	Berete na vědomí a souhlasíte s tím, že Vy ponesete výhradní odpovědnost za zachování tajnosti hesel vztahujících se k jakýmkoliv uživatelským účtům, které budete používat pro přístup ke Službám.
+
+6.2	Souhlasíte proto s tím, že Vy ponesete výhradní odpovědnost vůči společnosti Google za všechno, co bude učiněno prostřednictvím Vašeho uživatelského účtu.
+
+6.3	Dozvíte-li se o neoprávněném použití Vašeho hesla nebo Vašeho uživatelského účtu, zavazujete se, že o tom budete společnost Google neprodleně informovat na http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=cs.
+
+
+
+7.	Ochrana soukromí a osobních údajů
+
+7.1	Pro získání informací ohledně postupu společnosti Google při ochraně osobních údajů si prosím přečtěte Zásady ochrany soukromí, které si můžete přečíst na internetové stránce http://www.google.co.uk/privacy.html. Tyto zásady popisují, jak společnost Google zachází s osobními údaji a jak chrání Vaše soukromí, když využíváte její Služby.
+
+7.2	Souhlasíte s tím, že společnost Google smí využívat Vaše osobní údaje v souladu s jejími Zásadami ochrany soukromí.
+
+
+
+8.	Obsah Služeb
+
+8.1	Berete na vědomí, že za veškeré informace (např. datové soubory, psané texty, počítačový software, hudba, zvukové soubory a další zvuky, fotografie, video a další grafická data), k nimž budete mít přístup v rámci Služeb nebo prostřednictvím jejich používání, nese výhradní odpovědnost osoba, od které takový obsah pochází. Všechny takové informace jsou dále společně označovány jen jako „Obsah“.
+
+8.2	Upozorňujeme Vás na to, že Obsah, který Vám bude předkládán jako součást Služeb, a to včetně, ale bez omezení na reklamní sdělení ve Službách a sponzorovaného Obsahu v rámci Služeb, může být chráněn právy k duševnímu vlastnictví, jejichž vlastníky nebo majiteli jsou sponzoři nebo zadavatelé reklamy, kteří takový Obsah společnosti Google poskytují (případně jiné fyzické či právnické osoby jejich jménem). Bez výhradního svolení společnosti Google nebo vlastníků nebo majitelů takového Obsahu v samostatné dohodě, nesmíte takový Obsah ani žádnou jeho část měnit, pronajímat, půjčovat, prodávat, šířit ani z něj nebo na jeho základě vytvářet odvozená díla nebo produkty.
+
+8.3	Společnost Google si vyhrazuje právo (avšak není povinna) předem prohlížet, posuzovat, hodnotit, filtrovat, upravovat, odmítat nebo odstraňovat jakýkoliv Obsah z jakékoli Služby. U některých Služeb může společnost Google poskytovat nástroje k filtrování explicitního sexuálního obsahu. K takovým nástrojům patří například možnost nastavení filtru pro bezpečné vyhledávání SafeSearch (viz http://www.google.co.uk/help/customize.html#safe). Kromě toho existují také běžně obchodně dostupné služby a software pro omezení přístupu k materiálu, který Vám může být nepříjemný, nebo který můžete považovat za nevhodný.
+
+8.4	Berete na vědomí, že tím, že budete Služby používat, můžete být vystaven(a) Obsahu, který pro Vás může být urážlivý, neslušný, nevhodný nebo nepříjemný a v tomto ohledu proto používáte Služby na vlastní riziko.
+
+8.5	Souhlasíte také s tím, že za veškerý Obsah, který vytvoříte, odešlete nebo zobrazíte při používání Služeb, a za veškeré následky takového jednání (včetně případné ztráty nebo škody, kterou utrpí společnost Google) ponesete výhradní odpovědnost Vy a že společnost Google za takový obsah neponese žádnou odpovědnost vůči Vám ani vůči jakýmkoliv třetím osobám.
+
+
+
+9.	Vlastnická práva
+
+9.1	Berete na vědomí a souhlasíte s tím, že společnost Google (nebo osoby, které jí poskytly souhlas či licenci či jiné obdobné právo) je vlastníkem nebo držitelem veškerých zákonných a vlastnických práv týkajících se Služeb, a to včetně práv k duševnímu vlastnictví, která jsou součástí Služeb (bez ohledu na to, zda jsou taková práva registrována, či nikoli, a ve které zemi taková práva existují). Dále berete na vědomí, že Služby mohou obsahovat informace, které jsou společností Google označeny jako důvěrné a že takové informace nesmíte dál šířit bez předchozího písemného souhlasu společnosti Google.
+
+9.2	Pokud jste se se společností Google písemně nedohodl(a) na něčem jiném, nezískáváte na základě těchto Podmínek právo využívat obchodní firmu společnosti Google, její ochranné známky, známky služeb, loga, doménové jména ani žádné jiné odlišující rysy nebo prvky.
+
+9.3	V případě, že jste získal(a) výslovné právo využívat výše uvedené odlišující rysy a značky společnosti Google na základě zvláštní písemné dohody se společností Google, souhlasíte s tím, že je budete využívat v souladu s takovou dohodou, jakýmikoliv příslušnými ustanoveními Podmínek a zásadami pro využívání odlišujících rysů a značek společnosti Google v platném znění. Tyto zásady si můžete přečíst online na internetové adrese http://www.google.com/permissions/guidelines.html (případně na jiné URL (internetové adrese), kterou společnost Google za tímto účelem čas od času poskytuje).
+
+9.4	S výjimkou omezené licence stanovené v článku 11, společnost Google bere na vědomí a souhlasí s tím, že na základě těchto Podmínek od Vás (a od osob, které Vám udělily svůj souhlas či licenci či jiné obdobné právo) nezískává žádná zákonná ani vlastnická práva k jakémukoli Obsahu, který vložíte, odešlete nebo zobrazíte v rámci Služeb nebo jejich prostřednictvím, a to včetně jakýchkoliv práv k duševnímu vlastnictví, která jsou součástí Služeb (bez ohledu na to, zda jsou taková práva registrována, či nikoli, a ve které zemi taková práva existují). Pokud jste se se společností Google nedohodl(a) písemně na něčem jiném, souhlasíte s tím, že za ochranu a vymáhání takových práv ponesete odpovědnost Vy a že společnost Google není povinna jednat v tomto ohledu za Vás.
+
+9.5	Souhlasíte s tím, že nebudete odstraňovat, zakrývat ani pozměňovat upozornění na vlastnická práva (včetně upozornění na ochranu autorskými právy a ochranné známky), která budou připojena ke Službám nebo obsažena v nich.
+
+9.6	Souhlasíte s tím, že bez předchozího výslovného písemného souhlasu společnosti Google nebudete při používání Služeb využívat žádné ochranné známky, známky služeb, obchodní firmy ani loga jakýchkoli jiných společností či organizací způsobem, který by mohl nebo má vést k tomu, že nebude zřejmé, kdo je vlastníkem nebo oprávněným uživatelem takových známek, názvů a log.
+
+
+
+10.	Licence od společnosti Google
+
+10.1	Společnost Google Vám uděluje osobní, bezplatnou, nepřevoditelnou a nevýhradní licenci platnou ve všech zemí světa, která Vás opravňuje k využívání softwaru, jenž Vám společnost Google poskytne jako součást jejích Služeb (dále jen „Software“). Tato licence je udělována výhradně k tomu, abyste mohl(a) využívat Služby a jejich výhody poskytované společností Google způsobem stanoveným v těchto Podmínkách.
+
+10.2	Zavazujete se, že nebudete sám (sama) ani neumožníte jiným osobám kopírovat zdrojový kód Softwaru ani jakoukoli jeho část, upravovat ho, vytvářet z něho odvozená díla nebo produkty, zpětně ho překládat, dekompilovat ho či se ho jiným způsobem pokoušet extrahovat, ledaže byste k tomu byl(a) výslovně oprávněn(a) nebo povinen (povinna) ze zákona nebo získal(a) výslovný písemný souhlas od společnosti Google.
+
+10.3	Bez předchozího výslovného písemného souhlasu společnosti Google nesmíte postoupit svá práva používat Software na třetí osoby (ani formou dílčí licence či podlicence), zatěžovat je zástavními právy ani poskytnou práva k nim třetím osobám ani žádnou jejich část převádět na třetí osoby jakýmkoli jiným způsobem.
+
+
+
+11.	Licence k Vašemu Obsahu
+
+11.1	Autorská práva k Obsahu, jenž poskytnete, odešlete či zobrazíte ve Službách nebo jejich prostřednictvím, a veškerá jiná práva, která Vám již náleží, zůstávají Vám. Poskytnutím, odesláním nebo zobrazením obsahu udílíte společnosti Google časově neomezenou, neodvolatelnou, bezplatnou a nevýhradní licenci platnou ve všech zemích světa, která ji opravňuje reprodukovat, přizpůsobovat, upravovat, překládat, zveřejňovat, veřejně předvádět, veřejně zobrazovat a šířit jakýkoliv Obsah, který poskytnete, odešlete či zobrazíte ve Službách nebo jejich prostřednictvím. Tato licence je udílena výhradně k tomu, aby společnost Google mohla zobrazovat, šířit a propagovat Služby, a může být ve vztahu k určitým Službám odvolána jak je to stanoveno v příslušných Doplňujících podmínkách.
+
+11.2	Souhlasíte s tím, že tato licence zahrnuje rovněž právo společnosti Google poskytovat takový Obsah dalším společnostem, organizacím či osobám, s nimiž společnost Google udržuje vztahy za účelem poskytování společných služeb, a využívat takový Obsah za účelem poskytování takových služeb.
+
+11.3	Berete na vědomí a souhlasíte s tím, že společnost Google může v rámci technických postupů nezbytných k poskytování Služeb svým uživatelům (a) přenášet nebo šířit Váš Obsah různými veřejnými sítěmi a na různých médiích a (b) upravovat a měnit ho takovým způsobem, aby splňoval technické požadavky pro připojení sítí, zařízení, služeb či médií. Souhlasíte s tím, že společnost Google je k tomu oprávněna na základě Vaší licence.
+
+11.4	Potvrzujete a zaručujete se společnosti Google, že máte veškerá práva, oprávnění a pravomoci nezbytné k udělení výše zmíněné licence.
+
+
+
+12.	Aktualizace Softwaru
+
+12.1	Software, který budete používat, může čas od času automaticky stahovat a instalovat aktualizace poskytnuté společností Google. Takové aktualizace jsou vytvářeny za účelem zlepšení, zdokonalení a dalšího rozvíjení Služeb a mohou mít podobu opravy zjištěných chyb, vylepšených funkcí, nových modulů softwaru nebo zcela nových verzí. Souhlasíte s přijímáním takových aktualizací v rámci využívání Služeb a udělujete společnosti Google souhlas, aby Vám takové aktualizace poskytovala.
+
+
+
+13.	Ukončení Vašeho vztahu se společností Google
+
+13.1	Podmínky se budou uplatňovat, dokud nebudou Vámi nebo společností Google ukončeny způsobem uvedeným níže.
+
+13.2	Budete-li chtít vypovědět svůj smluvní vztah se společností Google, můžete tak učinit (a) zasláním písemné výpovědi společnosti Google a (b) zrušením uživatelských účtů ke všem Vámi používaným Službám, pokud Vám společnost Google takovou možnost nabídne. Písemnou výpověď byste měl(a) zaslat na adresu společnosti Google uvedenou v úvodu těchto Podmínek.
+
+13.3	Společnost Google může tento smluvní vztah kdykoli vypovědět, jestliže:
+
+(A)	porušíte jakékoliv ustanovení těchto Podmínek (nebo budete jednat způsobem, ze kterého bude zřejmé, že nehodláte nebo nejste schopen (schopna) ustanovení těchto Podmínek dodržovat), nebo
+
+(B)	společnost Google k tomu bude povinna ze zákona (např. pokud by poskytování Služeb Vám bylo v rozporu se zákonem), nebo
+
+(C)	partner, s nímž Vám společnost Google Služby nabízí, ukončí svůj vztah se společností Google nebo Vám přestane Služby poskytovat,
+
+(D)	společnost Google se rozhodne, že už nebude poskytovat Služby uživatelům v zemi, v níž máte trvalé bydliště nebo v níž služby používáte, nebo
+
+(E)	poskytování Služeb Vám bude pro společnost Google podle jejího uvážení ekonomicky neúnosné nebo nevýhodné.
+
+
+
+13.4	Ustanovení tohoto článku nemají žádný vliv na práva společnosti Google týkající se poskytování Služeb podle článku 4 těchto Podmínek.
+
+13.5	Ukončení platnosti těchto Podmínek nebude mít žádný vliv na veškerá zákonná práva, která Vám nebo společnosti Google náleží, na povinnosti a závazky, které máte Vy nebo společnost Google, resp. které Vám nebo společnosti Google vzniknou za dobu platnosti těchto Podmínek, ani na práva, povinnosti a závazky, u nichž je výslovně uvedeno, že platí bez časového omezení. Na všechna taková práva, povinnosti a závazky proto dál bez časového omezení platí ustanovení odst. 20.7.
+
+
+
+14.	Vyloučení záruk
+
+14.1	Služby jsou poskytovány tak, jak jsou, a společnost Google, její Dceřiné a přidružené společnosti ani osoby, které jim poskytly svůj souhlas či licenci nebo obdobné právo, Vám v souvislosti se Službami neposkytují žádnou záruku.
+
+14.2	Společnost Google, její Dceřiné a přidružené společnosti a osoby, které jim poskytly svůj souhlas či licenci, zejména netvrdí a neujišťují Vás o tom, že:
+
+(A)	používané Služby a jejich používání budou splňovat Vaše požadavky,
+
+(B)	budete moci Služby používat nepřetržitě, včas, bezpečně a bez chyb,
+
+(C)	informace, které získáte jako výsledek používání Služeb, budou přesné nebo spolehlivé, a
+
+(D)	vady v provozu nebo funkčnosti Softwaru, jenž Vám bude poskytnut jako součást Služeb, budou odstraněny.
+
+
+
+14.3	Pokud nejsou výslovně uvedeny v těchto Podmínkách, pak se na Služby nevztahují žádné další podmínky a záruky včetně předpokládaných podmínek a záruk za dostatečnou kvalitu, vhodnost k určitému účelu nebo soulad s popisem.
+
+14.4	Ustanoveními těchto Podmínek nejsou dotčena zákonná práva, která Vám náleží za jakýchkoliv okolností jakožto spotřebiteli a která není možné měnit, resp. kterých není možné se vzdát.
+
+
+
+15.	Omezení odpovědnosti
+
+15.1	Ustanovení těchto Podmínek nevylučují ani nijak neomezují odpovědnost společnosti Google za škody, kterou ze zákona nelze vyloučit ani omezit.
+
+15.2	V souladu s obecným ustanovením odst. 15.1 výše, nenesou společnost Google, její Dceřiné a přidružené společnosti ani osoby, které jim udělily svůj souhlas nebo licenci, vůči Vám odpovědnost za:
+
+(A)	nepřímé nebo následné škody, které Vám případně vzniknou, a to včetně ušlého zisku (jako přímý i nepřímý důsledek), snížení goodwillu nebo újmy na dobré pověsti nebo jménu a ztráty dat, které Vám vzniknou,
+
+(B)	jakékoliv ztráty a škody, které Vám případně vzniknou:
+
+(i)	v důsledku jakékoliv Vaší důvěry v úplnost, přesnost nebo existenci jakékoli reklamy nebo v důsledku Vašeho vztahu nebo transakce mezi Vámi a zadavatelem reklamy či sponzorem, který umístí svoji reklamu do Služeb,
+
+(ii)	v důsledku jakýchkoliv změn, které společnost Google ve Službách provede, nebo jakéhokoliv trvalého či dočasného přerušení poskytování Služeb (nebo jakýchkoliv jejich vlastností nebo součástí),
+
+(iii) vymazáním, poškozením nebo neuložením jakéhokoliv Obsahu či jakýchkoli jiných přenášených dat spravovaných či přenášených Službami nebo jejich prostřednictvím,
+
+(iii)	neposkytnete-li společnosti Google přesné údaje pro Váš uživatelský účet, nebo
+
+(iv)	dojde-li z Vaší strany k prozrazení Vašeho hesla nebo jiných přístupových údajů k Vašemu uživatelskému účtu.
+
+
+
+
+
+15.3	Omezení odpovědnosti společnosti Google vůči Vám podle odst. 15.2 platí i v případě, že byla společnost Google upozorněna na možnost vzniku jakýchkoliv takových škod nebo si možnosti vzniku jakýchkoliv takových škod nebo ztrát měla být vědoma.
+
+
+
+16.	Autorská práva a zásady používání ochranných známek
+
+16.1	Společnost Google zásadně reaguje na upozornění ohledně údajného porušení autorských práv, která jsou v souladu s platnými mezinárodními předpisy na ochranu autorských práv (včetně zákona Digital Millennium Copyright Act platného ve Spojených státech amerických), a osobám, které se dopustí opakovaného porušení autorských práv, ruší uživatelské účty. Podrobně jsou tyto zásady společnosti Google popsány na internetové stránce http://www.google.co.uk/dmca.html.
+
+16.2	Společnost Google používá standardní postup pro řešení stížností na zneužití ochranných známek ve vztahu k reklamní činnosti společnosti Google. Podrobnosti jsou k dispozici na internetové stránce http://www.google.co.uk/tm_complaint.html.
+
+
+
+17.	Reklama
+
+17.1	Některé Služby jsou podporovány příjmy z reklamy, a mohou proto zobrazovat reklamní a propagační sdělení. Tyto reklamy a reklamní sdělení se mohou týkat obsahu informací uložených ve Službách, dotazů zadávaných prostřednictvím Služeb i jiných informací.
+
+17.2	Způsob, podmínky a rozsah reklamy vkládané společností Google do Služeb se mohou měnit, bez povinnosti Vás předem informovat.
+
+17.3	Za to, že Vám společnost Google umožní přístup ke Službám a jejich používání, souhlasíte s tím, že společnost Google může do Služeb vkládat reklamy a reklamní sdělení.
+
+
+
+18.	Jiný obsah
+
+18.1	Služby mohou obsahovat hypertextové odkazy na jiné internetové adresy, jiný obsah nebo jiné zdroje. Společnost Google nemusí mít možnost ovlivňovat jakékoliv internetové adresy nebo zdroje poskytované třetími právnickými nebo fyzickými osobami odlišnými od společnosti Google.
+
+18.2	Berete na vědomí a souhlasíte s tím, že společnost Google nenese odpovědnost za dostupnost jakýchkoliv externích internetových adres nebo zdrojů a že neschvaluje reklamní sdělení, produkty ani žádné jiné materiály, které jsou uváděny na takových internetových adresách či v takových zdrojích nebo dostupné jejich prostřednictvím.
+
+18.3	Berete na vědomí a souhlasíte s tím, že společnost Google nenese odpovědnost za ztráty a škody, které Vám mohou vzniknout v důsledku nedostupnosti takových externích internetových adres nebo zdrojů nebo v důsledku toho, že se budete spoléhat na úplnost, přesnost nebo existenci jakékoliv reklamy, produktů nebo materiálů uváděných na takových internetových adresách či v takových zdrojích nebo dostupných jejich prostřednictvím.
+
+
+
+19.	Změny Podmínek
+
+19.1	Společnost Google může měnit Všeobecné podmínky i Doplňující podmínky. Pokud bude taková změna provedena, zveřejní společnost Google nové znění všeobecných podmínek na internetové stránce http://www.google.com/accounts/TOS?hl=cs. S případným novým zněním doplňujících podmínek budete seznámen(a) v rámci dotčené Služby nebo jejím prostřednictvím.
+
+19.2	Berete na vědomí a souhlasíte s tím, že pokud budete používat Služby i po datu změny Všeobecných podmínek nebo Doplňujících podmínek, bude to společnost Google považovat za Váš souhlas s upravenými Všeobecnými podmínkami nebo Doplňujícími podmínkami.
+
+
+
+20. Obecná ustanovení
+
+20.1	Při používání Služeb se může někdy stát, že budete (v důsledku používání Služeb nebo jejich prostřednictvím) využívat službu, stáhnete si software nebo si zakoupíte zboží poskytnuté třetí fyzickou nebo právnickou osobou. Používání takových jiných služeb, softwaru nebo zboží se může řídit zvláštními podmínkami upravujícími vztah mezi Vámi a takovou třetí osobou. V takovém případě nebude Váš právní vztah s takovými třetími fyzickými či právnickými osobami dotčen ustanoveními těchto Podmínek.
+
+20.2	Tyto Podmínky představují úplné smluvní ujednání mezi Vámi a společností Google a upravují používání Služeb (s výjimkou jakýchkoliv Služeb, které Vám společnost Google poskytuje na základě zvláštní písemné dohody) a v plném rozsahu nahrazují případná předchozí ujednání mezi Vámi a společností Google týkající se Služeb.
+
+20.3	Souhlasíte s tím, že společnost Google Vám může zasílat oznámení, včetně oznámení o změnách těchto Podmínek, e-mailem, běžnou poštou nebo jako upozornění u jednotlivých Služeb.
+
+20.4	Pro případ, že by společnost Google nevykonala nebo nevynucovala jakékoliv ze svých práv či zákonných prostředků, které jí náleží podle těchto Podmínek (nebo podle jakýchkoliv platných zákonů), nebo na něm netrvala, souhlasíte s tím, že to nebude považováno za formální vzdání se takového práva a že společnost Google bude mít takové právo nebo právní prostředek i nadále.
+
+20.5	Rozhodne-li příslušný soud v rámci své působnosti a pravomoci, že jakékoliv ustanovení těchto Podmínek je neplatné, bude takové ustanovení z těchto Podmínek odstraněno, aniž by to mělo vliv na zbývající ustanovení. Zbývající ustanovení těchto Podmínek zůstávají dál platná, účinná a vynutitelná.
+
+20.6	Berete na vědomí a souhlasíte s tím, že tyto Podmínky se vztahují na všechny společnosti ve skupině, v níž je společnost Google mateřskou společností, a že každá taková společnost má právo sama přímo trvat na dodržování a vynucovat ustanovení těchto Podmínek, která jí dávají nějakou výhodu nebo právo. Na žádné další fyzické ani právnické osoby, které nejsou stranami tohoto smluvního ujednání, se tyto Podmínky nevztahují a nepřiznávají jim žádná práva.
+
+20.7	Tyto Podmínky a Váš vztah se společností Google na základě těchto Podmínek se řídí anglickým právem. Vy i společnost Google souhlasíte s výhradní soudní příslušností soudů v Anglii pro řešení veškerých právních sporů vzniklých z těchto Podmínek. Bez ohledu na předcházející, souhlasíte s tím, že společnost Google může i přesto požádat o vydání předběžného opatření (či jiného odpovídajícího soudního rozhodnutí) v kterékoli jiné zemi.
+
+
+

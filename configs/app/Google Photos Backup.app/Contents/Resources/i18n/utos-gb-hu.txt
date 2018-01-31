@@ -1,0 +1,229 @@
+﻿Google Szolgáltatások Feltételei
+
+Üdvözöljük a Google-en!
+
+1. A Google-el való jogviszony
+
+1.1 A Google termékeinek, szoftverének, szolgáltatásainak és weboldalainak (a jelen iratban ezek együttesen: a “Szolgáltatások”, ami viszont nem foglalja magában az olyan szolgáltatásokat, amelyeket a Google külön írásos szerződés alapján nyújt) Ön általi használatára az Ön és a Google között létrejött szerződés feltételei vonatkoznak. A jelen iratban a “Google” a Google Inc-et jelenti, amelynek üzleti központja az Amerikai Egyesült Államokban, 1600 Amphitheatre Parkway, Mountain View, CA 94043 alatt található. Ez az irat leírja a szerződés létrejöttét és rögzíti néhány feltételét.
+
+1.2 Eltérő írásbeli megállapodás hiányában a jelen iratban foglalt feltételek az Ön és a Google között létrejött szerződés minimum tartalmi elemei, amelyekre a jelen dokumentumban “Általános Feltételekként” utalunk.
+
+1.3 Az Ön és a Google között létrejött szerződés az Általános Feltételek mellett az adott Szolgáltatásra vonatkozó egyéb Jogi Feltételeket is tartalmazza. Ezeket a jelen dokumentumban “További Feltételeknek” nevezzük. Amennyiben egy adott Szolgáltatásra irányadóak További Feltételek, Ön ezeket a Szolgáltatások használata során vagy a Szolgáltatások keretében ismerheti meg.
+
+1.4 Az Általános és a További Feltételek együttesen képezik az Ön és a Google között létrejött és a Szolgáltatások igénybevételére irányuló szerződést. Fontos, hogy szánjon időt arra, hogy ezeket alaposan végigolvassa. Az Általános és További Feltételekből álló szerződést a továbbiakban “Feltételeknek” nevezzük.
+
+1.5 Amennyiben az Általános és a További Feltételek között ellentmondás van, a További Feltételek az irányadóak az adott Szolgáltatásra.
+
+2. A Feltételek elfogadása
+
+2.1 A Szolgáltatásokat akkor veheti igénybe, ha elfogadta a Feltételeket. Ön nem jogosult a Szolgáltatások igénybevételére, amennyiben nem fogadja el a Feltételeket.
+
+2.2 Ön az alábbi módon fogadhatja el a Feltételeket:
+
+(A) az elfogadom gombra kattintással, ha ez az opció az adott Szolgáltatás interfészén megjelenik; vagy
+
+(B) a Szolgáltatás igénybevétele során. Ebben az esetben Ön elfogadja, hogy a Google a Feltételek elfogadásaként értékeli a szolgáltatás használatát.
+
+2.3 Ön nem veheti igénybe a Szolgáltatást, illetőleg nem fogadhatja el a Feltételeket, amennyiben (a) Ön nem éri el a Google-el való szerződés megkötésére lehetőséget biztosító cselekvőképességet jelentő korhatárt; vagy (b) az Egyesült Államok vagy azon állam joga szerint, amelyben az Ön állandó lakhelye van, vagy amelyben a Szolgáltatásokat használja, Ön nem veheti igénybe a Szolgáltatásokat.
+
+2.4 A Szolgáltatások igénybevétele előtt nyomtassa ki vagy mentse el az Általános Feltételek egy példányát saját felhasználásra.
+
+3. A Feltételek nyelve
+
+3.1 Ön tudomásul veszi, hogy amennyiben a Google a Feltételek angol nyelvű változatát lefordíttatta az Ön nyelvére, azt csak az Ön kényelme érdekében tette, és csak az angol nyelvű Feltételek az irányadó az Ön és a Google közötti viszonyra.
+
+3.2 Amennyiben az angol nyelvű Feltételek és annak bármilyen nyelvű változata között ellentmondás van, az angol nyelvű változat az irányadó.
+
+4. A Szolgáltatások Google általi nyújtása
+
+4.1 A Google világszerte számos leányvállalattal és társvállalattal rendelkezik (“Leányvállalatok és Társvállalkozások”). Esetenként ezek a vállalatok fogják Önnek a Google nevében nyújtani a Szolgáltatásokat. Ön elismeri és elfogadja, hogy ezek a Leányvállalatok és Társvállalatok jogosultak a Szolgáltatások nyújtására.
+
+4.2 A Google folyamatosan fejleszt és újít annak érdekében, hogy a használóknak a legjobbat nyújtsa. Ön elismeri és elfogadja, hogy a Google időről időre előzetes értesítés nélkül megváltoztathatja a Szolgáltatások formáját és jellemzőit.
+
+4.3 Ön elismeri és elfogadja, hogy a Google a fent említett folyamatos innováció érdekében saját belátása szerint (véglegesen vagy ideiglenes jelleggel) leállíthatja a Szolgáltatások (vagy azok bármely tulajdonsága) nyújtását anélkül, hogy Önt erről előzetesen írásban értesítené. Ön bármikor felhagyhat a Szolgáltatások igénybevételével és erről nem köteles külön értesíteni a Google-t.
+
+4.4 Ön elismeri és elfogadja, hogy amennyiben a Google nem teszi lehetővé a hozzáférésének használatát, úgy Ön nem férhet hozzá a Szolgáltatásokhoz, a postaládájához, illetve az abban található file-okhoz és tartalomhoz.
+
+4.5 Bár a Google egyelőre semmilyen korlátozást nem jelöl meg a Szolgáltatáson keresztül küldött vagy érkezett kommunikációk, valamint a Szolgáltatáshoz kapcsolódó tárolóhely vonatkozásában, Ön elismeri és elfogadja, hogy a Google bármikor szabad belátása szerint bevezethet ilyen korlátozást.
+
+5. A Szolgáltatások igénybevétele
+
+5.1 Bizonyos Szolgáltatások igénybevétele érdekében Ön a Szolgáltatás igénybevétele való regisztráció részeként vagy a Szolgáltatás folytatólagos használata során bizonyos információkat (így például azonosító adatokat vagy elérhetőséget) kérünk. Ön kijelenti, hogy minden regisztrációhoz szükséges információ, amelyet Ön a Google-nek ad pontos, valós és időszerű.
+
+5.2 Ön elfogadja, hogy csak olyan célra használja a Szolgáltatásokat, amely összhangban áll (a) a Feltételekkel és (b) az adott államban irányadó jogszabályokkal, szabályzatokkal és általánosan elfogadott gyakorlattal (beleértve az adatok vagy szoftverek Egyesült Államokba vagy Egyesült Államokból, illetve más államokba vagy más államokból történő exportjával kapcsolatos jogszabályokat).
+
+5.3 Ön elfogadja, hogy a Google által biztosított interfészen kívüli eszközökkel nem csatlakozik (illetve nem próbál meg csatlakozni) a Szolgáltatásokhoz, kivéve ha az Ön és a Google között létrejött külön szerződés ezt kifejezetten megengedi.
+
+5.4 Ön elfogadja, hogy nem folytat olyan tevékenységet, amely megakadályozza vagy lehetetlenné teszi a Szolgáltatások (vagy az ehhez kapcsolódó szerverek vagy hálózatok) működését.
+
+5.5 Ön semmilyen formában nem jogosult a Szolgáltatások reprodukálására, sokszorosítására, másolására, forgalomba hozatalára, illetve eladására, kivéve ha ezt az Ön és a Google között létrejött külön szerződés kifejezetten megengedi.
+
+5.6 Ön vállalja, hogy kizárólag Ön felelős a Feltételekben foglalt kötelességei megszegéséért és vállalja azok következményeiért a felelősséget (beleértve mindazt a kárt és veszteséget, amely emiatt a Google-t éri). A Google az Ön kötelezettségszegése miatt nem tartozik felelősséggel Ön vagy bármely más harmadik személy felé.
+
+6. Az Ön jelszavai és hozzáférésének biztonsága
+
+6.1 Ön elismeri és elfogadja, hogy Ön a felelős mindazon jelszavai titokban tartásáért, amellyel a Szolgáltatásokat el tudja érni.
+
+6.2 A fentieknek megfelelően, egyedül Ön tartozik felelősséggel a Google felé azokért a tevékenységekért, amelyek a hozzáférésén keresztül történnek.
+
+6.3 Amennyiben tudomására jut, hogy a jelszavát vagy postafiókját jogosulatlanul használták, azonnal értesíti a Google-t a http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=hu-n keresztül.
+
+7. Bizalmas és személyes információk
+
+7.1 A Google adatvédelmi gyakorlatával kapcsolatos információk tekintetében olvassa el a Google adatvédelmével kapcsolatos http://www.google.hu/privacy.html weboldalon foglaltakat. Ez a weboldal tartalmazza, hogy a Google hogyan kezeli az Ön személyes információit a Szolgáltatások igénybevétele során.
+
+7.2 Ön hozzájárul ahhoz, hogy adatait a Google adatvédelmi szabályainak megfelelően felhasználják.
+
+8. Tartalom a szolgáltatásokban
+
+8.1 Ön tudomásul veszi, hogy minden olyan információért (adatokért, írásbeli szövegért, számítógépes szoftverért, zenéért, audio file-ért illetve más hangokért, fényképekért, videókért vagy más képanyagokért), amelyhez Ön a Szolgáltatások részeként vagy annak használata során hozzáfér, az a személy felelős, akitől Ön az adott információt kapta. A fent megjelölt információkat a továbbiakban “Tartalomnak” nevezzük.
+
+8.2 Tájékoztatjuk, hogy a Szolgáltatások – beleértve a Szolgáltatások során megjelenő reklámot, illetve a Szolgáltatásokon belül szponzorált Tartalmat - részeként az Ön rendelkezésére bocsátott Tartalom azon szponzorok vagy reklámozók szellemi tulajdonjogának védelme alatt állhat, akik a Tartalmat a Google rendelkezésére bocsátották (vagy amelyek ezek nevében járnak el). A Tartalmat (sem részben, sem egészben) nem módosíthatja, bérelheti, adhatja bérbe vagy kölcsön, értékesítheti, forgalmazhatja és nem készíthet belőlük származékos műveket, kivéve ha a Google vagy a Tartalom jogosultjai egy külön szerződésben Önt erre felhatalmazta.
+
+8.3 A Google erre irányuló kötelezettség vállalása nélkül fenntartja a jogot, hogy bármilyen Szolgáltatás tekintetében előszűrje, ellenőrizze, megjelölje, kiszűrje, módosítsa, visszatartsa vagy kitörölje a Tartalmat vagy annak egy részét. Egyes Szolgáltatások tekintetében a Google rendelkezésre bocsáthat olyan segédeszközöket, amelyek kiszűrik a kifejezett szexuális tartalmat. Ilyen segédeszköz például a SafeSearch preferencia beállítási lehetőség (lásd http://www.google.hu/help/customize.html#safe). Továbbá, vannak olyan kereskedelmi forgalomban hozzáférhető szolgáltatások és szoftverek, amelyek korlátozzák az olyan adatok letöltését, amelyeket Ön aggályosnak tart.
+
+8.4 Ön tudatában van annak, hogy a Szolgáltatások igénybevétele során találkozhat olyan Tartalommal, amelyeket Ön támadó jellegűnek, illetlennek vagy aggályosnak találhat, és elismeri, hogy az ilyen Tartalom tekintetében saját felelősségére veszi igénybe a Szolgáltatásokat.
+
+8.5 Ön elismeri, hogy kizárólag Ön a felelős minden olyan Tartalomért, amelyet Ön készít, továbbít vagy tüntet fel a Szolgáltatások igénybevétele során és Ön a felelős a saját tevékenységének következményeiért (beleértve azokat a veszteségeket és károkat is, amelyeket Ön a Google-nek okoz). A fentiek miatt a Google nem tartozik Önnek vagy bármely harmadik személynek felelősséggel.
+
+9. Tulajdonjog
+
+9.1 Ön elismeri és tudomásul veszi, hogy a Google (illetve a Google-t licenciába adók) a Szolgáltatásokkal kapcsolatos minden jog jogosultja, beleértve a Szolgáltatásokkal kapcsolatos szellemi tulajdonjogot is (függetlenül attól, hogy ezeket a jogokat nyilvántartásba vették-e, illetve függetlenül attól, hogy ezek a jogok a világ mely országában állnak fenn). Továbbá, Ön elismeri, hogy a Szolgáltatások tartalmazhatnak olyan információkat, amelyeket a Google bizalmasként jelöl meg és amelyeket Ön a Google előzetes írásbeli engedélye nélkül nem hozhat nyilvánosságra.
+
+9.2 A jelen Feltételek közül egy sem jogosítja fel a Önt arra, hogy használja a Google kereskedelmi nevét, védjegyeit, megjelöléseit, logoit, domain neveit és egyéb megkülönböztető márkajegyét, kivéve ha az Ön és a Google között létrejött írásbeli megállapodás erre lehetőséget ad.
+
+9.3 Amennyiben az Ön és a Google között létrejött külön írásbeli szerződés kifejezetten felhatalmazza Önt a márkajelzés felhasználására, úgy Ön vállalja, hogy azt ezen külön szerződés, a Feltételek vonatkozó rendelkezései, valamint a Google márkával kapcsolatos, időről időre frissített iránymutatásai feltételeinek megfelelően használja fel. Ezeket az iránymutatások megtekinthetők online a http://www.google.hu/permissions/guidelines.html honlapon (vagy más URL-en, amelyet a Google időről időre az Ön rendelkezésére bocsáthat).
+
+9.4 A 11. pontban foglalt korlátozott felhasználási engedély kivételével a Google elismeri és elfogadja, hogy a jelen Feltételek szerint nem szerez semmiféle jogosultságot, illetve tulajdonjogot Öntől (vagy az Ön számára engedélyt adóktól) azokra a Tartalmakra, amelyeket Ön a Szolgáltatásokon keresztül vagy a Szolgáltatásokon ad fel, küld el, illetve jelenít meg, beleértve az adott Tartalomhoz kapcsolódó szellemi tulajdonjogot is (függetlenül attól, hogy ezeket a jogokat nyilvántartásba vették-e, illetve függetlenül attól, hogy ezek a világ mely részén állnak fenn). Kivéve ha az Ön és a Google között írásban létrejött szerződés másképp rendelkezik, Ön vállalja, hogy a fenti jogok védelméért és az azokkal való rendelkezésért Ön a felelős és a Google nem köteles az Ön nevében ezekkel kapcsolatban eljárni.
+
+9.5 Nem távolíthat el, nem torzíthat el és nem változtathat meg semmiféle, a Szolgáltatásokban található vagy azzal kapcsolatos szellemi tulajdonjoggal kapcsolatos megjegyzést (beleértve a szerzői jogot és a védjeggyel kapcsolatos megjegyzéseket).
+
+9.6 Nem használhatja olyan cég vagy szervezet kereskedelmi nevét, védjegyeit, megjelöléseit, logoit, domain neveit és egyéb megkülönböztető márkajegyét, amely összekeverhetővé teheti a tulajdonos személyét, illetve az ilyen védjegyek és megjelölések, nevek vagy logók feljogosított használóját, vagy amely ezt célozza kivéve ha az Ön és a Google között létrejött írásbeli megállapodás erre lehetőséget ad.
+
+10. Felhasználási engedély a Google-től
+
+10.1 A Google személyes, világszerte felhasználási jogosultságot biztosító, ingyenes és nem kizárólagos használati jogot biztosít Önnek arra a szoftverre (a továbbiakban “Szoftver”), amelyet a Google bocsát az Ön rendelkezésére az Ön rendelkezésére bocsátott Szolgáltatások részeként. Ez a felhasználási engedély kizárólag azt a célt szolgálja, hogy Ön a Feltételek keretein belül szabadon igénybevehesse és élvezhesse a Google által nyújtott Szolgáltatásokat.
+
+10.2 Ön nem másolhatja le, nem fejtheti vissza vagy szedheti szét, illetve más módon nem próbálhatja megszerezni a Szoftver forráskódját vagy annak bármely részét, nem hozhat létre belőle származékos művet, és nem is adhat erre másnak engedélyt. A fentiek alól kivételt képez az az eset, amikor az Ön és a Google között létrejött írásbeli szerződés erre kifejezett felhatalmazást ad vagy azt jogszabály kifejezetten lehetővé nem teszi vagy elő nem írja.
+
+10.3 Ön nem engedményezheti (illetve nem adhatja tovább) a Szoftver használatára vonatkozó jogait, nem adhatja azokat hozzájárulásként másnak, illetve nem engedményezheti a Szoftverhasználati jogosultságát, kivéve ha a Google ehhez írásbeli hozzájárulását adja.
+
+11. A Tartalom felhasználási engedélye
+
+11.1 A Szolgáltatásokon keresztül feladott, elküldött vagy a Szolgáltatáson feltüntetett Tartalommal kapcsolatos szerzői jog és más joga fennmarad. A tartalom feladásával, elküldésével vagy feltüntetésével Ön állandó, visszavonhatatlan, világszerte érvényes, ingyenes és nem kizárólagos licenciát biztosít a Szolgáltatásokon keresztül feladott, elküldött, illetve a Szolgáltatásokon feltüntetett bármilyen Tartalom reprodukálására, átalakítására, módosítására, lefordítására, nyilvánosságra hozatalára, nyilvános lejátszására, nyilvános megjelentetésére és forgalomba hozatalára. A licencia kizárólagos célja, hogy a Google a Szolgáltatásokat megjeleníthesse, terjeszthesse és promotálhassa, és a licenciát az egyes Szolgáltatások tekintetében az adott Szolgáltatáshoz fűződő További Feltételek alapján vissza lehet vonni.
+
+11.2 Ön tudomásul veszi, hogy ez a licencia feljogosítja a Google-t arra, hogy a Tartalmat olyan vállalatok, szervezetek és magánszemélyek rendelkezésére bocsássa, amelyek részére összekapcsolt szolgáltatásokat nyújt, továbbá, hogy a Tartalmat az ilyen szolgáltatásokkal kapcsolatban használja.
+
+11.3 Ön tudomásul veszi, hogy a Google a Szolgáltatások felhasználók részére történő nyújtása körében tett technikai lépések során (a) továbbítja, illetve forgalmazza az Ön által használt Tartalmat különféle nyilvános hálózatokon és kommunikációs eszközökön keresztül; és (b) olyan változtatásokat eszközölhet a Tartalomban, amelyek szükségesek az adott Tartalomnak a kapcsolódó hálózatok, készülékek, szolgáltatások és médiumok technikai feltételeinek való megfeleléshez. Ön hozzájárulását adja ahhoz, hogy a licencia alapján a Google jogosult megtenni mindezeket a lépéseket.
+
+11.4 Ön kijelenti és szavatolja a Google felé, hogy minden olyan joggal, feltétellel és felhatalmazással rendelkezik, amely szükséges a fenti licencia megadásához.
+
+12. Szoftver frissítés
+
+12.1 Előfordulhat, hogy az Ön által használt Szoftver időről időre automatikusan letölti és felinstallálja a Google-n lévő frissítéseket. A frissítések célja az, hogy a Szolgáltatásokat fejlesszék, jobbá és könnyebben használhatóvá tegyék. A frissítések előfordulhatnak "bug fix" formában, tartalmazhatnak fejlettebb funkciókat, új szoftver modulokat és teljesen új verziókat. Ön hozzájárul ahhoz, hogy a Szolgáltatások használata során ilyen frissítésekre kerüljön sor (illetve hogy a Google Önnek ilyeneket bocsásson a rendelkezésére).
+
+13. A Google-lel való jogviszony megszűnése
+
+13.1 A Feltételek mindaddig hatályosak, amíg Ön vagy a Google meg nem szünteti azokat az alábbiak szerint:
+
+13.2 Amennyiben Ön meg kívánja szüntetni a Google-el kötött szerződését, úgy azt megteheti (a) a Google-nek küldött értesítéssel, valamint (b) minden olyan Szolgáltatás hozzáférésének megszüntetésével, amelyet Ön használ és amely tekintetében a Google megadta Önnek a felmondás lehetőségét. A felmondást írásban kell elküldenie a Google címére, amely a jelen Feltételek elején szerepel.
+
+13.3 A Google bármikor felmondhatja az Önnel kötött szerződést, amennyiben:
+
+(A) Ön megsértette a Feltételekben foglalt bármely rendelkezést (vagy tevékenységéből egyértelműen arra lehet következtetni, hogy Ön nem hajlandó vagy nem képes betartani a Feltételek rendelkezéseit); vagy
+
+(B) a Google jogszabály alapján köteles erre (például amennyiben a Szolgáltatás nyújtása az Ön részére jogellenesnek minősül vagy jogellenessé válik); vagy
+
+(C) az a partner, amely segítségével a Google Önnek a Szolgáltatást nyújtotta, felmondta a Google-lel fennálló szerződését vagy úgy döntött, hogy nem nyújtja tovább Szolgáltatását az Ön részére; vagy
+
+(D) a Google úgy dönt, hogy megszünteti a Szolgáltatások nyújtását abban az államban, amelynek Ön az állandó lakosa, vagy amelyből Ön a Szolgáltatásokat igánybe veszi; vagy
+
+(E) a Google-nek, saját belátása szerint, üzleti szempontból nem éri meg Önnek Szolgáltatásokat nyújtani.
+
+13.4 A Feltételek 4. pontjában rögzített feltételek szerinti Szolgáltatások nyújtásával kapcsolatban a jelen pont egyetlen rendelkezése sem érintheti a Google jogait.
+
+13.5 Amennyiben a Feltételek hatályukat vesztik, ez nem érint semmilyen olyan jogot, kötelezettséget és felelősségvállalást, amely az Ön vagy a Google érdekében állt, amelynek Ön vagy a Google az alanya (vagy amelyet Ön vagy a Google a Feltételek hatálya alatt szerzett meg), illetve amely kifejezetten határozatlan időre jött létre, és ilyen esetben a 20.7. pontban foglalt rendelkezések továbbra is határozatlan ideig irányadóak a fenti jogokra, kötelezettségekre és felelősségvállalásokra.
+
+14. A szavatosság kizárása
+
+14.1 A Google a Szolgáltatásokat a mindenkori formájukban bocsátja az Ön rendelkezésére és sem a Google, sem Leányvállalatai vagy Társvállalatai, sem a felhasználási jogot adók nem vállalnak rá szavatosságot.
+
+14.2 Különösen, a Google, Leányvállalatai és a Társvállalatai, illetve a felhasználási jogot adók nem szavatolják az Ön számára, hogy:
+
+(A) az Ön által igénybevett Szolgáltatások megfelelnek az Ön által állított követelményeknek,
+
+(B) az Ön által igénybevett Szolgáltatások megszakítások nélküliek, pontosak, biztonságosak és hibamentesek lesznek,
+
+(C) a Szolgáltatások igénybevétele során szerzett információk pontosak és megbízhatóak, és
+
+(D) a Szolgáltatás részeként az Ön rendelkezésére bocsátott Szoftver működése során keletkező hibák kijavításra kerülnek.
+
+14.3 A kifejezetten a jelen Feltételekben foglalt követelményeken felül és túl semmilyen feltételek, szavatosságvállalások vagy egyéb feltételek (beleértve bármilyen olyan hallgatólagos feltételt, mint például a kielégítő szint igénye, a leírásnak megfelelő működés) nem vonatkoznak a Szolgáltatásokra.
+
+14.4 A jelen Feltételek nem érintik azokat a jogokat, amelyek Önt fogyasztóként megilletik, illetve azokat, amelyeket Ön szerződésben nem változtathat meg, illetve amelyekről Ön szerződésben nem mondhat le.
+
+15. A felelősség korlátozása
+
+15.1 A jelen Feltételek egyik rendelkezése sem zárhatja ki a Google felelősségét az olyan károkért, amely okozásáért az irányadó jogszabályok értelmében a felelőssége nem zárható ki, illetve nem korlátozható.
+
+15.2 A fenti 15.1. pontban foglaltakat figyelembevéve, a Google, a Leányvállalatai és Társvállalatai, valamint a felhasználási jogot adók nem felelősek Ön felé:
+
+(A) semmilyen olyan közvetett vagy következményi kárért, amely Önnél felmerült. Ez magában foglal minden (közvetlenül vagy közvetetten felmerülő) elmaradt hasznot, goodwill vagy üzleti hírnév sérelmét, illetve adat elvesztését;
+
+(B) minden olyan veszteséget és kárt, amely Önnél az alábbiak miatt merül fel:
+
+(i) Ön számított a Szolgáltatások teljességére, a reklámok pontosságára és létére, de a Szolgáltatás számításainak nem felelt meg, illetve amennyiben az Önt ért veszteség vagy kár az Ön és az olyan reklámozó vagy szponzor közötti kapcsolat vagy tranzakció eredménye, akinek a reklámja a Szolgáltatáson megjelenik;
+
+(ii) bármilyen, a Google által a Szolgáltatásban eszközölt változtatás, illetve a Szolgáltatások (vagy azok valamely funkciója) végleges vagy ideiglenes jelleggel történő megszüntetése;
+
+(iii) a Szolgáltatáson keresztül vagy annak használatával őrzött vagy elküldött Tartalom vagy más kommunikációs adat törlése, megrongálása, mentésének elmulasztása;
+
+(iv) Ön elmulasztott a Google részére hiteles információt szolgáltatni a hozzáféréséről;
+
+(v) Ön elmulasztotta a jelszóval vagy a hozzáférésével kapcsolatos információkat titokban és bizalmasan tartani, megőrizni;
+
+15.3 A 15.2. pontban meghatározott, a Google felelősségének korlátozására vonatkozó szabályok abban az esetben is irányadóak, ha a Google-t megfelelően tájékoztatták, illetve a Google tudhatott volna a fent meghatározott veszteségek felmerülésének lehetőségéről.
+
+16. Szerzői jog és védjeggyel kapcsolatos szabályok
+
+16.1 A Google szerzői jogi védelemre vonatkozó politikája szerint minden olyan állítólagos szerzői jogi jogsértéssel kapcsolatos észrevételre válaszol, amely megfelel az irányadó nemzetközi szellemi tulajdonjoggal kapcsolatos szabályoknak (így például az Egyesült Államokban a Digital Millenium Copiright Act-nek) és megszünteti az ismétlődő jogsértést elkövetők hozzáférését. A Google szerzői jogi védelemre vonatkozó politikája a http://www.google.hu/dmca.html weboldalon található.
+
+16.2 A Google a reklámozási tevékenységével kapcsolatban védjegy használati kifogásokkal kapcsolatos eljárást folytat le, amelynek szabályai a http://www.google.hu/tm_complaint.html weboldalon találhatóak.
+
+17. Reklámok
+
+17.1 A Google egyes Szolgáltatásokat reklámbevételekből finanszíroz, így a Szolgáltatásokon reklámok és promóciók is megjelenhetnek. Az ilyen reklámok a Szolgáltatásokon tárolt információ tartalmához kapcsolódó reklámok és erre vonatkozóan a Szolgáltatásokon vagy más információkon keresztül lehet kérdéseket feltenni.
+
+17.2 A Szolgáltatásokon keresztül történő reklámozás módszerét, módját, illetve terjedelmét a Google saját belátása szerint, előzetes értesítés nélkül megváltoztathatja.
+
+17.3 A Szolgáltatások rendelkezésre bocsátásáért és igénybevételéért cserébe Ön hozzájárul ahhoz, hogy a Google reklámokat helyezzen el a Szolgáltatásokon.
+
+18. Egyéb tartalom
+
+18.1 A Szolgáltatások tartalmazhatnak más weboldalakhoz, tartalmakhoz illetve forrásokhoz vezető hiperlinkeket. A Google-nek nincs rendelkezési joga olyan weboldalak vagy források felett, amelyeket a Google-el kapcsolatban nem álló más vállalkozások vagy személyek bocsátanak rendelkezésre.
+
+18.2 Ön tudomásul veszi és elfogadja, hogy a Google nem tartozik felelősséggel az ilyen külső weboldalak vagy források elérhetőségéért, illetve nem támogatja az ilyen weboldalakon vagy forrásokban szereplő reklámok, vagy más termékek vagy anyagok letöltését.
+
+18.3 Ön tudomásul veszi és elfogaja, hogy a Google nem felelős semmilyen olyan veszteségért vagy kárért, amely Önt amiatt érte, hogy Ön nem fért hozzá a külső weboldalakhoz vagy más forrásokhoz, vagy amiatt, hogy számított az ilyen weboldalakon és forrásokon található reklámok, termékek vagy más anyagok teljességére, pontosságára, de számításai nem teljesültek.
+
+19. A Feltételek módosítása
+
+19.1 A Google időről időre megváltoztathatja az Általános és a További Feltételeket. Amikor ezek a módosítások elkészülnek, a Google az Általános Feltételek új változatát elérhetővé teszi a http://www.google.com/accounts/TOS?hl=hu –n és az Ön rendelkezésére bocsátja a Szolgáltatásokon belül, vagy azokon keresztül.
+
+19.2 Ön tudomásul veszi és elfogadja, hogy amennyiben Ön a Szolgáltatásokat azt követően is igénybe veszi, hogy az Általános és További Feltételek megváltoztak, a Google úgy tekinti, hogy Ön elfogadta az Általános és További Feltételek módosított változatát.
+
+20. Általános jogi feltételek
+
+20.1 Előfordulhat, hogy Ön a Szolgáltatások igénybevételekor (annak eredményeképpen vagy annak során) egy másik vállalat vagy személy szolgáltatását veszi igénybe, vagy ezek szoftverét tölti le, illetve áruit vásárolja. Ezekre a szolgáltatásokra, szoftverekre, illetve árukra az Ön és az érintett vállalat vagy személy között létrejött külön szerződés feltételei az irányadóak. Ebben az esetben a Feltételek nem érintik az Ön és az ilyen vállalkozások vagy személyek között fennálló jogviszonyt.
+
+20.2 A Feltételek az Ön és a Google között létrejött teljes szerződést jelentik, amelynek szabályai irányadóak a Szolgáltatás igénybevételére (kivéve azokat a szolgáltatásokat, amelyeket a Google külön írásbeli szerződés feltételei szerint nyújt Önnek), és amely felülír minden, a Szolgáltatásokkal kapcsolatosan Ön és a Google között korábban létrejött szerződést.
+
+20.3 Ön hozzájárul ahhoz, hogy a Google e-mailben, postai úton vagy küldeményben értesítést küldjön Önnek a Feltételek megváltozásáról.
+
+20.4 Ön hozzájárul ahhoz, hogy amennyiben a Google nem él bármilyen olyan jogával vagy jogorvoslati lehetőségével, amelyre a Feltételek (vagy az irányadó jogszabályok) szerint lehetősége lenne, az nem jelenti azt, hogy a Google formálisan lemondott volna rendelkezésére álló jogairól vagy jogorvoslati lehetőségeiről.
+
+20.5 Amennyiben valamely joghatóság alatt eljáró bíróság a jelen Feltételek bármelyik részét érvénytelennek nyilvánítja, úgy az érvénytelen feltételek a Feltételek többi részének érintése nélkül eltávolításra kerülnek. Az érvénytelen feltételen kívüli feltételek változatlanul érvényesek és kikényszeríthetőek.
+
+20.6 Ön tudomásul veszi és hozzájárulását adja ahhoz, hogy a vállalkozáscsoport minden olyan tagja, amelynek a Google az anyavállalata, a jelen Feltételek kedvezményezettjének/engedményesének minősül. Az ilyen vállalkozások jogosultak a Feltételek minden olyan rendelkezését közvetlenül kikényszeríteni, azokra hivatkozni, amelyek rájuk nézve valamilyen előnyt (vagy jogosultságot) tartalmaznak. Ezeken a vállalkozásokon kívül semmilyen vállalkozás nem lehet a Feltételek harmadik személy kedvezményezettje.
+
+20.7 A Feltételekre, illetve az Ön Google-el való jogviszonyára az angol jog irányadó. Ön és a Google egyetértenek abban, hogy az angol bíróságoknak kizárólagos joghatósága van a a Feltételekkel kapcsolatos bármilyen jogvita elbírálásában. Mindazonáltal, Ön hozzájárul ahhoz, hogy a Google a fentieken kívül közbenső intézkedések érdekében jogorvoslati lehetőséggel (illetve az adott joghatóságban rendelkezésre álló sürgős intézkedést biztosító jogorvoslati lehetőséggel) rendelkezik bármilyen joghatóság szerint.

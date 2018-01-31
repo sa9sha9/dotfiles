@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "DjA-6n-E3g"; */
+"DjA-6n-E3g.title" = "説明";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bookmark List"; ObjectID = "EHt-as-b6Y"; */
+"EHt-as-b6Y.headerCell.title" = "しおりの目録";
+
+/* Class = "NSTextFieldCell"; title = "Page"; ObjectID = "Epo-4y-Rkj"; */
+"Epo-4y-Rkj.title" = "ページ";
+
+/* Class = "NSMenuItem"; title = "popup"; ObjectID = "UDi-tb-1fU"; */
+"UDi-tb-1fU.title" = "ポップアップ";
+
+/* Class = "bookmarkManagerPanel"; title = "Bookmark Manager"; ObjectID = "ctH-vD-1fH"; */
+"ctH-vD-1fH.title" = "しおりの管理";
+
+/* Class = "NSMenuItem"; title = "Delete All"; ObjectID = "eE4-LU-xEj"; */
+"eE4-LU-xEj.title" = "全体削除";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "mik-U2-2uj"; */
+"mik-U2-2uj.title" = "削除";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "nqc-43-bir"; */
+"nqc-43-bir.title" = "追加";

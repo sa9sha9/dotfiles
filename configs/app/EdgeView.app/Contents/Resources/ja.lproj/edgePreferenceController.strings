@@ -1,0 +1,402 @@
+
+/* Class = "NSButtonCell"; title = "Down to Previous Page"; ObjectID = "0cu-Lf-ldf"; */
+"0cu-Lf-ldf.title" = "下に回転して前のページへ";
+
+/* Class = "NSButtonCell"; title = "Swap"; ObjectID = "0so-jp-wJI"; */
+"0so-jp-wJI.title" = "転換";
+
+/* Class = "NSButtonCell"; title = "Hide in Fullscreen Mode"; ObjectID = "UJt-qh-6NW"; */
+"UJt-qh-6NW.title" = "フールスクリーンの時に隠す";
+
+/* Class = "NSMenuItem"; title = "Previous/Next File"; ObjectID = "19F-dH-evx"; */
+"19F-dH-evx.title" = "前/次のファイルを開く";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "1Io-fv-Sot"; */
+"1Io-fv-Sot.title" = "いつも最後に開いたページに移動";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "1ca-IU-XZI"; */
+"1ca-IU-XZI.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Background Color :"; ObjectID = "1xH-uJ-oQS"; */
+"1xH-uJ-oQS.title" = "背景色 :";
+
+/* Class = "NSTextFieldCell"; title = "Determine amount of cache pages. More cache increase loading speed."; ObjectID = "36a-wk-Bs3"; */
+"36a-wk-Bs3.title" = "キャッシュされるページの数を決定します。大きくすれば読み分のローディング速度が上がります。";
+
+/* Class = "NSTextFieldCell"; title = "Determine amount of Page Skip."; ObjectID = "4bV-9g-6F6"; */
+"4bV-9g-6F6.title" = "スキプするページの数を決定します。";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "5H4-Z9-uPw"; */
+"5H4-Z9-uPw.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Auto Level Strength :"; ObjectID = "7H6-QM-91S"; */
+"7H6-QM-91S.title" = "自動レベルの加重値 :";
+
+/* Class = "NSTextFieldCell"; title = "Shadow Width :"; ObjectID = "7LY-ao-ZnD"; */
+"7LY-ao-ZnD.title" = "影の幅 :";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "90O-rP-6t6"; */
+"90O-rP-6t6.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Loupe Height :"; ObjectID = "9Hz-hT-vzP"; */
+"9Hz-hT-vzP.title" = "ルーペの高さ :";
+
+/* Class = "NSTextFieldCell"; title = "Pages"; ObjectID = "BMM-Mk-FqY"; */
+"BMM-Mk-FqY.title" = "ページ";
+
+/* Class = "NSTextFieldCell"; title = "Pages"; ObjectID = "EWv-kQ-fJP"; */
+"EWv-kQ-fJP.title" = "ページ";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "環境設定";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "FRh-To-kSl"; */
+"FRh-To-kSl.title" = "%";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "FSD-ye-Apl"; */
+"FSD-ye-Apl.title" = "最近の設定を適用";
+
+/* Class = "NSTextFieldCell"; title = "Detemine scroll wheel direction. If you want to move to next page when scroll Up, select \"Down to Previous Page\"."; ObjectID = "Fbh-jJ-WvV"; */
+"Fbh-jJ-WvV.title" = "スクロールホイールの動作方向を決定します。もしホイールを下に回転した時に前のページげ移動してほしい場合には、\"下に回転して前のページへ\"を選択してください。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IEM-14-z9f"; */
+"IEM-14-z9f.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "/ 100"; ObjectID = "IdP-Kv-SVy"; */
+"IdP-Kv-SVy.title" = "/ 100";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "Iqm-Z8-8md"; */
+"Iqm-Z8-8md.title" = "最近の設定を適用";
+
+/* Class = "NSTextFieldCell"; title = "Cursor :"; ObjectID = "JkL-cr-PNj"; */
+"JkL-cr-PNj.title" = "カーソル :";
+
+/* Class = "NSTextFieldCell"; title = "Landscape Ratio :"; ObjectID = "JyG-vd-Znk"; */
+"JyG-vd-Znk.title" = "単ページ判定比例 :";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "NcR-Hj-XnR"; */
+"NcR-Hj-XnR.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Loupe Scale :"; ObjectID = "NhX-1A-mK4"; */
+"NhX-1A-mK4.title" = "ルーペの拡大率 :";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Nxh-xh-pzl"; */
+"Nxh-xh-pzl.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Skip Pages Count :"; ObjectID = "O46-AZ-JcW"; */
+"O46-AZ-JcW.title" = "スキップするページ数 :";
+
+/* Class = "NSTextFieldCell"; title = "Remove all of history :"; ObjectID = "PUY-uW-zk8"; */
+"PUY-uW-zk8.title" = "全てのヒストリーを削除する :";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "Ptg-Za-uVE"; */
+"Ptg-Za-uVE.title" = "%";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "QLg-zE-8ap"; */
+"QLg-zE-8ap.title" = "最近の設定を適用";
+
+/* Class = "NSTabViewItem"; label = "Effect"; ObjectID = "QRh-zb-nLZ"; */
+"QRh-zb-nLZ.label" = "エフェクト";
+
+/* Class = "NSTextFieldCell"; title = "Go to last read page :"; ObjectID = "Vlt-59-X8Z"; */
+"Vlt-59-X8Z.title" = "既読ファイルを開いた時 :";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "WL4-5U-rxb"; */
+"WL4-5U-rxb.title" = "最近の設定を適用";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Yjd-Un-Qxc"; */
+"Yjd-Un-Qxc.title" = "Box";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "ZYN-kj-Tqg"; */
+"ZYN-kj-Tqg.label" = "一般";
+
+/* Class = "NSMenuItem"; title = "Always Ask"; ObjectID = "ZiQ-zy-X8X"; */
+"ZiQ-zy-X8X.title" = "いつも尋ねる";
+
+/* Class = "NSTabViewItem"; label = "Input"; ObjectID = "aPP-bD-vU7"; */
+"aPP-bD-vU7.label" = "入力";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "agp-GX-qVu"; */
+"agp-GX-qVu.title" = "Radio";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "anu-tc-bLS"; */
+"anu-tc-bLS.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "bAZ-N9-Iwe"; */
+"bAZ-N9-Iwe.title" = "最初のページから開く";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bIO-gk-67p"; */
+"bIO-gk-67p.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Scroll Wheel :"; ObjectID = "c0k-u1-jpv"; */
+"c0k-u1-jpv.title" = "スクロールホイール :";
+
+/* Class = "NSTextFieldCell"; title = "Sharpen Bias :"; ObjectID = "cQT-20-80F"; */
+"cQT-20-80F.title" = "先鋭度の加重値 :";
+
+/* Class = "NSMenuItem"; title = "Double Page"; ObjectID = "ccY-nR-Esd"; */
+"ccY-nR-Esd.title" = "見開き";
+
+/* Class = "NSTextFieldCell"; title = "Loop Setting : "; ObjectID = "ceA-pI-gm1"; */
+"ceA-pI-gm1.title" = "ループの設定 : ";
+
+/* Class = "NSTextFieldCell"; title = "Default Effect Option :"; ObjectID = "dTN-ss-C7f"; */
+"dTN-ss-C7f.title" = "基本エフェクト :";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "eju-rc-CpB"; */
+"eju-rc-CpB.title" = "なし";
+
+/* Class = "NSTextFieldCell"; title = "Black Point :"; ObjectID = "eyr-FW-f4f"; */
+"eyr-FW-f4f.title" = "ブラックポイント :";
+
+/* Class = "NSMenuItem"; title = "Left to Right"; ObjectID = "gnJ-rj-c2a"; */
+"gnJ-rj-c2a.title" = "左から右";
+
+/* Class = "NSTextFieldCell"; title = "Shorcut in RTL Mode :"; ObjectID = "gqc-id-dWe"; */
+"gqc-id-dWe.title" = "右から左の場合のショートカット :";
+
+/* Class = "NSTextFieldCell"; title = "Detemine scroll wheel direction. If you want to move to previous page when scroll Down, select \"Down to Previous Page\"."; ObjectID = "Fbh-jJ-WvV"; */
+"gxA-ay-5cg.title" = "マウスをドラッグしてルーペのサイズを変更することができます。そしてスクロールホイールでルーペの拡大比率の調節もできます。";
+
+/* Class = "NSMenuItem"; title = "First page as Cover"; ObjectID = "hpz-Tf-vGi"; */
+"hpz-Tf-vGi.title" = "最初のページを単独表示する";
+
+/* Class = "NSMenuItem"; title = "Right to Left"; ObjectID = "hv4-oT-0PU"; */
+"hv4-oT-0PU.title" = "右から左";
+
+/* Class = "NSButtonCell"; title = "Remove All"; ObjectID = "i6c-VR-zX5"; */
+"i6c-VR-zX5.title" = "全体削除";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "i99-gi-lZN"; */
+"i99-gi-lZN.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Nothing to Do"; ObjectID = "iHH-dM-1hT"; */
+"iHH-dM-1hT.title" = "普通に表示する";
+
+/* Class = "NSTextFieldCell"; title = "White Point :"; ObjectID = "iNL-pO-NgB"; */
+"iNL-pO-NgB.title" = "ホワイトポイントt :";
+
+/* Class = "NSButtonCell"; title = "Remember last page of books"; ObjectID = "jHi-OT-OlY"; */
+"jHi-OT-OlY.title" = "開いた本のページを保存する";
+
+/* Class = "NSTextFieldCell"; title = "Loupe Width :"; ObjectID = "kxa-wT-b97"; */
+"kxa-wT-b97.title" = "ルーペの幅 :";
+
+/* Class = "NSTextFieldCell"; title = "History :"; ObjectID = "l5X-71-rtH"; */
+"l5X-71-rtH.title" = "ヒストリー :";
+
+/* Class = "NSTextFieldCell"; title = "Default View Order :"; ObjectID = "lkP-Pb-av0"; */
+"lkP-Pb-av0.title" = "基本表示方法 :";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "neq-Gz-KoN"; */
+"neq-Gz-KoN.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Loop"; ObjectID = "noy-XE-oir"; */
+"noy-XE-oir.title" = "ループ";
+
+/* Class = "NSTextFieldCell"; title = "Determine Landscape Ratio of Image. Default is width 100/height 100."; ObjectID = "pCe-SP-7iA"; */
+"pCe-SP-7iA.title" = "画像の縦横比で単ページ表示を決めます。基本の値は幅100/高さ100の比率であります。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "prE-21-dgQ"; */
+"prE-21-dgQ.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "qRt-Ws-qe2"; */
+"qRt-Ws-qe2.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "qds-p9-yor"; */
+"qds-p9-yor.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Determine swapping of shortcut when change view order. "; ObjectID = "rll-MA-pYT"; */
+"rll-MA-pYT.title" = "表示方法の変更の時、ショートカットを左右転換するかを決めます。 ";
+
+/* Class = "NSMenuItem"; title = "Single Page"; ObjectID = "sqF-4B-Zjp"; */
+"sqF-4B-Zjp.title" = "単ページ";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "sv5-3c-cAq"; */
+"sv5-3c-cAq.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Down to Next Page"; ObjectID = "uA3-c6-sa2"; */
+"uA3-c6-sa2.title" = "下に回転して次のページへ";
+
+/* Class = "NSMenuItem"; title = "Always Ask"; ObjectID = "uDH-tq-K8c"; */
+"uDH-tq-K8c.title" = "いつも聞く";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "uXS-bc-GL0"; */
+"uXS-bc-GL0.label" = "アピアランス";
+
+/* Class = "NSTextFieldCell"; title = "Default First Page Option :"; ObjectID = "vGM-iz-F9z"; */
+"vGM-iz-F9z.title" = "最初のページの基本設定 :";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "wYz-MD-Zso"; */
+"wYz-MD-Zso.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Default Unfold Option :"; ObjectID = "xOJ-rM-rCQ"; */
+"xOJ-rM-rCQ.title" = "見開きの基本設定 :";
+
+/* Class = "NSButtonCell"; title = "Don't Swap"; ObjectID = "yZb-JM-JZc"; */
+"yZb-JM-JZc.title" = "転換しない";
+
+/* Class = "NSTextFieldCell"; title = "Cache Count :"; ObjectID = "yqx-Dn-bjB"; */
+"yqx-Dn-bjB.title" = "キャッシューの数 :";
+
+/* Class = "NSTextFieldCell"; title = "You can drag loupe to resize. Also scroll wheel up and down to increase or deacrease scale."; ObjectID = "gxA-ay-5cg"; */
+"gxA-ay-5cg.title" = "ドラッグしてレーペの大きさを調節できます。そしてホイールで拡大比率を変更できます。";
+
+/* Class = "NSTextFieldCell"; title = "Default Encoding :"; ObjectID = "F0V-Nh-XMh"; */
+"F0V-Nh-XMh.title" = "基本文字エンコーディング :";
+
+/* Class = "NSTextFieldCell"; title = "Scroll Wheel :"; ObjectID = "c0k-u1-jpv"; */
+"c0k-u1-jpv.title" = "スクロールホイール :";
+
+/* Class = "NSTextFieldCell"; title = "Detemine scroll wheel direction. If you want to move to previous page when scroll Down, select \"Down to Previous Page\"."; ObjectID = "Fbh-jJ-WvV"; */
+"Fbh-jJ-WvV.title" = "スクロールホイールの方向を決定します。スクロールホイールを下に回転する時、前のページへ戻りたい場合には\"下の回転で前のページへ移動\"を選んでください。";
+
+/* Class = "NSButtonCell"; title = "Down to Next Page"; ObjectID = "uA3-c6-sa2"; */
+"uA3-c6-sa2.title" = "下の回転で次のページへ移動";
+
+/* Class = "NSButtonCell"; title = "Down to Previous Page"; ObjectID = "0cu-Lf-ldf"; */
+"0cu-Lf-ldf.title" = "下の回転で前のページへ移動";
+
+/* Class = "NSTextFieldCell"; title = "Default Scaling :"; ObjectID = "Ejd-eq-xen"; */
+"Ejd-eq-xen.title" = "画像の基本サイズ調節 :";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "qds-p9-yor"; */
+"qds-p9-yor.title" = "最近の設定を適用";
+
+/* Class = "NSMenuItem"; title = "Fit to Window"; ObjectID = "Ohu-r2-Tot"; */
+"Ohu-r2-Tot.title" = "ウィンドウの大きさに合わせ";
+
+/* Class = "NSMenuItem"; title = "Fit to Width"; ObjectID = "sv5-3c-cAq"; */
+"sv5-3c-cAq.title" = "ウィンドウの幅に合わせ";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "pKo-gj-wjh"; */
+"pKo-gj-wjh.title" = "実際の大きさ";
+
+/* Class = "NSTextFieldCell"; title = "Detemine how to navigation with Trackpad. If you want to move page by swipe gesture, select \"Gesture\"."; ObjectID = "sd0-lV-fg8"; */
+"sd0-lV-fg8.title" = "トラックパッドでページをめくる方法を決定します。スワイプージェスチャを利用して欲しい場合には\"ジェスチャー\"を選んでください。";
+
+/* Class = "NSTextFieldCell"; title = "Navigation With TrackPad :"; ObjectID = "X35-9J-hcI"; */
+"X35-9J-hcI.title" = "トラックパッドでページめくり :";
+
+/* Class = "NSButtonCell"; title = "Gesture"; ObjectID = "YbI-ut-ej1"; */
+"YbI-ut-ej1.title" = "ジェスチャー";
+
+/* Class = "NSButtonCell"; title = "Wheel"; ObjectID = "NFJ-7D-Ees"; */
+"NFJ-7D-Ees.title" = "ホイール";
+
+/* Class = "NSTabViewItem"; label = "File"; ObjectID = "Egi-Vv-Q4s"; */
+"Egi-Vv-Q4s.label" = "ファイル";
+
+/* Class = "NSTextFieldCell"; title = "Open Folder :"; ObjectID = "UbP-aQ-pbT"; */
+"UbP-aQ-pbT.title" = "ファイルを開く時 :";
+
+/* Class = "NSButtonCell"; title = "Open Enclosing Folders"; ObjectID = "CC7-H7-kfW"; */
+"CC7-H7-kfW.title" = "下位フォルダも開く";
+
+/* Class = "NSTextFieldCell"; title = "Before Delete File :"; ObjectID = "REf-Ac-ol1"; */
+"REf-Ac-ol1.title" = "ファイル削除前 :";
+
+/* Class = "NSButtonCell"; title = "Display Alert"; ObjectID = "nT9-7y-V77"; */
+"nT9-7y-V77.title" = "アラート表示";
+
+/* Class = "NSTextFieldCell"; title = "After Delete File :"; ObjectID = "EWa-O7-i9o"; */
+"EWa-O7-i9o.title" = "ファイル削除後 :";
+
+/* Class = "NSMenuItem"; title = "Display Result"; ObjectID = "Hq0-Hp-BRc"; */
+"Hq0-Hp-BRc.title" = "結果表示";
+
+/* Class = "NSMenuItem"; title = "Open Previous File"; ObjectID = "bwG-DE-Mau"; */
+"bwG-DE-Mau.title" = "前のファイルを開く";
+
+/* Class = "NSMenuItem"; title = "Open Next File"; ObjectID = "mky-Cw-XUe"; */
+"mky-Cw-XUe.title" = "次のファイルを開く";
+
+/* Class = "NSTextFieldCell"; title = "Determine action after file deletion is comleted."; ObjectID = "gwR-0l-S07"; */
+"gwR-0l-S07.title" = "ファイル削除が終わった後、どうするかを決めます。";
+
+/* Class = "NSTextFieldCell"; title = "Pinch Zoom in TrackPad :"; ObjectID = "xiR-7N-8bR"; */
+"xiR-7N-8bR.title" = "トラックパッドのピンチ操作 :";
+
+/* Class = "NSMenuItem"; title = "Zoom In / Zoom Out"; ObjectID = "XPc-AY-F1p"; */
+"XPc-AY-F1p.title" = "拡大/縮小";
+
+/* Class = "NSMenuItem"; title = "Magnifier Glass  (Loupe)"; ObjectID = "yyl-g4-yV7"; */
+"yyl-g4-yV7.title" = "ルーペ拡大鏡のオンオフ";
+
+/* Class = "NSMenuItem"; title = "Magnifier Glass  (Fit Screen)"; ObjectID = "uq8-P9-5yx"; */
+"uq8-P9-5yx.title" = "全体画面拡大鏡のオンオフ";
+
+/* Class = "NSTabViewItem"; label = "Navigation Bar"; ObjectID = "Ds4-m1-mfm"; */
+"Ds4-m1-mfm.label" = "ナビゲーションバー";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Appearance :"; ObjectID = "HAO-HM-ydi"; */
+"HAO-HM-ydi.title" = "ナビゲーションバーの型 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Postion :"; ObjectID = "dQG-3S-XTj"; */
+"dQG-3S-XTj.title" = "ナビゲーションバーの位置  :";
+
+/* Class = "NSButtonCell"; title = "Bottom"; ObjectID = "csr-fQ-wao"; */
+"csr-fQ-wao.title" = "下";
+
+/* Class = "NSButtonCell"; title = "Top"; ObjectID = "XU6-fq-xjV"; */
+"XU6-fq-xjV.title" = "上";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Thumbnail Width :"; ObjectID = "nln-i0-V6h"; */
+"nln-i0-V6h.title" = "サムネイルの幅 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Thumbnail Height :"; ObjectID = "eqd-Ly-dCq"; */
+"eqd-Ly-dCq.title" = "サムネイルの高さ :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Height :"; ObjectID = "lVj-ze-mXA"; */
+"lVj-ze-mXA.title" = "ナビゲーションバーの高さ :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Alpha :"; ObjectID = "ltT-aY-YHV"; */
+"ltT-aY-YHV.title" = "ナビゲーションバーの透明度 :";
+
+/* Class = "NSTextFieldCell"; title = "Progressed Bar Color :"; ObjectID = "qJY-Ee-dpF"; */
+"qJY-Ee-dpF.title" = "読み分の色 :";
+
+/* Class = "NSTextFieldCell"; title = "Remained Bar Color :"; ObjectID = "rFG-JD-pdH"; */
+"rFG-JD-pdH.title" = "読まない分の色 :";
+
+/* Class = "NSTextFieldCell"; title = "Stroke Color :"; ObjectID = "86C-w7-QwJ"; */
+"86C-w7-QwJ.title" = "線の色 :";
+
+/* Class = "NSTextFieldCell"; title = "Bookmark Color :"; ObjectID = "5Wn-3C-1bg"; */
+"5Wn-3C-1bg.title" = "しおりの色 :";
+
+/* Class = "NSButtonCell"; title = "Hide until Mouse Moved"; ObjectID = "Agf-dZ-ax8"; */
+"Agf-dZ-ax8.title" = "マウスが動くまでに隠す";
+
+/* Class = "NSTextFieldCell"; title = "Background Image :"; ObjectID = "Es9-ZI-iwG"; */
+"Es9-ZI-iwG.title" = "背景イメージ :";
+
+/* Class = "NSButtonCell"; title = "Don't Use"; ObjectID = "632-wN-DL2"; */
+"632-wN-DL2.title" = "使用しない";
+
+/* Class = "NSButtonCell"; title = "Default Image"; ObjectID = "ghK-mk-XYO"; */
+"ghK-mk-XYO.title" = "基本のイメージを使用";
+
+/* Class = "NSButtonCell"; title = "Use Other Image"; ObjectID = "kuD-sD-LTy"; */
+"kuD-sD-LTy.title" = "他のイメージを使用";
+
+/* Class = "NSButtonCell"; title = "Open..."; ObjectID = "zXF-84-Vqe"; */
+"zXF-84-Vqe.title" = "開く...";
+
+/* Class = "NSTextFieldCell"; title = "Display Background Image :"; ObjectID = "WcU-FU-P91"; */
+"WcU-FU-P91.title" = "背景イメージの表示 :";
+
+/* Class = "NSButtonCell"; title = "While File Is Opened"; ObjectID = "Vrm-f1-nDw"; */
+"Vrm-f1-nDw.title" = "ファイルが開いている時も表示する";
+
+/* Class = "NSTextFieldCell"; title = "Determine page navigation by mouse click. If it's status is \"use\", you can move next/previous page by click on window."; ObjectID = "nHL-EJ-BOc"; */
+"nHL-EJ-BOc.title" = "マウスクリックでページをめくりするかしないかをきまります。\"使用\"の時にはウィンドウ画面をクリックして前・次へ移動できます。";
+
+/* Class = "NSTextFieldCell"; title = "Navigation by Mouse Click"; ObjectID = "ngk-Ru-Crh"; */
+"ngk-Ru-Crh.title" = "マウスクリックで移動";
+
+/* Class = "NSButtonCell"; title = "Use"; ObjectID = "n1F-rI-wVG"; */
+"n1F-rI-wVG.title" = "使用";
+
+/* Class = "NSButtonCell"; title = "Don't Use"; ObjectID = "evg-MT-7kN"; */
+"evg-MT-7kN.title" = "使用しない";

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_DIALOG>
+  <res resid="#601">
+   <dtitle>
+    <xmbtext>Ir pieejams programmas Picasa atjauninājums</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 275 90)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(7 43 134 59)">
+    <xmbtext>Jā, lejupielādēt tūlīt</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(141 43 268 59)">
+    <xmbtext>Nē, lejupielādēt vēlāk</xmbtext>
+   </item>
+   <item itemid="1020" itemtype="Static" layout="rect(35 11 268 35)">
+    <xmbtext>Ir pieejams bezmaksas atjauninājums programmai Picasa. \nVai vēlaties tūlīt lejupielādēt jauno versiju?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(6 10 26 30)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 69 268 85)">
+    <xmbtext>Piezīme. Lai instalētu atjauninājumu, jums ir jābūt šī datora administratora tiesībām.</xmbtext>
+   </item>
+  </res>
+  <res resid="#602">
+   <dtitle>
+    <xmbtext>Programmas Picasa atjauninājums ir gatavs</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Jā, atjaunināt tūlīt</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Lūdzu, vēlāk</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Programma Picasa ir gatava atjauninājuma instalēšanai.\nVai restartēt programmu Picasa un tūlīt instalēt šo atjauninājumu?</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+  <res resid="#603">
+   <dtitle>
+    <xmbtext>Programmas Picasa atjauninājums ir gatavs</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 257 84)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(14 50 127 66)">
+    <xmbtext>Atjaunināt tūlīt</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(131 50 244 66)">
+    <xmbtext>Jautājiet vēlāk</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(43 7 233 31)">
+    <xmbtext>Programma Picasa ir gatava atjauninājuma instalēšanai.\nJums, iespējams, tiks piedāvāts pieteikties kā administratoram.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 7 34 27)">
+    <xmbtext>id=106</xmbtext>
+   </item>
+  </res>
+ </RT_DIALOG>
+</Win32Res>

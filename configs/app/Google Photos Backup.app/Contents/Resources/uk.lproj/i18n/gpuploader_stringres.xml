@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="UploaderLogin::Title">
+  <xmbtext>Увійти в Google Фото</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderApp::UpgradeToGPlus">
+  <xmbtext>Щоб користуватися додатком Google Photos Backup, спершу налаштуйте обліковий запис Google Фото. Відкрийте Google Фото та налаштуйте його</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotos">
+  <xmbtext>Відкрити Google Фото</xmbtext>
+ </stringres>
+ <stringres id="Cancel">
+  <xmbtext>Скасувати</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotosTitle">
+  <xmbtext>Налаштувати обліковий запис Google Фото</xmbtext>
+ </stringres>
+ <stringres id="GooglePhotos">
+  <xmbtext>https://photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortReadingDirectory">
+  <xmbtext>Пошук фотографій (знайдено %1$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortWaiting">
+  <xmbtext>Очікування</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImporting">
+  <xmbtext>Імпорт фотографій (залишилося %1$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortUploading">
+  <xmbtext>Завантаження файлів у Google Фото</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportComplete">
+  <xmbtext>Найновішої версії</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportFailed">
+  <xmbtext>Не вдалося імпортувати</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ReadingDirectory">
+  <xmbtext>Пошук фотографій у джерелі &quot;%1$s&quot; (знайдено %2$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Waiting">
+  <xmbtext>Очікування завершення завантаження іншим пристроєм</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Importing">
+  <xmbtext>Імпорт файлів (%1$s) із джерела &quot;%2$s&quot;, залишилося %3$s</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportingNoTotal">
+  <xmbtext>Імпорт файлів (%1$s) із джерела &quot;%2$s&quot;</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading2">
+  <xmbtext>Завантаження файлів у Google (завантажено %1$d з %2$d)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading">
+  <xmbtext>Завантаження файлів у Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportComplete">
+  <xmbtext>Найновішої версії</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportFailed">
+  <xmbtext>Не вдалося імпортувати</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::CopyFailureMessage">
+  <xmbtext>Не вдалося скопіювати Google Photos Backup у папку &quot;Додатки&quot;.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::LaunchFailureMessage">
+  <xmbtext>Не вдалося запустити Google Photos Backup із папки &quot;Додатки&quot;.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Message">
+  <xmbtext>Google Photos Backup запущено з образу диска. Скопіювати в папку &quot;Додатки&quot;?</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::YesButton">
+  <xmbtext>Копіювати й запустити повторно</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::NoButton">
+  <xmbtext>Не копіювати</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Title">
+  <xmbtext>Копіювати до папки &quot;Програми&quot;?</xmbtext>
+ </stringres>
+ <stringres id="GPUp::RAWNotification">
+  <xmbtext>Включено файли зображень RAW. Натисніть, щоб змінити налаштування</xmbtext>
+ </stringres>
+ <stringres id="GPUp::DriveSyncNotification">
+  <xmbtext>Натисніть, щоб дізнатися важливу інформацію щодо синхронізації Диска</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifySingular">
+  <xmbtext>Неможливо завантажити 1 файл. Натисніть, щоб переглянути.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifyPlural">
+  <xmbtext>Неможливо завантажити таку кількість файлів: %d. Натисніть, щоб переглянути.</xmbtext>
+ </stringres>
+ <stringres id="NeedsLogin">
+  <xmbtext>Увійдіть у Google.</xmbtext>
+ </stringres>
+ <stringres id="UploadIdle">
+  <xmbtext>Готово</xmbtext>
+ </stringres>
+ <stringres id="UploadError">
+  <xmbtext>Виникла проблема завантаження</xmbtext>
+ </stringres>
+ <stringres id="UploaderPaused">
+  <xmbtext>Призупинено. Очікування на відновлення.</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingLast">
+  <xmbtext>Автозавантаження 1 нового файлу.</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingFormat">
+  <xmbtext>Автозавантаження нових файлів (%1$s), лишилося %2$s.</xmbtext>
+ </stringres>
+ <stringres id="ScanningDisk">
+  <xmbtext>Пошук фотографій.</xmbtext>
+ </stringres>
+ <stringres id="UploaderState::Completed">
+  <xmbtext>Завантажено %s фото</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Idle">
+  <xmbtext>Автозавантажено %s фото</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::RetryError">
+  <xmbtext>Повторити спробу</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::SkipError">
+  <xmbtext>Пропустити</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Login">
+  <xmbtext>Увійти в Google Фото</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Resume">
+  <xmbtext>Відновити автозавантаження</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Pause">
+  <xmbtext>Призупинити автозавантаження</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::FileError">
+  <xmbtext>Переглянути незавантажені…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewRecentPhotos">
+  <xmbtext>Переглянути завантажені фото</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewPhotosOnline">
+  <xmbtext>Перейти до Google Фото</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsMac">
+  <xmbtext>Параметри…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsWindows">
+  <xmbtext>Налаштування...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::HelpMenu">
+  <xmbtext>Довідка</xmbtext>
+ </stringres>
+ <stringres id="GPUp::About">
+  <xmbtext>Про програму...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::FileStatus">
+  <xmbtext>Статус файлу…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowDebug">
+  <xmbtext>Вікно виправлення помилок…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Quit">
+  <xmbtext>Вихід</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Initializing">
+  <xmbtext>Пошук фотографій</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Paused">
+  <xmbtext>Автозавантаження призупинено</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Stopped">
+  <xmbtext>Ви не ввійшли</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Uploading">
+  <xmbtext>Автозавантаження фотографій (лишилося %1$s)</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Invalid">
+  <xmbtext>Невідомий статус</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OnBeforeQuitConfirmation::Message">
+  <xmbtext>Запущено Google Photos Backup.\nЯкщо вийти з додатка, усі поточні завантаження буде скасовано.\nВийти?</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderAppTitle">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="GPUImplicitLogout">
+  <xmbtext>Облікові дані анульовано, увійдіть знову.</xmbtext>
+ </stringres>
+ <stringres id="LowStorageText">
+  <xmbtext>Використано 75% обсягу пам’яті на Google Диску. Натисніть, щоб отримати додатковий обсяг</xmbtext>
+ </stringres>
+ <stringres id="DriveSyncVisitError">
+  <xmbtext>Не вдалося відкрити веб-переглядач, щоб переглянути інформацію про синхронізацію Диска.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::days">
+  <xmbtext>дн.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::hours">
+  <xmbtext>год.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::minutes">
+  <xmbtext>хв.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::seconds">
+  <xmbtext>секунд</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_quota">
+  <xmbtext>Оригінальний розмір (вільної пам’яті: %s)</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited">
+  <xmbtext>Оригінальний розмір</xmbtext>
+ </stringres>
+ <stringres id="free_size_with_unlimited">
+  <xmbtext>Висока якість</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited_desc">
+  <xmbtext>Висока роздільна здатність, оригінальна якість</xmbtext>
+ </stringres>
+ <stringres id="GPUConfirmQuit">
+  <xmbtext>Вийти з Google Photos Backup?</xmbtext>
+ </stringres>
+ <stringres id="Quit">
+  <xmbtext>Вихід</xmbtext>
+ </stringres>
+ <stringres id="il_Cancel">
+  <xmbtext>Скасувати</xmbtext>
+ </stringres>
+ <stringres id="AddWatchedFolderTitle">
+  <xmbtext>Додати переглянуті папки</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutHeader">
+  <xmbtext>Вийти з Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutText">
+  <xmbtext>Ви не зможете автоматично завантажувати фотографії після того, як вийдете.</xmbtext>
+ </stringres>
+ <stringres id="LogoutButton">
+  <xmbtext>Вийти</xmbtext>
+ </stringres>
+ <stringres id="CancelLogout">
+  <xmbtext>Скасувати</xmbtext>
+ </stringres>
+ <stringres id="GoogleDriveFolderName">
+  <xmbtext>Диск Google</xmbtext>
+ </stringres>
+ <stringres id="PicasaFolderName">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="gpuploader:default_tooltip">
+  <xmbtext>Неактивний</xmbtext>
+ </stringres>
+ <stringres id="UploadError::NoConnection">
+  <xmbtext>Зв’язок відсутній</xmbtext>
+ </stringres>
+ <stringres id="album_hint::rootpath">
+  <xmbtext>Фотографії</xmbtext>
+ </stringres>
+ <stringres id="Prefs::DeviceItem">
+  <xmbtext>Камери й картки пам’яті</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotosWithAperture">
+  <xmbtext>Бібліотеки iPhoto та Aperture</xmbtext>
+ </stringres>
+ <stringres id="Prefs::Aperture">
+  <xmbtext>Бібліотека Aperture</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotos">
+  <xmbtext>Бібліотека iPhoto</xmbtext>
+ </stringres>
+ <stringres id="Prefs::ApplePhotos">
+  <xmbtext>Бібліотека Apple Photos</xmbtext>
+ </stringres>
+ <stringres id="WelcomeDialog:LoggedInFormat">
+  <xmbtext>Ви ввійшли як %s</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckFailed">
+  <xmbtext>Спроба перевірити наявність оновлень для автозавантаження Google+ виявилася невдалою. Повторіть спробу пізніше.</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UpToDate">
+  <xmbtext>Автозавантаження Google+ оновлено</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UnknownCheckError">
+  <xmbtext>Під час перевірки наявності оновлень сталася помилка. Повторіть спробу пізніше.</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::SuccessTitle">
+  <xmbtext>Перевірку наявності оновлень завершено</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::ErrorTitle">
+  <xmbtext>Помилка оновлення</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckTimedOut">
+  <xmbtext>Час перевірки наявності оновлень вийшов. Повторіть спробу пізніше.</xmbtext>
+ </stringres>
+ <stringres id="StatusIcon:MenuTitle">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="ytApp::JPEGFilter">
+  <xmbtext>Файли JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ErrorTitle">
+  <xmbtext>Помилка</xmbtext>
+ </stringres>
+ <stringres id="ytApp::MemErrorPrompt">
+  <xmbtext>Виникла помилка у запам&#039;ятовуючому пристрої.</xmbtext>
+ </stringres>
+ <stringres id="ytApp::InfoTitle">
+  <xmbtext>Інформація</xmbtext>
+ </stringres>
+ <stringres id="ytZoomString::Value">
+  <xmbtext>Масштаб %3.0f%%</xmbtext>
+ </stringres>
+ <stringres id="il_OKButton">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+ <stringres id="il_Yes">
+  <xmbtext>Так</xmbtext>
+ </stringres>
+ <stringres id="il_No">
+  <xmbtext>Ні</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ConfirmTitle">
+  <xmbtext>Підтвердити</xmbtext>
+ </stringres>
+ <stringres id="February">
+  <xmbtext>лютий</xmbtext>
+ </stringres>
+ <stringres id="March">
+  <xmbtext>Березень</xmbtext>
+ </stringres>
+ <stringres id="April">
+  <xmbtext>Квітень</xmbtext>
+ </stringres>
+ <stringres id="May">
+  <xmbtext>Травень</xmbtext>
+ </stringres>
+ <stringres id="June">
+  <xmbtext>Червень</xmbtext>
+ </stringres>
+ <stringres id="July">
+  <xmbtext>Липень</xmbtext>
+ </stringres>
+ <stringres id="August">
+  <xmbtext>Серпень</xmbtext>
+ </stringres>
+ <stringres id="September">
+  <xmbtext>вересень</xmbtext>
+ </stringres>
+ <stringres id="October">
+  <xmbtext>жовтень</xmbtext>
+ </stringres>
+ <stringres id="November">
+  <xmbtext>Листопад</xmbtext>
+ </stringres>
+ <stringres id="December">
+  <xmbtext>Грудень</xmbtext>
+ </stringres>
+ <stringres id="Jan">
+  <xmbtext>Січ.</xmbtext>
+ </stringres>
+ <stringres id="Feb">
+  <xmbtext>Лют.</xmbtext>
+ </stringres>
+ <stringres id="Mar">
+  <xmbtext>Бер.</xmbtext>
+ </stringres>
+ <stringres id="Apr">
+  <xmbtext>Квіт.</xmbtext>
+ </stringres>
+ <stringres id="Abbreviation::May">
+  <xmbtext>Травень</xmbtext>
+ </stringres>
+ <stringres id="Jun">
+  <xmbtext>чер.</xmbtext>
+ </stringres>
+ <stringres id="Jul">
+  <xmbtext>Лип.</xmbtext>
+ </stringres>
+ <stringres id="Aug">
+  <xmbtext>серп.</xmbtext>
+ </stringres>
+ <stringres id="Sep">
+  <xmbtext>Вер.</xmbtext>
+ </stringres>
+ <stringres id="Oct">
+  <xmbtext>Жов.</xmbtext>
+ </stringres>
+ <stringres id="Nov">
+  <xmbtext>Лист.</xmbtext>
+ </stringres>
+ <stringres id="Dec">
+  <xmbtext>груд.</xmbtext>
+ </stringres>
+ <stringres id="January">
+  <xmbtext>Січень</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format1">
+  <xmbtext>%1$s %2$d, %3$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format2">
+  <xmbtext>%1$s %2$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format3">
+  <xmbtext>%1$d:%2$02d:%3$02d %4$cM</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format4">
+  <xmbtext>%1$.2d:%2$.2d:%3$.2d</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigB">
+  <xmbtext>%.0f байт.</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigKB">
+  <xmbtext>%.0f Кб</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigMB">
+  <xmbtext>%.1f Mб</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigGB">
+  <xmbtext>%.1f Гб</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigTB">
+  <xmbtext>%.1f Тб</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::videotype">
+  <xmbtext>Відео: %s</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::audiotype">
+  <xmbtext>Аудіо:%1$s %2$d біт %3$.1fK %4$d-канальний</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyPictures">
+  <xmbtext>Фотографії</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Desktop">
+  <xmbtext>Робочий стіл</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyMusic">
+  <xmbtext>Музика</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyVideos">
+  <xmbtext>Відео</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyDocuments">
+  <xmbtext>Документи</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::ApplicationData">
+  <xmbtext>Бібліотека/Підтримка програми</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::CommonApplicationData">
+  <xmbtext>Бібліотека/Підтримка програми</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Library">
+  <xmbtext>Бібліотека</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyPictures">
+  <xmbtext>Мої зображення</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::Desktop">
+  <xmbtext>Робочий стіл</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyMusic">
+  <xmbtext>Моя музика</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyVideos">
+  <xmbtext>Мої відео</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyDocuments">
+  <xmbtext>Мої документи</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::ApplicationData">
+  <xmbtext>Допоміжні відомості</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::CommonApplicationData">
+  <xmbtext>Спільні дані програм</xmbtext>
+ </stringres>
+ <stringres id="ytFileUtils::CopyProgress">
+  <xmbtext>%1$s із %2$s</xmbtext>
+ </stringres>
+ <stringres id="BinaryMetadata::GetString">
+  <xmbtext>(%d байт)</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Yes">
+  <xmbtext>Так</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::No">
+  <xmbtext>Ні</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:4">
+  <xmbtext>YCbCr 4:4:4</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:0">
+  <xmbtext>YCbCr 4:4:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:1">
+  <xmbtext>YCbCr 4:4:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:2">
+  <xmbtext>YCbCr 4:2:2</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:0">
+  <xmbtext>YCbCr 4:2:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:1">
+  <xmbtext>YCbCr 4:2:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:1">
+  <xmbtext>YCbCr 4:1:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:0">
+  <xmbtext>YCbCr 4:1:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime1">
+  <xmbtext>%s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime2">
+  <xmbtext> (1/%d)</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashUsed">
+  <xmbtext>Використано</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashNotUsed">
+  <xmbtext>Не використано</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat" meaning="GPS Coordinates - Hours Minutes&#039;Seconds">
+  <xmbtext>%1$s %2$s\&#039;%3$s\&quot;</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat2">
+  <xmbtext> %s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::UnnamedColorProfile">
+  <xmbtext>Профіль кольору без назви</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileName">
+  <xmbtext>Назва профілю кольору</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileDescription">
+  <xmbtext>Опис профілю кольору</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::sRGB">
+  <xmbtext>sRGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::AdobeRGB">
+  <xmbtext>Adobe RGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Uncalibrated">
+  <xmbtext>Непрокалібрований</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::DimensionsFormat">
+  <xmbtext>%1$dx%2$d пікс.</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::2">
+  <xmbtext>%1$s  Фокусна відстань: %2$3.1f мм  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::3">
+  <xmbtext>(еквівалент 35 мм: %3.0f мм)  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::4">
+  <xmbtext>1/%d  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::5">
+  <xmbtext>%2.1f  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::6">
+  <xmbtext>f/%3.1f  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::7">
+  <xmbtext>ISO: %2d</xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::Flash">
+  <xmbtext>спалах </xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::iso">
+  <xmbtext> iso:%d </xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::focal">
+  <xmbtext> фокусний:%d </xmbtext>
+ </stringres>
+ <stringres id="EXIF::Elipses">
+  <xmbtext>... (усього %d)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::GetTitle">
+  <xmbtext>EXIF (%1$s:0x%2$X)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::UndefinedOut">
+  <xmbtext>(%d байт.)</xmbtext>
+ </stringres>
+ <stringres id="ytIPTCMetadata::GetString">
+  <xmbtext>%1$d:%2$d.%3$d байт.</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Enter">
+  <xmbtext>Enter</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Delete">
+  <xmbtext>Видалити</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::CtrlPrefix">
+  <xmbtext>Ctrl+</xmbtext>
+ </stringres>
+ <stringres id="ytMesu::ShiftPrefix">
+  <xmbtext>Shift+</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::AltPrefix">
+  <xmbtext>Alt+</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>Завершено %d%%, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>Залишилось %1$02d:%2$02d:%3$02d.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>Залишилось %1$02d:%2$02d.</xmbtext>
+ </stringres>
+ <stringres id="ytResampler::Prog">
+  <xmbtext>Обробка...</xmbtext>
+ </stringres>
+ <stringres id="ytResMgr::LoadError">
+  <xmbtext>Під час запуску програми сталася помилка.\nМи перепрошуємо за незручність, але для вирішення проблеми Вам потрібно повторно встановити програму.</xmbtext>
+ </stringres>
+ <stringres id="ytFPSNode::time">
+  <xmbtext>Час = %1$d мс = %2$d кадр./сек.</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilePath">
+  <xmbtext>Розташування</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileSize">
+  <xmbtext>Розмір файлу</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileDate">
+  <xmbtext>Дата створення файлу</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Dimensions">
+  <xmbtext>Розміри</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::RelatedDimensions">
+  <xmbtext>Відносні розміри зображення</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::CCDWidth">
+  <xmbtext>Ширина CCD</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Comment">
+  <xmbtext>Коментар JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Quality">
+  <xmbtext>Якість JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieInfo">
+  <xmbtext>Інформація відеофайлу</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieRate">
+  <xmbtext>Швидкість відеофайлу</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieLength">
+  <xmbtext>Тривалість відеофайлу</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Text">
+  <xmbtext>Текст</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::LayerNames">
+  <xmbtext>Імена шарів</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilterString">
+  <xmbtext>Рядок фільтру</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::OnlinePhotoID">
+  <xmbtext>Онлайн-ідентифікатор фотографії</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IsTempFile">
+  <xmbtext>IsTempFile</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IPTCUnknown">
+  <xmbtext>Невідоме поле IPTC</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::XMPUnknown">
+  <xmbtext>Невідоме поле XMP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BitsPerSample">
+  <xmbtext>Кількість бітів на зразок</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Compression">
+  <xmbtext>Стиснення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PhotometricInterpretation">
+  <xmbtext>Фотометрична інтерпретація</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thresholding">
+  <xmbtext>Встановлення порогів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellWidth">
+  <xmbtext>Ширина фотоелементу</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellLength">
+  <xmbtext>Довжина фотоелементу</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FillOrder">
+  <xmbtext>Установити порядок</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CameraID">
+  <xmbtext>Ідентифікатор фотоапарата</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Make">
+  <xmbtext>Марка фотокамери</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Model">
+  <xmbtext>Модель фотокамери</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripOffsets">
+  <xmbtext>Прибрати контраст</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Orientation">
+  <xmbtext>Орієнтація</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SamplesPerPixel">
+  <xmbtext>Зразків на піксель</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RowsPerStrip">
+  <xmbtext>Рядків на строку</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripByteCounts">
+  <xmbtext>Прибрати підрахунок кількості байтів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinSampleValue">
+  <xmbtext>Мін. значення зразка</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxSampleValue">
+  <xmbtext>Макс. значення зразка</xmbtext>
+ </stringres>
+ <stringres id="EXIF::XResolution">
+  <xmbtext>Роздільна здатність Х</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YResolution">
+  <xmbtext>Роздільна здатність Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PlanarConfiguration">
+  <xmbtext>Конфігурація плоскості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeOffsets">
+  <xmbtext>Безкоштовне регулювання</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeByteCounts">
+  <xmbtext>Підрахунок вільного місця</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseUnit">
+  <xmbtext>Елемент реакції сірого кольору</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseCurve">
+  <xmbtext>Крива реакції сірого кольору</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ResolutionUnit">
+  <xmbtext>Одиниця роздільної здатності</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Software">
+  <xmbtext>Програмне забезпечення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTime">
+  <xmbtext>Дата зміни</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Artist">
+  <xmbtext>Виконавець</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HostComputer">
+  <xmbtext>Комп&#039;ютер-хост</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhitePoint">
+  <xmbtext>Біла точка</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PrimaryChromaticities">
+  <xmbtext>Первинні кольори</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorMap">
+  <xmbtext>Карта кольорів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExtraSamples">
+  <xmbtext>Додаткові зразки</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrCoefficients">
+  <xmbtext>Коефіцієнти YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrSubSampling">
+  <xmbtext>Скорочені зразки YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrPositioning">
+  <xmbtext>Позиціонування YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReferenceBlackWhite">
+  <xmbtext>Посилання чорний/білий</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Copyright">
+  <xmbtext>Авторські права</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureTime">
+  <xmbtext>Витримка</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumber">
+  <xmbtext>Число діафрагми</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumberUnits">
+  <xmbtext>f/%s</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureProgram">
+  <xmbtext>Програма експозиції</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpectralSensitivity">
+  <xmbtext>Спектральна чутливість</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOSpeedRatings">
+  <xmbtext>ISO</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OECF">
+  <xmbtext>OECF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeOriginal">
+  <xmbtext>Дата на фотокамері</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeDigitized">
+  <xmbtext>Відцифрована дата</xmbtext>
+ </stringres>
+ <stringres id="ComponentsConfiguration">
+  <xmbtext>Конфігурація компонентів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CompressedBitsPerPixel">
+  <xmbtext>Кількість стиснутих бітів на піксель</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterSpeedValue">
+  <xmbtext>Витримка затвора</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ApertureValue">
+  <xmbtext>Апертура</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BrightnessValue">
+  <xmbtext>Яскравість</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureBiasValue">
+  <xmbtext>Зміщення експозиції</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxApertureValue">
+  <xmbtext>Макс. апертура</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistance">
+  <xmbtext>Відстань до предмета</xmbtext>
+ </stringres>
+ <stringres id="EXIF::m">
+  <xmbtext>%s м</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MeteringMode">
+  <xmbtext>Режим вимірювання експозиції</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LightSource">
+  <xmbtext>Баланс білого</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Flash">
+  <xmbtext>Спалах</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLength">
+  <xmbtext>Фокусна відстань</xmbtext>
+ </stringres>
+ <stringres id="EXIF::mm">
+  <xmbtext>%sмм</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectArea">
+  <xmbtext>Область предмета</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MakernoteData">
+  <xmbtext>Примітка про виробника</xmbtext>
+ </stringres>
+ <stringres id="EXIF::UserComment">
+  <xmbtext>Коментар користувача</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashpixVersion">
+  <xmbtext>Версія Flashpix</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSpace">
+  <xmbtext>Кольоровий простір</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedSoundFile">
+  <xmbtext>Пов&#039;язаний звуковий файл</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashEnergy">
+  <xmbtext>Потужність спалаху</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpatialFrequencyResponse">
+  <xmbtext>Просторово-частотна характеристика</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneXResolution">
+  <xmbtext>Фокусна плоскість Х роздільна здатність</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneYResolution">
+  <xmbtext>Роздільна здатність Y фокусної плоскості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneResolutionUnit">
+  <xmbtext>Одиниця роздільної здатності фокусної плоскості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectLocation">
+  <xmbtext>Розташування предмета</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureIndex">
+  <xmbtext>Індекс охоплення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SensingMethod">
+  <xmbtext>Метод чутливості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FileSource">
+  <xmbtext>Джерело файлу</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneType">
+  <xmbtext>Тип кадру</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CFAPattern">
+  <xmbtext>Конфігурація CFA</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CustomRendered">
+  <xmbtext>Персоналізована обробка</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureMode">
+  <xmbtext>Режим охоплення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteBalance">
+  <xmbtext>Баланс білого</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalZoomRatio">
+  <xmbtext>Коефіцієнт цифрового масштабування</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLengthIn35mmFilm">
+  <xmbtext>Фокусна довжина на плівці 35 мм</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneCaptureType">
+  <xmbtext>Тип зйомки</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GainControl">
+  <xmbtext>Контроль збільшення/зменшення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Contrast">
+  <xmbtext>Контраст</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Saturation">
+  <xmbtext>Насиченість</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sharpness">
+  <xmbtext>Різкість</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DeviceSettingDescription">
+  <xmbtext>Опис налаштувань пристрою</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistanceRange">
+  <xmbtext>Діапазон відстані до предмету</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageUniqueID">
+  <xmbtext>Унікальний ідентифікатор</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageType">
+  <xmbtext>Тип зображення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareVersion">
+  <xmbtext>Версія мікропрограми</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFileNumber">
+  <xmbtext>Номер файлу</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OwnerName">
+  <xmbtext>Ім’я власника</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SerialNumber">
+  <xmbtext>Серійний номер</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareRevision">
+  <xmbtext>Редакція мікропрограми</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensModel">
+  <xmbtext>Модель об’єктива</xmbtext>
+ </stringres>
+ <stringres id="EXIF:SerialNumber">
+  <xmbtext>Серійний номер</xmbtext>
+ </stringres>
+ <stringres id="EXIF:LensType">
+  <xmbtext>Тип об’єктива</xmbtext>
+ </stringres>
+ <stringres id="EXIF:ShutterCount">
+  <xmbtext>Підрахунок затворів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSVersionID">
+  <xmbtext>Ідентифікатор версії GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLatitude">
+  <xmbtext>Широта GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLongitude">
+  <xmbtext>Довгота GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitudeRef">
+  <xmbtext>Посилання на висоту GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitude">
+  <xmbtext>Висота GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTimeStamp">
+  <xmbtext>Відмітка часу GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSatellites">
+  <xmbtext>Супутникові тарілки GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSStatus">
+  <xmbtext>Стан GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMeasureMode">
+  <xmbtext>Режим вимірювання GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDOP">
+  <xmbtext>GPS DOP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeedRef">
+  <xmbtext>Посилання на швидкість GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeed">
+  <xmbtext>Швидкість GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrackRef">
+  <xmbtext>Посилання на доріжку GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrack">
+  <xmbtext>Шлях GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirectionRef">
+  <xmbtext>Посилання на напрямок зображення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirection">
+  <xmbtext>Напрямок зображення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMapDatum">
+  <xmbtext>Дані карти GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitudeRef">
+  <xmbtext>Посилання на широту місця призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitude">
+  <xmbtext>Широта пункту призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitudeRef">
+  <xmbtext>Посилання на довготу пункту призначення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitude">
+  <xmbtext>Довгота місця призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearingRef">
+  <xmbtext>Посилання на пункт призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearing">
+  <xmbtext>Пункт призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistanceRef">
+  <xmbtext>Посилання на пункт призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistance">
+  <xmbtext>Відстань до пункту призначення GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSProcessingMethod">
+  <xmbtext>Метод обробки GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAreaInformation">
+  <xmbtext>Інформація області GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDateStamp">
+  <xmbtext>Вказання дати</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDifferential">
+  <xmbtext>Диференціал</xmbtext>
+ </stringres>
+ <stringres id="EXIF::InteroperabilityIndex">
+  <xmbtext>Індекс взаємодії</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedImageFileFormat">
+  <xmbtext>Пов&#039;язаний формат файлу зображення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Uncompressed">
+  <xmbtext>Нестиснуті</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CCITT1D">
+  <xmbtext>CCITT 1D</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T4/Group3Fax">
+  <xmbtext>T4/Група 3, факс</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T6/Group4Fax">
+  <xmbtext>T6/Група 4, факс</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LZW">
+  <xmbtext>LZW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEGOldStyle">
+  <xmbtext>JPEG (старого типу)</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG">
+  <xmbtext>JPEG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AdobeDeflate">
+  <xmbtext>Adobe Deflate</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGB&amp;W">
+  <xmbtext>Чорно-білий JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGColor">
+  <xmbtext>Колір JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Kodak262">
+  <xmbtext>Kodak 262</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Next">
+  <xmbtext>Наступний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SonyARWCompressed">
+  <xmbtext>Стиснуті файли Sony ARW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::EpsonERFCompressed">
+  <xmbtext>Стиснуті файли Epson ERF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PackBits">
+  <xmbtext>PackBits</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thunderscan">
+  <xmbtext>Thunderscan</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakKDCCompressed">
+  <xmbtext>Стиснуті файли Kodak KDC</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8CTPAD">
+  <xmbtext>IT8CTPAD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8LW">
+  <xmbtext>IT8LW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8MP">
+  <xmbtext>IT8MP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8BL">
+  <xmbtext>IT8BL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarFilm">
+  <xmbtext>PixarFilm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLog">
+  <xmbtext>PixarLog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Deflate">
+  <xmbtext>Знизити порядок</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DCS">
+  <xmbtext>DCS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIG">
+  <xmbtext>JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog">
+  <xmbtext>SGILog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog24">
+  <xmbtext>SGILog24</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG2000">
+  <xmbtext>JPEG 2000</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NikonNEFCompressed">
+  <xmbtext>Стиснуті файли Nikon NEF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIBinaryLevelCodec">
+  <xmbtext>Кодек двійкового рівня MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIProgressiveTransformCodec">
+  <xmbtext>Прогресивний кодек MDI для перетворення файлів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIVector">
+  <xmbtext>Вектор MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakDCRCompressed">
+  <xmbtext>Стиснуті файли Kodak DCR</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PentaxPEFCompressed">
+  <xmbtext>Стиснуті файли Pentax PEF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteIsZero">
+  <xmbtext>WhiteIsZero</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BlackIsZero">
+  <xmbtext>BlackIsZero</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGB">
+  <xmbtext>RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGBPalette">
+  <xmbtext>Палітра RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TransparencyMask">
+  <xmbtext>Прозорий шар</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CMYK">
+  <xmbtext>CMYK</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCr">
+  <xmbtext>YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CIELab">
+  <xmbtext>CIE L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ICCLab">
+  <xmbtext>ICC L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ITULab">
+  <xmbtext>ITU L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorFilterArray">
+  <xmbtext>Кількість кольорових фільтрів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogL">
+  <xmbtext>Pixar LogL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogLuv">
+  <xmbtext>Pixar LogLuv</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LinearRaw">
+  <xmbtext>Лінійка Raw</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Bilevel">
+  <xmbtext>Дворівневий</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Halftone">
+  <xmbtext>Напівтон</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Random">
+  <xmbtext>Вибірковий</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Normal">
+  <xmbtext>Нормальна</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Reversed">
+  <xmbtext>Перевернуто</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Undefined">
+  <xmbtext>Не визначено</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HorizontallyFlipped">
+  <xmbtext>Горизонтальне перегортання</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate180">
+  <xmbtext>Повернено на 180 градусів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::VerticallyFlipped">
+  <xmbtext>Вертикальне перегортання</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transposed">
+  <xmbtext>Транспозиція</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate90">
+  <xmbtext>Повернено на 90 градусів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transverse">
+  <xmbtext>Поперечний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate270">
+  <xmbtext>Повернено на 270 градусів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::None">
+  <xmbtext>Немає</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Inches">
+  <xmbtext>Дюйми</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centimeters">
+  <xmbtext>Сантиметри</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Millimeters">
+  <xmbtext>Міліметрів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Micrometers">
+  <xmbtext>Мікрометри</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centered">
+  <xmbtext>По центру</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoSited">
+  <xmbtext>Сумісний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDefined">
+  <xmbtext>Не визначено</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Manual">
+  <xmbtext>Вручну</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Program">
+  <xmbtext>Програма</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AperturePriority">
+  <xmbtext>Пріоритет апертури</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterPriority">
+  <xmbtext>Пріоритет затвора об&#039;єктива</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CreativeProgram">
+  <xmbtext>Програма створення творчих проектів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ActionProgram">
+  <xmbtext>Програма дій</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PortraitMode">
+  <xmbtext>Режим портрету</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LandscapeMode">
+  <xmbtext>Ландшафтний режим</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Unknown">
+  <xmbtext>Невідомо</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Average">
+  <xmbtext>Середні показники</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CenterWeight">
+  <xmbtext>Вага центра</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Spot">
+  <xmbtext>Точка фокусування</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MultiSpot">
+  <xmbtext>З багатьма деталями</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Matrix">
+  <xmbtext>Матриця</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Partial">
+  <xmbtext>Часткове</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Other">
+  <xmbtext>Інші</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sunny">
+  <xmbtext>Сонячно</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fluorescent">
+  <xmbtext>Флуоресцентний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Incandescent">
+  <xmbtext>Світний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FineWeather">
+  <xmbtext>Гарна погода</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Cloudy">
+  <xmbtext>Хмарно</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Shade">
+  <xmbtext>Тінь</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DaylightFlourescent">
+  <xmbtext>Денне флуоресцентне світло</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DayWhiteFlourescent">
+  <xmbtext>Денний флуоресцентний білий</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoolWhiteFlourescent">
+  <xmbtext>Холодний білий флуоресцентний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteFlourescent">
+  <xmbtext>Білий флуоресцентний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightA">
+  <xmbtext>Стандартне освітлення A</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightB">
+  <xmbtext>Стандартне освітлення B</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightC">
+  <xmbtext>Стандартне освітлення C</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D55">
+  <xmbtext>D55</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D65">
+  <xmbtext>D65</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D75">
+  <xmbtext>D75</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D50">
+  <xmbtext>D50</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOStudioTungsten">
+  <xmbtext>ISO Studio Tungsten</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeArea">
+  <xmbtext>Чорно-біла область</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OneChipColorArea">
+  <xmbtext>Одночіпова область кольору</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TwoChipColorArea">
+  <xmbtext>Двочіпова область кольору</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ThreeChipColorArea">
+  <xmbtext>Трьохчіпова область кольору</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialArea">
+  <xmbtext>Палітра кольорів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeLinear">
+  <xmbtext>Чорно-біла лінійка</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Trilinear">
+  <xmbtext>Трилінійний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialLinear">
+  <xmbtext>Палітра кольорів</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FilmScanner">
+  <xmbtext>Кінопроектор</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReflectionPrintScanner">
+  <xmbtext>Сканер друку відображення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalCamera">
+  <xmbtext>Цифровий фотоапарат</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DirectlyPhotographed">
+  <xmbtext>Безпосередьно сфотографовано</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Custom">
+  <xmbtext>Спеціальний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Auto">
+  <xmbtext>Автоматично</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AutoBracket">
+  <xmbtext>Автоматична постановка дужок</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Standard">
+  <xmbtext>Стандартний</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Landscape">
+  <xmbtext>Пейзаж</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Portrait">
+  <xmbtext>Портрет</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Night">
+  <xmbtext>Ніч</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainUp">
+  <xmbtext>Повільне збільшення яскравості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainUp">
+  <xmbtext>Швидке збільшення яскравості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainDown">
+  <xmbtext>Повільне зменшення яскравості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainDown">
+  <xmbtext>Зменшення яскравості</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Low">
+  <xmbtext>Низький</xmbtext>
+ </stringres>
+ <stringres id="EXIF::High">
+  <xmbtext>Високий</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Soft">
+  <xmbtext>Програмне забезпечення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Hard">
+  <xmbtext>Важкий</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Macro">
+  <xmbtext>Macro</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Close">
+  <xmbtext>Закрити</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Distant">
+  <xmbtext>З віддалення</xmbtext>
+ </stringres>
+ <stringres id="EXIF::On">
+  <xmbtext>Увімк.</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Off">
+  <xmbtext>Вимк.</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NoDetection">
+  <xmbtext>Не знайдено</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDetected">
+  <xmbtext>Не виявлено</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Detected">
+  <xmbtext>Виявлено</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFlashMode">
+  <xmbtext>Режим спалаху</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensType">
+  <xmbtext>Тип об’єктива</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LongFocal">
+  <xmbtext>Довгий фокус</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShortFocal">
+  <xmbtext>Короткий фокус</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalUnits">
+  <xmbtext>Фокусні одиниці</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxAperture">
+  <xmbtext>Макс. апертура</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinAperture">
+  <xmbtext>Мін. апертура</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalType">
+  <xmbtext>Тип фокуса</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneX">
+  <xmbtext>Фокусна площина X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneY">
+  <xmbtext>Фокусна площина Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReduction">
+  <xmbtext>Зменшення ефекту червоних очей</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SlowSync">
+  <xmbtext>Повільна синхронізація</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionAuto">
+  <xmbtext>Автоматичне зменшення ефекту червоних очей</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionOn">
+  <xmbtext>Зменшення ефекту червоних очей</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExternalFlash">
+  <xmbtext>Зовнішній спалах</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fixed">
+  <xmbtext>Проблему вирішено</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Zoom">
+  <xmbtext>Масштабування</xmbtext>
+ </stringres>
+ <stringres id="XMP::Certificate">
+  <xmbtext>Сертифікат</xmbtext>
+ </stringres>
+ <stringres id="XMP::Marked">
+  <xmbtext>Позначено авторським правом</xmbtext>
+ </stringres>
+ <stringres id="XMP::Owner">
+  <xmbtext>Власник</xmbtext>
+ </stringres>
+ <stringres id="XMP::UsageTerms">
+  <xmbtext>Умови використання</xmbtext>
+ </stringres>
+ <stringres id="XMP::WebStatement">
+  <xmbtext>Веб-звіт</xmbtext>
+ </stringres>
+ <stringres id="XMP::Advisory">
+  <xmbtext>Інформаційне повідомлення</xmbtext>
+ </stringres>
+ <stringres id="XMP::BaseURL">
+  <xmbtext>Основна URL-адреса</xmbtext>
+ </stringres>
+ <stringres id="XMP::Identifier">
+  <xmbtext>Ідентифікатор</xmbtext>
+ </stringres>
+ <stringres id="XMP::Label">
+  <xmbtext>Фігура у формі етикетки</xmbtext>
+ </stringres>
+ <stringres id="XMP::MetadataDate">
+  <xmbtext>Дата метаданих</xmbtext>
+ </stringres>
+ <stringres id="XMP::Nickname">
+  <xmbtext>Псевдонім</xmbtext>
+ </stringres>
+ <stringres id="XMP::Rating">
+  <xmbtext>Рейтинг</xmbtext>
+ </stringres>
+ <stringres id="XMP::Firmware">
+  <xmbtext>Мікропрограма</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashCompensation">
+  <xmbtext>Компенсація спалаху</xmbtext>
+ </stringres>
+ <stringres id="XMP::ImageNumber">
+  <xmbtext>Номер зображення</xmbtext>
+ </stringres>
+ <stringres id="XMP::Lens">
+  <xmbtext>Об’єктив</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensID">
+  <xmbtext>Ідентифікатор об&#039;єктива</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensInfo">
+  <xmbtext>Інформація про об&#039;єктив</xmbtext>
+ </stringres>
+ <stringres id="XMP::OwnerName">
+  <xmbtext>Ім&#039;я власника</xmbtext>
+ </stringres>
+ <stringres id="XMP::SerialNumber">
+  <xmbtext>Серійний номер</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashFunction">
+  <xmbtext>Немає функції спалаху</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashMode">
+  <xmbtext>Режим спалаху</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashRedEyeMode">
+  <xmbtext>Підтримує функцію зменшення ефекту червоних очей</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashReturn">
+  <xmbtext>Робота спалаху</xmbtext>
+ </stringres>
+ <stringres id="XMP::contributor">
+  <xmbtext>Співавтори</xmbtext>
+ </stringres>
+ <stringres id="XMP::coverage">
+  <xmbtext>Покриття</xmbtext>
+ </stringres>
+ <stringres id="XMP::date">
+  <xmbtext>Дата</xmbtext>
+ </stringres>
+ <stringres id="XMP::format">
+  <xmbtext>Формат</xmbtext>
+ </stringres>
+ <stringres id="XMP::language">
+  <xmbtext>Мови</xmbtext>
+ </stringres>
+ <stringres id="XMP::publisher">
+  <xmbtext>Видавці</xmbtext>
+ </stringres>
+ <stringres id="XMP::relation">
+  <xmbtext>Відносини</xmbtext>
+ </stringres>
+ <stringres id="XMP::type">
+  <xmbtext>Тип</xmbtext>
+ </stringres>
+ <stringres id="XMP::IntellectualGenre">
+  <xmbtext>Інтелектуальний жанр</xmbtext>
+ </stringres>
+ <stringres id="XMP::Scene">
+  <xmbtext>Кадр</xmbtext>
+ </stringres>
+ <stringres id="XMP::SubjectCode">
+  <xmbtext>Код предмету</xmbtext>
+ </stringres>
+ <stringres id="XMP::Location">
+  <xmbtext>Розташування</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrExtadr">
+  <xmbtext>Контактна інформація, адреса</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCity">
+  <xmbtext>Контактна інформація, місто</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCtry">
+  <xmbtext>Контактна інформація, країна</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiEmailWork">
+  <xmbtext>Контактна інформація, електронна адреса</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiTelWork">
+  <xmbtext>Контактна інформація, номер телефону</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrPcode">
+  <xmbtext>Контактна інформація, поштовий індекс</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrRegion">
+  <xmbtext>Регіон контактної інформації</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiUrlWork">
+  <xmbtext>URL-адреса контактної інформації</xmbtext>
+ </stringres>
+ <stringres id="XMP::AddlModelInfo">
+  <xmbtext>Додаткова інформація про модель</xmbtext>
+ </stringres>
+ <stringres id="XMP::ArtworkOrObject">
+  <xmbtext>Витвір мистецтва або об&#039;єкт</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageCode">
+  <xmbtext>Код організації</xmbtext>
+ </stringres>
+ <stringres id="XMP::CVterm">
+  <xmbtext>Усталений термін</xmbtext>
+ </stringres>
+ <stringres id="XMP::LocationShown">
+  <xmbtext>Показане місце розташування</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelAge">
+  <xmbtext>Вік моделі</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageName">
+  <xmbtext>Назва організації</xmbtext>
+ </stringres>
+ <stringres id="XMP::PersonInImage">
+  <xmbtext>Показаний користувач</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigImageGUID">
+  <xmbtext>Цифрове зображення GUID</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourcefileType">
+  <xmbtext>Тип файлу цифрового ресурсу</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourceType">
+  <xmbtext>Тип цифрового джерела</xmbtext>
+ </stringres>
+ <stringres id="XMP::Event">
+  <xmbtext>Подія</xmbtext>
+ </stringres>
+ <stringres id="XMP::IptcLastEdited">
+  <xmbtext>IPTC востаннє відредаговано</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailHeight">
+  <xmbtext>Макс. доступна висота</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailWidth">
+  <xmbtext>Макс. доступна ширина</xmbtext>
+ </stringres>
+ <stringres id="XMP::Version">
+  <xmbtext>Версія PLUS</xmbtext>
+ </stringres>
+ <stringres id="XMP::MinorModelAgeDisclosure">
+  <xmbtext>Розголошення віку моделі</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseID">
+  <xmbtext>Ідентифікатор випуску моделі</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseStatus">
+  <xmbtext>Стан версії моделі</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseID">
+  <xmbtext>Ідентифікатор властивості випуску</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseStatus">
+  <xmbtext>Стан властивостей випуску</xmbtext>
+ </stringres>
+ <stringres id="XMP::Regions">
+  <xmbtext>Теги людей</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeVersion">
+  <xmbtext>Версія конверта</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Destination">
+  <xmbtext>Місце призначення</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormat">
+  <xmbtext>Формат файлу</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormatVersion">
+  <xmbtext>Версія формату файлу</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ServiceIdentifier">
+  <xmbtext>Ідентифікатор служби</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeNumber">
+  <xmbtext>Номер конверта</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProductID">
+  <xmbtext>Ідентифікатор продукту</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopePriority">
+  <xmbtext>Пріоритет конверта</xmbtext>
+ </stringres>
+ <stringres id="IPTC::DateSent">
+  <xmbtext>Дані відправлено</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TimeSent">
+  <xmbtext>Час відправлення</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CodedCharacterSet">
+  <xmbtext>Закодований набір символів</xmbtext>
+ </stringres>
+ <stringres id="IPTC::UNO">
+  <xmbtext>UNO</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMIdentifier">
+  <xmbtext>Ідентифікатор ARM</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMVersion">
+  <xmbtext>Версія ARM</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ApplicationVersion">
+  <xmbtext>Версія додатка</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectTypeReference">
+  <xmbtext>Посилання на тип об’єкта</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectAttributeReference">
+  <xmbtext>Посилання на атрибут об&#039;єкта</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectName">
+  <xmbtext>Назва</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditStatus">
+  <xmbtext>Стан редагування</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditorialUpdate">
+  <xmbtext>Оновлення після редагування</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Urgency">
+  <xmbtext>Терміновість</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubjectReference">
+  <xmbtext>Посилання на предмет</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Category">
+  <xmbtext>Категорія</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SupplementalCategory">
+  <xmbtext>Додаткова категорія</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FixtureIdentifier">
+  <xmbtext>Ідентифікатор встановленого значення</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Keywords">
+  <xmbtext>Теги</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationCode">
+  <xmbtext>Код місцезнаходження вмісту</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationName">
+  <xmbtext>Ім&#039;я розташування вмісту</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseDate">
+  <xmbtext>Дата випуску</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseTime">
+  <xmbtext>Час випуску</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationDate">
+  <xmbtext>Заключна дата</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationTime">
+  <xmbtext>Закінчення терміну дії</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Instructions">
+  <xmbtext>Інструкції</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ActionAdvised">
+  <xmbtext>Запропоновані дії</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceService">
+  <xmbtext>Посилання на службу</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceDate">
+  <xmbtext>Дата посилання</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceNumber">
+  <xmbtext>Номер посилання</xmbtext>
+ </stringres>
+ <stringres id="IPTC::OriginatingProgram">
+  <xmbtext>Створення програми</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProgramVersion">
+  <xmbtext>Версія програми</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectCycle">
+  <xmbtext>Цикл об&#039;єкта</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AuthorsPosition">
+  <xmbtext>Вказання імені автора</xmbtext>
+ </stringres>
+ <stringres id="IPTC::City">
+  <xmbtext>Місто</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubLocation">
+  <xmbtext>Точне місцезнаходження</xmbtext>
+ </stringres>
+ <stringres id="IPTC::State">
+  <xmbtext>Штат</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CountryCode">
+  <xmbtext>Індекс країни</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Country">
+  <xmbtext>Країна</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TransmissionReference">
+  <xmbtext>Посилання на місце передачі</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Headline">
+  <xmbtext>Заголовок</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Credit">
+  <xmbtext>Кредит</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Source">
+  <xmbtext>Джерело</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Contact">
+  <xmbtext>Контакт</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Caption">
+  <xmbtext>Підпис</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CaptionWriter">
+  <xmbtext>Друкарський апарат для підпису</xmbtext>
+ </stringres>
+ <stringres id="IPTC::RasterizedCaption">
+  <xmbtext>Растровий підпис</xmbtext>
+ </stringres>
+ <stringres id="IPTC::PicasaURL">
+  <xmbtext>URL-адреса Picasa</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageType">
+  <xmbtext>Тип зображення</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageOrientation">
+  <xmbtext>Орієнтація зображення</xmbtext>
+ </stringres>
+ <stringres id="IPTC::LanguageIdentifier">
+  <xmbtext>Ідентифікатор мови</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioType">
+  <xmbtext>Тип аудіо</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingRate">
+  <xmbtext>Частота дискретизації аудіозразків</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingResolution">
+  <xmbtext>Роздільна здатність аудіозразків</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioDuration">
+  <xmbtext>Тривалість аудіо</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioOutcue">
+  <xmbtext>Незвукова інформація файлу</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseTitle">
+  <xmbtext>Ліцензійна угода</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseSubTitle">
+  <xmbtext>Ознайомтеся з умовами ліцензійної угоди перед встановленням Автозавантаження Google Фото</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseLabel">
+  <xmbtext>Використовуючи Автозавантаження Google Фото, ви приймаєте Умови використання та Політику конфіденційності Google.</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosText">
+  <xmbtext>Загальні положення та умови</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosLink">
+  <xmbtext>https://www.google.com/policies/terms/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyText">
+  <xmbtext>Політика конфіденційності</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyLink">
+  <xmbtext>https://www.google.com/policies/privacy/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseButtonText">
+  <xmbtext>Приймаю</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_RenameFolderErr">
+  <xmbtext>Не вдалося перейменувати папку імпортованих фотографій. Імпортовані раніше фотографії залишилися в попередній папці.</xmbtext>
+ </stringres>
+</resources>

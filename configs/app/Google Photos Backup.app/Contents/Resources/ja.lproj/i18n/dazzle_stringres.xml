@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Google フォト スクリーンセーバー</xmbtext>
+ </stringres>
+ <stringres id="DazzleUrl::GetMoreFeeds">
+  <xmbtext>/feeds?hl=ja&amp;gl=jp</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Feed:">
+  <xmbtext>フィード:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:Source:">
+  <xmbtext>ソース:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:ImageLink:">
+  <xmbtext>サイト:</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode:untitledfeedcaption">
+  <xmbtext>タイトルなし写真フィード</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDefault">
+  <xmbtext>Google のデフォルトの写真フィードを表示しています。他の写真を表示するには、[スタート] メニューから [Google フォト スクリーンセーバーを設定] を選択してください。</xmbtext>
+ </stringres>
+ <stringres id="MetadataNode::TipDiscover">
+  <xmbtext>新しいフィードをご利用いただけます。http://pack.google.com/feeds をご覧ください。</xmbtext>
+ </stringres>
+ <stringres id="CaptionNode::empty_caption_replacement">
+  <xmbtext>無題</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo1::Logout">
+  <xmbtext>ログアウト</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::DisplayLoginInfo2::Login">
+  <xmbtext>ログイン</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddOtherUsers1">
+  <xmbtext>他のユーザー</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddNoUsersItem">
+  <xmbtext>ユーザーは追加されていません</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddFavorites1">
+  <xmbtext>お気に入り</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites1b">
+  <xmbtext>ログインしてお気に入りのリストを取得</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateFavorites2">
+  <xmbtext>お気に入りの最近の写真</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AddMyWebAlbums">
+  <xmbtext>マイ ウェブ アルバム</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum1b">
+  <xmbtext>Google にログイン</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum2">
+  <xmbtext>最後に変更したウェブ アルバムの写真</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::PopulateMyWebAlbum3">
+  <xmbtext>限定公開アルバム内の写真</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::AppendNumberAlbums">
+  <xmbtext>個のアルバム</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::showVerifying">
+  <xmbtext>確認しています</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::doBadMsg">
+  <xmbtext>応答なし</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::CheckSelections">
+  <xmbtext>ウェブ アルバムを選択しないで続行してもよろしいですか？\nこの場合、ウェブ アルバムの写真は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::GetMyCaption">
+  <xmbtext>ウェブ アルバム</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologines">
+  <xmbtext>ログインしないで続行してもよろしいですか？\nこの場合、Google フォトの写真は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nologin">
+  <xmbtext>ログインしないで続行してもよろしいですか？\nこの場合、ウェブ アルバムの画像は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselectedes">
+  <xmbtext>オプションを有効にしないで続行してもよろしいですか？\nこの場合、Google フォトの写真は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::nothingselected">
+  <xmbtext>オプションを有効にしないで続行してもよろしいですか？\nこの場合、ウェブ アルバムの画像は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::loginfailed">
+  <xmbtext>ログイン情報が利用できません。</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::notloggedin">
+  <xmbtext>ユーザー情報がありません。ログインしてください--&gt;</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::login">
+  <xmbtext>ログイン</xmbtext>
+ </stringres>
+ <stringres id="CLighthousePrefs::ChangeUser">
+  <xmbtext>ユーザーを変更</xmbtext>
+ </stringres>
+ <stringres id="CLocalPrefs::GetMyCaption">
+  <xmbtext>フォルダ設定</xmbtext>
+ </stringres>
+ <stringres id="Add_Folder">
+  <xmbtext>フォルダを追加</xmbtext>
+ </stringres>
+ <stringres id="saver2::noservice">
+  <xmbtext>ご使用のアカウントではこのサービスをご利用いただけません。</xmbtext>
+ </stringres>
+ <stringres id="saver2::loginfailed">
+  <xmbtext>失敗: ユーザー名/パスワードが一致しません。</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginServerError">
+  <xmbtext>エラー: ご使用の Cookie のプライバシー設定が高すぎるため、Google にログインできません。</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::LoginGenericError">
+  <xmbtext>エラー: Google へのログイン中にエラーが発生しました。</xmbtext>
+ </stringres>
+ <stringres id="CPicasaPrefs::nothingselected">
+  <xmbtext>オプションを有効にしないで続行してもよろしいですか？\nこの場合、Picasa の画像は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::PicasaConfigDlgTitle">
+  <xmbtext>Google フォト スクリーンセーバーの設定</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader1">
+  <xmbtext>ソース</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::FeedTitleHeader2">
+  <xmbtext>タイトル</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::NoPhotosInFeed2">
+  <xmbtext>（写真なし）</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::OnAccept">
+  <xmbtext>写真ソースを選択しないで続行してもよろしいですか？\nこの場合、画像は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPhotoSites::GetMyCaption">
+  <xmbtext>公開写真サイト</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::NoPhotosInFeed">
+  <xmbtext>このフィードには画像が含まれていないようです...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::true">
+  <xmbtext>はい</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::false">
+  <xmbtext>いいえ</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlInvalid">
+  <xmbtext>フィード URL が無効です。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::notLoggedIn">
+  <xmbtext>公開するには、以下にログインしてください。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::tooManyPublished">
+  <xmbtext>500 個を超えるフィードを公開することはできません。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::urlTooLong">
+  <xmbtext>フィード URL が長すぎて公開できません。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::dlError">
+  <xmbtext>公開済みの構成のダウンロード中にエラーが発生しました。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::postError">
+  <xmbtext>新しい構成のアップロード中にエラーが発生しました。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::connectionError">
+  <xmbtext>公開サーバーへの接続でエラーが発生しました。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::authError">
+  <xmbtext>公開サーバーへのログイン中にエラーが発生しました。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::unknownError">
+  <xmbtext>不明なエラーにより、公開できません。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::checking">
+  <xmbtext>確認しています...</xmbtext>
+ </stringres>
+ <stringres id="PicasaWeb::ChangeUser">
+  <xmbtext>ユーザーを変更</xmbtext>
+ </stringres>
+ <stringres id="saver2::notloggedin">
+  <xmbtext>ユーザー情報がありません。ログインしてください--&gt;</xmbtext>
+ </stringres>
+ <stringres id="saver2::login">
+  <xmbtext>ログイン</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::linkNotLoggedIn">
+  <xmbtext>URL を受信するには、以下にログインしてください。</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::EnableHeader">
+  <xmbtext>有効</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::PublishHeader">
+  <xmbtext>公開</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::FeedTitleHeader">
+  <xmbtext>写真フィード タイトル</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::updating">
+  <xmbtext>公開しています...</xmbtext>
+ </stringres>
+ <stringres id="CRSSPrefs::deleting">
+  <xmbtext>削除しています...</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header1">
+  <xmbtext>アカウント</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::Header2">
+  <xmbtext>名前</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::AlbumsListHeader1">
+  <xmbtext>アルバム名</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums1">
+  <xmbtext>アカウント</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums2">
+  <xmbtext>名前</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::InitSelAlbums3">
+  <xmbtext>アルバム</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed1">
+  <xmbtext>写真をフォルダにダウンロードします</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::PreviewPressed">
+  <xmbtext>プレビュー</xmbtext>
+ </stringres>
+ <stringres id="CRSSWebAlbums::showBad">
+  <xmbtext>（応答なし）</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::ConfigureButton">
+  <xmbtext>設定...</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::GetPicasa">
+  <xmbtext>Picasa を取得</xmbtext>
+ </stringres>
+ <stringres id="CScrTitle">
+  <xmbtext>Google フォト スクリーンセーバー</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::collage">
+  <xmbtext>コラージュ</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::wipe">
+  <xmbtext>ワイプ</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::crossfade">
+  <xmbtext>クロス フェード</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::panzoom">
+  <xmbtext>パン/拡大</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::push">
+  <xmbtext>プッシュ</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::rect">
+  <xmbtext>長方形</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::circle">
+  <xmbtext>円</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::diagonal">
+  <xmbtext>斜め</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::checkerboard">
+  <xmbtext>チェッカー盤</xmbtext>
+ </stringres>
+ <stringres id="CSettingsDialog::MustRestartBrowser">
+  <xmbtext>ブラウザを再起動すると、写真フィードへのリンクを右クリックして、それらをスクリーンセーバーに追加することができます。</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::PicasaHomepage">
+  <xmbtext>http://picasa.google.com/intl/ja/#utm_source=gph-et-ja&amp;utm_medium=et&amp;utm_campaign=ja-screensaver</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs::nothingselected">
+  <xmbtext>画像ソースを無効のままにしてもよろしいですか？\nこの場合、画像は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CThemePrefs::gadgets">
+  <xmbtext>Google ガジェット</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::nothingselected">
+  <xmbtext>画像ソースを無効のままにしてもよろしいですか？\nこの場合、画像は表示されません。</xmbtext>
+ </stringres>
+ <stringres id="CGeneralPrefs_2::KBHookProc">
+  <xmbtext>スクリーンセーバーの設定をシステムのデフォルトにリセットするには [はい]、キャンセルするには [いいえ] を押してください。</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::NoFeedForEmail">
+  <xmbtext>このメールには公開フィードが含まれていないようです...</xmbtext>
+ </stringres>
+ <stringres id="CSharedPrefs::FeedTitleHeader">
+  <xmbtext>共有設定メール</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPictures">
+  <xmbtext>[マイ ピクチャ] フォルダ</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::MyPicturesRelPath">
+  <xmbtext>マイ ピクチャ\\</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalPicasa">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaScreensaverAlbum">
+  <xmbtext>Picasa スクリーンセーバー アルバム</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PicasaStarredPhotos">
+  <xmbtext>Picasa スター付き写真</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::LocalFolder">
+  <xmbtext>ローカル ファイル フォルダ</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaptionES">
+  <xmbtext>Google フォト</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACaption">
+  <xmbtext>Picasa ウェブ アルバム</xmbtext>
+ </stringres>
+ <stringres id="DazzleCollection::PWACredit">
+  <xmbtext>Google</xmbtext>
+ </stringres>
+ <stringres id="CCollectionImageEnum::LoadNextDefaultImage">
+  <xmbtext>デフォルトのアルバム（画像が見つかりません）</xmbtext>
+ </stringres>
+ <stringres id="DefaultPhotoFeedCredit">
+  <xmbtext>Google フォト</xmbtext>
+ </stringres>
+ <stringres id="RecentPhotosFeedCredit">
+  <xmbtext>Google フォト</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirm">
+  <xmbtext>アプリケーションにより、Google フォト スクリーンセーバーへのフィードの追加がリクエストされました。URL は次のとおりです。\n\n%s\n\nこのフィードを追加しますか？</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::FeedConfirmCaption">
+  <xmbtext>Google フォト スクリーンセーバー</xmbtext>
+ </stringres>
+ <stringres id="CScrPrefs::SubscriptionConfirm">
+  <xmbtext>アプリケーションにより、Google フォト スクリーンセーバーへの公開されている登録の追加がリクエストされました。\nサイト運営者のメールアドレスは次のとおりです。\n\n%s\n\nこの登録を追加しますか？</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::SaveSelWebAlbums">
+  <xmbtext>%s さんのウェブ アルバム</xmbtext>
+ </stringres>
+ <stringres id="CGooglePhotos::MyAlbumsLabel">
+  <xmbtext>マイ アルバム</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::DefaultPhotoFeedCaption">
+  <xmbtext>Google フォト フィード</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedURL">
+  <xmbtext>http://lh2.google.com/data/feed/api/all?kind=photo&amp;filter=1&amp;max-results=100&amp;alt=rss</xmbtext>
+ </stringres>
+ <stringres id="LHRSS::GetRecentPhotosFeedCaption">
+  <xmbtext>最近の写真</xmbtext>
+ </stringres>
+</resources>

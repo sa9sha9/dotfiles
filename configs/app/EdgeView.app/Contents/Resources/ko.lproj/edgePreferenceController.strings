@@ -1,0 +1,345 @@
+
+/* Class = "NSButtonCell"; title = "Swap"; ObjectID = "0so-jp-wJI"; */
+"0so-jp-wJI.title" = "좌우 반전";
+
+/* Class = "NSButtonCell"; title = "Hide in Fullscreen Mode"; ObjectID = "UJt-qh-6NW"; */
+"UJt-qh-6NW.title" = "풀스크린 표시시 감추기";
+
+/* Class = "NSMenuItem"; title = "Previous/Next File"; ObjectID = "19F-dH-evx"; */
+"19F-dH-evx.title" = "이전/다음 파일 열기";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "1Io-fv-Sot"; */
+"1Io-fv-Sot.title" = "항상 최근 읽은 페이지 열기";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "1ca-IU-XZI"; */
+"1ca-IU-XZI.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Background Color :"; ObjectID = "1xH-uJ-oQS"; */
+"1xH-uJ-oQS.title" = "배경 색상 :";
+
+/* Class = "NSTextFieldCell"; title = "Determine amount of cache pages. More cache increase loading speed."; ObjectID = "36a-wk-Bs3"; */
+"36a-wk-Bs3.title" = "캐쉬 페이지의 숫자를 결정합니다. 캐쉬를 늘리면 이미 읽은 페이지의 로딩 속도가 향상됩니다.";
+
+/* Class = "NSTextFieldCell"; title = "Determine amount of Page Skip."; ObjectID = "4bV-9g-6F6"; */
+"4bV-9g-6F6.title" = "건너뛰기 하는 페이지 숫자를 결정합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Auto Level Strength :"; ObjectID = "7H6-QM-91S"; */
+"7H6-QM-91S.title" = "자동 레벨 필터 가중치 :";
+
+/* Class = "NSTextFieldCell"; title = "Shadow Width :"; ObjectID = "7LY-ao-ZnD"; */
+"7LY-ao-ZnD.title" = "그림자 너비 비율 :";
+
+/* Class = "NSTextFieldCell"; title = "Loupe Height :"; ObjectID = "9Hz-hT-vzP"; */
+"9Hz-hT-vzP.title" = "루페 높이 :";
+
+/* Class = "NSTextFieldCell"; title = "Pages"; ObjectID = "BMM-Mk-FqY"; */
+"BMM-Mk-FqY.title" = "페이지";
+
+/* Class = "NSTextFieldCell"; title = "Pages"; ObjectID = "EWv-kQ-fJP"; */
+"EWv-kQ-fJP.title" = "페이지";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "환경설정";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "FRh-To-kSl"; */
+"FRh-To-kSl.title" = "%";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "FSD-ye-Apl"; */
+"FSD-ye-Apl.title" = "최근 설정 따르기";
+
+/* Class = "NSTextFieldCell"; title = "/ 100"; ObjectID = "IdP-Kv-SVy"; */
+"IdP-Kv-SVy.title" = "/ 100";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "Iqm-Z8-8md"; */
+"Iqm-Z8-8md.title" = "최근 설정 따르기";
+
+/* Class = "NSTextFieldCell"; title = "Cursor :"; ObjectID = "JkL-cr-PNj"; */
+"JkL-cr-PNj.title" = "커서 :";
+
+/* Class = "NSTextFieldCell"; title = "Landscape Ratio :"; ObjectID = "JyG-vd-Znk"; */
+"JyG-vd-Znk.title" = "랜드스케이프 판정 비율 :";
+
+/* Class = "NSTextFieldCell"; title = "Loupe Scale :"; ObjectID = "NhX-1A-mK4"; */
+"NhX-1A-mK4.title" = "루페 확대율 :";
+
+/* Class = "NSTextFieldCell"; title = "Skip Pages Count :"; ObjectID = "O46-AZ-JcW"; */
+"O46-AZ-JcW.title" = "건너뛰기 페이지 수 :";
+
+/* Class = "NSTextFieldCell"; title = "Remove all of history :"; ObjectID = "PUY-uW-zk8"; */
+"PUY-uW-zk8.title" = "모든 히스토리 삭제 :";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "Ptg-Za-uVE"; */
+"Ptg-Za-uVE.title" = "%";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "QLg-zE-8ap"; */
+"QLg-zE-8ap.title" = "최근 설정 따르기";
+
+/* Class = "NSTabViewItem"; label = "Effect"; ObjectID = "QRh-zb-nLZ"; */
+"QRh-zb-nLZ.label" = "특수효과";
+
+/* Class = "NSTextFieldCell"; title = "Go to last read page :"; ObjectID = "Vlt-59-X8Z"; */
+"Vlt-59-X8Z.title" = "최근 읽은 페이지 열기 :";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "WL4-5U-rxb"; */
+"WL4-5U-rxb.title" = "최근 설정 따르기";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "ZYN-kj-Tqg"; */
+"ZYN-kj-Tqg.label" = "일반";
+
+/* Class = "NSMenuItem"; title = "Always Ask"; ObjectID = "ZiQ-zy-X8X"; */
+"ZiQ-zy-X8X.title" = "항상 묻기";
+
+/* Class = "NSTabViewItem"; label = "Input"; ObjectID = "aPP-bD-vU7"; */
+"aPP-bD-vU7.label" = "입력";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "bAZ-N9-Iwe"; */
+"bAZ-N9-Iwe.title" = "첫번째 페이지부터 열기";
+
+/* Class = "NSTextFieldCell"; title = "Sharpen Bias :"; ObjectID = "cQT-20-80F"; */
+"cQT-20-80F.title" = "선명도 가중치 :";
+
+/* Class = "NSMenuItem"; title = "Double Page"; ObjectID = "ccY-nR-Esd"; */
+"ccY-nR-Esd.title" = "두 페이지 펼쳐보기";
+
+/* Class = "NSTextFieldCell"; title = "Loop Setting : "; ObjectID = "ceA-pI-gm1"; */
+"ceA-pI-gm1.title" = "루프 설정 : ";
+
+/* Class = "NSTextFieldCell"; title = "Default Effect Option : "; ObjectID = "dTN-ss-C7f"; */
+"dTN-ss-C7f.title" = "특수효과 기본 설정 :";
+
+/* Class = "NSTextFieldCell"; title = "Default Encoding : "; ObjectID = "5yX-5A-QFa"; */
+"5yX-5A-QFa.title" = "기본 문자 인코딩 :";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "eju-rc-CpB"; */
+"eju-rc-CpB.title" = "루프 없음";
+
+/* Class = "NSTextFieldCell"; title = "Black Point :"; ObjectID = "eyr-FW-f4f"; */
+"eyr-FW-f4f.title" = "블랙 포인트 :";
+
+/* Class = "NSMenuItem"; title = "Left to Right"; ObjectID = "gnJ-rj-c2a"; */
+"gnJ-rj-c2a.title" = "왼쪽에서 오른쪽으로 넘기기";
+
+/* Class = "NSTextFieldCell"; title = "Shorcut in RTL Mode :"; ObjectID = "gqc-id-dWe"; */
+"gqc-id-dWe.title" = "오른쪽에서 왼쪽 넘기기일 때 단축키 :";
+
+/* Class = "NSMenuItem"; title = "First page as Cover"; ObjectID = "hpz-Tf-vGi"; */
+"hpz-Tf-vGi.title" = "첫번째 페이지는 표지로 단독 표시";
+
+/* Class = "NSMenuItem"; title = "Right to Left"; ObjectID = "hv4-oT-0PU"; */
+"hv4-oT-0PU.title" = "오른쪽에서 왼쪽으로 넘기기";
+
+/* Class = "NSButtonCell"; title = "Remove All"; ObjectID = "i6c-VR-zX5"; */
+"i6c-VR-zX5.title" = "전체 삭제";
+
+/* Class = "NSMenuItem"; title = "Nothing to Do"; ObjectID = "iHH-dM-1hT"; */
+"iHH-dM-1hT.title" = "첫번째 페이지도 일반 페이지처럼 보기";
+
+/* Class = "NSTextFieldCell"; title = "White Point :"; ObjectID = "iNL-pO-NgB"; */
+"iNL-pO-NgB.title" = "화이트 포인트 :";
+
+/* Class = "NSButtonCell"; title = "Remember last page of books"; ObjectID = "jHi-OT-OlY"; */
+"jHi-OT-OlY.title" = "최근 읽은 페이지 히스토리를 저장";
+
+/* Class = "NSTextFieldCell"; title = "Loupe Width :"; ObjectID = "kxa-wT-b97"; */
+"kxa-wT-b97.title" = "루페 너비 :";
+
+/* Class = "NSTextFieldCell"; title = "History :"; ObjectID = "l5X-71-rtH"; */
+"l5X-71-rtH.title" = "히스토리 :";
+
+/* Class = "NSTextFieldCell"; title = "Default View Order :"; ObjectID = "lkP-Pb-av0"; */
+"lkP-Pb-av0.title" = "넘겨보기 기본 설정 :";
+
+/* Class = "NSMenuItem"; title = "Loop"; ObjectID = "noy-XE-oir"; */
+"noy-XE-oir.title" = "항상 루프로 돌려 보기";
+
+/* Class = "NSTextFieldCell"; title = "Determine Landscape Ratio of Image. Default is width 100/height 100."; ObjectID = "pCe-SP-7iA"; */
+"pCe-SP-7iA.title" = "가로 방향 이미지 여부를 판정하는 비율을 결정합니다. 기본값은 너비 100/높이 100으로 설정되어 있습니다.";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "qRt-Ws-qe2"; */
+"qRt-Ws-qe2.title" = "없음";
+
+/* Class = "NSTextFieldCell"; title = "Determine swapping of shortcut when change view order. "; ObjectID = "rll-MA-pYT"; */
+"rll-MA-pYT.title" = "페이지 이동 단축키를 페이지 넘겨보기 방향에 맞춰 반전시킬지 여부를 결정합니다.";
+
+/* Class = "NSMenuItem"; title = "Single Page"; ObjectID = "sqF-4B-Zjp"; */
+"sqF-4B-Zjp.title" = "한 페이지씩 보기";
+
+/* Class = "NSMenuItem"; title = "Always Ask"; ObjectID = "uDH-tq-K8c"; */
+"uDH-tq-K8c.title" = "항상 묻기";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "uXS-bc-GL0"; */
+"uXS-bc-GL0.label" = "표시";
+
+/* Class = "NSTextFieldCell"; title = "Default First Page Option :"; ObjectID = "vGM-iz-F9z"; */
+"vGM-iz-F9z.title" = "첫번째 페이지 기본 설정 :";
+
+/* Class = "NSTextFieldCell"; title = "Default Unfold Option :"; ObjectID = "xOJ-rM-rCQ"; */
+"xOJ-rM-rCQ.title" = "펼쳐보기 기본 설정 :";
+
+/* Class = "NSButtonCell"; title = "Don't Swap"; ObjectID = "yZb-JM-JZc"; */
+"yZb-JM-JZc.title" = "그대로 사용";
+
+/* Class = "NSTextFieldCell"; title = "Cache Count :"; ObjectID = "yqx-Dn-bjB"; */
+"yqx-Dn-bjB.title" = "캐쉬 숫자 :";
+
+/* Class = "NSTextFieldCell"; title = "You can drag loupe to resize. Also scroll wheel up and down to increase or deacrease scale."; ObjectID = "gxA-ay-5cg"; */
+"gxA-ay-5cg.title" = "드래그해서 루페 크기를 조절할 수 있습니다. 그리고 스크롤 휠을 굴려서 확대 비율을 바꿀 수도 있습니다.";
+
+/* Class = "NSTextFieldCell"; title = "Default Encoding :"; ObjectID = "F0V-Nh-XMh"; */
+"F0V-Nh-XMh.title" = "기본 문자 인코딩 :";
+
+/* Class = "NSTextFieldCell"; title = "Scroll Wheel :"; ObjectID = "c0k-u1-jpv"; */
+"c0k-u1-jpv.title" = "스크롤 휠 :";
+
+/* Class = "NSTextFieldCell"; title = "Detemine scroll wheel direction. If you want to move to previous page when scroll Down, select \"Down to Previous Page\"."; ObjectID = "Fbh-jJ-WvV"; */
+"Fbh-jJ-WvV.title" = "스크롤 휠 방향을 결정합니다. 만일 스크롤 휠을 아래로 굴릴 때 이전 페이지로 돌아가고 싶다면 \"아래로 굴릴 때 이전 페이지로\"를 선택하세요.";
+
+/* Class = "NSButtonCell"; title = "Down to Next Page"; ObjectID = "uA3-c6-sa2"; */
+"uA3-c6-sa2.title" = "아래로 굴릴 때 다음 페이지로";
+
+/* Class = "NSButtonCell"; title = "Down to Previous Page"; ObjectID = "0cu-Lf-ldf"; */
+"0cu-Lf-ldf.title" = "아래로 굴릴 때 이전 페이지로";
+
+/* Class = "NSTextFieldCell"; title = "Default Scaling :"; ObjectID = "Ejd-eq-xen"; */
+"Ejd-eq-xen.title" = "이미지 크기 조절 기본 설정 :";
+
+/* Class = "NSMenuItem"; title = "Last Setting"; ObjectID = "qds-p9-yor"; */
+"qds-p9-yor.title" = "최근 설정 따르기";
+
+/* Class = "NSMenuItem"; title = "Fit to Window"; ObjectID = "Ohu-r2-Tot"; */
+"Ohu-r2-Tot.title" = "윈도우 크기에 맞추기";
+
+/* Class = "NSMenuItem"; title = "Fit to Width"; ObjectID = "sv5-3c-cAq"; */
+"sv5-3c-cAq.title" = "윈도우 폭에 맞추기";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "pKo-gj-wjh"; */
+"pKo-gj-wjh.title" = "실제 크기";
+
+/* Class = "NSTextFieldCell"; title = "Detemine how to navigation with Trackpad. If you want to move page by swipe gesture, select \"Gesture\"."; ObjectID = "sd0-lV-fg8"; */
+"sd0-lV-fg8.title" = "트랙패드에서 페이지를 넘기는 방식을 지정합니다. 밀고 당기는 제스쳐로 페이지를 넘기고 싶다면 제스쳐를 선택하세요. 빠르게 페이지를 넘기고 싶다면 휠 방식을 사용하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Navigation With TrackPad :"; ObjectID = "X35-9J-hcI"; */
+"X35-9J-hcI.title" = "트랙패드로 페이지 넘김 :";
+
+/* Class = "NSButtonCell"; title = "Gesture"; ObjectID = "YbI-ut-ej1"; */
+"YbI-ut-ej1.title" = "제스쳐 사용";
+
+/* Class = "NSButtonCell"; title = "Wheel"; ObjectID = "NFJ-7D-Ees"; */
+"NFJ-7D-Ees.title" = "휠 사용";
+
+/* Class = "NSTabViewItem"; label = "File"; ObjectID = "Egi-Vv-Q4s"; */
+"Egi-Vv-Q4s.label" = "파일";
+
+/* Class = "NSTextFieldCell"; title = "Open Folder :"; ObjectID = "UbP-aQ-pbT"; */
+"UbP-aQ-pbT.title" = "파일 열 때 :";
+
+/* Class = "NSButtonCell"; title = "Open Enclosing Folders"; ObjectID = "CC7-H7-kfW"; */
+"CC7-H7-kfW.title" = "하위 폴더도 열기";
+
+/* Class = "NSTextFieldCell"; title = "Before Delete File :"; ObjectID = "REf-Ac-ol1"; */
+"REf-Ac-ol1.title" = "파일 삭제 전 :";
+
+/* Class = "NSButtonCell"; title = "Display Alert"; ObjectID = "nT9-7y-V77"; */
+"nT9-7y-V77.title" = "경고창 표시";
+
+/* Class = "NSTextFieldCell"; title = "After Delete File :"; ObjectID = "EWa-O7-i9o"; */
+"EWa-O7-i9o.title" = "파일 삭제 후 :";
+
+/* Class = "NSMenuItem"; title = "Display Result"; ObjectID = "Hq0-Hp-BRc"; */
+"Hq0-Hp-BRc.title" = "결과 표시";
+
+/* Class = "NSMenuItem"; title = "Open Previous File"; ObjectID = "bwG-DE-Mau"; */
+"bwG-DE-Mau.title" = "이전 파일 열기";
+
+/* Class = "NSMenuItem"; title = "Open Next File"; ObjectID = "mky-Cw-XUe"; */
+"mky-Cw-XUe.title" = "다음 파일 열기";
+
+/* Class = "NSTextFieldCell"; title = "Determine action after file deletion is comleted."; ObjectID = "gwR-0l-S07"; */
+"gwR-0l-S07.title" = "파일 삭제가 끝난 뒤 이전 파일을 열지, 다음 파일을 열지 여부를 결정합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Pinch Zoom in TrackPad :"; ObjectID = "xiR-7N-8bR"; */
+"xiR-7N-8bR.title" = "트랙패드 핀치 줌 제스쳐 :";
+
+/* Class = "NSMenuItem"; title = "Zoom In / Zoom Out"; ObjectID = "XPc-AY-F1p"; */
+"XPc-AY-F1p.title" = "확대/축소";
+
+/* Class = "NSMenuItem"; title = "Magnifier Glass  (Loupe)"; ObjectID = "yyl-g4-yV7"; */
+"yyl-g4-yV7.title" = "루페 확대 온/오프";
+
+/* Class = "NSMenuItem"; title = "Magnifier Glass  (Fit Screen)"; ObjectID = "uq8-P9-5yx"; */
+"uq8-P9-5yx.title" = "전체화면 타입 확대 온/오프";
+
+/* Class = "NSTabViewItem"; label = "Navigation Bar"; ObjectID = "Ds4-m1-mfm"; */
+"Ds4-m1-mfm.label" = "이동 막대";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Appearance :"; ObjectID = "HAO-HM-ydi"; */
+"HAO-HM-ydi.title" = "이동 막대 표시 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Postion :"; ObjectID = "dQG-3S-XTj"; */
+"dQG-3S-XTj.title" = "이동 막대 위치 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Height :"; ObjectID = "lVj-ze-mXA"; */
+"lVj-ze-mXA.title" = "이동 막대 높이 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Bar Alpha :"; ObjectID = "ltT-aY-YHV"; */
+"ltT-aY-YHV.title" = "이동 막대 투명도 :";
+
+/* Class = "NSTextFieldCell"; title = "Progressed Bar Color :"; ObjectID = "qJY-Ee-dpF"; */
+"qJY-Ee-dpF.title" = "이미 읽은 부분 색상 :";
+
+/* Class = "NSTextFieldCell"; title = "Remained Bar Color :"; ObjectID = "rFG-JD-pdH"; */
+"rFG-JD-pdH.title" = "읽지 않은 부분 색상 :";
+
+/* Class = "NSTextFieldCell"; title = "Stroke Color :"; ObjectID = "86C-w7-QwJ"; */
+"86C-w7-QwJ.title" = "선 색상 :";
+
+/* Class = "NSTextFieldCell"; title = "Bookmark Color :"; ObjectID = "5Wn-3C-1bg"; */
+"5Wn-3C-1bg.title" = "책갈피 색상 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Thumbnail Width :"; ObjectID = "nln-i0-V6h"; */
+"nln-i0-V6h.title" = "썸네일 창 너비 :";
+
+/* Class = "NSTextFieldCell"; title = "Navigation Thumbnail Height :"; ObjectID = "eqd-Ly-dCq"; */
+"eqd-Ly-dCq.title" = "썸네일 창 높이 :";
+
+/* Class = "NSButtonCell"; title = "Hide until Mouse Moved"; ObjectID = "Agf-dZ-ax8"; */
+"Agf-dZ-ax8.title" = "마우스를 움직일 때까지 감추기";
+
+/* Class = "NSButtonCell"; title = "Bottom"; ObjectID = "csr-fQ-wao"; */
+"csr-fQ-wao.title" = "아래쪽";
+
+/* Class = "NSButtonCell"; title = "Top"; ObjectID = "XU6-fq-xjV"; */
+"XU6-fq-xjV.title" = "위쪽";
+
+/* Class = "NSTextFieldCell"; title = "Background Image :"; ObjectID = "Es9-ZI-iwG"; */
+"Es9-ZI-iwG.title" = "배경 이미지 :";
+
+/* Class = "NSButtonCell"; title = "Don't Use"; ObjectID = "632-wN-DL2"; */
+"632-wN-DL2.title" = "사용하지 않음";
+
+/* Class = "NSButtonCell"; title = "Default Image"; ObjectID = "ghK-mk-XYO"; */
+"ghK-mk-XYO.title" = "기본 이미지 사용";
+
+/* Class = "NSButtonCell"; title = "Use Other Image"; ObjectID = "kuD-sD-LTy"; */
+"kuD-sD-LTy.title" = "다른 이미지 사용";
+
+/* Class = "NSButtonCell"; title = "Open..."; ObjectID = "zXF-84-Vqe"; */
+"zXF-84-Vqe.title" = "열기...";
+
+/* Class = "NSTextFieldCell"; title = "Display Background Image :"; ObjectID = "WcU-FU-P91"; */
+"WcU-FU-P91.title" = "배경 이미지 표시 :";
+
+/* Class = "NSButtonCell"; title = "While File Is Opened"; ObjectID = "Vrm-f1-nDw"; */
+"Vrm-f1-nDw.title" = "파일이 열렸을 때에도 표시";
+
+/* Class = "NSTextFieldCell"; title = "Determine page navigation by mouse click. If it's status is \"use\", you can move next/previous page by click on window."; ObjectID = "nHL-EJ-BOc"; */
+"nHL-EJ-BOc.title" = "마우스 클릭으로 페이지를 넘길지 여부를 결정합니다. \"사용\"을 선택한 경우에는 윈도우 화면을 클릭해서 이전/다음 페이지로 이동할 수 있습니다.";
+
+/* Class = "NSTextFieldCell"; title = "Navigation by Mouse Click"; ObjectID = "ngk-Ru-Crh"; */
+"ngk-Ru-Crh.title" = "마우스 클릭으로 이동";
+
+/* Class = "NSButtonCell"; title = "Use"; ObjectID = "n1F-rI-wVG"; */
+"n1F-rI-wVG.title" = "사용";
+
+/* Class = "NSButtonCell"; title = "Don't Use"; ObjectID = "evg-MT-7kN"; */
+"evg-MT-7kN.title" = "사용 안 함";

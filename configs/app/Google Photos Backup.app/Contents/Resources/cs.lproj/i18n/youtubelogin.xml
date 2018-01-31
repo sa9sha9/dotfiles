@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="youtubelogin/window1.title">
+  <xmbtext>Přihlásit se</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/label2.title">
+  <xmbtext>Zadejte své uživatelské jméno a heslo pro službu YouTube.</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup3.title">
+  <xmbtext>Uživatelské jméno:</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup5.title">
+  <xmbtext>Heslo:</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.title">
+  <xmbtext>Zapomenuté uživatelské jméno</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.url">
+  <xmbtext>http://www.youtube.com/forgot_username?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.title">
+  <xmbtext>Zapomenuté heslo</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.url">
+  <xmbtext>http://www.youtube.com/forgot?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button11.title">
+  <xmbtext>Přihlásit se</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button12.title">
+  <xmbtext>Zrušit</xmbtext>
+ </stringres>
+</resources>

@@ -5,6 +5,12 @@ if ! exists docker ; then
     brew install docker
 fi
 
+if [[ ! -x /Applications/Docker.app ]]; then
+    brew cask install docker
+fi
+
+open -a /Applications/Docker.app
+
 ## public_htmlの作成
 if [[ ! -d ${HOME}/public_html ]]; then
     mkdir -p ${HOME}/public_html
@@ -22,8 +28,11 @@ DOCKER_DIR=${HOME}/git/docker
 pushd ${DOCKER_DIR}
 
 # Fetch DAMP
-git clone https://github.com/yousan/damp.git
 DAMP_DIR=${DOCKER_DIR}/damp
+if [[ ! -d ${DAMP_DIR} ]]; then
+    git clone https://github.com/yousan/damp.git
+fi
+
 pushd ${DAMP_DIR}
 
 # start DAMP

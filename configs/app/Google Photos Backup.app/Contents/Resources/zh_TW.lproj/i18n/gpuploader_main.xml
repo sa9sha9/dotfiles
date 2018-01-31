@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_main/window.title">
+  <xmbtext>裝置與自動備份狀態</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/show_options.title">
+  <xmbtext>選項...</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_retry.title">
+  <xmbtext>重試</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_skip.title">
+  <xmbtext>略過</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/device_title.title">
+  <xmbtext>裝置</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/namecolumn.title">
+  <xmbtext>名稱</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/statuscolumn.title">
+  <xmbtext>狀態</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/import_from_device.title">
+  <xmbtext>匯入</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/exit.title">
+  <xmbtext>結束</xmbtext>
+ </stringres>
+</resources>

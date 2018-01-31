@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="youtubelogin/window1.title">
+  <xmbtext>Login</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/label2.title">
+  <xmbtext>Ipasok ang iyong username at password sa YouTube.</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup3.title">
+  <xmbtext>User name:</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/labelgroup5.title">
+  <xmbtext>Password:</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.title">
+  <xmbtext>Nakalimutan ang pangalan ng user</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link8.url">
+  <xmbtext>http://www.youtube.com/forgot_username?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.title">
+  <xmbtext>Nakalimutan ang password</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/link9.url">
+  <xmbtext>http://www.youtube.com/forgot?next=/</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button11.title">
+  <xmbtext>Mag-log in</xmbtext>
+ </stringres>
+ <stringres id="youtubelogin/button12.title">
+  <xmbtext>Kanselahin</xmbtext>
+ </stringres>
+</resources>

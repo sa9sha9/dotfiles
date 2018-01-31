@@ -1,0 +1,230 @@
+Pogoji uporabe storitev Google
+
+Dobrodošli na spletni strani Google!
+
+1. Razmerje med končnim uporabnikom in Googlom
+
+1.1 Uporaba Googlovih produktov, programske opreme, storitev in spletnih strani s strani končnega uporabnika (ki so v tem dokumentu navedeni skupno kot "Storitve"), pri čemer niso vključene vse tiste storitve, ki jih Google končnemu uporabniku zagotavlja na podlagi posebne pisne pogodbe) je urejena s pogoji pravnega sporazuma med končnim uporabnikom in Googlom. "Google" pomeni Google Inc. z glavnim krajem poslovanja 1600 Amphiteatre Parkway, Mountain View, CA 94043, Združene države Amerike. Ta dokument pojasnjuje, kako je sporazum sestavljen in določa nekatere pogoje tega sporazuma.
+
+1.2 Sporazum med končnim uporabnikom in Googlom vedno vsebuje vsaj pogoje, ki so določeni v tem dokumentu, razen če ni z Googlom drugače pisno dogovorjeno. Ti pogoji so v nadaljevanju navedeni kot "Splošni pogoji".
+
+1.3 Sporazum z Googlom poleg Splošnih pogojev vključuje tudi pogoje, ki so določeni v vseh Pravnih obvestilih, ki se nanašajo na Storitve. Vsi ti pogoji so v nadaljevanju navedeni kot "Dodatni pogoji". Kadar se Dodatni pogoji nanašajo na Storitve, bodo dostopni bodisi v okviru ali preko uporabe te Storitve.
+
+1.4 Splošni pogoji skupaj z Dodatnimi pogoji tvorijo pravno zavezujoč sporazum med končnim uporabnikom in Googlom v zvezi z uporabo Storitev. Pomembno je, da si končni uporabnik vzame čas in jih pozorno prebere. Ta pravni sporazum je v nadaljevanju naveden kot "Pogoji".
+
+1.5 Če obstaja kakšno nasprotje med tem, kar določajo Dodatni pogoji in tem, kar določajo Splošni Pogoji, imajo v povezavi s to Storitvijo Dodatni pogoji prednost.
+
+2. Sprejem Pogojev
+
+    2.1 Če želi končni uporabnik uporabljati Storitve, se mora najprej strinjati s Pogoji. Če končni uporabnik Pogojev ne sprejme, Storitev ne sme uporabljati.
+
+    2.2 Uporabnik lahko pogoje sprejme tako, da:
+
+        (A) odkljuka, da sprejema ali da se strinja s Pogoji, kadar Google za določeno Storitev to možnost končnemu uporabniku nudi v uporabniškem vmesniku; ali
+
+        (B) z dejansko uporabo Storitev. V tem primeru se uporabnik zaveda in strinja, da Google uporabo Storitev s strani končnega uporabnika šteje za sprejem Pogojev od trenutka dejanske uporabe dalje.
+
+    2.3 Končni uporabnik ne sme uporabljati Storitev in ne more sprejeti Pogojev, če (a) še ni dosegel starosti, ki jo zakon določa za pridobitev poslovne sposobnosti in tako ne more veljavno skleniti zavezujoče pogodbe z Googlom, ali (b) mu je po zakonih Združenih držav Amerike ali drugih držav, vključno z državo, v kateri ima končni uporabnik stalno prebivališče ali iz katere uporablja Storitve prepovedan dostop do Storitev.
+
+    2.4 Končni uporabnik naj pred nadaljevanjem kopijo Splošnih pogojev natisne ali shrani za svojo evidenco.
+
+3. Jezik Pogojev
+
+    3.1 Kadar Google končnemu uporabniku zagotovi prevod različice Pogojev v angleškem jeziku, se končni uporabnik strinja, da je prevod zagotovljen le z namenom lažjega razumevanja Pogojev in da se za razmerje med končnim uporabnikom in Googlom uporablja različica Pogojev v angleškem jeziku.
+
+    3.2 Če obstaja nasprotje med tem, kar določa različica v angleškem jeziku in kar določa prevod, ima prednost različica v angleškem jeziku.
+
+4. Zagotavljanje Storitev s strani Googla
+
+    4.1 Google ima hčerinske družbe in drugače povezane pravne osebe po vsem svetu ("Hčerinske družbe in Povezane družbe"). Včasih bodo končnemu uporabniku Storitve v imenu Googla zagotavljale te družbe. Končni uporabnik je seznanjen in se strinja s tem, da so mu Hčerinske družbe in Povezane družbe upravičene zagotavljati Storitve.
+
+    4.2 Z namenom, da bi svojim uporabnikom zagotovil najboljšo možno izkušnjo, se Google neprestano posodablja. Končni uporabnik je seznanjen in se strinja, da se oblika in narava Storitev, ki jih Google zagotavlja, občasno spreminjata brez predhodnega obvestila končnemu uporabniku.
+
+    4.3 Končni uporabnik je seznanjen in se strinja, da lahko Google kot del tega neprestanega posodabljanja preneha (stalno ali začasno) zagotavljati Storitve (ali katere koli funkcije v okviru te Storitve) posameznemu končnemu uporabniku ali končnim uporabnikom na splošno, po svoji lastni presoji in brez predhodnega soglasja končnega uporabnika. Končni uporabnik lahko kadar koli preneha uporabljati Storitve. Ko končni uporabnik preneha uporabljati Storitve, mu o tem ni treba posebej obveščati Googla.
+
+    4.4 Končni uporabnik je seznanjen in se strinja, da se mu lahko v primeru, da mu Google onemogoči dostop do njegovega računa, prepreči dostop do Storitev, nastavitev njegovega računa ali vseh datotek ali drugih vsebin, ki jih vsebuje njegov račun.
+
+    4.5 Končni uporabnik je seznanjen in se strinja, da Google trenutno ni določil zgornje omejitve števila prenosov, ki jih lahko končni uporabnik pošlje ali prejme preko Storitev ali velikosti prostora za shranjevanje podatkov, ki se uporablja za zagotavljanje Storitev, Google pa lahko tako zgornjo omejitev po prosti presoji določi kadar koli.
+
+5. Uporaba Storitev
+
+    5.1 Od končnega uporabnika se za dostop do določenih Storitev lahko zahteva, da posreduje podatke o sebi (na primer podatke o identifikaciji ali podatki za navezavo stikov) kot del postopka registracije ali kot del trajajoče uporabe Storitve. Končni uporabnik jamči, da bodo vsi podatki, ki jih posreduje ob registraciji, vedno točni, pravilni in ažurni.
+
+    5.2 Končni uporabnik se strinja, da bo Storitve uporabljal le v skladu z nameni, ki so dovoljeni s (a) Pogoji in z (b) ustreznimi zakoni, predpisi in splošno sprejetimi običaji ali priporočili upoštevne sodne pristojnosti (vključno z vsemi zakoni, ki se nanašajo na izvoz podatkov ali programske opreme v in iz Združenih držav Amerike ali drugih upoštevnih držav).
+
+    5.3 Končni uporabnik se strinja, da pri dostopu do storitev razen vmesnika, ki ga zagotavlja Google, ne bo uporabljal (ali ne bo poskušal uporabljati) drugih sredstev, razen če mu je to izrecno dovoljeno v ločenem sporazumu z Googlom.
+
+    5.4 Končni uporabnik se strinja, da ne bo sodeloval pri nobeni aktivnosti, ki ovira ali moti Storitve (ali strežnike in mreže, ki so povezane s Storitvami).
+
+    5.5 Končni uporabnik se strinja, da ne bo reproduciral, podvajal, kopiral, prodajal, trgoval z ali preprodajal Storitev za kakršen koli namen, razne če mu je to izrecno dovoljeno z ločenim sporazumom z Googlom.
+
+    5.6 Končni uporabnik se strinja, da je izključno odgovoren za (in da Google končnemu uporabniku ali tretji osebi ne odgovarja za) vse kršitve obveznosti, ki jih ima po teh Pogojih in za posledice teh kršitev (vključno z vsemi izgubami ali škodo, ki jih utrpi Google).
+
+6. Gesla in varnost računa končnega uporabnika
+
+    6.1 Končni uporabnik se strinja in je seznanjen s tem, da je odgovoren za varovanje zaupnosti gesel, ki so povezana z katerim koli računom, ki ga končni uporabnik uporablja za dostop do Storitev.
+
+    6.2 V skladu s tem se končni uporabnik strinja, da je Googlu izključno odgovoren za aktivnosti, ki se odvijajo v okviru njegovega računa.
+
+    6.3 Končni uporabnik se strinja, da bo v primeru, da izve za kakršno koli nepooblaščeno uporabo njegovega gesla ali njegovega računa nemudoma obvestil Google preko http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=sl.
+
+7. Zasebnost in osebni podatki končnega uporabnika
+
+    7.1 Za pridobitev informacij o praksi Googla glede zaščite podatkov, naj si končni uporabnik prebere Googlovo politiko glede zasebnosti (Privacy policy) na spletni strani http://www.google.com/intl/sl/privacy.html. Ta politika pojasnjuje, kako Google ravna z osebnimi podatki končnega uporabnika in kako varuje zasebnost končnega uporabnika, kadar ta uporablja Storitve.
+
+    7.2 Končni uporabnik se strinja z uporabo njegovih podatkov v skladu z Googlovo politiko glede zasebnosti.
+
+8. Vsebina v okviru Storitev
+
+    8.1 Končni uporabnik je seznanjen s tem, da so vse informacije (kot na primer podatkovne datoteke, pisno besedilo, računalniška programska oprema, glasba, avdio datoteke in drugi zvoki, fotografije, video posnetki, ali druge podobe), do katerih je dostopil kot del ali preko uporabe Storitev, izključna odgovornost oseb, od katerih ta vsebina izhaja. Vse navedene informacije so v nadaljevanju navedene kot "Vsebina".
+
+    8.2 Uporabnik se mora zavedati, da utegne biti Vsebina, ki mu je predstavljena kot del Storitve, vključno (vendar ne le) z oglasi v okviru Storitev in sponzorirano Vsebino v okviru Storitev, zaščitena s pravicami intelektualne lastnine, do katerih so upravičeni pokrovitelji in oglaševalci, ki s to Vsebino oskrbujejo Google (ali druge osebe ali družbe, v njihovem imenu). Končni uporabnik ne sme prilagajati, dajati v najem, dajati v lizing, posojati, prodati, distribuirati, ali ustvarjati izvedenih izdelkov, ki bi temeljili na tej Vsebini, razen če mu je to v posebnem sporazumu dovolil Google ali lastniki te Vsebine.
+
+    8.3 Google si pridržuje pravico (vendar nima obveznosti), da predhodno preveri, pregleda, označi, filtrira, prilagodi, odkloni ali odstrani kateri koli del ali celotno vsebino iz katere koli Storitve. Za nekatere Storitve lahko Google zagotovi orodja za filtriranje in izločitev določenih spolnih vsebin. Ta orodja vključujejo izbiro nastavitve SafeSearch (glej http://www.google.com/intl/sl/help/customize.html#safe). Poleg tega so na voljo komercialne storitve in programska oprema za omejitev dostopa do gradiva, ki je za končnega uporabnika sporno.
+
+    8.4 Končni uporabnik je seznanjen, da je lahko pri uporabi Storitev izpostavljen Vsebini, ki se mu zdi žaljiva, nedostojna, ali sporna in da v tem smislu Storitve uporablja na lastno odgovornost.
+
+    8.5 Končni uporabnik se strinja, da je izključno odgovoren za (in da Google končnemu uporabniku ali tretji osebi ne odgovarja za) katero koli Vsebino, ki jo ustvari, prenese ali razkrije med uporabo Storitev in za posledice teh svojih dejanj (vključno z izgubo ali škodo, ki jo lahko utrpi Google).
+
+9. Lastninske pravice
+
+    9.1 Končni uporabnik je seznanjen in se strinja, da je Google (ali uporabnik licence Googla) lastnik vseh zakonitih pravic, upravičenj in koristi, ki jih vsebujejo Storitve (ne glede na to ali so te pravice registrirane in ne glede na to kje na svetu lahko obstajajo). Poleg tega je končni uporabnik seznanjen s tem, da lahko Storitve vsebujejo informacije, ki so s strani Googla določene kot zaupne in se strinja, da teh informacij ne bo razkril brez predhodnega pisnega soglasja Googla.
+
+    9.2 Pogoji končnemu uporabniku ne dajejo pravice do uporabe katerega koli tržnega imena, blagovne znamke, storitvene znamke, logotipa, domene in drugih izrazitih zaščitnih znakov Googla, razen če se je končni uporabnik z Googlom pisno dogovoril drugače.
+
+    9.3 Če je končnemu uporabniku izrecna pravica za uporabo katerega koli od teh zaščitnih znakov podeljena v posebnem pisnem sporazumu z Googlom, se končni uporabnik strinja, da bo te zaščitne znake uporabljal v skladu s tem sporazumom, z ustreznimi določbami Pogojev in z Googlovimi priporočili glede uporabe zaščitnih znakov skupaj z občasnimi posodobitvami. Ta priporočila so na voljo na spletnem naslovu http://www.google.com/permissions/guidelines.html (ali drugem URL naslovu, ki ga Google s tem namenom občasno zagotovi).
+
+    9.4 Google je seznanjen in se strinja, da po teh Pogojih od končnega uporabnika (ali njegovega dajalca licence) razen omejene licence, ki je določena v členu 11, ne pridobi nobene pravice, upravičenja ali koristi na ali glede katere koli Vsebine, ki jo končni uporabnik predloži, objavi, prenese ali prikaže, vključno z vsemi pravicami intelektualne lastnine, ki so vključene v to Vsebino (ne glede na to ali so te pravice registrirane ali ne in ne glede na to, kje na svetu take pravice obstajajo). Končni uporabnik se strinja, da je odgovoren za varovanje in uveljavljanje teh pravic in da Google nima obveznosti, da bi navedeno izvršil v imenu končnega uporabnika, razen če se je končni uporabnik drugače pisno dogovoril z Googlom.
+
+    9.5 Končni uporabnik se strinja, da ne bo odstranil, poslabšal ali spremenil nobene pravice intelektualne lastnine (vključno z oznakami o obstoju avtorske pravice in blagovne znamke), ki spada k ali je vsebovana v Storitvi.
+
+    9.6 Končni uporabnik se strinja, da pri uporabi Storitev ne bo uporabljal nobene blagovne znamke, storitvene znamke, tržnega imena, logotipa katere koli družbe ali organizacije na način ki utegne povzročiti ali z namenom povzročiti zmedo glede lastnika ali upravičenega uporabnika teh znamk, imen in logotipov, razen če ga je Google za to izrecno pisno pooblastil.
+
+10. Licenca s strani Googla
+
+    10.1 Google daje končnemu uporabniku osebno, svetovno veljavno, brezplačno, neprenosljivo in neizključno licenco za uporabo programske opreme, ki jo Google zagotavlja končnemu uporabniku kot del Storitve, ki mu jo nudi (v nadaljevanju »Programska oprema«). Ta licenca je namenjena izključno temu, da se končnemu uporabniku omogoči, da uporablja in uživa koristi od Storitev kot jih nudi Google, na način, ki je določen s Pogoji.
+
+    10.2 Končni uporabnik ne sme (in ne sme dovoliti komur koli drugemu) kopirati, spreminjati, ustvarjati izvedenih izdelkov, izvajati povratnega inženiringa, dekompiliranja ali drugače poskušati pridobiti izvirno kodo Programske opreme ali katerega koli njenega dela, razen če mu je to izrecno dovoljeno ali je to zahtevano z zakonom, ali če mu je bilo s strani Googla to izrecno pisno dovoljeno.
+
+    10.3 Končni uporabnik ne sme prenesti (ali odobriti podlicence) svojih pravic do uporabe Programske opreme, dovoliti zavarovanja na ali glede njegove pravice do uporabe Programske opreme ali drugače prenesti katerega koli dela njegovih pravico do uporabe Programske opreme, razen če je za to dobil izrecno pisno dovoljenje Googla.
+
+11. Licenca glede vsebine s strani končnega uporabnika
+
+    11.1 Končni uporabnik obdrži avtorsko in druge pravice, ki jih že ima na Vsebini, ki jo predloži, objavi ali prikaže na ali preko Storitev. S predložitvijo, objavo in prikazom vsebine končni uporabnik Googlu podeli trajno, nepreklicno, svetovno veljavno, brezplačno in neizključno licenco za reproduciranje, prilagoditev, priredbo, prevod, objavo, javno izvedbo, javno prikazovanje in distribucijo katere koli Vsebine, ki jo preloži, objavi ali razkrije v ali preko Storitev. Ta licenca je podeljena izključno z namenom omogočiti Googlu, da razkrije, distribuira in reklamira Storitve in se lahko za določene Storitve prekliče kot je to določeno v Dodatnih pogojih za te Storitve.
+
+    11.2 Končni uporabnik se strinja, da ta licenca vključuje pravico Googla, da navedeno Vsebino naredi dostopno za druge družbe, organizacije in posameznike, s katerimi ima Google razmerje za zagotavljanje skupne storitve in ki navedeno Vsebino uporabljajo v povezavi z zagotavljanjem teh storitev.
+
+    11.3 Končni uporabnik se strinja, da sme Google, pri izvajanju potrebnih tehničnih korakov za zagotavljanje Storitev njegovim uporabnikom (a) prenesti ali distribuirati Vsebino končnega uporabnika preko različnih javnih omrežij in v različnih medijih; in (b) spremeniti Vsebino tako kot je to potrebno za njeno prilagoditev tehničnim zahtevam glede povezovanja omrežij, naprav, storitev ali medijev. Končni uporabnik se strinja, da ta licenca Googlu dovoljuje izvršitev navedenih aktivnosti.
+
+    11.4 Končni uporabnik Googlu potrjuje in jamči, da ima vse potrebne pravice, pristojnosti in pooblastila za odobritev zgoraj opredeljeno licenco.
+
+12. Nadgraditve programske opreme
+
+    12.1 Programska oprema, ki jo uporablja končni uporabnik, sme samodejno naložiti in namestiti občasne nadgraditve s strani Googla. Te nadgraditve so narejene z namenom izboljšav, povečanja zmogljivosti in nadaljnjega razvoja Storitev in lahko prevzamejo obliko kratkih programov, ki odpravi napako (hrošča) v programski opremi (bug fix), zmogljivejših funkcij, novih modulov programske opreme in popolnoma novih različic. Končni uporabnik se strinja, da bo take nadgraditve sprejel (in dovolil Googlu, da mu jih dostavi) kot del uporabe Storitev.
+
+13. Prenehanje razmerja z Googlom
+
+    13.1 Pogoji se bodo uporabljali vse do razveze s strani končnega uporabnika ali Googla v skladu s tem, kar je določeno v nadaljevanju.
+
+    13.2 Če želi končni uporabnik razvezati pravni sporazum z Googlom, lahko to stori (a) z obvestilom Googlu v katerem koli trenutku in (b) z zaprtjem računov za vse Storitve, ki jih uporablja, kjer je Google to možnost dal na voljo. Končni uporabnik mora obvestilo v pisni obliki poslati na Googlov naslov, ki je naveden na začetku teh Pogojev.
+
+    13.3 Google lahko kadar koli razveže ta pravni sporazum s končnim uporabnikom, če:
+
+        (A) je končni uporabnik kršil katero koli določbo teh Pogojev (ali je ravnal na način, ki jasno kaže na to, da ne namerava ali ni zmožen ravnati skladno s določbami Pogojev); ali
+
+        (B) je Google k temu zavezan po zakonu (na primer, če je ali postane zagotavljanje Storitev končnemu uporabniku nezakonita); ali
+
+        (C) je partner, skupaj s katerim je Google ponujal Storitve končnemu uporabniku razvezal razmerje z Googlom in prenehal ponujati Storitve končnim uporabnikom; ali
+
+        (D) bo Google prenehal z nadaljnjim zagotavljanjem l Storitev uporabnikom v državi, kjer ima končni uporabnik stalno prebivališče ali iz katere lahko uporablja storitev; ali
+
+        (E) po Googlovem mnenju, zagotavljanje Storitev končnemu uporabniku s strani Googla ni več tržno mogoče.
+
+    13.4 Nobena določba v tem členu ne bo učinkovala na pravico Googla glede zagotavljanja Storitev po členu 4 Pogojev.
+
+    13.5 Prenehanje veljavnosti Pogojev ne vpliva na nobene zakonite pravice, obveznosti in odgovornosti, od katerih sta imela Google in končni uporabnik koristi, ki so ju zavezovale (ali ki so nastale v času veljavnosti Pogojev) ali za katere je določeno, da veljajo nedoločen čas; prav tako bodo določbe člena 20.7. za te pravice, obveznosti in odgovornosti še naprej veljale za nedoločen čas.
+
+14. Izključitev jamstev
+
+    14.1 Storitve se zagotavljajo v skladu s klavzulo »videno-kupljeno« in Google, Hčerinske družbe in Povezane družbe ter njihovi dajalci licence v zvezi z njimi ne dajejo nikakršnih jamstev.
+
+    14.2 Predvsem Google, njegove Hčerinske družbe in Povezane osebe ter dajalci licence končnemu uporabniku ne zagotavljajo ali jamčijo, da:
+
+        (A) bo uporaba Storitev ustrezala zahtevam končnega uporabnika,
+
+        (B) bo uporaba Storitev nemotena, pravočasna, varna in brez napak,
+
+        (C) da bo vsaka informacij, ki jo bo pridobil končni uporabnik kot rezultat uporabe Storitev točna in zanesljiva, in
+
+        (D) bodo popravljene napake pri delovanju ali funkcionalnosti katere koli Programske opreme ki je del Storitev.
+
+    14.3 Jamstva ali drugi pogoji (vključno s katerimi koli implicitno določenimi pogoji glede zadostne kvalitete, primernosti glede na namen ali skladnost z opisom) se za Storitve ne uporabljajo, razen v obsegu ki je izrecno določen s Pogoji.
+
+    14.4 Pogoji ne vplivajo na zakonite pravice, do katerih je končni uporabnik upravičen kot potrošnik in ki se jih ne da sporazumno spremeniti ali se jim odpovedati.
+
+15. Omejitev odgovornosti
+
+    15.1 Nobena določba v Pogojih ne izključuje ali omejuje odgovornosti Googla za škodo, ki po zakonu ne more biti veljavno izključena ali omejena.
+
+    15.2 V skladu s členom 15.1. Google, njegove Hčerinske družbe in Povezane družbe ter dajalci licence končnemu uporabniku niso odgovorni za:
+
+        (A) neposredno in posredno škodo, ki jo utrpi končni uporabnik. To vključuje izgubljeni dobiček (neposredni ali posredni), izgubo dobrega imena (goodwill) ali poslovnega ugleda ali izgubo podatkov, ki bi jo utrpel končni uporabnik.
+
+        (B) nobeno izgubo ali škodo, ki jo utrpi končni uporabnik kot posledico:
+
+            (i) zanašanja končnega uporabnika na popolnost, točnost in obstoj oglasov, ali kot posledico katerega koli razmerja ali transakcije med končnim uporabnikom in katerim koli oglaševalcem ali pokroviteljem, čigar oglasi se pojavljajo pri Storitvah;
+
+            (ii) morebitnih sprememb Storitev s strani Googla, ali trajno ali začasno prenehanje zagotavljanja Storitev (ali katerih koli elementov v okviru Storitev);
+
+            (iii) izbrisa, uničenja ali neuspele shranitve katere koli Vsebine ali drugih podatkov v zvezi s komunikacijo, ki se vzdržuje ali prenaša z ali preko uporabe Storitev s strani končnega porabnika;
+
+            (ii) dejstva, da uporabnik Googlu ni zagotovil točnih podatkov v zvezi z računom;
+
+            (iv) dejstva, da končni uporabnik gesla in podatkov o računu ni zavaroval in ohranil zaupne;
+
+    15.3 Omejitve odgovornosti Googla nasproti končnemu uporabniku v členu 15.2. se uporabljajo ne glede na to, ali je bil Google seznanjen ali bi se moral zavedati možnosti nastanka take škode.
+
+16. Politika v zvezi z avtorskimi pravicami in blagovno znamko
+
+    16.1 Googlova politika je, da reagira na obvestila o domnevnih kršitvah avtorskih pravic, ki so v skladu z veljavnim mednarodnim pravom intelektualne lastnine (v Združenih državah Amerike vključno z Zakonom o digitalnih avtorskih pravicah) in da zapre račune, na katerih se kršitve ponavljajoče pojavljajo. Podrobnosti o Googlovi politiki so predstavljene na spletnem naslovu http://www.google.com/intl/sl/dmca.htm.
+
+    16.2 Google vodi postopke o pritožbah glede blagovne znamke v skladu z Googlovo oglaševalsko dejavnostjo. Podrobnosti o postopku so na voljo na spletnem naslovu http://www.google.com/intl/sl/tm_complaint.html.
+
+17. Oglasi
+
+    17.1 Nekatere Storitve so financirane s prihodki iz oglaševanja in lahko vsebujejo oglase in reklame. Ti oglasi se lahko usmerjeni na vsebino shranjenih informacij v okviru Storitev, na poizvedovanja, ki se vršijo preko Storitev ali na druge informacije.
+
+    17.2 Način, metoda in obseg oglaševanja s strani Googla v okviru Storitev se lahko spremenijo brez posebnega obvestila končnemu uporabniku.
+
+    17.3 V zvezi z odobritvijo dostopa do in z uporabo Storitev se končni uporabnik strinja, da Google v okviru Storitev naloži navedene oglase.
+
+18. Druga vsebina
+
+    18.1 Storitve lahko vsebujejo hiper povezave do drugih spletnih strani ali vsebine ali virov. Mogoče je, da Google nima nadzora nad nobenimi spletnimi stranmi ali viri, ki jih zagotavljajo druge osebe in ne Google.
+
+    18.2 Končni uporabnik je seznanjen in se strinja, da Google ni odgovoren za dostopnost katere koli od navedenih zunanjih strani ali virov in ne potrjuje nobenih oglasov, produktov in materialov na ali ki so dostopni s takih spletnih strani ali virov.
+
+    18.3 Končni uporabnik je seznanjen in se strinja, da Google ni odgovoren za izgubo ali škodo, ki jo utrpi končni uporabnik kot posledico dostopnosti teh zunanjih strani ali virov ali kot rezultat tega, da se je končni uporabnik zanašal na popolnost, pravilnost in obstoj katerega koli oglasa, produkta ali drugih materialov na ali ki so dostopni s spletnih strani ali virov.
+
+19. Spremembe Pogojev
+
+    19.1 Google lahko Splošne pogoje ali Dodatne pogoje občasno spreminja. Ko bodo te spremembe izvedene, bo Google izdelal nov izvod Splošnih pogojev, ki bodo dostopni na http://www.google.com/accounts/TOS?hl=sl, vsakršni novi Dodatni pogoji pa bodo končnemu uporabniku dostopni v okviru ali preko Storitev, na katere se spremembe nanašajo.
+
+    19.2 Končni uporabnik je seznanjen in se strinja, da bo Google štel uporabo Storitev s strani končnega uporabnika po datumu, na katerega so se Splošni pogoji in Dodatni pogoji spremenili, kot sprejem posodobljenih Splošnih pogojev in Dodatnih pogojev.
+
+20. Splošni pravni pogoji
+
+    20.1 Končni uporabnik lahko pri uporabi Storitev (kot posledica uporabe Storitev ali preko uporabe storitev) občasno uporabi storitev ali naloži del programske opreme ali kupi blago, ki ga zagotavljajo druge osebe ali družbe. Uporaba teh drugih storitev, programske opreme ali blaga je lahko podvržena posebnim pogojem med končnim uporabnikom in družbo ali osebo, ki navedeno zagotavlja. V tem primeru Pogoji ne vplivajo na razmerje med končnim uporabnikom in temi drugimi družbami ali osebami.
+
+    20.2 Pogoji predstavljajo popoln pravni sporazum med končnim uporabnikom in Googlom in se uporabljajo pri uporabi Storitev s strani končnega uporabnika (vendar ne za storitve, ki jih Google končnemu uporabniku zagotavlja na podlagi posebnega pisnega sporazuma) in v celoti nadomeščajo vse predhodne sporazume med končnim uporabnikom in Googlom v povezavi s Storitvami.
+
+    20.3 Končni uporabnik se strinja, da ga Google lahko obvešča preko elektronske pošte, navadne pošte ali z obvestili v okviru Storitev, vključno z obvestili, ki se nanašajo na spremembe Pogojev.
+
+    20.4 Končni uporabnik se strinja, da se v primeru, da Google ne izvršuje ali uveljavlja svojih pravic ali pravnih sredstev, ki jih vsebujejo Pogoji (ali do katerih je Google upravičen na podlagi veljavnih zakonov), ne domneva, da se je Google odpovedal svojim pravicam in da so pravice in pravna sredstva Googlu še vedno na voljo.
+
+    20.5 Če katero koli sodišče s pristojnostjo za odločanje v tej zadevi, odloči, da je kakšna določba Pogojev neveljavna, potem bo ta določba iz Pogojev izločena, brez da bi to vplivalo na ostale določbe Pogojev. Ostale določbe Pogojev bodo še naprej veljale in učinkovale.
+
+    20.6 Končni uporabnik je seznanjen in se strinja, da je vsak član skupine oseb, v kateri je Google družba mati, tretja oseba, ki je upravičena iz naslova Pogojev in da je taka družba upravičena, da neposredno uveljavi ali se zanaša na določbe Pogojev, s katerimi ji je podeljeno upravičenje (ali pravica v njihovo korist).
+
+    20.7 Za Pogoje in razmerje končnega uporabnika z Googlom na podlagi Pogojev se uporablja angleško pravo. Končni uporabnik in Google se strinjata, da so za reševanje pravnih vprašanj, ki izvirajo iz Pogojev izključno pristojna sodišča v Angliji. Ne glede na to pa se končni uporabnik strinja, da lahko Google kljub temu uporabi pravna sredstva sodne prepovedi (ali drugo enakovredno obliko nujnega pravnega sredstva) v kateri koli sodni pristojnosti.
+

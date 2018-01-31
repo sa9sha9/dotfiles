@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_DIALOG>
+  <res resid="#106">
+   <dtitle>
+    <xmbtext>Özellik Sayfası</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 307 241)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(225 193 300 213)">
+    <xmbtext>T&amp;amam</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(225 215 300 235)">
+    <xmbtext>İp&amp;tal et</xmbtext>
+   </item>
+   <item itemid="1007" itemtype="SysTreeView32" layout="rect(10 85 220 235)"/>
+   <item itemid="1024" itemtype="Button" layout="rect(225 85 300 105)">
+    <xmbtext>&amp;Klasör Ekle...</xmbtext>
+   </item>
+   <item itemid="1029" itemtype="Button" layout="rect(225 107 300 127)">
+    <xmbtext>Klasörü Kaldır</xmbtext>
+   </item>
+   <item itemid="1036" itemtype="Button" layout="rect(225 139 300 159)">
+    <xmbtext>&amp;Tümünü Etkinleştir</xmbtext>
+   </item>
+   <item itemid="1038" itemtype="Button" layout="rect(225 161 300 181)">
+    <xmbtext>&amp;Tümünü Devre Dışı Bırak</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Button" layout="rect(5 1 300 76)">
+    <xmbtext>Talimatlar</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(15 16 290 45)">
+    <xmbtext>İşaretlenmiş klasörlerde bulunan JPEG resimler ekran koruyucuda görüntülenecek. Ekran koruyucunun yok saymasını istediğiniz klasörlerin işaretlerini silin. </xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(15 45 295 70)">
+    <xmbtext>Ayrıca burada listelenmeyen klasörleri &quot;Klasör Ekle...&quot; düğmesini tıklayarak ekleyebilirsiniz.</xmbtext>
+   </item>
+  </res>
+  <res resid="#107">
+   <dtitle>
+    <xmbtext>Web Albümleri Ayarları</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 282 252)</dlayout>
+   <item itemid="1" itemtype="Button" layout="rect(210 231 275 245)">
+    <xmbtext>Bitti</xmbtext>
+   </item>
+   <item itemid="1047" itemtype="Edit" layout="rect(15 124 195 138)"/>
+   <item itemid="1026" itemtype="Button" layout="rect(205 104 265 118)">
+    <xmbtext>Çıkış</xmbtext>
+   </item>
+   <item itemid="1050" itemtype="Button" layout="rect(205 124 265 138)">
+    <xmbtext>Kullanıcı Değiştir</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Button" layout="rect(5 75 275 148)">
+    <xmbtext>Hesap Ayarları</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Button" layout="rect(5 5 275 70)">
+    <xmbtext>Talimatlar</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(20 17 265 65)">
+    <xmbtext>Web albümlerinizdeki resimleri otomatik olarak göstermek için giriş bilgilerinizi yazın. Giriş yaptıktan sonra, görüntülenecek çevrimiçi içeriği aşağıdaki seçenekler arasından seçebilirsiniz.</xmbtext>
+   </item>
+   <item itemid="1080" itemtype="Static" layout="rect(15 109 164 117)">
+    <xmbtext>Giriş yap:</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Button" layout="rect(5 157 275 222)">
+    <xmbtext>Seçenekler</xmbtext>
+   </item>
+   <item itemid="1056" itemtype="Button" layout="rect(15 171 267 181)">
+    <xmbtext>En son değiştirilen web albümlerimdeki resimleri görüntüle</xmbtext>
+   </item>
+   <item itemid="1058" itemtype="Button" layout="rect(40 184 268 194)">
+    <xmbtext>Listelenmeyen albümlerdeki resimleri dahil et</xmbtext>
+   </item>
+   <item itemid="1012" itemtype="Button" layout="rect(15 202 268 212)">
+    <xmbtext>Favorilerim altındaki Son Etkinlikten resimleri görüntüle </xmbtext>
+   </item>
+   <item itemid="1008" itemtype="Button" layout="rect(15 88 119 101)">
+    <xmbtext>Picasa giriş bilgilerini kullan</xmbtext>
+   </item>
+   <item itemid="1081" itemtype="Edit" layout="rect(120 88 264 101)"/>
+  </res>
+  <res resid="#124">
+   <dtitle>
+    <xmbtext>Giriş</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 237 97)</dlayout>
+   <item itemid="-1" itemtype="Static" layout="rect(10 25 70 33)">
+    <xmbtext>&amp;Kullanıcı adı:</xmbtext>
+   </item>
+   <item itemid="1048" itemtype="Edit" layout="rect(75 23 212 37)"/>
+   <item itemid="-1" itemtype="Static" layout="rect(10 49 70 57)">
+    <xmbtext>&amp;Şifre:</xmbtext>
+   </item>
+   <item itemid="1049" itemtype="Edit" layout="rect(75 46 212 60)"/>
+   <item itemid="1" itemtype="Button" layout="rect(85 76 155 90)">
+    <xmbtext>Tamam</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(160 76 230 90)">
+    <xmbtext>İptal</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 5 230 20)">
+    <xmbtext>Google Hesabı kimlik bilgilerinizi girin:</xmbtext>
+   </item>
+  </res>
+  <res resid="#137">
+   <dtitle>
+    <xmbtext>Yapılandırma Aboneliği Ayarları</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 376 214)</dlayout>
+   <item itemid="-1" itemtype="Static" layout="rect(9 9 280 17)">
+    <xmbtext>Kullanıcının belirtilenlere abone olması için bir e-posta adresi girin:</xmbtext>
+   </item>
+   <item itemid="1061" itemtype="Edit" layout="rect(9 27 315 41)"/>
+   <item itemid="1043" itemtype="Button" layout="rect(325 23 369 43)">
+    <xmbtext>Ekle</xmbtext>
+   </item>
+   <item itemid="1065" itemtype="SysListView32" layout="rect(9 59 285 206)"/>
+   <item itemid="1063" itemtype="Button" layout="rect(294 64 369 84)">
+    <xmbtext>Kaldır</xmbtext>
+   </item>
+   <item itemid="1027" itemtype="Button" layout="rect(294 111 369 131)">
+    <xmbtext>&amp;Tümünü Etkinleştir</xmbtext>
+   </item>
+   <item itemid="1031" itemtype="Button" layout="rect(294 135 369 155)">
+    <xmbtext>&amp;Tümünü Devre Dışı Bırak</xmbtext>
+   </item>
+   <item itemid="1" itemtype="Button" layout="rect(294 187 369 207)">
+    <xmbtext>Tam&amp;am</xmbtext>
+   </item>
+  </res>
+  <res resid="#138">
+   <dtitle>
+    <xmbtext>İletişim kutusu</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 322 311)</dlayout>
+   <item itemid="-1" itemtype="Static" layout="rect(15 130 35 150)">
+    <xmbtext>id=118</xmbtext>
+   </item>
+   <item itemid="1040" itemtype="Button" layout="rect(50 130 220 150)">
+    <xmbtext>Picasa</xmbtext>
+   </item>
+   <item itemid="1062" itemtype="Static" layout="rect(50 130 225 150)">
+    <xmbtext>Fotoğraflarınızı saniyeler içinde bulun, düzenleyin ve paylaşın:</xmbtext>
+   </item>
+   <item itemid="1025" itemtype="Button" layout="rect(230 130 305 150)">
+    <xmbtext>Yapılandır...</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(15 158 35 178)">
+    <xmbtext>id=126</xmbtext>
+   </item>
+   <item itemid="1044" itemtype="Button" layout="rect(50 158 220 178)">
+    <xmbtext>Web Albümleri </xmbtext>
+   </item>
+   <item itemid="1034" itemtype="Button" layout="rect(230 158 305 178)">
+    <xmbtext>Yapılandır...</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(15 187 35 207)">
+    <xmbtext>id=132</xmbtext>
+   </item>
+   <item itemid="1045" itemtype="Button" layout="rect(50 187 220 207)">
+    <xmbtext>Bilgisayarımdaki belirli klasörler</xmbtext>
+   </item>
+   <item itemid="1030" itemtype="Button" layout="rect(230 187 305 207)">
+    <xmbtext>Yapılandır...</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(15 215 36 235)">
+    <xmbtext>id=121</xmbtext>
+   </item>
+   <item itemid="1015" itemtype="Button" layout="rect(50 215 220 235)">
+    <xmbtext>Herkese açık sitelerden fotoğraflar</xmbtext>
+   </item>
+   <item itemid="1037" itemtype="Button" layout="rect(230 215 305 235)">
+    <xmbtext>Yapılandır...</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Button" layout="rect(7 118 310 243)">
+    <xmbtext>Şuradaki fotoğrafları görüntüle:</xmbtext>
+   </item>
+   <item itemid="1064" itemtype="Static" layout="rect(7 17 147 111)"/>
+   <item itemid="-1" itemtype="Static" layout="rect(7 0 195 15)">
+    <xmbtext>Ekran Koruyucu Önizlemesi</xmbtext>
+   </item>
+   <item itemid="1001" itemtype="Static" layout="rect(153 54 310 62)">
+    <xmbtext>Her %.1f saniyede bir resmi değiştir:</xmbtext>
+   </item>
+   <item itemid="1" itemtype="Button" layout="rect(130 285 215 306)">
+    <xmbtext>Tamam</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(225 285 310 306)">
+    <xmbtext>İptal</xmbtext>
+   </item>
+   <item itemid="1020" itemtype="ComboBox" layout="rect(154 31 315 49)"/>
+   <item itemid="-1" itemtype="Static" layout="rect(154 17 315 25)">
+    <xmbtext>Görsel Efekt:</xmbtext>
+   </item>
+   <item itemid="1033" itemtype="msctls_trackbar32" layout="rect(149 65 315 88)"/>
+   <item itemid="1066" itemtype="Static" layout="rect(10 250 305 280)">
+    <xmbtext>İpucu: Web tarayıcınız üzerinde fotoğraf yayınlarına yönelik bağlantıları sağ tıklayın ve &quot;Google Foto Ekran Koruyucusu&quot;nu seçin.</xmbtext>
+   </item>
+   <item itemid="1046" itemtype="Button" layout="rect(154 93 315 110)">
+    <xmbtext>Başlıkları göster</xmbtext>
+   </item>
+  </res>
+  <res resid="#140">
+   <dtitle>
+    <xmbtext>Web Albümleri</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 391 409)</dlayout>
+   <item itemid="1084" itemtype="Edit" layout="rect(87 39 284 53)"/>
+   <item itemid="1065" itemtype="Edit" layout="rect(87 55 284 69)"/>
+   <item itemid="1067" itemtype="SysListView32" layout="rect(10 75 285 168)"/>
+   <item itemid="1085" itemtype="Button" layout="rect(301 92 376 112)">
+    <xmbtext>&amp;Ekle</xmbtext>
+   </item>
+   <item itemid="1063" itemtype="Button" layout="rect(301 115 376 135)">
+    <xmbtext>Kal&amp;dır</xmbtext>
+   </item>
+   <item itemid="1072" itemtype="Button" layout="rect(301 138 376 158)">
+    <xmbtext>Web sayfasını gös&amp;ter</xmbtext>
+   </item>
+   <item itemid="1066" itemtype="SysListView32" layout="rect(11 191 286 284)"/>
+   <item itemid="1068" itemtype="Button" layout="rect(301 192 376 212)">
+    <xmbtext>&amp;Tümünü seç</xmbtext>
+   </item>
+   <item itemid="1082" itemtype="Button" layout="rect(301 215 376 235)">
+    <xmbtext>&amp;Tüm seçimleri kaldır</xmbtext>
+   </item>
+   <item itemid="1064" itemtype="Button" layout="rect(301 238 376 258)">
+    <xmbtext>&amp;Fotoğrafları Picasa&#039;ya yükle</xmbtext>
+   </item>
+   <item itemid="1071" itemtype="Button" layout="rect(301 261 376 281)">
+    <xmbtext>Web sayfasını gös&amp;ter</xmbtext>
+   </item>
+   <item itemid="1070" itemtype="SysListView32" layout="rect(13 305 288 398)"/>
+   <item itemid="2012" itemtype="Button" layout="rect(301 333 376 353)">
+    <xmbtext>&amp;Kaldır</xmbtext>
+   </item>
+   <item itemid="1083" itemtype="Button" layout="rect(301 355 376 375)">
+    <xmbtext>Tü&amp;münü kaldır</xmbtext>
+   </item>
+   <item itemid="1" itemtype="Button" layout="rect(301 14 376 34)">
+    <xmbtext>Tam&amp;am</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 18 285 31)">
+    <xmbtext>Ekran Koruyucu olarak kullanılacak web albümlerini girin</xmbtext>
+   </item>
+   <item itemid="1086" itemtype="Static" layout="rect(11 177 229 190)">
+    <xmbtext>Albüm sayısı:</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(9 40 85 53)">
+    <xmbtext>Hesap veya e-posta adı:</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(9 56 84 69)">
+    <xmbtext>Sahip adı:</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(14 291 242 302)">
+    <xmbtext>Seçili fotoğraf albümleri:</xmbtext>
+   </item>
+  </res>
+  <res resid="#141">
+   <dtitle>
+    <xmbtext>Herkese Açık Fotoğraf Siteleri</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 442 260)</dlayout>
+   <item itemid="1065" itemtype="SysListView32" layout="rect(9 22 347 173)"/>
+   <item itemid="1061" itemtype="Edit" layout="rect(9 195 287 209)"/>
+   <item itemid="1043" itemtype="Button" layout="rect(294 192 336 212)">
+    <xmbtext>Ekle</xmbtext>
+   </item>
+   <item itemid="1041" itemtype="Button" layout="rect(9 216 287 230)">
+    <xmbtext>E&amp;k fotoğraf yayını kaynakları bulmak için burayı tıklayın...</xmbtext>
+   </item>
+   <item itemid="1068" itemtype="Button" layout="rect(356 59 431 79)">
+    <xmbtext>Tümünü &amp;seç</xmbtext>
+   </item>
+   <item itemid="1082" itemtype="Button" layout="rect(356 82 431 102)">
+    <xmbtext>&amp;Tüm seçimleri kaldır</xmbtext>
+   </item>
+   <item itemid="1063" itemtype="Button" layout="rect(356 105 431 125)">
+    <xmbtext>Kaldır</xmbtext>
+   </item>
+   <item itemid="1087" itemtype="Button" layout="rect(356 128 431 148)">
+    <xmbtext>&amp;Web sayfasını görüntüle</xmbtext>
+   </item>
+   <item itemid="1" itemtype="Button" layout="rect(356 205 431 225)">
+    <xmbtext>T&amp;amam</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(356 228 431 248)">
+    <xmbtext>İp&amp;tal et</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 180 245 188)">
+    <xmbtext>Ek fotoğraf yayını kaynakları:</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(9 240 348 256)">
+    <xmbtext>İpucu: En beğendiğiniz·fotoğraf paylaşma siteleri üzerinde &quot;Yayın&quot; veya &quot;RSS&quot; şeklinde belirtilmiş bağlantıları kullanarak fotoğraf yayınlarını bulun.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(7 10 338 23)">
+    <xmbtext>Fotoğraf kaynaklarını seç:</xmbtext>
+   </item>
+  </res>
+  <res resid="#144">
+   <dtitle>
+    <xmbtext>Web Albümleri</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 341 353)</dlayout>
+   <item itemid="1006" itemtype="SysTreeView32" layout="rect(16 26 241 187)">
+    <xmbtext>Tree1</xmbtext>
+   </item>
+   <item itemid="1094" itemtype="Button" layout="rect(249 65 324 85)">
+    <xmbtext>&amp;Tümünü seç</xmbtext>
+   </item>
+   <item itemid="1095" itemtype="Button" layout="rect(249 88 324 108)">
+    <xmbtext>&amp;Tüm seçimleri kaldır</xmbtext>
+   </item>
+   <item itemid="1098" itemtype="Button" layout="rect(249 111 324 131)">
+    <xmbtext>Kal&amp;dır</xmbtext>
+   </item>
+   <item itemid="1099" itemtype="Button" layout="rect(249 134 324 154)">
+    <xmbtext>&amp;Web sayfasını görüntüle</xmbtext>
+   </item>
+   <item itemid="1102" itemtype="Edit" layout="rect(21 228 178 242)"/>
+   <item itemid="1101" itemtype="Button" layout="rect(185 226 243 243)">
+    <xmbtext>&amp;Ekle</xmbtext>
+   </item>
+   <item itemid="1100" itemtype="Static" layout="rect(21 290 179 304)">
+    <xmbtext>Statik</xmbtext>
+   </item>
+   <item itemid="1023" itemtype="Button" layout="rect(185 288 243 305)">
+    <xmbtext>Giriş</xmbtext>
+   </item>
+   <item itemid="1103" itemtype="Button" layout="rect(21 306 327 319)">
+    <xmbtext>Picasa giriş bilgilerini kullan</xmbtext>
+   </item>
+   <item itemid="1" itemtype="Button" layout="rect(179 326 254 346)">
+    <xmbtext>T&amp;amam</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(259 326 334 346)">
+    <xmbtext>İp&amp;tal et</xmbtext>
+   </item>
+   <item itemid="1097" itemtype="Button" layout="rect(7 255 334 322)">
+    <xmbtext>Hesap Ayarları</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(21 266 328 285)">
+    <xmbtext>Ekran Koruyucunuzda En Beğendiklerim altında bulunanlara ait Son Etkinliklerde bulunan resimleri görüntülemek için kullanılacak Google Hesabı:</xmbtext>
+   </item>
+   <item itemid="1096" itemtype="Button" layout="rect(7 13 334 194)">
+    <xmbtext>Ekran Koruyucu olarak kullanabileceğiniz web albümleri:</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(21 209 328 226)">
+    <xmbtext>Bir kullanıcı eklemek için, e-posta veya hesap adı girin ardından Ekle&#039;ye basın:</xmbtext>
+   </item>
+   <item itemid="1104" itemtype="Button" layout="rect(7 198 334 251)">
+    <xmbtext>Kullanıcı Ekle</xmbtext>
+   </item>
+  </res>
+  <res resid="#2003">
+   <dtitle>
+    <xmbtext>GFoto</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 282 315)</dlayout>
+  </res>
+  <res resid="#2009">
+   <dtitle>
+    <xmbtext>Özellik Sayfası</xmbtext>
+   </dtitle>
+   <dlayout>rect(0 0 270 218)</dlayout>
+   <item itemid="1046" itemtype="Button" layout="rect(53 15 250 35)">
+    <xmbtext>Ekran Koruyucu albümünden resimleri görüntüle</xmbtext>
+   </item>
+   <item itemid="1011" itemtype="Button" layout="rect(53 115 250 135)">
+    <xmbtext>Yıldızlı fotoğraflarımın tümünü görüntüle</xmbtext>
+   </item>
+   <item itemid="1" itemtype="Button" layout="rect(120 189 190 211)">
+    <xmbtext>T&amp;amam</xmbtext>
+   </item>
+   <item itemid="2" itemtype="Button" layout="rect(193 189 263 211)">
+    <xmbtext>İptal</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(29 47 244 94)">
+    <xmbtext>Ekran Koruyucusu albümündeki tüm resimleri görüntülemek için bu öğeyi etkinleştirin. Picasa’da &quot;Oluştur--&quot;Ekran Koruyucuya Ekle&quot; menü öğesini seçtiğinizde, resimler otomatik olarak Ekran Koruyucu albümüne eklenir.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(27 146 242 178)">
+    <xmbtext>Picasa’da yıldızla işaretlediğiniz tüm fotoğrafları görüntülemek için bu öğeyi etkinleştirin.</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Button" layout="rect(7 7 262 97)"/>
+   <item itemid="-1" itemtype="Button" layout="rect(7 100 262 185)"/>
+   <item itemid="-1" itemtype="Static" layout="rect(20 15 40 35)">
+    <xmbtext>id=128</xmbtext>
+   </item>
+   <item itemid="-1" itemtype="Static" layout="rect(20 116 40 136)">
+    <xmbtext>id=130</xmbtext>
+   </item>
+  </res>
+ </RT_DIALOG>
+</Win32Res>

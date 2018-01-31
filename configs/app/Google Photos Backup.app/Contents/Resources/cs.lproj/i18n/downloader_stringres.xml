@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Tato aplikace stahuje nové verze Picasy a jejích součásti.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Tato aplikace se nedá spouštět přímo</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Nelze ověřit</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Nelze se připojit</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Tato aplikace je aktualizovaná.</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Připojování k serverům Google</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Navazování spojení…</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Probíhá aktualizace Picasy </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Stahování aktualizace Picasy...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Pro provedení této akce je třeba aktivní připojení k internetu. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Nelze zkontrolovat poslední verzi na serveru Google.\n\nZkuste to prosím za několik minut znovu.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Nelze stahovat z %1$s do %2$s (%3$x). Zkontrolujte připojení k internetu a zkuste to znovu.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Novější verze Picasy je již stažena.\nNová verze se automaticky nainstaluje při příštím spuštění Picasy.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Chyba %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Chyba %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Chyba</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Soubor je důvěryhodný</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Soubor NENÍ důvěryhodný</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>Hotovo: %d %% </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>Zbývá: %1$02d:%2$02d:%3$02d</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>Zbývá: %1$02d:%2$02d.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Tato verze Picasy není aktuální a je možné, že některé online funkce nebudou fungovat správně. Chcete provést aktualizaci?</xmbtext>
+ </stringres>
+</resources>

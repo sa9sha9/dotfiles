@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_main/window.title">
+  <xmbtext>Stanje naprave in samodejnega varnostnega kopiranja</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/show_options.title">
+  <xmbtext>Možnosti ...</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_retry.title">
+  <xmbtext>Poskusi znova</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_skip.title">
+  <xmbtext>Preskoči</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/device_title.title">
+  <xmbtext>Naprave</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/namecolumn.title">
+  <xmbtext>Ime</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/statuscolumn.title">
+  <xmbtext>Stanje</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/import_from_device.title">
+  <xmbtext>Uvozi</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/exit.title">
+  <xmbtext>Izhod</xmbtext>
+ </stringres>
+</resources>

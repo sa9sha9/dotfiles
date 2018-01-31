@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_main/window.title">
+  <xmbtext>Device and Auto Backup Status</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/show_options.title">
+  <xmbtext>옵션...</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_retry.title">
+  <xmbtext>다시 시도</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/problem_skip.title">
+  <xmbtext>건너뛰기</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/device_title.title">
+  <xmbtext>기기</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/namecolumn.title">
+  <xmbtext>Name</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/statuscolumn.title">
+  <xmbtext>Status</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/import_from_device.title">
+  <xmbtext>가져오기</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_main/exit.title">
+  <xmbtext>나가기</xmbtext>
+ </stringres>
+</resources>

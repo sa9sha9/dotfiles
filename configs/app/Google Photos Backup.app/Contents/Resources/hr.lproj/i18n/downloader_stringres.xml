@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Ta aplikacija preuzima nove verzije programa Picasa i njegovih komponenti.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Ovaj program ne treba izravno pokretati</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Nije moguće provjeriti autentičnost</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Povezivanje nije moguće</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Aplikacija je ažurna</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Povezivanje s Google poslužiteljima</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Uspostava veze...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>U tijeku je ažuriranje programa Picasa </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Preuzimanje ažuriranja za program Picasa...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Za tu radnju potrebna je aktivna internetska veza. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Nije moguće potražiti najnoviju verziju na Googleovu poslužitelju.\n\nPokušajte ponovo za nekoliko minuta.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Nije moguće preuzeti s %1$s na %2$s (%3$x). Provjerite internetsku vezu i pokušajte ponovno.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Novija verzija programa Picasa već je preuzeta.\nNova će se verzija automatski instalirati kada pokrenete program Picasa.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Pogreška %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Pogreška %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Pogreška</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Datoteka je autentična</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Datoteka NIJE autentična</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d%% dovršeno, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>Preostalo: %1$02d:%2$02d:%3$02d s.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>Preostalo: %1$02d:%2$02d</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Ova verzija Picase nije ažurirana, a neke mrežne značajke možda ne funkcioniraju ispravno. Želite li sada ažurirati?</xmbtext>
+ </stringres>
+</resources>

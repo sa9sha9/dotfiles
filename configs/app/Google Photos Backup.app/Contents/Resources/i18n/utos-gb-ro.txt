@@ -1,0 +1,230 @@
+Termeni de Utilizare a Serviciilor Google
+
+Bine aţi venit la Google!
+
+1. Relaţia dvs. cu Google
+
+1.1 Utilizarea de către dvs. a produselor, aplicaţiilor software, serviciilor şi website-urilor Google (denumite în acest document în mod colectiv “Serviciile” şi excluzând orice servicii care vă sunt furnizate printr-un contract scris separat) este guvernată de termenii unui contract legal între dvs. şi Google. “Google” înseamnă Google Inc., cu sediul în 1600 Amphitheatre Parkway, Mountain View, CA 94043, Statele Unite. Acest document explică modul în care este format contractul, şi precizează câteva dintre termenii acestui contract.
+
+1.2 Cu excepţia unor înţelegeri contrare încheiate în scris cu Google, contractul dvs. cu Google va include întotdeauna, cel puţin termenii şi condiţiile prevăzute în acest document. Acestea sunt denumite în continuare “Termeni Universali”.
+
+1.3 Contractul dvs. cu Google va include de asemenea termenii tuturor Notificărilor Legale aplicabile Serviciilor, pe lângă Termenii Universali. Toate acestea sunt denumite în continuare “Termeni Suplimentari”. Atunci când Termenii Suplimentari se aplică unui Serviciu, le veţi putea consulta fie în cadrul Serviciului respectiv sau prin utilizarea de către dvs. a Serviciului respectiv.
+
+1.4 Termenii Universali, împreuna cu Termenii Suplimentari, formează un contract obligatoriu din punct de vedere legal, între dvs. şi Google în ceea ce priveşte utilizarea de către dvs. a Serviciilor. Este important să vă faceţi timp să le citiţi cu atenţie. Acest contract va fi denumit în continuare “Termenii”.
+
+1.5 Dacă există o contradicţie între prevederile Termenilor Suplimentari şi cele ale Termenilor Universali, atunci Termenii Suplimentari aplicabili Serviciului respectiv vor prevala.
+
+2. Acceptarea Termenilor
+
+    2.1 Pentru a putea utiliza Serviciile, trebuie mai întâi să acceptaţi Termenii. Nu puteţi utiliza Serviciile dacă nu acceptaţi Termenii.
+
+    2.2 Puteţi accepta Termenii în felul următor:
+
+        (A) prin selectarea opţiunii de acceptare sau agreere a Termenilor, atunci când această opţiune vă este pusă la dispoziţie de Google în interfaţa pentru utilizatori a unui Serviciu; sau
+
+        (B) prin utilizarea efectivă a Serviciilor. În acest caz, dvs. confirmaţi şi acceptaţi că Google va considera utilizarea de către dvs. a Serviciilor ca o acceptare a Termenilor începând cu momentul respectiv.
+
+    2.3 Nu puteţi utiliza Serviciile şi nu puteţi accepta Termenii dacă (a) nu aveţi vârsta legal aceptabilă pentru încheierea unui contract cu Google, sau (b) sunteţi o persoană căreia i s-a interzis primirea de Servicii conform legislaţiei din Statele Unite sau din alte ţări, inclusiv ţara în care sunteţi rezident sau ţara în care utilizaţi Serviciile.
+
+    2.4 Înainte să continuaţi, ar trebui să imprimaţi sau să salvaţi o copie a Termenilor Universali pentru evidenţa dvs.
+
+3. Limbajul Termenilor
+
+    3.1 În cazul în care Google v-a pus la dispoziţie o traducere a versiunii în limba engleză a Termenilor, atunci sunteţi de acord că traducerea este oferită doar cu scop informativ şi că relaţia dvs. cu Google va fi guvernată de versiunile în limba engleză ale Termenilor.
+
+    3.2 Dacă există o contradicţie între prevederile versiunii în limba engleză şi cele ale traducerii, atunci versiunea în limba engleză va prevala.
+
+4. Furnizarea Serviciilor Google
+
+    4.1 Google are filiale şi entităţi juridice afiliate în toată lumea (“Filiale şi Afiliaţi”). Câteodată, aceste societăţi vă vor furniza Serviciile în numele Google. Confirmaţi şi acceptaţi faptul că Filialele şi Afiliaţii au dreptul să vă furnizeze Servicii.
+
+    4.2 Google se înnoieşte în mod constant pentru a putea oferi cele mai bune servicii utilizatorilor săi. Confirmaţi şi acceptaţi faptul că forma şi natura Serviciilor pe care vi le oferă Google se poate schimba din când în când fără nici o notificare prealabilă.
+
+    4.3 De asemenea confirmaţi şi acceptaţi că în cadrul acestui proces de înnoire Google poate întrerupe (permanent sau temporar) furnizarea Serviciilor (sau a unor opţiuni din cadrul Serviciilor) către dvs. sau în general către utilizatori la libera alegere a Google, fără nici o înştiinţare prealabilă. Puteţi înceta oricând utilizarea Serviciilor. Nu sunteţi obligat să informaţi Goggle în mod specific atunci când încetaţi utilizarea Serviciilor.
+
+    4.4 Confirmaţi şi acceptaţi că în cazul în care Google vă restricţionează accesul la contul dvs., nu veţi mai putea accesa Serviciile, detaliile din contul dvs. sau fişierele sau orice alt conţinut postat în contul dvs.
+
+    4.5 Confirmaţi şi acceptaţi de asemenea că chiar dacă Google nu are în prezent stabilită o limită maximă a numărului de transmisii pe care le puteţi trimite sau primi prin intermediul Serviciilor sau a volumului spaţiului de stocare utilizat pentru furnizarea unui Serviciu, Google poate stabili oricând limite maxime fixe, la alegerea Google.
+
+5. Utilizarea Serviciilor de către dvs.
+
+    5.1 Pentru a avea acces la anumite Servicii, vi se poate solicita să furnizaţi informaţii despre dvs. (cum ar fi date de identificare sau detalii de contact) în cadrul procesului de înregistrare pentru un Serviciu, sau pentru continuarea utilizării Serviciului de către dvs. Sunteţi de acord ca toate informaţiile de înregistrare pe care le furnizaţi companiei Google vor fi întotdeauna adevărate, corecte şi de actualitate.
+
+    5.2 Sunteţi de acord să utilizaţi Serviciile doar în scopurile care vă sunt permise prin (a) Termeni şi (b) toate legile, regulamentele sau practicile sau regulile general acceptate din jurisdicţiile aplicabile (inclusiv toate legile privind exportul de date sau aplicaţii software către sau din Statele Unite sau din alte ţări relevante).
+
+    5.3 Sunteţi de acord să nu accesaţi (sau să nu încercaţi să accesaţi) nici unul dintre Servicii prin alte mijloace decât interfaţa oferită de Google, cu excepţia cazului în care vi s-a permis în mod specific să faceţi acest lucru în cadrul unui contract separat cu Google.
+
+    5.4 Sunteţi de acord să nu întreprindeţi nici o activitate care interferează cu Serviciile sau le afectează (sau serverele şi reţelele care sunt conectate la Servicii).
+
+    5.5 Cu excepţia cazului în care vi se permite expres acest lucru în cadrul unui contract separat cu Google, sunteţi de acord să nu reproduceţi, să nu duplicaţi, să nu copiaţi, să nu vindeţi, să nu comercializaţi sau să nu revindeţi Serviciile în nici un scop.
+
+    5.6 Sunteţi de acord ca sunteţi singurul responsabil (iar Google nu are nici o responsabilitate faţă de dvs. sau faţă de terţi) pentru orice încălcare a obligaţiilor dvs. prevăzute în Termeni şi pentru orice consecinţe (inclusiv orice pierderi sau prejudicii pe care le poate suferi Google) care pot apărea în urma unei asemenea încălcări.
+
+6. Securitatea parolelor şi a contului dvs.
+
+    6.1 Sunteţi de acord şi confirmaţi faptul că sunteţi responsabil să păstraţi confidenţialitatea parolelor asociate conturilor pe care le utilizaţi pentru accesarea Serviciilor.
+
+    6.2 Prin urmare, sunteţi de acord că dvs. veţi fi singura persoană responsabilă faţă de Google pentru toate activităţile care au loc în contul dvs.
+
+    6.3 Dacă aflaţi că a avut loc o utilizare neautorizată a parolei dvs. sau a contului dvs., sunteţi de acord să notificaţi imediat Google la http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=ro.
+
+7. Confidenţialitatea şi informaţiile dvs. personale
+
+    7.1 Pentru informaţii despre practicile Google privind protecţia datelor, vă rugăm să citiţi politica Google privind confidenţialitatea la http://www.google.ro/privacy.html. Această politică explică cum tratează Google informaţiile dvs. personale, şi cum vă protejează confidenţialitatea, atunci când utilizaţi Serviciile.
+
+    7.2 Sunteţi de acord cu utilizarea datelor în conformitate cu politicile Google privind confidenţialitatea.
+
+8. Conţinutul Serviciilor
+
+    8.1 Aţi luat cunoştinţă de faptul că toate informaţiile (cum ar fi fişiere de date, text scris, aplicaţii software, muzică, fişiere audio sau alte sunete, fotografii, filme sau alte imagini) la care aveţi acces ca fiind parte din Servicii sau prin utilizarea Serviciilor sunt doar răspunderea persoanei de la care originează conţinutul respectiv. Toate aceste informaţii sunt denumite în continuare “Conţinut”.
+
+    8.2 Trebuie să luaţi aminte că Conţinutul care vă este prezentat ca parte din Servicii, inclusiv dar fără a se limita la anunţurile publicitare din Servicii şi Conţinutul sponsorizat din cadrul Serviciilor pot fi protejate de drepturi de proprietate intelectuală care sunt deţinute de sponsorii sau agenţiile de publicitate care furnizează Conţinutul respectiv companiei Google (sau de alte persoane fizice sau juridice în numele acestora). Nu puteţi modifica, nu puteţi închiria, nu puteţi da cu împrumut, nu puteţi lua cu împrumut, nu puteţi vinde, nu puteţi distribui sau nu puteţi crea derivaţii din Conţinutul respectiv (fie în totalitate sau parţial), cu excepţia cazului în care vi s-a spus să faceţi acest lucru de Google sau de proprietarii Conţinutului respectiv, în cadrul unui contract separat.
+
+    8.3 Google işi rezervă dreptul (însă nu va avea nici o obligaţie) de a previzualiza, de a revizui, de a marca, de a filtra, de a modifica, de a refuza sau de a înlătura oricare dintre sau toate Conţinuturile cuprinse în orice Serviciu. Pentru anumite Servicii, Google poate furniza opţiuni de filtrare a conţinutului sexual explicit. Aceste opţiuni cuprind setări preferenţiale de SafeSearch (vezi http://www.google.ro/help/customize.html#safe). De asemenea, sunt disponibile în comerţ servicii şi aplicaţii software care limitează accesul la materiale pe care le consideraţi inacceptabile.
+
+    8.4 Aţi luat cunoştinţă de faptul că prin utilizarea Serviciilor puteţi fi expus la un Conţinut pe care îl puteţi considera ofensator, indecent sau inacceptabil şi că, în această privinţă, utilizaţi Serviciile pe riscul dvs.
+
+    8.5 Sunteţi de acord că sunteţi singura persoană responsabilă (iar Google nu are nici o responsabilitate faţă de dvs. sau faţă de terţi) pentru orice Conţinut pe care îl creaţi, transmiteţi sau postaţi atunci când utilizaţi Serviciile şi pentru consecinţele acţiunilor dvs. (inclusiv pentru orice pierdere sau prejudiciu pe care îl poate suferi Google).
+
+9. Drepturi de proprietate
+
+    9.1 Confirmaţi şi acceptaţi faptul că Google (sau licenţiatorii Google) deţin(e) toate drepturile, titlurile sau interesele legale în legătură cu Serviciile, inclusiv toate drepturile de proprietate intelectuală care se regăsesc în Servicii (fie dacă aceste drepturi sunt înregistrate sau nu, şi oriunde se găsesc în lume). Confirmaţi de asemenea că Serviciile pot conţine informaţii care sunt considerate confidenţiale de Google şi că nu veţi dezvălui aceste informaţii fără consimţământul prealabil în scris din partea Google.
+
+    9.2 Cu excepţia unor înţelegeri contrare încheiate în scris cu Google, nici o prevedere din Termeni nu vă acordă dreptul de a utiliza vreuna dintre denumirile comerciale, mărcile comerciale, mărcile de serviciu, siglele, denumirile de domeniu şi orice alte însemne distinctive ale brand-ului.
+
+    9.3 Dacă vi s-a acordat un drept explicit de utilizare a unuia dintre aceste însemne distinctive ale brand-ului în cadrul unui contract scris separat cu Google, atunci acceptaţi faptul că utilizarea de către dvs. a acestor însemne se va face în conformitate cu contractul respectiv, prevederile aplicabile din Termeni, şi regulile Google de utilizare a însemnelor de brand, cu actualizările ocazionale. Aceste reguli pot fi consultate online la http://www.google.com/permissions/guidelines.html (sau la un alt URL furnizat ocazional de Google în acest sens).
+
+    9.4 Cu excepţia licenţei limitate prevăzute la Secţiunea 11, Google confirmă şi acceptă faptul că nu obţine nici un drept, nici un titlu sau nici un interes din partea dvs. (sau a licenţiatorilor dvs.) conform acestor Termeni asupra sau din nici un Conţinut pe care îl prezentaţi, postaţi, transmiteţi sau expuneţi în, sau prin, Serviciile Google, şi nici drepturi de proprietate intelectuală asupra Conţinutului respectiv (fie dacă aceste drepturi sunt înregistrate sau nu, şi oriunde se găsesc în lume). Cu excepţia unor înţelegeri contrare încheiate în scris cu Google, sunteţi de acord că sunteţi responsabil pentru protejarea şi impunerea acestor drepturi şi că Google nu are nici o obligaţie să facă acest lucru în numele dvs.
+
+    9.5 Sunteţi de acord să nu sustrageţi, să nu ascundeţi sau să nu modificaţi în nici un fel înştiinţările privind drepturile de proprietate (inclusiv înştiinţările privind drepturile de autor sau mărcile înregistrate) care pot fi anexate sau cuprinse în cadrul Serviciilor.
+
+    9.6 Cu excepţia cazului în care aţi fost autorizat expres în scris de Google, acceptaţi faptul că prin utilizarea Serviciilor, nu veţi utiliza nici o marcă comercială, nici o marcă de serviciu, nici o denumire de comerţ, nici o siglă a unei societăţi sau organizaţii într-un mod care poate crea sau creează în mod deliberat confuzie în privinţa proprietarului sau utilizatorului autorizat al mărcilor, denumirilor sau siglelor respective.
+
+10. Licenţa de la Google
+
+    10.1 Google vă acordă o licenţă nominală, universală, fără redevenţă, care nu poate fi cesionată şi neexclusivă de utilizare a aplicaţiilor software care vă sunt furnizate de Google ca parte din Serviciile care vă sunt furnizate de Google (denumite în continuare „Aplicaţiile Software”). Această licenţă are singurul scop de a vă autoriza să utilizaţi şi să beneficiaţi de Serviciile furnizate de Google, conform prevederilor din Conditii.
+
+    10.2 Nu aveţi voie (şi nici nu puteţi să permiteţi nimănui altcuiva) să copiaţi, să modificaţi, să creaţi derivaţii din, să efectuaţi activităţi de reverse engineering, să decompilaţi sau să încercaţi în orice alt mod să extrageţi codul sursă al Aplicaţiei Software sau o parte din aceasta, cu excepţia cazului în care vi se permite sau vi se solicită acest lucru prin lege, sau cu excepţia cazului în care Google v-a instruit în mod specific să faceţi acest lucru, în scris.
+
+    10.3 Cu excepţia cazului în care Google v-a acordat în mod specific permisiunea scrisă de a face acest lucru, nu puteţi să cesionaţi (sau să sublicenţiaţi) drepturile dvs. de utilizare a Aplicaţiilor Software, nu puteţi să acordaţi o garanţie asiguratorie pentru sau asupra drepturilor dvs. de a utiliza Aplicaţiile Software, şi nu puteţi să transferaţi în nici un alt mod o parte a drepturilor dvs. de a utiliza Aplicaţiile Software.
+
+11. Licenţa pentru Conţinut de la dvs.
+
+    11.1 Dvs. vă păstraţi drepturile de autor şi orice alte drepturi pe care le deţineţi deja asupra Conţinutului pe care îl trimiteţi, postaţi sau expuneţi în cadrul sau prin intermediul Serviciilor. Prin trimiterea, postarea sau expunerea unui conţinut, dvs. acordaţi Google o licenţă perpetuă, irevocabilă, universală, fără redevenţă şi neexclusivă de a reproduce, de a adapta, de a modifica, de a translata, de a publica, de a transmite public, de a dezvălui public, şi de a distribui orice Conţinut pe care îl transmiteţi, postaţi sau expuneţi în cadrul sau prin intermediul Serviciilor. Această licenţă are singurul scop de a permite Google să expună, să distribuie şi să promoveze Serviciile şi poate fi revocată pentru anumite Servicii, conform prevederilor din Termenii Suplimentari ai Serviciilor respective.
+
+    11.2 Sunteţi de acord că această licenţă include dreptul Google de a pune acest Conţinut la dispoziţia altor societăţi, organizaţii sau persoane fizice cărora Google le furnizează servicii sindicalizate, şi de a utiliza acest Conţinut în legătură cu furnizarea acestor servicii.
+
+    11.3 Aţi luat cunoştinţă de faptul că Google, în executarea operaţiunilor tehnice necesare pentru furnizarea de Servicii către utilizatori, poate (a) transmite sau distribui Conţinutul dvs. către diverse reţele publice şi diverse mijloace media; şi (b) opera modificările necesare asupra Conţinutului dvs. astfel încât acesta să se conformeze şi să se adapteze la cerinţele tehnice ale reţelelor, aparatelor, serviciilor sau mijloacelor de legătură. Acceptaţi faptul că această licenţă îi va permite Google să facă aceste operaţiuni.
+
+    11.4 Confirmaţi şi garantaţi faţă de Google că deţineţi toate drepturile, puterile şi autoritatea în vederea acordării licenţei susmenţionate.
+
+12. Actualizarea Aplicaţiilor Software
+
+    12.1 Ocazional Aplicaţiile Software pe care le utilizaţi pot descărca sau instala automat actualizări de la Google. Aceste actualizări au rolul de a îmbunătăţi, de a spori şi de a dezvolta Serviciile şi pot fi sub forma unor remedieri de erori de programare, funcţii îmbunătăţite, noi module software sau versiuni complet noi. Sunteţi de acord să primiţi aceste actualizări (şi să permiteţi Google să vi le transmită) ca parte din utilizarea de către dvs. a Serviciilor.
+
+13. Încetarea relaţiei dvs. cu Google
+
+    13.1 Termenii vor continua să rămână în vigoare până la momentul în care sunt denunţaţi fie de dvs. sau de Google conform prevederilor de mai jos.
+
+    13.2 Dacă doriţi încetarea contractului încheiat cu Google, puteţi face acest lucru prin (a) trimiterea în orice moment a unei notificări către Google şi (b) închiderea conturilor dvs. pentru Serviciile pe care le utilizaţi, în cazul în care Google v-a acordat această opţiune. Notificarea din partea dvs. trebuie trimisă, în scris, la adresa Google menţionată la începutul acestor Termeni.
+
+    13.3 Google poate rezilia oricând acest contract legal dacă:
+
+        (A) aţi încălcat una din prevederile acestor Termeni (sau aţi acţionat într-o manieră care arată clar că nu inteţionaţi, sau nu sunteţi capabil să respectaţi prevederile Termenilor); sau
+
+        (B) Google este solicitat prin lege să facă acest lucru (de exemplu, dacă furnizarea de Servicii către dvs. este sau devine ilegală); sau
+
+        (C) partenerul împreună cu care Google v-a oferit Serviciile şi-a încetat relaţia cu Google sau a încetat să furnizeze Serviciile către dvs.; sau
+
+        (D) Google decide să nu mai furnizeze Servicii către utilizatori în ţara în care aceştia sunt rezidenţi sau în care utilizează serviciul; sau
+
+        (E) în opinia Google, furnizarea de Servicii către dvs. de Google, nu mai este viabilă din punct de vedere comercial.
+
+    13.4 Nici o prevedere din această Secţiune nu va afecta drepturile Google în privinţa Serviciilor prevăzute la Secţiunea 4 din aceşti Termeni.
+
+    13.5 Dacă aceşti Termeni expiră, toate drepturile, obligaţiile şi responsabilităţile legale de care aţi beneficiat sau pe care le-aţi avut dvs. şi Google (sau care s-au cumulat în timp pe durata valabilităţii acestor Termeni) sau care vor produce efecte în continuare, nu vor fi afectate de această încetare, iar prevederile de la alineatul 20.7 se vor aplica în continuare acestor drepturi, obligaţii şi răspunderi pe termen nelimitat.
+
+14. Excluderea de Garanţii
+
+    14.1 Serviciile sunt furnizate "ca atare" iar Google, Filialele şi Afiliaţii şi licenţiatorii săi nu vă oferă nici o garanţie în acest sens.
+
+    14.2 În special, Google, Filialele şi Afiliaţii şi licenţiatorii săi nu declară sau nu vă garantează că:
+
+        (A) utilizarea de către dvs. a Serviciilor vă va satisface cerinţele,
+
+        (B) utilizarea de către dvs. a Serviciilor se va face fără întreruperi, la timp, în siguranţă sau fără nici o eroare,
+
+        (C) orice informaţie obţinută de dvs. ca rezultat al utilizării de către dvs. a Serviciilor va fi adevărată sau demnă de încredere, şi
+
+        (D) vor fi remediate toate defecţiunile apărute în operarea sau funcţionarea unei Aplicaţii Software care vă este furnizată ca parte din Servicii.
+
+    14.3 Nici un fel de condiţii, garanţii sau orice alţi termeni (inclusiv orice termeni impliciţi cu privire la calitatea, compatibilitatea satisfăcătoare în conformitate cu descrierea) nu se vor aplica Serviciilor, cu excepţia celor prevăzute în mod expres în Termeni.
+
+    14.4 Nici o prevedere din aceşti Termeni nu va afecta drepturile legale la care sunteţi îndreptăţit oricum în calitate de consumator şi pe care nu le puteţi modifica sau la care nu puteţi renunţa conform contractului.
+
+15. Limitarea Răspunderii
+
+    15.1 Nici o prevedere din aceşti Termeni nu va exclude sau nu va limita răspunderea Google cu privire la pierderile care nu pot fi excluse sau limitate conform legislaţiei aplicabile.
+
+    15.2 Sub rezerva generală de la alineatul 15.1 de mai sus, Google, Filialele, Afiliaţii şi licenţiatorii săi nu vor fi răspunzători faţă de dvs. pentru:
+
+        (A) nici o pierdere indirectă sau pe cale de consecinţă pe care o puteţi suferi. Acestea includ orice pierderi de profit (indiferent dacă sunt suferite direct sau indirect), orice pierdere de patrimoniu sau privind reputaţia firmei, sau orice pierdere de date suferită de dvs.;
+
+        (B) orice pierdere sau prejudiciu suportat de dvs. ca urmare a:
+
+            (i) încrederii acordate de dvs. cu privire la caracterul complet, acurateţea sau existenţa unui anunţ publicitar, sau ca rezultat al unei relaţii sau tranzacţii dintre dvs. şi o agenţie de publicitate sau sponsor al cărei/cărui anunţ apare în cadrul Serviciilor;
+
+            (ii) unor modificări pe care Google le-ar putea aduce Serviciilor, fără întreruperea temporară sau permanentă a furnizării Serviciilor (sau a unor opţiuni din cadrul Serviciilor);
+
+            (iii) ştergerii, coruperii, unei erori de stocare a Conţinutului şi a altor date de comunicaţie păstrate sau transmise de sau prin intermediul utilizării Serviciilor;
+
+            (iii) nerespectării obligaţiei dvs. de a furniza informaţii corecte în cont;
+
+            (iv) nerespectării obligaţiei dvs. de a păstra confidenţialitatea şi de a asigura securitatea parolei sau a datelor din cont;
+
+    15.3 Limitările asupra răspunderii Google faţă de dvs. de la alineatul 15.2 de mai sus se aplică chiar dacă Google a fost înştiinţat sau nu, ori ar fi trebuit să aibă cunoştinţă de posibilitatea apariţiei unor astfel de pierderi.
+
+16. Politicile privind drepturile de autor şi mărcile înregistrate
+
+    16.1 Politica Google este de a răspunde notificărilor despre orice presupusă încălcare a drepturilor de autor în conformitate cu legislaţia internaţională aplicabilă privind drepturile de proprietate intelectuală (inclusiv, din Statele Unite, Legea privind Drepturile de Autor în Mileniul Digital) şi de a închide conturile persoanelor care încalcă în mod repetat aceste drepturi. Mai multe detalii privind politica Google puteţi găsi la http://www.google.ro/dmca.html.
+
+    16.2 Google are o procedură pentru reclamaţiile privind mărcile înregistrate în legătură cu activitatea publicitară a Google, ale cărei detalii pot fi găsite la http://www.google.ro/tm_complaint.html.
+
+17. Anunţuri publicitare
+
+    17.1 Anumite Servicii sunt suportate prin venituri generate de anunţuri publicitare şi pot afişa anunţuri şi promoţii publicitare. Aceste anunţuri pot avea ca ţintă conţinutul informaţiilor stocate în Servicii, interogările făcute prin intermediul Serviciilor şi alte informaţii.
+
+    17.2 Maniera, modul sau cantitatea de anunţuri publicitare pe care Google le afişează în cadrul Serviciilor fac subiectul unor modificări, fără a avea obligaţia de a vă trimite o înştiinţare în acest sens.
+
+    17.3 În schimbul faptului că Google vă acordă acces la Servicii şi dreptul de a le utiliza, dvs. acceptaţi ca Google să posteze aceste anunţuri în cadrul Serviciilor.
+
+18. Alte conţinuturi
+
+    18.1 Serviciile pot conţine hyperlink-uri către alte website-uri sau conţinuturi sau resurse. Este posibil ca Google să nu deţină control asupra nici unuia dintre aceste website-uri sau resurse care sunt furnizate de către alte societăţi sau persoane decât Google.
+
+    18.2 Confirmaţi şi acceptaţi faptul că Google nu este responsabil pentru disponibilitatea acestor site-uri şi resurse externe, şi nu subscrie la nici un anunţ publicitar, nici un produs sau orice alte materiale care sunt disponibile pe aceste site-uri sau resurse.
+
+    18.3 Confirmaţi şi acceptaţi faptul că Google nu este responsabil pentru nici o pierdere sau nici un prejudiciu pe care îl puteţi suferi ca rezultat al disponibilităţii acestor site-uri sau resurse externe, sau ca rezultat al încrederii acordate de dvs. cu privire la caracterul complet, acurateţea sau existenţa unor anunţuri publicitare, produse sau a altor materiale de pe aceste website-uri sau resurse, ori disponibile pe acestea.
+
+19. Modificarea Termenilor
+
+    19.1 Google poate modifica Termenii Universali sau Termenii Suplimentari din când în când. Atunci când se operează aceste modificări, Google va pune la dispoziţie o nouă versiune a Termenilor Universali la http://www.google.com/accounts/TOS?hl=ro şi o nouă versiune a Termenilor Suplimentari în cadrul, sau prin intermediul Serviciilor aferente.
+
+    19.2 Aţi luat cunoştinţă şi acceptaţi faptul că dacă utilizaţi Serviciile după data la care s-au schimbat Termenii Universali sau Termenii Suplimentari, Google va considera utilizarea în continuare a Serviciilor de către dvs. ca o acceptare a Termenilor Universali sau a Termenilor Suplimentari actualizaţi.
+
+20. Termeni juridici generali
+
+    20.1 Uneori când utilizaţi Serviciile, (ca rezultat al Serviciilor sau prin intermediul utilizării acestora de către dvs.) puteţi utiliza un serviciu sau puteţi descărca o aplicaţie software, sau puteţi achiziţiona bunuri, care sunt furnizate de alte persoane fizice sau juridice. Utilizarea de către dvs. a acestor alte servicii, aplicaţii software sau bunuri pot face obiectul unor termeni separaţi dintre dvs. şi societatea sau persoana respectivă. În acest caz, Termenii nu vor afecta relaţia dvs. legală cu aceste alte persoane fizice sau juridice.
+
+    20.2 Termenii reprezintă întregul acord juridic dintre dvs. şi Google şi guvernează utilizarea de către dvs. a Serviciilor (însă cu excepţia serviciilor pe care Google vi le oferă în cadrul unui contract scris separat), şi înlocuieşte complet orice aranjamente anterioare dintre dvs. şi Google în privinţa Serviciilor.
+
+    20.3 Sunteţi de acord că Google vă poate transmite înştiinţări, inclusiv cele privind modificările aduse Termenilor, prin email, poşta, sau postări în cadrul Serviciilor.
+
+    20.4 Sunteţi de acord ca, dacă Google nu exercită sau nu pune în aplicare un drept legal sau o compensaţie legală cuprins(ă) în aceşti Termeni (sau de care beneficiază Google conform oricărei legislaţii aplicabile), acest lucru să nu fie considerat ca o renunţare formală la drepturile Google şi că drepturile sau compensaţiile respective vor fi în continuare la dispoziţia Google.
+
+    20.5 Dacă orice instanţă, cu jurisdicţie de a lua hotărâri în acest caz, se pronunţă în sensul că una dintre prevederile acestor Termeni este nelegală, atunci prevederea respectivă va fi eliminată din cadrul Termenilor, fără a aduce atingere celorlalte prevederi ale Termenilor. Restul prevederilor din Termeni vor rămâne în vigoare şi vor produce efecte în continuare.
+
+    20.6 Confirmaţi şi acceptaţi faptul că fiecare membru al grupului de societăţi a cărui societate-mamă este Google, va fi beneficiarul terţ al Termenilor şi că aceste societăţi vor avea dreptul de a aplica direct, sau de a se baza pe oricare dintre prevederile acestor Termeni care le conferă beneficii (sau drepturi). Pe lângă aceştia, nici o altă persoană fizică sau juridică nu va putea fi beneficiar terţ al acestor Termeni.
+
+    20.7 Termenii şi relaţia dvs. cu Google prevăzută în aceşti Termeni, vor fi guvernate de legislaţia engleză. Dvs. şi Google sunteţi de acord să vă supuneţi jurisdicţiei exclusive a instanţelor judecătoreşti din Anglia pentru soluţionarea oricărei dispute juridice care poate apărea din aceşti Termeni. Cu toate acestea, sunteţi de acord ca Google să aibă dreptul de a solicita remedii bazate pe injoncţiuni (sau o formă echivalentă a unui demers juridic urgent) în orice jurisdicţie.
+

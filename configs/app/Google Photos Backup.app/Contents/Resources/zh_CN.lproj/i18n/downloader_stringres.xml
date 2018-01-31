@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>此应用下载新版本的 Picasa 及其组件。</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>此应用不应直接启动</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>无法进行身份验证</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>无法连接</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>此应用为最新版本。</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>正在连接 Google 服务器</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>正在建立连接...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Picasa 更新正在进行</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>正在下载 Picasa 更新...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>执行此操作需要互联网连接。</xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>无法从 Google 服务器检查最新版本。\n\n请几分钟后重试。</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>无法从%1$s下载到%2$s (%3$x)。请检查互联网连接，然后重试。</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>已经下载更新版本的 Picasa。\n在您下次运行 Picasa 时，新版本会自动安装。</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>错误 %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>错误 %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>错误</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>文件已授权</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>文件未经授权</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>已完成 %d%%，</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>剩余 %1$02d:%2$02d:%3$02d。</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>剩余 %1$02d:%2$02d。</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>此 Picasa 并非最新版本，所以有些在线功能可能无法正常运行。是否要立即更新？</xmbtext>
+ </stringres>
+</resources>

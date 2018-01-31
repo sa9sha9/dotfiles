@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="featurewindow/nextbutton" xmbdesc="Label(featurewindow/nextbutton)">
+  <xmbtext>Съществуващ потребител? Вход</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/activatebutton" xmbdesc="Label(featurewindow/activatebutton)">
+  <xmbtext>Нов потребител? Регистрирайте се!</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/moreinfobutton" xmbdesc="Label(featurewindow/moreinfobutton)">
+  <xmbtext>Научете повече</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/closebutton" xmbdesc="Label(featurewindow/closebutton)">
+  <xmbtext>Затваряне</xmbtext>
+ </action>
+</tooltips>

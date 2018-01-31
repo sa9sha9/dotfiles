@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="featurewindow/nextbutton" xmbdesc="Label(featurewindow/nextbutton)">
+  <xmbtext>Isa ka na bang gumagamit?  Mag-sign in</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/activatebutton" xmbdesc="Label(featurewindow/activatebutton)">
+  <xmbtext>Bagong gumagamit?  Magpalista?</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/moreinfobutton" xmbdesc="Label(featurewindow/moreinfobutton)">
+  <xmbtext>Dagdagan ang nalalaman</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/closebutton" xmbdesc="Label(featurewindow/closebutton)">
+  <xmbtext>Isara</xmbtext>
+ </action>
+</tooltips>

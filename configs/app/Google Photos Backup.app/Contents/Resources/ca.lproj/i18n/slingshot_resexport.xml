@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_MENU>
+  <res resid="#138">
+   <item itemid="Popup_1"/>
+   <item itemid="40005">
+    <xmbtext>Copia</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40001">
+    <xmbtext>Edita a Picasa</xmbtext>
+   </item>
+   <item itemid="40002">
+    <xmbtext>Imprimeix</xmbtext>
+   </item>
+   <item itemid="40003">
+    <xmbtext>Correu electrònic</xmbtext>
+   </item>
+   <item itemid="40004">
+    <xmbtext>Bloc</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40417">
+    <xmbtext>Càrrega ràpida</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40089">
+    <xmbtext>Ubica al disc</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40418">
+    <xmbtext>Mostra les llegendes</xmbtext>
+   </item>
+   <item itemid="-1"/>
+  </res>
+ </RT_MENU>
+</Win32Res>

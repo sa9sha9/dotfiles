@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="UploaderLogin::Title">
+  <xmbtext>Σύνδεση στο Google Photos</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderApp::UpgradeToGPlus">
+  <xmbtext>Θα πρέπει να ρυθμίσετε το λογαριασμό σας στο Google Photos για να έχετε τη δυνατότητα να χρησιμοποιήσετε το Google Photos Backup. Ανοίξτε το Google Photos για να ρυθμίσετε το λογαριασμό σας</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotos">
+  <xmbtext>Άνοιγμα Φωτογραφιών</xmbtext>
+ </stringres>
+ <stringres id="Cancel">
+  <xmbtext>Ακύρωση</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OpenPhotosTitle">
+  <xmbtext>Ρύθμιση του λογαριασμού σας στο Google Photos</xmbtext>
+ </stringres>
+ <stringres id="GooglePhotos">
+  <xmbtext>https://photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortReadingDirectory">
+  <xmbtext>Ανίχνευση φωτογραφιών (βρέθηκαν %1$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortWaiting">
+  <xmbtext>Αναμονή…</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImporting">
+  <xmbtext>Εισαγωγή  φωτογραφιών (απομένουν %1$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortUploading">
+  <xmbtext>Μεταφόρτωση αρχείων στο Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportComplete">
+  <xmbtext>Ενημερωμένο</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ShortImportFailed">
+  <xmbtext>Αποτυχία εισαγωγής</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ReadingDirectory">
+  <xmbtext>Ανάγνωση φωτογραφιών από %1$s (βρέθηκαν %2$s)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Waiting">
+  <xmbtext>Αναμονή για να ολοκληρωθεί η λήψη σε άλλη συσκευή</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Importing">
+  <xmbtext>Εισαγωγή %1$s αρχείων από %2$s, απομένουν %3$s</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportingNoTotal">
+  <xmbtext>Εισαγωγή %1$s αρχείων από %2$s</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading2">
+  <xmbtext>Μεταφόρτωση αρχείων στο Google (έχουν μεταφορτωθεί %1$d από %2$d)</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::Uploading">
+  <xmbtext>Μεταφόρτωση αρχείων στο Google</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportComplete">
+  <xmbtext>Ενημερωμένο</xmbtext>
+ </stringres>
+ <stringres id="DeviceMonitor::ImportFailed">
+  <xmbtext>Αποτυχία εισαγωγής</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::CopyFailureMessage">
+  <xmbtext>Δεν ήταν δυνατή η αντιγραφή του Google Photos Backup στις Εφαρμογές.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::LaunchFailureMessage">
+  <xmbtext>Δεν ήταν δυνατή η εκκίνηση του Google Photos Backup από τις Εφαρμογές.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Message">
+  <xmbtext>Αυτήν τη στιγμή το Google Photos Backup εκτελείται από μια εικόνα δίσκου. Θέλετε να το αντιγράψετε στο φάκελο &quot;Εφαρμογές&quot;;</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::YesButton">
+  <xmbtext>Αντιγραφή και επανεκκίνηση</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::NoButton">
+  <xmbtext>Να μη γίνει αντιγραφή</xmbtext>
+ </stringres>
+ <stringres id="GPUp::CopyFromDiskImage::Title">
+  <xmbtext>Αντιγραφή στις Εφαρμογές;</xmbtext>
+ </stringres>
+ <stringres id="GPUp::RAWNotification">
+  <xmbtext>Συμπεριλαμβάνονται πλέον αρχεία RAW εικόνων. Κάντε κλικ για να ελέγξετε τις ρυθμίσεις.</xmbtext>
+ </stringres>
+ <stringres id="GPUp::DriveSyncNotification">
+  <xmbtext>Κάντε κλικ εδώ για να δείτε σημαντικές πληροφορίες σχετικά με το συγχρονισμό του Drive</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifySingular">
+  <xmbtext>Δεν ήταν δυνατή η μεταφόρτωση 1 αρχείου. Κάντε κλικ για προβολή</xmbtext>
+ </stringres>
+ <stringres id="GPUp::UploadErrorNotifyPlural">
+  <xmbtext>Δεν ήταν δυνατή η μεταφόρτωση %d αρχείων. Κάντε κλικ για προβολή</xmbtext>
+ </stringres>
+ <stringres id="NeedsLogin">
+  <xmbtext>Συνδεθείτε στο Google</xmbtext>
+ </stringres>
+ <stringres id="UploadIdle">
+  <xmbtext>Έτοιμο</xmbtext>
+ </stringres>
+ <stringres id="UploadError">
+  <xmbtext>Παρουσιάστηκε πρόβλημα κατά τη μεταφόρτωση</xmbtext>
+ </stringres>
+ <stringres id="UploaderPaused">
+  <xmbtext>Παύση, σε αναμονή για συνέχιση.</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingLast">
+  <xmbtext>Δημιουργία αντιγράφου ασφαλείας για έως 1 νέο αρχείο.</xmbtext>
+ </stringres>
+ <stringres id="UploaderWorkingFormat">
+  <xmbtext>Δημιουργία αντιγράφων ασφαλείας για %1$s νέα αρχεία, απομένουν %2$s.</xmbtext>
+ </stringres>
+ <stringres id="ScanningDisk">
+  <xmbtext>Αναζήτηση για φωτογραφίες</xmbtext>
+ </stringres>
+ <stringres id="UploaderState::Completed">
+  <xmbtext>Ολοκληρώθηκε η μεταφόρτωση %s φωτογραφιών</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Idle">
+  <xmbtext>Δημιουργήθηκαν αντίγραφα ασφαλείας για %s φωτογραφίες</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::RetryError">
+  <xmbtext>Επανάληψη</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::SkipError">
+  <xmbtext>Παράλειψη</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Login">
+  <xmbtext>Σύνδεση στο Google Photos</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Resume">
+  <xmbtext>Συνέχιση δημιουργίας αντιγράφων ασφαλείας</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::Pause">
+  <xmbtext>Παύση δημιουργίας αντιγράφου ασφαλείας</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::FileError">
+  <xmbtext>Προβολή αποτυχημένων προσπαθειών δημιουργίας αντιγράφων ασφαλείας…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewRecentPhotos">
+  <xmbtext>Δείτε τις φωτογραφίες που ανεβάσατε</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Menu::ViewPhotosOnline">
+  <xmbtext>Μετάβαση στο Google Photos</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsMac">
+  <xmbtext>Προτιμήσεις…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowOptionsWindows">
+  <xmbtext>Ρυθμίσεις...</xmbtext>
+ </stringres>
+ <stringres id="GPUp::HelpMenu">
+  <xmbtext>Βοήθεια</xmbtext>
+ </stringres>
+ <stringres id="GPUp::About">
+  <xmbtext>Σχετικά με…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::FileStatus">
+  <xmbtext>Κατάσταση αρχείου…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::ShowDebug">
+  <xmbtext>Παράθυρο εντοπισμού σφαλμάτων…</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Quit">
+  <xmbtext>Έξοδος</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Initializing">
+  <xmbtext>Αναζήτηση για φωτογραφίες</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Paused">
+  <xmbtext>Η δημιουργία αντιγράφων ασφαλείας τέθηκε σε παύση</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Stopped">
+  <xmbtext>Δεν έχετε συνδεθεί</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Uploading">
+  <xmbtext>Δημιουργία αντιγράφων ασφαλείας φωτογραφιών (απομένουν %1$s)</xmbtext>
+ </stringres>
+ <stringres id="GPUp::Status::Invalid">
+  <xmbtext>Άγνωστη κατάσταση</xmbtext>
+ </stringres>
+ <stringres id="GPUp::OnBeforeQuitConfirmation::Message">
+  <xmbtext>Η λειτουργία Backup εκτελείται αυτήν τη στιγμή.\nΗ έξοδος από την εφαρμογή συνεπάγεται ακύρωση των εργασιών μεταφόρτωσης που βρίσκονται σε εκκρεμότητα.\nΕίστε βέβαιοι ότι θέλετε να αποχωρήσετε;</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderAppTitle">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="GPUImplicitLogout">
+  <xmbtext>Τα διαπιστευτήρια ανακλήθηκαν. Συνδεθείτε ξανά.</xmbtext>
+ </stringres>
+ <stringres id="LowStorageText">
+  <xmbtext>Έχετε χρησιμοποιήσει το 75% του αποθηκευτικού χώρου Google Drive. Κάντε κλικ, για να αποκτήσετε περισσότερο αποθηκευτικό χώρο</xmbtext>
+ </stringres>
+ <stringres id="DriveSyncVisitError">
+  <xmbtext>Δεν είναι δυνατό το άνοιγμα του προγράμματος περιήγησης για προβολή των πληροφοριών συγχρονισμού του Drive.</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::days">
+  <xmbtext>ημέρες</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::hours">
+  <xmbtext>ώρες</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::minutes">
+  <xmbtext>λεπτά</xmbtext>
+ </stringres>
+ <stringres id="uploadmgr::seconds">
+  <xmbtext>δευτερόλεπτα</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_quota">
+  <xmbtext>Αρχικό μέγεθος (απομένουν %s αποθηκευτικού χώρου)</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited">
+  <xmbtext>Αρχικό μέγεθος</xmbtext>
+ </stringres>
+ <stringres id="free_size_with_unlimited">
+  <xmbtext>Υψηλή ποιότητα</xmbtext>
+ </stringres>
+ <stringres id="full_size_with_unlimited_desc">
+  <xmbtext>Πλήρης ανάλυση στην αρχική ποιότητα</xmbtext>
+ </stringres>
+ <stringres id="GPUConfirmQuit">
+  <xmbtext>Τερματισμός του Backup;</xmbtext>
+ </stringres>
+ <stringres id="Quit">
+  <xmbtext>Έξοδος</xmbtext>
+ </stringres>
+ <stringres id="il_Cancel">
+  <xmbtext>Ακύρωση</xmbtext>
+ </stringres>
+ <stringres id="AddWatchedFolderTitle">
+  <xmbtext>Προσθήκη παρακολουθούμενων φακέλων</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutHeader">
+  <xmbtext>Αποσύνδεση από το Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="GPUp::SignOutText">
+  <xmbtext>Αν αποσυνδεθείτε, δεν θα είναι δυνατή η δημιουργία αντιγράφου ασφαλείας για φωτογραφίες.</xmbtext>
+ </stringres>
+ <stringres id="LogoutButton">
+  <xmbtext>Αποσύνδεση</xmbtext>
+ </stringres>
+ <stringres id="CancelLogout">
+  <xmbtext>Ακύρωση</xmbtext>
+ </stringres>
+ <stringres id="GoogleDriveFolderName">
+  <xmbtext>Google Drive</xmbtext>
+ </stringres>
+ <stringres id="PicasaFolderName">
+  <xmbtext>Picasa</xmbtext>
+ </stringres>
+ <stringres id="gpuploader:default_tooltip">
+  <xmbtext>Σε αδράνεια</xmbtext>
+ </stringres>
+ <stringres id="UploadError::NoConnection">
+  <xmbtext>Δεν υπάρχει σύνδεση</xmbtext>
+ </stringres>
+ <stringres id="album_hint::rootpath">
+  <xmbtext>Φωτογραφίες</xmbtext>
+ </stringres>
+ <stringres id="Prefs::DeviceItem">
+  <xmbtext>Φωτογραφικές μηχανές και κάρτες αποθήκευσης</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotosWithAperture">
+  <xmbtext>Βιβλιοθήκες iPhoto και Aperture</xmbtext>
+ </stringres>
+ <stringres id="Prefs::Aperture">
+  <xmbtext>Βιβλιοθήκη Aperture</xmbtext>
+ </stringres>
+ <stringres id="Prefs::iPhotos">
+  <xmbtext>Βιβλιοθήκη iPhoto</xmbtext>
+ </stringres>
+ <stringres id="Prefs::ApplePhotos">
+  <xmbtext>Βιβλιοθήκη Φωτογραφιών Apple</xmbtext>
+ </stringres>
+ <stringres id="WelcomeDialog:LoggedInFormat">
+  <xmbtext>Σύνδεση ως %s</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckFailed">
+  <xmbtext>Δεν ήταν δυνατός ο έλεγχος για ενημερώσεις για το Google+ Auto Backup. Δοκιμάστε ξανά αργότερα.</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UpToDate">
+  <xmbtext>Το Google+ Auto Backup είναι ενημερωμένο</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::UnknownCheckError">
+  <xmbtext>Προέκυψε ένα σφάλμα κατά τον έλεγχο για ενημερώσεις. Δοκιμάστε ξανά αργότερα.</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::SuccessTitle">
+  <xmbtext>Ο έλεγχος για ενημερώσεις ολοκληρώθηκε</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::ErrorTitle">
+  <xmbtext>Σφάλμα ενημέρωσης</xmbtext>
+ </stringres>
+ <stringres id="GPUploaderKeystone::CheckTimedOut">
+  <xmbtext>Ο έλεγχος για ενημερώσεις έληξε. Δοκιμάστε ξανά αργότερα.</xmbtext>
+ </stringres>
+ <stringres id="StatusIcon:MenuTitle">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="ytApp::JPEGFilter">
+  <xmbtext>Αρχεία JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ErrorTitle">
+  <xmbtext>Σφάλμα</xmbtext>
+ </stringres>
+ <stringres id="ytApp::MemErrorPrompt">
+  <xmbtext>Παρουσιάστηκε σφάλμα στη μνήμη.</xmbtext>
+ </stringres>
+ <stringres id="ytApp::InfoTitle">
+  <xmbtext>Πληροφορίες</xmbtext>
+ </stringres>
+ <stringres id="ytZoomString::Value">
+  <xmbtext>Εφαρμόστηκε εστίαση στο %3.0f%%</xmbtext>
+ </stringres>
+ <stringres id="il_OKButton">
+  <xmbtext>OK</xmbtext>
+ </stringres>
+ <stringres id="il_Yes">
+  <xmbtext>Ναι</xmbtext>
+ </stringres>
+ <stringres id="il_No">
+  <xmbtext>Όχι</xmbtext>
+ </stringres>
+ <stringres id="ytApp::ConfirmTitle">
+  <xmbtext>Επιβεβαίωση</xmbtext>
+ </stringres>
+ <stringres id="February">
+  <xmbtext>Φεβρουάριος</xmbtext>
+ </stringres>
+ <stringres id="March">
+  <xmbtext>Μάρτιος</xmbtext>
+ </stringres>
+ <stringres id="April">
+  <xmbtext>Απρίλιος</xmbtext>
+ </stringres>
+ <stringres id="May">
+  <xmbtext>Μάιος</xmbtext>
+ </stringres>
+ <stringres id="June">
+  <xmbtext>Ιούνιος</xmbtext>
+ </stringres>
+ <stringres id="July">
+  <xmbtext>Ιούλιος</xmbtext>
+ </stringres>
+ <stringres id="August">
+  <xmbtext>Αύγουστος</xmbtext>
+ </stringres>
+ <stringres id="September">
+  <xmbtext>Σεπτέμβριος</xmbtext>
+ </stringres>
+ <stringres id="October">
+  <xmbtext>Οκτώβριος</xmbtext>
+ </stringres>
+ <stringres id="November">
+  <xmbtext>Νοέμβριος</xmbtext>
+ </stringres>
+ <stringres id="December">
+  <xmbtext>Δεκέμβριος</xmbtext>
+ </stringres>
+ <stringres id="Jan">
+  <xmbtext>Ιαν.</xmbtext>
+ </stringres>
+ <stringres id="Feb">
+  <xmbtext>Φεβ.</xmbtext>
+ </stringres>
+ <stringres id="Mar">
+  <xmbtext>Μάρ.</xmbtext>
+ </stringres>
+ <stringres id="Apr">
+  <xmbtext>Απρ.</xmbtext>
+ </stringres>
+ <stringres id="Abbreviation::May">
+  <xmbtext>Μάιος</xmbtext>
+ </stringres>
+ <stringres id="Jun">
+  <xmbtext>Ιούν.</xmbtext>
+ </stringres>
+ <stringres id="Jul">
+  <xmbtext>Ιούλ.</xmbtext>
+ </stringres>
+ <stringres id="Aug">
+  <xmbtext>Αύγ.</xmbtext>
+ </stringres>
+ <stringres id="Sep">
+  <xmbtext>Σεπτ.</xmbtext>
+ </stringres>
+ <stringres id="Oct">
+  <xmbtext>Οκτ.</xmbtext>
+ </stringres>
+ <stringres id="Nov">
+  <xmbtext>Νοέμ.</xmbtext>
+ </stringres>
+ <stringres id="Dec">
+  <xmbtext>Δεκ</xmbtext>
+ </stringres>
+ <stringres id="January">
+  <xmbtext>Ιανουάριος</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format1">
+  <xmbtext>%1$s %2$d, %3$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format2">
+  <xmbtext>%1$s %2$d</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format3">
+  <xmbtext>%1$d:%2$02d:%3$02d %4$cΜ</xmbtext>
+ </stringres>
+ <stringres id="ytDateTime::Format4">
+  <xmbtext>%1$.2d:%2$.2d:%3$.2d</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigB">
+  <xmbtext>%.0f byte</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigKB">
+  <xmbtext>%.0f KB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigMB">
+  <xmbtext>%.1f MB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigGB">
+  <xmbtext>%.1f GB</xmbtext>
+ </stringres>
+ <stringres id="il_FormatBigTB">
+  <xmbtext>%.1f TB</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::videotype">
+  <xmbtext>Βίντεο: %s</xmbtext>
+ </stringres>
+ <stringres id="ytDSMovie::audiotype">
+  <xmbtext>Ήχος:%1$s%2$d bit %3$.1fK %4$d Καν.</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyPictures">
+  <xmbtext>Φωτογραφίες</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Desktop">
+  <xmbtext>Επιφάνεια εργασίας</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyMusic">
+  <xmbtext>Μουσική</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyVideos">
+  <xmbtext>Ταινίες</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::MyDocuments">
+  <xmbtext>Έγγραφα</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::ApplicationData">
+  <xmbtext>Βιβλιοθήκη/Υποστήριξη εφαρμογής</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::CommonApplicationData">
+  <xmbtext>Βιβλιοθήκη/Υποστήριξη εφαρμογής</xmbtext>
+ </stringres>
+ <stringres id="MacSystemPaths::Library">
+  <xmbtext>Βιβλιοθήκη</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyPictures">
+  <xmbtext>Οι φωτογραφίες μου</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::Desktop">
+  <xmbtext>Επιφάνεια εργασίας</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyMusic">
+  <xmbtext>Η μουσική μου</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyVideos">
+  <xmbtext>Τα βίντεό μου</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::MyDocuments">
+  <xmbtext>Τα έγγραφά μου</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::ApplicationData">
+  <xmbtext>Δεδομένα εφαρμογής</xmbtext>
+ </stringres>
+ <stringres id="WinSystemPaths::CommonApplicationData">
+  <xmbtext>Κοινά δεδομένα εφαρμογής</xmbtext>
+ </stringres>
+ <stringres id="ytFileUtils::CopyProgress">
+  <xmbtext>%1$s από %2$s</xmbtext>
+ </stringres>
+ <stringres id="BinaryMetadata::GetString">
+  <xmbtext>{%d byte}</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Yes">
+  <xmbtext>Ναι</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::No">
+  <xmbtext>Όχι</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:4">
+  <xmbtext>YCbCr 4:4:4</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:0">
+  <xmbtext>YCbCr 4:4:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:4:1">
+  <xmbtext>YCbCr 4:4:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:2">
+  <xmbtext>YCbCr 4:2:2</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:0">
+  <xmbtext>YCbCr 4:2:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:2:1">
+  <xmbtext>YCbCr 4:2:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:1">
+  <xmbtext>YCbCr 4:1:1</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::YCbCr4:1:0">
+  <xmbtext>YCbCr 4:1:0</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime1">
+  <xmbtext>%sδ.</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ExposureTime2">
+  <xmbtext> (1/%d)</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashUsed">
+  <xmbtext>Χρησιμοποιείται</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FlashNotUsed">
+  <xmbtext>Δεν χρησιμοποιείται</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat" meaning="GPS Coordinates - Hours Minutes&#039;Seconds">
+  <xmbtext>%1$s %2$s\&#039;%3$s\&quot;</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::GPSFormat2">
+  <xmbtext> %s</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::UnnamedColorProfile">
+  <xmbtext>Χρωματικό προφίλ χωρίς όνομα</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileName">
+  <xmbtext>Όνομα χρωματικού προφίλ</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::ColorProfileDescription">
+  <xmbtext>Περιγραφή χρωματικού προφίλ</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::sRGB">
+  <xmbtext>sRGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::AdobeRGB">
+  <xmbtext>Adobe RGB</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Uncalibrated">
+  <xmbtext>Χωρίς διαβάθμιση</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::DimensionsFormat">
+  <xmbtext>%1$d x %2$d εικονοστοιχεία</xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::2">
+  <xmbtext>%1$sΜήκος Εστίασης: %2$3.1fmm  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::3">
+  <xmbtext>(35 mm ισούνται με:%3.0fmm)  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::4">
+  <xmbtext>1/%ds  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::5">
+  <xmbtext>%2.1fδ.  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::6">
+  <xmbtext>f/%3.1f  </xmbtext>
+ </stringres>
+ <stringres id="il_PrintExif::7">
+  <xmbtext>ISO: %2d</xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::Flash">
+  <xmbtext>flash </xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::iso">
+  <xmbtext> iso:%d </xmbtext>
+ </stringres>
+ <stringres id="ytJPGExifS::focal">
+  <xmbtext> εστιακό:%d </xmbtext>
+ </stringres>
+ <stringres id="EXIF::Elipses">
+  <xmbtext>... (%d σύνολο)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::GetTitle">
+  <xmbtext>EXIF (%1$s:0x%2$X)</xmbtext>
+ </stringres>
+ <stringres id="ytEXIFMetadata::UndefinedOut">
+  <xmbtext>{%d byte}</xmbtext>
+ </stringres>
+ <stringres id="ytIPTCMetadata::GetString">
+  <xmbtext>%1$d:%2$d %3$d byte</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Enter">
+  <xmbtext>Enter</xmbtext>
+ </stringres>
+ <stringres id="CMenuBar::Delete">
+  <xmbtext>Διαγραφή</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::CtrlPrefix">
+  <xmbtext>Ctrl+</xmbtext>
+ </stringres>
+ <stringres id="ytMesu::ShiftPrefix">
+  <xmbtext>Shift+</xmbtext>
+ </stringres>
+ <stringres id="ytMenu::AltPrefix">
+  <xmbtext>Alt+</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d%% ολοκληρώθηκε, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>%1$02d:%2$02d:%3$02dδ απομένουν.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>%1$02d:%2$02d απομένουν.</xmbtext>
+ </stringres>
+ <stringres id="ytResampler::Prog">
+  <xmbtext>Επεξεργασία....</xmbtext>
+ </stringres>
+ <stringres id="ytResMgr::LoadError">
+  <xmbtext>Παρουσιάστηκαν σφάλματα κατά την εκκίνηση της εφαρμογής αυτής.\nΛυπούμαστε για την ταλαιπωρία, αλλά απαιτείται η επανεγκατάστασή της για την επιδιόρθωση του προβλήματος.</xmbtext>
+ </stringres>
+ <stringres id="ytFPSNode::time">
+  <xmbtext>Χρόνος = %1$dms = %2$dκαρέ ανά δευτερόλεπτο.</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilePath">
+  <xmbtext>Τοποθεσία</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileSize">
+  <xmbtext>Μέγεθος αρχείου</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FileDate">
+  <xmbtext>Ημερομηνία αρχείου</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Dimensions">
+  <xmbtext>Διαστάσεις</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::RelatedDimensions">
+  <xmbtext>Σχετικές διαστάσεις εικόνας</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::CCDWidth">
+  <xmbtext>Πλάτος CCD</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Comment">
+  <xmbtext>Σχόλιο JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Quality">
+  <xmbtext>Ποιότητα JPEG</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieInfo">
+  <xmbtext>Πληροφορίες ταινίας</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieRate">
+  <xmbtext>Ρυθμός ταινίας</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::MovieLength">
+  <xmbtext>Μήκος Ταινίας</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::Text">
+  <xmbtext>Κείμενο</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::LayerNames">
+  <xmbtext>Ονόματα επιπέδων</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::FilterString">
+  <xmbtext>Συμβολοσειρά φίλτρου</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::OnlinePhotoID">
+  <xmbtext>Αναγνωριστικό φωτογραφίας στο διαδίκτυο</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IsTempFile">
+  <xmbtext>IsTempFile</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::IPTCUnknown">
+  <xmbtext>Άγνωστο πεδίο IPTC</xmbtext>
+ </stringres>
+ <stringres id="ytImageMetadata::XMPUnknown">
+  <xmbtext>Άγνωστο πεδίο XMP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BitsPerSample">
+  <xmbtext>Bit ανά δείγμα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Compression">
+  <xmbtext>Συμπίεση</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PhotometricInterpretation">
+  <xmbtext>Φωτομετρική ερμηνεία</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thresholding">
+  <xmbtext>Όριο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellWidth">
+  <xmbtext>Πλάτος κελιού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CellLength">
+  <xmbtext>Μήκος κελιού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FillOrder">
+  <xmbtext>Σειρά συμπλήρωσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CameraID">
+  <xmbtext>Αναγνωριστικό φωτογραφικής μηχανής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Make">
+  <xmbtext>Εικόνες από τη φωτογραφική μηχανή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Model">
+  <xmbtext>Μοντέλο φωτογραφικής μηχανής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripOffsets">
+  <xmbtext>Μετατοπίσεις γραμμής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Orientation">
+  <xmbtext>Προσανατολισμός</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SamplesPerPixel">
+  <xmbtext>Δείγματα ανά εικονοστοιχείο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RowsPerStrip">
+  <xmbtext>Σειρές ανά γραμμή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StripByteCounts">
+  <xmbtext>Πλήθος byte γραμμής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinSampleValue">
+  <xmbtext>Ελάχιστη τιμή δείγματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxSampleValue">
+  <xmbtext>Μέγιστη τιμή δείγματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::XResolution">
+  <xmbtext>Ανάλυση X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YResolution">
+  <xmbtext>Ανάλυση Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PlanarConfiguration">
+  <xmbtext>Επίπεδη διαμόρφωση</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeOffsets">
+  <xmbtext>Ελεύθερες μετατοπίσεις</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FreeByteCounts">
+  <xmbtext>Πλήθος ελεύθερων byte</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseUnit">
+  <xmbtext>Γκρι μονάδα απόκρισης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GrayResponseCurve">
+  <xmbtext>Γκρι καμπύλη απόκρισης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ResolutionUnit">
+  <xmbtext>Μονάδα ανάλυσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Software">
+  <xmbtext>Λογισμικό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTime">
+  <xmbtext>Τροποποιημένη ημερομηνία</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Artist">
+  <xmbtext>Καλλιτέχνης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HostComputer">
+  <xmbtext>Κεντρικός υπολογιστής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhitePoint">
+  <xmbtext>Λευκό σημείο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PrimaryChromaticities">
+  <xmbtext>Κύριες χρωματικότητες</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorMap">
+  <xmbtext>Έγχρωμος χάρτης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExtraSamples">
+  <xmbtext>Πρόσθετα δείγματα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrCoefficients">
+  <xmbtext>Συντελεστές YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrSubSampling">
+  <xmbtext>Δευτερεύουσα δειγματοληψία YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCrPositioning">
+  <xmbtext>Αξιολόγηση YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReferenceBlackWhite">
+  <xmbtext>Αναφορά Μαύρο/Άσπρο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Copyright">
+  <xmbtext>Πνευματικά δικαιώματα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureTime">
+  <xmbtext>Χρόνος έκθεσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumber">
+  <xmbtext>Αριθμός F</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FNumberUnits">
+  <xmbtext>f/%s</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureProgram">
+  <xmbtext>Πρόγραμμα έκθεσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpectralSensitivity">
+  <xmbtext>Φασματική ευαισθησία</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOSpeedRatings">
+  <xmbtext>ISO</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OECF">
+  <xmbtext>OECF</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeOriginal">
+  <xmbtext>Ημερομηνία φωτογραφικής μηχανής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DateTimeDigitized">
+  <xmbtext>Ψηφιοποιημένη ημερομηνία</xmbtext>
+ </stringres>
+ <stringres id="ComponentsConfiguration">
+  <xmbtext>Διαμόρφωση στοιχείων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CompressedBitsPerPixel">
+  <xmbtext>Συμπιεσμένα bit ανά εικονοστοιχείο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterSpeedValue">
+  <xmbtext>Ταχύτητα κλείστρου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ApertureValue">
+  <xmbtext>Διάφραγμα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BrightnessValue">
+  <xmbtext>Φωτεινότητα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureBiasValue">
+  <xmbtext>Πόλωση έκθεσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxApertureValue">
+  <xmbtext>Μέγιστη τιμή διαφράγματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistance">
+  <xmbtext>Απόσταση θέματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::m">
+  <xmbtext>%s λ.</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MeteringMode">
+  <xmbtext>Λειτουργία μέτρησης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LightSource">
+  <xmbtext>Ισορροπία λευκού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Flash">
+  <xmbtext>Flash</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLength">
+  <xmbtext>Μήκος Εστίασης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::mm">
+  <xmbtext>%smm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectArea">
+  <xmbtext>Περιοχή θέματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MakernoteData">
+  <xmbtext>Makernote</xmbtext>
+ </stringres>
+ <stringres id="EXIF::UserComment">
+  <xmbtext>Σχόλιο χρήστη</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashpixVersion">
+  <xmbtext>Έκδοση Flashpix</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSpace">
+  <xmbtext>Χώρος χρωμάτων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedSoundFile">
+  <xmbtext>Σχετικό αρχείο ήχου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FlashEnergy">
+  <xmbtext>Ενέργεια φλας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SpatialFrequencyResponse">
+  <xmbtext>Απόκριση χωρικής συχνότητας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneXResolution">
+  <xmbtext>Ανάλυση εστιακού επιπέδου X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneYResolution">
+  <xmbtext>Ανάλυση εστιακού επιπέδου Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneResolutionUnit">
+  <xmbtext>Μονάδα ανάλυσης εστιακού επιπέδου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectLocation">
+  <xmbtext>Τοποθεσία θέματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureIndex">
+  <xmbtext>Κατάλογος έκθεσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SensingMethod">
+  <xmbtext>Μέθοδος ανίχνευσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FileSource">
+  <xmbtext>Προέλευση αρχείου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneType">
+  <xmbtext>Τύπος σκηνής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CFAPattern">
+  <xmbtext>Μοτίβο CFA</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CustomRendered">
+  <xmbtext>Αποδόθηκε προσαρμογή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExposureMode">
+  <xmbtext>Λειτουργία έκθεσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteBalance">
+  <xmbtext>Ισορροπία λευκού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalZoomRatio">
+  <xmbtext>Αναλογία ψηφιακού ζουμ</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalLengthIn35mmFilm">
+  <xmbtext>Μήκος εστίασης σε φιλμ 35mm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SceneCaptureType">
+  <xmbtext>Τύπος στιγμιότυπου σκηνής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GainControl">
+  <xmbtext>Έλεγχος ενίσχυσης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Contrast">
+  <xmbtext>Αντίθεση</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Saturation">
+  <xmbtext>Κορεσμός</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sharpness">
+  <xmbtext>Οξύτητα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DeviceSettingDescription">
+  <xmbtext>Περιγραφή ρύθμισης συσκευής</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SubjectDistanceRange">
+  <xmbtext>Εύρος τιμών απόστασης θέματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageUniqueID">
+  <xmbtext>Μοναδικό αναγνωριστικό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ImageType">
+  <xmbtext>Τύπος εικόνας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareVersion">
+  <xmbtext>Έκδοση υλικολογισμικού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFileNumber">
+  <xmbtext>Αριθμός αρχείου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OwnerName">
+  <xmbtext>Όνομα κατόχου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SerialNumber">
+  <xmbtext>Σειριακός αριθμός</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FirmwareRevision">
+  <xmbtext>Αναθεώρηση υλικολογισμικού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensModel">
+  <xmbtext>Μοντέλο φακών</xmbtext>
+ </stringres>
+ <stringres id="EXIF:SerialNumber">
+  <xmbtext>Σειριακός αριθμός</xmbtext>
+ </stringres>
+ <stringres id="EXIF:LensType">
+  <xmbtext>Τύπος φακού</xmbtext>
+ </stringres>
+ <stringres id="EXIF:ShutterCount">
+  <xmbtext>Shutter Count</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSVersionID">
+  <xmbtext>Αναγνωριστικό έκδοσης GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLatitude">
+  <xmbtext>Γεωγραφικό πλάτος GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSLongitude">
+  <xmbtext>Γεωγραφικό μήκος GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitudeRef">
+  <xmbtext>Αναφορά υψόμετρου GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAltitude">
+  <xmbtext>Υψόμετρο GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTimeStamp">
+  <xmbtext>Σφραγίδα ώρας GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSatellites">
+  <xmbtext>Δορυφόροι GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSStatus">
+  <xmbtext>Κατάσταση GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMeasureMode">
+  <xmbtext>Λειτουργία μέτρησης GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDOP">
+  <xmbtext>DOP GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeedRef">
+  <xmbtext>Αναφορά ταχύτητας GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSSpeed">
+  <xmbtext>Ταχύτητα GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrackRef">
+  <xmbtext>Αναφορά παρακολούθησης GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSTrack">
+  <xmbtext>Παρακολούθηση GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirectionRef">
+  <xmbtext>Αναφορά προορισμού εικόνας GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSImgDirection">
+  <xmbtext>Κατεύθυνση εικόνας GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSMapDatum">
+  <xmbtext>Σημείο αναφοράς χάρτη GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitudeRef">
+  <xmbtext>Αναφορά γεωγραφικού πλάτους προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLatitude">
+  <xmbtext>Γεωγραφικό πλάτος προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitudeRef">
+  <xmbtext>Αναφορά γεωγραφικού μήκους προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestLongitude">
+  <xmbtext>Γεωγραφικό μήκος προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearingRef">
+  <xmbtext>Αναφορά διόπτευσης προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestBearing">
+  <xmbtext>Διόπτευση προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistanceRef">
+  <xmbtext>Αναφορά απόστασης προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDestDistance">
+  <xmbtext>Απόσταση προορισμού GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSProcessingMethod">
+  <xmbtext>Μέθοδος επεξεργασίας GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSAreaInformation">
+  <xmbtext>Πληροφορίες περιοχής GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDateStamp">
+  <xmbtext>Σφραγίδα ημερομηνίας GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::GPSDifferential">
+  <xmbtext>Διαφορικό GPS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::InteroperabilityIndex">
+  <xmbtext>Δείκτης διαλειτουργικότητας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RelatedImageFileFormat">
+  <xmbtext>Σχετική μορφή αρχείου εικόνας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Uncompressed">
+  <xmbtext>Χωρίς συμπίεση</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CCITT1D">
+  <xmbtext>CCITT 1D</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T4/Group3Fax">
+  <xmbtext>T4/Ομάδα 3 φαξ</xmbtext>
+ </stringres>
+ <stringres id="EXIF::T6/Group4Fax">
+  <xmbtext>T6/Ομάδα 4 φαξ</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LZW">
+  <xmbtext>LZW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEGOldStyle">
+  <xmbtext>JPEG (παλιό στυλ)</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG">
+  <xmbtext>JPEG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AdobeDeflate">
+  <xmbtext>Adobe Deflate</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGB&amp;W">
+  <xmbtext>JBIG B&amp;W</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIGColor">
+  <xmbtext>Χρώμα JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Kodak262">
+  <xmbtext>Kodak 262</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Next">
+  <xmbtext>Επόμενη</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SonyARWCompressed">
+  <xmbtext>Sony ARW συμπιεσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::EpsonERFCompressed">
+  <xmbtext>Epson ERF συμπιεσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PackBits">
+  <xmbtext>PackBits</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Thunderscan">
+  <xmbtext>Thunderscan</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakKDCCompressed">
+  <xmbtext>Kodak KDC συμπιεσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8CTPAD">
+  <xmbtext>IT8CTPAD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8LW">
+  <xmbtext>IT8LW</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8MP">
+  <xmbtext>IT8MP</xmbtext>
+ </stringres>
+ <stringres id="EXIF::IT8BL">
+  <xmbtext>IT8BL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarFilm">
+  <xmbtext>PixarFilm</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLog">
+  <xmbtext>PixarLog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Deflate">
+  <xmbtext>Deflate</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DCS">
+  <xmbtext>DCS</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JBIG">
+  <xmbtext>JBIG</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog">
+  <xmbtext>SGILog</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SGILog24">
+  <xmbtext>SGILog24</xmbtext>
+ </stringres>
+ <stringres id="EXIF::JPEG2000">
+  <xmbtext>JPEG 2000</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NikonNEFCompressed">
+  <xmbtext>Nikon NEF συμπιεσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIBinaryLevelCodec">
+  <xmbtext>Κωδικοποιητής δυαδικού επιπέδου MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIProgressiveTransformCodec">
+  <xmbtext>Κωδικοποιητής προοδευτικού μετασχηματισμού MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MDIVector">
+  <xmbtext>Διάνυσμα MDI</xmbtext>
+ </stringres>
+ <stringres id="EXIF::KodakDCRCompressed">
+  <xmbtext>Kodak DCR συμπιεσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PentaxPEFCompressed">
+  <xmbtext>Pentax PEF συμπιεσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteIsZero">
+  <xmbtext>WhiteIsZero</xmbtext>
+ </stringres>
+ <stringres id="EXIF::BlackIsZero">
+  <xmbtext>BlackIsZero</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGB">
+  <xmbtext>RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RGBPalette">
+  <xmbtext>Παλέτα RGB</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TransparencyMask">
+  <xmbtext>Μάσκα διαφάνειας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CMYK">
+  <xmbtext>CMYK</xmbtext>
+ </stringres>
+ <stringres id="EXIF::YCbCr">
+  <xmbtext>YCbCr</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CIELab">
+  <xmbtext>CIE L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ICCLab">
+  <xmbtext>ICC L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ITULab">
+  <xmbtext>ITU L*a*b*</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorFilterArray">
+  <xmbtext>Διάταξη φίλτρων χρώματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogL">
+  <xmbtext>Pixar LogL</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PixarLogLuv">
+  <xmbtext>Pixar LogLuv</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LinearRaw">
+  <xmbtext>Γραμμικό Raw</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Bilevel">
+  <xmbtext>Δύο επιπέδων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Halftone">
+  <xmbtext>Ημιτονική εικόνα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Random">
+  <xmbtext>Τυχαία σειρά</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Normal">
+  <xmbtext>Κανονική</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Reversed">
+  <xmbtext>Έγινε αντιστροφή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Undefined">
+  <xmbtext>Δεν προσδιορίζεται</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HorizontallyFlipped">
+  <xmbtext>Διάταξη που ανοίγει οριζόντια</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate180">
+  <xmbtext>Με περιστροφή 180 μοιρών</xmbtext>
+ </stringres>
+ <stringres id="EXIF::VerticallyFlipped">
+  <xmbtext>Διάταξη που ανοίγει κατακόρυφα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transposed">
+  <xmbtext>Σε αντιμετάθεση</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate90">
+  <xmbtext>Με περιστροφή 90 μοιρών</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Transverse">
+  <xmbtext>Εγκάρσιος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Rotate270">
+  <xmbtext>Με περιστροφή 270 μοιρών</xmbtext>
+ </stringres>
+ <stringres id="EXIF::None">
+  <xmbtext>Κανένα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Inches">
+  <xmbtext>Ίντσες</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centimeters">
+  <xmbtext>Εκατοστόμετρα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Millimeters">
+  <xmbtext>Χιλιοστόμετρα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Micrometers">
+  <xmbtext>Μικρόμετρα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Centered">
+  <xmbtext>Στο κέντρο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoSited">
+  <xmbtext>Ταυτόχρονης δειγματοληψίας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDefined">
+  <xmbtext>Δεν ορίστηκε</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Manual">
+  <xmbtext>Με το χέρι</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Program">
+  <xmbtext>Πρόγραμμα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AperturePriority">
+  <xmbtext>Προτεραιότητα διαφράγματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShutterPriority">
+  <xmbtext>Προτεραιότητα κλείστρου</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CreativeProgram">
+  <xmbtext>Δημιουργικό πρόγραμμα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ActionProgram">
+  <xmbtext>Πρόγραμμα ενέργειας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::PortraitMode">
+  <xmbtext>Λειτουργία κατακόρυφου προσανατολισμού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LandscapeMode">
+  <xmbtext>Λειτουργία &quot;Οριζόντιος&quot;</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Unknown">
+  <xmbtext>Άγνωστο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Average">
+  <xmbtext>Μέσος όρος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CenterWeight">
+  <xmbtext>Σταθμισμένο βάρος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Spot">
+  <xmbtext>Σημείο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MultiSpot">
+  <xmbtext>Πολλών σημείων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Matrix">
+  <xmbtext>Πίνακας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Partial">
+  <xmbtext>Μερική</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Other">
+  <xmbtext>Άλλο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Sunny">
+  <xmbtext>Με ηλιοφάνεια</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fluorescent">
+  <xmbtext>Φωτισμός φθορισμού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Incandescent">
+  <xmbtext>Φωτισμός πυρακτώσεως</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FineWeather">
+  <xmbtext>Καλός καιρός</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Cloudy">
+  <xmbtext>Με σύννεφα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Shade">
+  <xmbtext>Σκίαση</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DaylightFlourescent">
+  <xmbtext>Φωσφορίζον φως της ημέρας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DayWhiteFlourescent">
+  <xmbtext>Φωσφορίζον λευκό ημέρας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CoolWhiteFlourescent">
+  <xmbtext>Ψυχρό φωσφορίζον λευκό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::WhiteFlourescent">
+  <xmbtext>Φωσφορίζον λευκό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightA">
+  <xmbtext>Τυπικός φωτισμός Α</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightB">
+  <xmbtext>Τυπικός φωτισμός B</xmbtext>
+ </stringres>
+ <stringres id="EXIF::StandardLightC">
+  <xmbtext>Τυπικός φωτισμός C</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D55">
+  <xmbtext>D55</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D65">
+  <xmbtext>D65</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D75">
+  <xmbtext>D75</xmbtext>
+ </stringres>
+ <stringres id="EXIF::D50">
+  <xmbtext>D50</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ISOStudioTungsten">
+  <xmbtext>ISO Studio Tungsten</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeArea">
+  <xmbtext>Μονόχρωμη περιοχή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::OneChipColorArea">
+  <xmbtext>Περιοχή χρώματος ενός CCD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::TwoChipColorArea">
+  <xmbtext>Περιοχή χρώματος δύο CCD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ThreeChipColorArea">
+  <xmbtext>Περιοχή χρώματος τριών CCD</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialArea">
+  <xmbtext>Γραμμική περιοχή χρωμάτων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MonochromeLinear">
+  <xmbtext>Μονόχρωμο σε γραμμικό στυλ</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Trilinear">
+  <xmbtext>Τριών διαστάσεων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ColorSequentialLinear">
+  <xmbtext>Γραμμική διαδοχή χρωμάτων</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FilmScanner">
+  <xmbtext>Σαρωτής ταινίας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ReflectionPrintScanner">
+  <xmbtext>Σαρωτής εκτύπωσης ανάκλασης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DigitalCamera">
+  <xmbtext>Ψηφιακή φωτογραφική μηχανή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::DirectlyPhotographed">
+  <xmbtext>Άμεσης φωτογράφησης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Custom">
+  <xmbtext>Προσαρμογή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Auto">
+  <xmbtext>Αυτόματα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::AutoBracket">
+  <xmbtext>Αυτόματη διαδοχική λήψη</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Standard">
+  <xmbtext>Κανονικό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Landscape">
+  <xmbtext>Τοπίο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Portrait">
+  <xmbtext>Πορτρέτο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Night">
+  <xmbtext>Νύχτα</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainUp">
+  <xmbtext>Χαμηλή ενίσχυση επάνω</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainUp">
+  <xmbtext>Υψηλή ενίσχυση επάνω</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LowGainDown">
+  <xmbtext>Χαμηλή ενίσχυση κάτω</xmbtext>
+ </stringres>
+ <stringres id="EXIF::HighGainDown">
+  <xmbtext>Υψηλή ενίσχυση κάτω</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Low">
+  <xmbtext>Χαμηλή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::High">
+  <xmbtext>Υψηλή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Soft">
+  <xmbtext>Απαλό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Hard">
+  <xmbtext>Σκληρό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Macro">
+  <xmbtext>Μακροεντολή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Close">
+  <xmbtext>Κλείσιμο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Distant">
+  <xmbtext>Απομακρυσμένο</xmbtext>
+ </stringres>
+ <stringres id="EXIF::On">
+  <xmbtext>Σε λειτουργία</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Off">
+  <xmbtext>Μη ενεργή</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NoDetection">
+  <xmbtext>Χωρίς εντοπισμό</xmbtext>
+ </stringres>
+ <stringres id="EXIF::NotDetected">
+  <xmbtext>Δεν εντοπίστηκε</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Detected">
+  <xmbtext>Εντοπίστηκε</xmbtext>
+ </stringres>
+ <stringres id="EXIF::CanonFlashMode">
+  <xmbtext>Λειτουργία φλας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LensType">
+  <xmbtext>Τύπος φακού</xmbtext>
+ </stringres>
+ <stringres id="EXIF::LongFocal">
+  <xmbtext>Εστίαση μεγάλου μήκους</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ShortFocal">
+  <xmbtext>Εστίαση μικρού μήκους</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalUnits">
+  <xmbtext>Εστιακές μονάδες</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MaxAperture">
+  <xmbtext>Μέγιστη τιμή διαφράγματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::MinAperture">
+  <xmbtext>Ελάχιστη τιμή διαφράγματος</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalType">
+  <xmbtext>Τύπος εστίασης</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneX">
+  <xmbtext>Εστιακό επίπεδο X</xmbtext>
+ </stringres>
+ <stringres id="EXIF::FocalPlaneY">
+  <xmbtext>Εστιακό επίπεδο Y</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReduction">
+  <xmbtext>Μείωση του φαινομένου των κόκκινων ματιών</xmbtext>
+ </stringres>
+ <stringres id="EXIF::SlowSync">
+  <xmbtext>Αργός συγχρονισμός</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionAuto">
+  <xmbtext>Αυτόματη μείωση του φαινομένου των κόκκινων ματιών</xmbtext>
+ </stringres>
+ <stringres id="EXIF::RedEyeReductionOn">
+  <xmbtext>Μείωση του φαινομένου των κόκκινων ματιών</xmbtext>
+ </stringres>
+ <stringres id="EXIF::ExternalFlash">
+  <xmbtext>Εξωτερικό φλας</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Fixed">
+  <xmbtext>Σταθερός</xmbtext>
+ </stringres>
+ <stringres id="EXIF::Zoom">
+  <xmbtext>Ζουμ</xmbtext>
+ </stringres>
+ <stringres id="XMP::Certificate">
+  <xmbtext>Πιστοποιητικό</xmbtext>
+ </stringres>
+ <stringres id="XMP::Marked">
+  <xmbtext>Επισημαίνεται με πνευματικά δικαιώματα</xmbtext>
+ </stringres>
+ <stringres id="XMP::Owner">
+  <xmbtext>Κάτοχος</xmbtext>
+ </stringres>
+ <stringres id="XMP::UsageTerms">
+  <xmbtext>Όροι χρήσης</xmbtext>
+ </stringres>
+ <stringres id="XMP::WebStatement">
+  <xmbtext>Δήλωση Ιστού</xmbtext>
+ </stringres>
+ <stringres id="XMP::Advisory">
+  <xmbtext>Συμβουλή</xmbtext>
+ </stringres>
+ <stringres id="XMP::BaseURL">
+  <xmbtext>Διεύθυνση URL βάσης</xmbtext>
+ </stringres>
+ <stringres id="XMP::Identifier">
+  <xmbtext>Αναγνωριστικό</xmbtext>
+ </stringres>
+ <stringres id="XMP::Label">
+  <xmbtext>Ετικέτα</xmbtext>
+ </stringres>
+ <stringres id="XMP::MetadataDate">
+  <xmbtext>Ημερομηνία μεταδεδομένων</xmbtext>
+ </stringres>
+ <stringres id="XMP::Nickname">
+  <xmbtext>Ψευδώνυμο</xmbtext>
+ </stringres>
+ <stringres id="XMP::Rating">
+  <xmbtext>Αξιολόγηση</xmbtext>
+ </stringres>
+ <stringres id="XMP::Firmware">
+  <xmbtext>Υλικολογισμικό</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashCompensation">
+  <xmbtext>Αντιστάθμιση φλας</xmbtext>
+ </stringres>
+ <stringres id="XMP::ImageNumber">
+  <xmbtext>Αριθμός εικόνας</xmbtext>
+ </stringres>
+ <stringres id="XMP::Lens">
+  <xmbtext>Φακός</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensID">
+  <xmbtext>Αναγνωριστικό φακού</xmbtext>
+ </stringres>
+ <stringres id="XMP::LensInfo">
+  <xmbtext>Πληροφορίες φακού</xmbtext>
+ </stringres>
+ <stringres id="XMP::OwnerName">
+  <xmbtext>Όνομα κατόχου</xmbtext>
+ </stringres>
+ <stringres id="XMP::SerialNumber">
+  <xmbtext>Σειριακός αριθμός</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashFunction">
+  <xmbtext>Η λειτουργία φλας δεν υπάρχει</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashMode">
+  <xmbtext>Λειτουργία φλας</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashRedEyeMode">
+  <xmbtext>Υποστηρίζει τη μείωση του φαινομένου των κόκκινων ματιών</xmbtext>
+ </stringres>
+ <stringres id="XMP::FlashReturn">
+  <xmbtext>Επιστροφή φλας</xmbtext>
+ </stringres>
+ <stringres id="XMP::contributor">
+  <xmbtext>Συντελεστές</xmbtext>
+ </stringres>
+ <stringres id="XMP::coverage">
+  <xmbtext>Κάλυψη</xmbtext>
+ </stringres>
+ <stringres id="XMP::date">
+  <xmbtext>Ημερομηνία</xmbtext>
+ </stringres>
+ <stringres id="XMP::format">
+  <xmbtext>Μορφή</xmbtext>
+ </stringres>
+ <stringres id="XMP::language">
+  <xmbtext>Γλώσσες</xmbtext>
+ </stringres>
+ <stringres id="XMP::publisher">
+  <xmbtext>Εκδότες</xmbtext>
+ </stringres>
+ <stringres id="XMP::relation">
+  <xmbtext>Σχέσεις</xmbtext>
+ </stringres>
+ <stringres id="XMP::type">
+  <xmbtext>Τύπος</xmbtext>
+ </stringres>
+ <stringres id="XMP::IntellectualGenre">
+  <xmbtext>Πνευματικό είδος</xmbtext>
+ </stringres>
+ <stringres id="XMP::Scene">
+  <xmbtext>Σκηνή</xmbtext>
+ </stringres>
+ <stringres id="XMP::SubjectCode">
+  <xmbtext>Κωδικός θέματος</xmbtext>
+ </stringres>
+ <stringres id="XMP::Location">
+  <xmbtext>Τοποθεσία</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrExtadr">
+  <xmbtext>Στοιχεία επικοινωνίας: Διεύθυνση</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCity">
+  <xmbtext>Στοιχεία επικοινωνίας: Πόλη</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrCtry">
+  <xmbtext>Στοιχεία επικοινωνίας: Χώρα</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiEmailWork">
+  <xmbtext>Στοιχεία επικοινωνίας: Ηλεκτρονικό ταχυδρομείο</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiTelWork">
+  <xmbtext>Στοιχεία επικοινωνίας: Τηλέφωνο</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrPcode">
+  <xmbtext>Στοιχεία επικοινωνίας: Ταχυδρομικός κώδικας</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiAdrRegion">
+  <xmbtext>Στοιχεία επικοινωνίας: Περιοχή</xmbtext>
+ </stringres>
+ <stringres id="XMP::CiUrlWork">
+  <xmbtext>Διεύθυνση URL στοιχείων επικοινωνίας</xmbtext>
+ </stringres>
+ <stringres id="XMP::AddlModelInfo">
+  <xmbtext>Επιπλέον πληροφορίες μοντέλου</xmbtext>
+ </stringres>
+ <stringres id="XMP::ArtworkOrObject">
+  <xmbtext>Έργο τέχνης ή αντικείμενο</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageCode">
+  <xmbtext>Κώδικας οργανισμού</xmbtext>
+ </stringres>
+ <stringres id="XMP::CVterm">
+  <xmbtext>Ελεγχόμενος όρος λεξιλογίου</xmbtext>
+ </stringres>
+ <stringres id="XMP::LocationShown">
+  <xmbtext>Εμφανιζόμενη τοποθεσία</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelAge">
+  <xmbtext>Ηλικία μοντέλου</xmbtext>
+ </stringres>
+ <stringres id="XMP::OrganisationInImageName">
+  <xmbtext>Όνομα οργανισμού</xmbtext>
+ </stringres>
+ <stringres id="XMP::PersonInImage">
+  <xmbtext>Άτομο που εμφανίζεται</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigImageGUID">
+  <xmbtext>GUID ψηφιακής εικόνας</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourcefileType">
+  <xmbtext>Τύπος αρχείου ψηφιακής προέλευσης</xmbtext>
+ </stringres>
+ <stringres id="XMP::DigitalSourceType">
+  <xmbtext>Τύπος ψηφιακής προέλευσης</xmbtext>
+ </stringres>
+ <stringres id="XMP::Event">
+  <xmbtext>Συμβάν</xmbtext>
+ </stringres>
+ <stringres id="XMP::IptcLastEdited">
+  <xmbtext>Τελευταία επεξεργασία IPTC</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailHeight">
+  <xmbtext>Μέγιστο διαθέσιμο ύψος</xmbtext>
+ </stringres>
+ <stringres id="XMP::MaxAvailWidth">
+  <xmbtext>Μέγιστο διαθέσιμο πλάτος</xmbtext>
+ </stringres>
+ <stringres id="XMP::Version">
+  <xmbtext>Έκδοση PLUS</xmbtext>
+ </stringres>
+ <stringres id="XMP::MinorModelAgeDisclosure">
+  <xmbtext>Αποκάλυψη ηλικίας μικρού μοντέλου</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseID">
+  <xmbtext>Αναγνωριστικό κυκλοφορίας μοντέλου</xmbtext>
+ </stringres>
+ <stringres id="XMP::ModelReleaseStatus">
+  <xmbtext>Κατάσταση κυκλοφορίας μοντέλου</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseID">
+  <xmbtext>Αναγνωριστικό κυκλοφορίας ιδιότητας</xmbtext>
+ </stringres>
+ <stringres id="XMP::PropertyReleaseStatus">
+  <xmbtext>Κατάσταση κυκλοφορίας ιδιότητας</xmbtext>
+ </stringres>
+ <stringres id="XMP::Regions">
+  <xmbtext>Ετικέτες ατόμων</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeVersion">
+  <xmbtext>Έκδοση φακέλου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Destination">
+  <xmbtext>Προορισμός</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormat">
+  <xmbtext>Μορφή αρχείου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FileFormatVersion">
+  <xmbtext>Έκδοση μορφής αρχείου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ServiceIdentifier">
+  <xmbtext>Αναγνωριστικό υπηρεσίας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopeNumber">
+  <xmbtext>Αριθμός φακέλου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProductID">
+  <xmbtext>Αναγνωριστικό προϊόντος</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EnvelopePriority">
+  <xmbtext>Προτεραιότητα φακέλου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::DateSent">
+  <xmbtext>Ημερομηνία αποστολής</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TimeSent">
+  <xmbtext>Ώρα αποστολής</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CodedCharacterSet">
+  <xmbtext>Κωδικοποιημένο σύνολο χαρακτήρων</xmbtext>
+ </stringres>
+ <stringres id="IPTC::UNO">
+  <xmbtext>UNO</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMIdentifier">
+  <xmbtext>Αναγνωριστικό ARM</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ARMVersion">
+  <xmbtext>Έκδοση ARM</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ApplicationVersion">
+  <xmbtext>Έκδοση εφαρμογής</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectTypeReference">
+  <xmbtext>Αναφορά τύπου αντικειμένου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectAttributeReference">
+  <xmbtext>Αναφορά χαρακτηριστικού αντικειμένου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectName">
+  <xmbtext>Τίτλος</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditStatus">
+  <xmbtext>Επεξεργασία κατάστασης</xmbtext>
+ </stringres>
+ <stringres id="IPTC::EditorialUpdate">
+  <xmbtext>Ενημέρωση σύνταξης</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Urgency">
+  <xmbtext>Επείγον</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubjectReference">
+  <xmbtext>Αναφορά θέματος</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Category">
+  <xmbtext>Κατηγορία</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SupplementalCategory">
+  <xmbtext>Συμπληρωματική κατηγορία</xmbtext>
+ </stringres>
+ <stringres id="IPTC::FixtureIdentifier">
+  <xmbtext>Αναγνωριστικό εξαρτήματος</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Keywords">
+  <xmbtext>Ετικέτες</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationCode">
+  <xmbtext>Κώδικας τοποθεσίας περιεχομένου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ContentLocationName">
+  <xmbtext>Όνομα τοποθεσίας περιεχομένου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseDate">
+  <xmbtext>Ημερομηνία κυκλοφορίας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReleaseTime">
+  <xmbtext>Χρόνος κυκλοφορίας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationDate">
+  <xmbtext>Ημερομηνία λήξης</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ExpirationTime">
+  <xmbtext>Χρόνος λήξης</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Instructions">
+  <xmbtext>Οδηγίες</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ActionAdvised">
+  <xmbtext>Προτείνεται ενέργεια</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceService">
+  <xmbtext>Υπηρεσία αναφοράς</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceDate">
+  <xmbtext>Ημερομηνία αναφοράς</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ReferenceNumber">
+  <xmbtext>Αριθμός αναφοράς</xmbtext>
+ </stringres>
+ <stringres id="IPTC::OriginatingProgram">
+  <xmbtext>Πρόγραμμα προέλευσης</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ProgramVersion">
+  <xmbtext>Έκδοση προγράμματος</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ObjectCycle">
+  <xmbtext>Κύκλος αντικειμένων</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AuthorsPosition">
+  <xmbtext>Ιδιότητα συντάκτη</xmbtext>
+ </stringres>
+ <stringres id="IPTC::City">
+  <xmbtext>Πόλη</xmbtext>
+ </stringres>
+ <stringres id="IPTC::SubLocation">
+  <xmbtext>Δευτερεύουσα τοποθεσία</xmbtext>
+ </stringres>
+ <stringres id="IPTC::State">
+  <xmbtext>Κατάσταση</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CountryCode">
+  <xmbtext>Κώδικας χώρας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Country">
+  <xmbtext>Χώρα</xmbtext>
+ </stringres>
+ <stringres id="IPTC::TransmissionReference">
+  <xmbtext>Αναφορά μετάδοσης</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Headline">
+  <xmbtext>Επικεφαλίδα</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Credit">
+  <xmbtext>Πίστωση</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Source">
+  <xmbtext>Προέλευση</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Contact">
+  <xmbtext>Επαφή</xmbtext>
+ </stringres>
+ <stringres id="IPTC::Caption">
+  <xmbtext>Λεζάντα</xmbtext>
+ </stringres>
+ <stringres id="IPTC::CaptionWriter">
+  <xmbtext>Συντάκτης λεζάντας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::RasterizedCaption">
+  <xmbtext>Λεζάντα με επεξεργασία ράστερ</xmbtext>
+ </stringres>
+ <stringres id="IPTC::PicasaURL">
+  <xmbtext>Διεύθυνση URL Picasa</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageType">
+  <xmbtext>Τύπος εικόνας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::ImageOrientation">
+  <xmbtext>Προσανατολισμός εικόνας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::LanguageIdentifier">
+  <xmbtext>Αναγνωριστικό γλώσσας</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioType">
+  <xmbtext>Τύπος ήχου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingRate">
+  <xmbtext>Ποσοστό δειγματοληψίας ήχου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioSamplingResolution">
+  <xmbtext>Ανάλυση δείγματος ήχου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioDuration">
+  <xmbtext>Διάρκεια ήχου</xmbtext>
+ </stringres>
+ <stringres id="IPTC::AudioOutcue">
+  <xmbtext>Τέλος μετάδοσης ήχου</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseTitle">
+  <xmbtext>Συμφωνία άδειας χρήσης</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseSubTitle">
+  <xmbtext>Διαβάστε τους όρους άδειας χρήσης πριν εγκαταστήσετε το Google Photos Auto Backup</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseLabel">
+  <xmbtext>Με τη χρήση της λειτουργίας Google Photos Auto Backup αποδέχεστε τους Όρους Παροχής Υπηρεσιών και την Πολιτική Απορρήτου της Google.</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosText">
+  <xmbtext>Όροι Παροχής Υπηρεσιών</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_TosLink">
+  <xmbtext>https://www.google.com/policies/terms/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyText">
+  <xmbtext>Πολιτική Απορρήτου</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_PrivacyLink">
+  <xmbtext>https://www.google.com/policies/privacy/</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_LicenseButtonText">
+  <xmbtext>Συμφωνώ</xmbtext>
+ </stringres>
+ <stringres id="INSTALLGPAB_RenameFolderErr">
+  <xmbtext>Δεν ήταν δυνατή η μετονομασία του καταλόγου φωτογραφιών που εισαγάγατε. Οι παλιές φωτογραφίες που είχατε εισαγάγει παραμένουν στον προηγούμενο κατάλογο.</xmbtext>
+ </stringres>
+</resources>

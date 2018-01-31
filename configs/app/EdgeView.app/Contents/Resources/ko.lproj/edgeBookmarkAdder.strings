@@ -1,0 +1,9 @@
+
+/* Class = "NSWindow"; title = "Bookmark Adder"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Bookmark Adder";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Rvd-3J-gfA"; */
+"Rvd-3J-gfA.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "i5a-WQ-a2Z"; */
+"i5a-WQ-a2Z.title" = "추가";

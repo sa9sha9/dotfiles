@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Ang application na ito ay nagda-download ng mga bagong bersyon ng Picasa at ng mga bahagi nito.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Hindi dapat umpisahan ang direkta ang application na ito.</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Hindi mapatunayan</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Hindi makakonekta</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Ang application na ito ay up-to-date</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Kumukonekta sa mga Server ng Google</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Itinataguyod ang Koneksyon...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Isinasagawa ang Pag-update ng Picasa </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Dina-download ng Upadate ng Picasa...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Ang aktibong koneksyon sa Internet ang kinakailangan upang maisagawa ang aksyon na ito. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Hindi nasuri para sa pinakabagong bersyon mula sa server ng Google.\n\nPakisubukan muli sa ilang minuto.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Hindi makapag-download mula sa %1$s papunta sa %2$s (%3$x). Suriin ang iyong koneksyon sa Internet at subukan muli.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>Ang isang mas bagong bersyon ng  Picasa ay nai-download na.\nAng bagong bersyon ay awtomatikong mai-install sa susunod mong patakbuhin ang Picasa.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Error %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Error %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Error</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Ang file ay tunay</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Ang file ay HINDI tunay</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d%% kumpleto, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>%1$02d:%2$02d:%3$02d ang natitira.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>%1$02d:%2$02d ang natitira.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Ang bersyon na ito ng Picasca ay hindi up to date, at ang ilan sa mga online na tampok ay maaaring hindi gumana nang maayos. Gusto mong mag-update na ngayon?</xmbtext>
+ </stringres>
+</resources>

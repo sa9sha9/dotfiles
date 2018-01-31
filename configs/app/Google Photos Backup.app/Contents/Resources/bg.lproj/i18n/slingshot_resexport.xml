@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_MENU>
+  <res resid="#138">
+   <item itemid="Popup_1"/>
+   <item itemid="40005">
+    <xmbtext>Копиране</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40001">
+    <xmbtext>Редактиране в Picasa</xmbtext>
+   </item>
+   <item itemid="40002">
+    <xmbtext>Печат</xmbtext>
+   </item>
+   <item itemid="40003">
+    <xmbtext>Имейл адрес</xmbtext>
+   </item>
+   <item itemid="40004">
+    <xmbtext>Блог</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40417">
+    <xmbtext>Бързо качване</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40089">
+    <xmbtext>Намиране на диска</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40418">
+    <xmbtext>Показване на надписите</xmbtext>
+   </item>
+   <item itemid="-1"/>
+  </res>
+ </RT_MENU>
+</Win32Res>

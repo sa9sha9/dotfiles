@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Win32Res>
+ <RT_MENU>
+  <res resid="#138">
+   <item itemid="Popup_1"/>
+   <item itemid="40005">
+    <xmbtext>Kopiuj</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40001">
+    <xmbtext>Edytuj w programie Picasa</xmbtext>
+   </item>
+   <item itemid="40002">
+    <xmbtext>Drukuj</xmbtext>
+   </item>
+   <item itemid="40003">
+    <xmbtext>E-mail</xmbtext>
+   </item>
+   <item itemid="40004">
+    <xmbtext>Blog</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40417">
+    <xmbtext>Szybkie przesyłanie</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40089">
+    <xmbtext>Zlokalizuj na dysku</xmbtext>
+   </item>
+   <item itemid="Separator"/>
+   <item itemid="40418">
+    <xmbtext>Pokaż podpisy</xmbtext>
+   </item>
+   <item itemid="-1"/>
+  </res>
+ </RT_MENU>
+</Win32Res>

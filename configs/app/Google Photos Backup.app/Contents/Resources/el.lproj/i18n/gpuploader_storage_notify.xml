@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_storage_notify/window.title">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_header.title">
+  <xmbtext>Το νέο Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_text.title">
+  <xmbtext>Οι επιλογές αποθηκευτικού χώρου για τις φωτογραφίες και τα βίντεό σας μόλις βελτιώθηκαν.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.title">
+  <xmbtext>Μάθετε περισσότερα</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_learnmore.url">
+  <xmbtext>https://support.google.com/plus/answer/1647509#cost</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size.title">
+  <xmbtext>Υψηλή ποιότητα (δωρεάν απεριόριστος αποθηκευτικός χώρος)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/free_size_desc.title">
+  <xmbtext>Υψηλή οπτική ποιότητα σε μειωμένο μέγεθος αρχείου</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size.title">
+  <xmbtext>Αρχικό μέγεθος (Έλεγχος υπολειπόμενης χωρητικότητας…)</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/full_size_desc.title">
+  <xmbtext>Πλήρης ανάλυση που υπολογίζεται στο όριο του αποθηκευτικού χώρου</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/notify_extra.title">
+  <xmbtext>Περιηγηθείτε στο περιεχόμενο που έχετε ανεβάσει ήδη και ενημερωθείτε για όλες τις νέες λειτουργίες του Google Photos στη διεύθυνση photos.google.com</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_storage_notify/okbutton.title">
+  <xmbtext>ΕΝΤΑΞΕΙ</xmbtext>
+ </stringres>
+</resources>

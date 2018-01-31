@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="ss/launch_picasa" xmbdesc="Label(ss/launch_picasa)">
+  <xmbtext>Redaguoti naudojant „Picasa“</xmbtext>
+ </action>
+ <action type="Label" target="ss/to_web" xmbdesc="Label(ss/to_web)">
+  <xmbtext>Įkelti</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/actualsize" xmbdesc="Tooltip(ss/actualsize)">
+  <xmbtext>Keisti vaizdo mastelį į 1:1</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/zoom_plus" xmbdesc="Tooltip(ss/zoom_plus)">
+  <xmbtext>Padidinti</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/zoom_minus" xmbdesc="Tooltip(ss/zoom_minus)">
+  <xmbtext>Sumažinti</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/play_slideshow" xmbdesc="Tooltip(ss/play_slideshow)">
+  <xmbtext>Pradėti skaidrių demonstraciją</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/to_web" xmbdesc="Tooltip(ss/to_web)">
+  <xmbtext>Greitas įkėlimas</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/more" xmbdesc="Tooltip(ss/more)">
+  <xmbtext>Daugiau parinkčių</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/prev" xmbdesc="Tooltip(ss/prev)">
+  <xmbtext>Ankstesnė nuotrauka</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/next" xmbdesc="Tooltip(ss/next)">
+  <xmbtext>Kita nuotrauka</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/rotate_cw" xmbdesc="Tooltip(ss/rotate_cw)">
+  <xmbtext>Sukti pagal laikrodžio rodyklę</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/rotate_ccw" xmbdesc="Tooltip(ss/rotate_ccw)">
+  <xmbtext>Sukti prieš laikrodžio rodyklę</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/launch_picasa" xmbdesc="Tooltip(ss/launch_picasa)">
+  <xmbtext>Paleisti „Picasa“</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/star" xmbdesc="Tooltip(ss/star)">
+  <xmbtext>Žvaigždutė</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/close" xmbdesc="Tooltip(ss/close)">
+  <xmbtext>Išeiti</xmbtext>
+ </action>
+</tooltips>

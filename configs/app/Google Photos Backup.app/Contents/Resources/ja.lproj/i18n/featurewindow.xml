@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="featurewindow/nextbutton" xmbdesc="Label(featurewindow/nextbutton)">
+  <xmbtext>登録済みユーザーの場合は、ログインしてください</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/activatebutton" xmbdesc="Label(featurewindow/activatebutton)">
+  <xmbtext>新規ユーザーの場合は、登録してください。</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/moreinfobutton" xmbdesc="Label(featurewindow/moreinfobutton)">
+  <xmbtext>詳細</xmbtext>
+ </action>
+ <action type="Label" target="featurewindow/closebutton" xmbdesc="Label(featurewindow/closebutton)">
+  <xmbtext>閉じる</xmbtext>
+ </action>
+</tooltips>

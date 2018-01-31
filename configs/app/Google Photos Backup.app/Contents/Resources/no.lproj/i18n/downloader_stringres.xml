@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="IDS_DESCRIPTION">
+  <xmbtext>Dette programmet laster ned nye versjoner av Picasa og dets komponenter.</xmbtext>
+ </stringres>
+ <stringres id="IDS_DONT_START_DIRECTLY">
+  <xmbtext>Dette programmet bør ikke startes direkte</xmbtext>
+ </stringres>
+ <stringres id="IDS_AUTH_ERR">
+  <xmbtext>Kan ikke godkjenne</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR">
+  <xmbtext>Kan ikke koble til</xmbtext>
+ </stringres>
+ <stringres id="IDS_UPTODATE">
+  <xmbtext>Dette programmet er oppdatert</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYTITLE">
+  <xmbtext>Kobler til Googles tjenere</xmbtext>
+ </stringres>
+ <stringres id="IDS_TRAYDLMESSAGE">
+  <xmbtext>Oppretter tilkobling ...</xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASATITLE">
+  <xmbtext>Picasa-oppdatering pågår </xmbtext>
+ </stringres>
+ <stringres id="IDS_PICASAMESSAGE">
+  <xmbtext>Laster ned Picasa-oppdatering ...</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECTION_REQUIRED">
+  <xmbtext>Du må være koblet til Internett for å utføre denne handlingen. </xmbtext>
+ </stringres>
+ <stringres id="IDS_VERSION_UNAVAILABLE">
+  <xmbtext>Får ikke sett etter siste versjon på Google-tjeneren.\n\nPrøv igjen om noen minutter.</xmbtext>
+ </stringres>
+ <stringres id="IDS_CONNECT_ERR_DEBUG">
+  <xmbtext>Kan ikke laste ned fra %1$s til %2$s (%3$x). Kontroller Internett-tilkoblingen, og prøv igjen.</xmbtext>
+ </stringres>
+ <stringres id="IDS_INSTALLEREXISTS">
+  <xmbtext>En nyere versjon av Picasa har allerede blitt lastet ned.\nDen nye versjonen vil installeres automatisk neste gang du kjører Picasa.</xmbtext>
+ </stringres>
+ <stringres id="downloader::error1">
+  <xmbtext>Feil %1$s (%2$x)</xmbtext>
+ </stringres>
+ <stringres id="downloader::error2">
+  <xmbtext>Feil %x</xmbtext>
+ </stringres>
+ <stringres id="downloader::error3">
+  <xmbtext>Feil</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfile">
+  <xmbtext>Filen er autentisk</xmbtext>
+ </stringres>
+ <stringres id="downloader::authfilefail">
+  <xmbtext>Filen er IKKE autentisk</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress1">
+  <xmbtext>%d %% fullført, </xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress2">
+  <xmbtext>%1$02d.%2$02d.%3$02d sek. gjenstår.</xmbtext>
+ </stringres>
+ <stringres id="il_ytProgressDrawable::SetProgress3">
+  <xmbtext>%1$02d:%2$02d gjenstår.</xmbtext>
+ </stringres>
+ <stringres id="CLifescapeDownloader::OnlineMessage">
+  <xmbtext>Denne versjonen av Picasa er ikke oppdatert, og det er mulig at noen nettfunksjoner ikke fungerer som de skal. Vil du oppdatere nå?</xmbtext>
+ </stringres>
+</resources>

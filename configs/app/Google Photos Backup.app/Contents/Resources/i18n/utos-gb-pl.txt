@@ -1,0 +1,230 @@
+﻿Warunki korzystania z Serwisów spółki Google
+
+Witamy w Google!
+
+1. Stosunek Użytkownik - spółka Google
+
+    1.1 Korzystanie przez Użytkownika z produktów, oprogramowania, usług i stron internetowych spółki Google (łącznie w niniejszym dokumencie zwanych „Serwisami”, z wyłączeniem usług świadczonych na rzecz Użytkownika przez spółkę Google na podstawie odrębnej pisemnej umowy) odbywa się na warunkach umowy prawnej pomiędzy Użytkownikiem a spółką Google. Przez „spółkę Google” należy rozumieć spółkę Google Inc., z centralą pod adresem: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Niniejszy dokument zawiera opis konstrukcji umowy oraz niektórych jej warunków.
+
+    1.2 O ile strony na piśmie nie postanowią inaczej, warunkami minimum umowy pomiędzy Użytkownikiem a spółką Google są warunki i zasady podane w niniejszym dokumencie. W dalszej części niniejszego dokumentu będą one nazywane „Warunkami Ogólnymi”.
+
+    1.3 Umowa pomiędzy Użytkownikiem a spółką Google obejmuje również warunki ewentualnych Informacji Prawnych, przekazywanych dodatkowo, w uzupełnieniu Warunków Ogólnych. W dalszej części niniejszego dokumentu będą one nazywane „Warunkami Dodatkowymi”. W przypadku istnienia Dodatkowych Warunków korzystania z Serwisów, Użytkownik może uzyskać do nich dostęp w ramach Serwisów lub korzystając z niego.
+
+    1.4 Warunki Ogólne stanowią, wraz z Warunkami Dodatkowymi, wiążącą z prawnego punktu widzenia umowę pomiędzy Użytkownikiem a spółką Google w przedmiocie korzystania przez Użytkownika z Serwisów. Dla Użytkownika istotne jest szczegółowe zapoznanie się z ich treścią. W dalszej części niniejszego dokumentu umowa będzie nazywana „Warunkami”.
+
+    1.5 W razie rozbieżności pomiędzy treścią Warunków Dodatkowych a Warunków Ogólnych, dla potrzeb Serwisów, Warunki Dodatkowe będą mieć charakter rozstrzygający.
+
+2. Przyjęcie Warunków
+
+    2.1 Aby korzystać z Serwisów, Użytkownik musi w pierwszej kolejności przyjąć Warunki. Użytkownik nie będzie mógł korzystać z Serwisów, o ile nie przyjmie Warunków.
+
+    2.2 Użytkownik może przyjąć Warunki:
+
+        (A) poprzez kliknięcie na przycisk „przyjmuję Warunki” lub „zgadzam się na Warunki”, jeżeli Użytkownik ma taką opcję w ramach interfejsu do jakiegokolwiek z Serwisów; lub
+
+        (B) poprzez faktyczne korzystanie z Serwisów. W takim przypadku Użytkownik przyjmuje do wiadomości, że spółka Google będzie traktować korzystanie z Serwisów jako przyjęcie Warunków od chwili rozpoczęcia korzystania z niego i wyraża zgodę na to.
+
+    2.3 Użytkownikowi nie wolno korzystać z Serwisów ani przyjąć Warunków korzystania z nich, jeżeli (a) Użytkownik nie osiągnął pełnoletniości i w związku z tym nie może zawrzeć ze spółką Google wiążącej umowy lub jeżeli (b) Użytkownik jest osobą, której zgodnie z przepisami prawa USA lub innego kraju nie wolno korzystać z Serwisów, przez co należy rozumieć również kraj, którego Użytkownik jest mieszkańcem lub z którego Użytkownik korzysta z Serwisów.
+
+    2.4 Przed podjęciem dalszych czynności Użytkownik powinien wydrukować egzemplarz lokalnych Warunków Ogólnych, w celu jego archiwizacji.
+
+3. Język Warunków
+
+    3.1 O ile spółka Google przekazała Użytkownikowi tłumaczenie Warunków z języka angielskiego, Użytkownik przyjmuje do wiadomości, że tłumaczenie ma jedynie pomocniczy charakter i że stosunek Użytkownik - spółka Google regulują Warunki w angielskiej wersji językowej.
+
+    3.2 W razie rozbieżności pomiędzy angielską wersją językową Warunków a ich tłumaczeniem, Warunki w języku angielskim będą mieć charakter rozstrzygający.
+
+4. Udostępnienie Serwisów przez spółkę Google
+
+    4.1 Spółka Google to podmiot posiadający podmioty zależne, filialne i stowarzyszone na całym świecie („Podmioty Zależne i Stowarzyszone”). W niektórych przypadkach podmioty te będą udostępniały Użytkownikowi Serwisy w imieniu spółki Google. Użytkownik przyjmuje do wiadomości, że Podmioty Zależne i Stowarzyszone mają prawo udostępniać Użytkownikowi Serwisy i na sytuację taką wyraża zgodę.
+
+    4.2 Spółka Google wprowadza ustawiczne innowacje, mając na względzie zapewnienie użytkownikom korzystania z jak najlepszych serwisów. Użytkownik przyjmuje do wiadomości, że forma i charakter Serwisów, udostępnianych przez spółkę Google, podlegają okresowym zmiano bez konieczności uprzedniego informowania Użytkownika o takich zmianach i na zmiany takie wyraża zgodę.
+
+    4.3 Użytkownik przyjmuje do wiadomości, że w ramach wprowadzanych innowacji spółka Google może zaprzestać (trwale lub okresowo) udostępniania Serwisów (lub któregokolwiek z elementów Serwisów) na rzecz Użytkownika lub wszystkich użytkowników, wedle uznania spółki Google, bez konieczności uprzedniego informowania Użytkownika o takim zaprzestaniu i na sytuację taką wyraża zgodę. Użytkownik może zaprzestać korzystania z Serwisów w dowolnym czasie. Nie istnieje konieczność informowania spółki Google o zaprzestaniu korzystania z Serwisów przez Użytkownika.
+
+    4.4 Użytkownik przyjmuje do wiadomości, że w razie zablokowania konta Użytkownika przez spółkę Google, nie będzie mógł korzystać z Serwisów, nie będzie miał dostępu do szczegółów swojego konta, dokumentów lub innych treści znajdujących się na koncie Użytkownika i na sytuację taką wyraża zgodę.
+
+    4.5 Użytkownik przyjmuje do wiadomości, że o ile w chwili obecnej spółka Google być może nie ustaliła ograniczeń w zakresie przesyłania danych przez Użytkownika za pomocą Serwisów ani miejsca do przechowywania danych, wykorzystywanego na potrzeby któregokolwiek z Serwisów, spółka Google może takie ograniczenia wprowadzić w dowolnym czasie wedle własnego uznania i na sytuację taką Użytkownik wyraża zgodę.
+
+5. Korzystanie z Serwisów przez Użytkownika
+
+    5.1 W celu uzyskania dostępu do niektórych Serwisów, konieczne może być podanie pewnych informacji o Użytkowniku (takich jak elementy identyfikacyjne lub dane kontaktowe) w ramach rejestracji w Serwisie lub w ramach nieprzerwanego korzystania z Serwisów. Użytkownik zobowiązuje się do przekazywania spółce Google na potrzeby rejestracji jedynie ścisłych, prawidłowych i aktualnych informacji.
+
+    5.2 Użytkownik zgadza się na korzystanie z Serwisów jedynie w celach dozwolonych zgodnie z (a) Warunkami i (b) prawem właściwym, przepisami lub ogólnie przyjętą praktyką oraz wytycznymi (w tym przepisami eksportowymi dotyczącymi eksportu danych i oprogramowania do USA i z tego kraju, a także do i z innych krajów).
+
+    5.3 Użytkownik zgadza się nie uzyskiwać (ani próbować uzyskać) dostępu do Serwisów przy pomocy innych środków niż interfejs udostępniony przez spółkę Google, chyba że Użytkownik uzyskał od spółki Google w drodze odrębnej umowy zgodę na taki dostęp.
+
+    5.4 Użytkownik zgadza się nie podejmować jakichkolwiek czynności, które zakłócałyby funkcjonowanie Serwisów lub powodowałyby przerwę w takim funkcjonowaniu (lub zakłócałyby pracę serwerów i sieci podłączonych do Serwisów bądź powodowałyby przerwę w takiej pracy).
+
+    5.5 Użytkownik zgadza się, że o ile nie uzyska od spółki Google specjalnej zgody udzielonej w trybie odrębnej umowy, nie biedzie zwielokrotniał, powielał, kopiował, sprzedawał, wprowadzał do obrotu ani odsprzedawał Serwisów w jakimkolwiek celu.
+
+    5.6 Użytkownik przyjmuje do wiadomości, że ponosi wyłączną odpowiedzialność (oraz że spółka Google nie ponosi jakiejkolwiek odpowiedzialności wobec Użytkownika ani jakiejkolwiek osoby trzeciej) za naruszenie obowiązków Użytkownika wynikających z Warunków ani za następstwa (w tym straty i szkody poniesione przez spółka Google) takiego naruszenia.
+
+6. Hasła i bezpieczeństwo kont Użytkownika
+
+    6.1 Użytkownik przyjmuje do wiadomości, że odpowiada za zachowanie poufnego charakteru haseł związanych z kontami Użytkownika używanymi do uzyskania dostępu do Serwisów.
+
+    6.2 W związku z powyższym Użytkownik przyjmuje do wiadomości, że ponosi wyłączną odpowiedzialność wobec spółki Google za czynności dokonywane za pośrednictwem swojego konta.
+
+    6.3 Użytkownik zgadza się niezwłocznie poinformować spółkę Google, na adres http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=pl, o przypadkach nieautoryzowanego korzystania z hasła lub konta Użytkownika, o ile o przypadkach takich powziąłby wiadomość.
+
+7. Prywatność i dane osobowe Użytkownika
+
+    7.1 Informacje na temat stosowanej przez spółkę Google praktyki ochrony danych dostępne są na stronie http://www.google.com/intl/pl/privacy.html, gdzie opisana jest polityka prywatności spółki Google. Zasady te wyjaśniają, jak spółka Google obchodzi się z danymi osobowymi Użytkownika oraz chroni jego prywatność, gdy ten korzysta z Serwisów.
+
+    7.2 Użytkownik wyraża zgodę na korzystanie z danych Użytkownika zgodnie z polityką prywatności spółki Google.
+
+8. Treść Serwisów
+
+    8.1 Użytkownik rozumie, że za wszystkie informacje (takie jak pliki danych, teksty, oprogramowanie, muzyka, pliki audio i inne dźwięki, zdjęcia, pliki wideo oraz inne obrazy), do których ma dostęp korzystając z Serwisów lub za jego pośrednictwem, wyłączną odpowiedzialność ponosi osoba, od której pochodzi taka treść. W dalszej części niniejszego dokumentu informacje takie będą nazywane „Treścią”.
+
+    8.2 Użytkownik powinien wiedzieć, że Treść prezentowana mu w ramach Serwisów, w tym reklamy zawarte w Serwisie i Treść sponsorowana, mogą być chronione prawami własności intelektualnej przysługującymi sponsorom lub reklamodawcom dostarczającym Treść spółce Google (lub innym osobom lub podmiotom działającym w ich imieniu). Użytkownik nie może modyfikować Treści (w całości ani w części), użyczać jej, dzierżawić, wypożyczać, sprzedawać, rozprowadzać ani tworzyć utworów zależnych w oparciu o taką Treść, chyba że Użytkownik uzyska od spółki Google lub właścicieli Treści taką zgodę, udzielaną w formie odrębnej umowy.
+
+    8.3 Spółka Google zastrzega sobie prawo (nie będące jednak obowiązkiem) wstępnego sprawdzenia całości lub części Treści, zapoznania się z nią, specjalnego oznakowania, odsiania, modyfikacji, odmowy włączenia do Serwisów lub usunięcia z Serwisów całości lub części Treści. W stosunku do niektórych Serwisów spółka Google może udostępniać narzędzia służące nieprzepuszczaniu treści o wyraźnie erotycznym charakterze. Do narzędzi takich należą ustawienia SafeSearch (patrz http://www.google.com/intl/pl/help/customize.html#safe). Ponadto Użytkownik może skorzystać z usług i oprogramowania, dostępnych na zasadach komercyjnych, służących ograniczeniu dostępu do materiałów uznawanych przez Użytkownika za niedopuszczalne.
+
+    8.4 Użytkownik przyjmuje do wiadomości, że korzystanie z Serwisów może wystawić go na kontakt z Treścią, którą Użytkownik może uznać za obraźliwą, nieprzyzwoitą lub niedopuszczalną i że przy tym założeniu Użytkownik korzysta z Serwisów na własne ryzyko.
+
+    8.5 Użytkownik przyjmuje do wiadomości, że ponosi wyłączną odpowiedzialność (oraz że spółka Google nie ponosi odpowiedzialności wobec Użytkownika ani osób trzecich) za Treść stworzoną przez Użytkownika, przekazywaną przez niego lub zamieszczoną w ramach korzystania z Serwisów, a także za następstwa takich działań Użytkownika (w tym straty i szkody po stronie spółki Google).
+
+9. Prawa majątkowe
+
+    9.1 Użytkownik uznaje i wyraża zgodę na to, że spółka Google (lub licencjodawcy spółki Google) są właścicielami wszelkich praw i tytułów do Serwisu, w tym praw własności intelektualnej związanych z Serwisami (niezależnie od tego, czy prawa te zostały zarejestrowane czy nie i w jakich krajach obowiązują). W dalszym ciągu Użytkownik przyjmuje do wiadomości, że w ramach Serwisów mogą znajdować się informacje określone przez spółkę Google jako poufne i wyraża zgodę na nieujawnianie tych informacji bez uprzedniej zgody spółki Google wyrażonej na piśmie.
+
+    9.2 O ile Użytkownik nie ustalił inaczej z spółką Google na piśmie, postanowienia niniejszych Warunków nie stanowią podstawy do przyznania Użytkownikowi prawa do korzystania z nazw handlowych, znaków towarowych, znaków usługowych, logo, nazw domen i innych wyróżników spółki Google.
+
+    9.3 Jeżeli Użytkownikowi zostało wyraźnie przyznane prawo do korzystania z takich wyróżników na podstawie osobnej umowy zawartej ze spółką Google na piśmie, Użytkownik zobowiązuje się korzystać z takich wyróżników zgodnie z postanowieniami takiej umowy, odpowiednimi postanowieniami Warunków oraz z wytycznymi spółki Google w zakresie korzystania z cech marki, które podlegają okresowej aktualizacji. Wytyczne te dostępne są w sieci pod adresem http://www.google.com/permissions/guidelines.html (lub pod innym adresem URL przekazanym przez spółkę Googlew danym czasie).
+
+    9.4 Poza ograniczoną licencją, o której mowa w punkcie 11, spółka Google uznaje i wyraża zgodę na to, że niniejsze Warunki nie są podstawą przyznania spółce Google przez Użytkownika (lub licencjodawców Użytkownika) jakichkolwiek praw lub tytułów do Treści przekazanych, opublikowanych, przesyłanych lub wyświetlanych w Serwisach lub za pośrednictwem Serwisów, w tym praw własności intelektualnej związanych z Serwisami (niezależnie od tego, czy prawa te zostały zarejestrowane czy nie i w jakich krajach obowiązują). O ile Użytkownik nie uzgodnił inaczej ze spółką Google na piśmie, Użytkownik przyjmuje do wiadomości, że jest odpowiedzialny za ochronę i dochodzenie wykonania tych praw i że spółka Google nie jest zobowiązana do podejmowania czynności w tym zakresie w imieniu Użytkownika.
+
+    9.5 Użytkownik zobowiązuje się nie usuwać, zasłaniać i nie zmieniać informacji na temat praw majątkowych (w tym informacji na temat praw autorskich i znaków towarowych), które mogą widoczne w Serwisach lub stanowić jego część.
+
+    9.6 O ile Użytkownik nie otrzymał pisemnego upoważnienia od spółki Google, Użytkownik zobowiązuje się podczas korzystania z Serwisów, nie korzystać z jakiegokolwiek znaku towarowego, znaku usługowego, nazwy handlowej lub logo jakiejkolwiek spółki lub organizacji, które mogą lub mają wprowadzić odbiorców w błąd co do właściciela lub uprawnionego użytkownika takich znaków, nazw lub logo.
+
+10. Licencja spółki Google
+
+    10.1 Spółka Google udziela Użytkownikowi osobistej, obowiązującej na całym świecie (globalnej), bezpłatnej, niezbywalnej i niewyłącznej licencji na korzystanie z oprogramowania dostarczonego Użytkownikowi przez spółkę Google w ramach Serwisów udostępnianego Użytkownikowi przez spółkę Google (zwanego dalej „Oprogramowaniem”). Licencja ta udzielana jest wyłącznie w celu umożliwienia Użytkownikowi korzystania i czerpania korzyści z Serwisów udostępnianego przez spółkę Google, w sposób określony w Warunkach.
+
+    10.2 Użytkownik nie może podejmować następujących czynności ani nie zezwoli żadnej innej osobie na: kopiowanie, modyfikowanie, tworzenie utworów zależnych, stosowanie technik inżynierii wstecznej, dekompilowanie ani usiłowanie odkrycia w inny sposób kodu źródłowego Oprogramowania lub jego części, chyba że jest to wyraźnie dozwolone lub wymagane na podstawie przepisów prawa lub spółka Google zezwoliła na to Użytkownikowi na piśmie.
+
+    10.3 Użytkownik nie może przenieść przysługujących mu praw do korzystania z Oprogramowania ani udzielić na nie sublicencji, udzielić zabezpieczenia, którego przedmiotem są prawa do korzystania z Oprogramowania, ani dokonać innego rodzaju zbycia jakiejkolwiek części przysługujących mu praw do korzystania z Oprogramowania, chyba że spółka Google zezwoliła na to Użytkownikowi na piśmie.
+
+11. Licencja na Treść udzielana przez Użytkownika
+
+    11.1 Użytkownik zachowuje prawa autorskie i wszelkie inne przysługujące mu prawa do Treści, które Użytkownik dostarczał, publikował lub wyświetlał w Serwisie lub za jego pośrednictwem. Poprzez dostarczanie, publikowanie lub wyświetlanie treści Użytkownik udziela spółce Google bezterminowej, nieodwołalnej, obowiązującej na całym świecie (globalnej), bezpłatnej i niewyłącznej licencji na reprodukowanie, dostosowywanie, modyfikowanie, tłumaczenie, publikowanie, publiczne wykonywanie, publiczne wyświetlanie i rozpowszechnianie Treści dostarczanych, publikowanych lub wyświetlanych przez Użytkownika w Serwisie lub za jego pośrednictwem. Wyłącznym celem tej licencji jest umożliwienie spółce Google wyświetlania, rozpowszechniania i promowania Serwisów; licencja może zostać odwołana w odniesieniu do niektórych Serwisów, zgodnie z Dodatkowymi Warunkami ich dotyczącymi.
+
+    11.2 Użytkownik uznaje, że na podstawie niniejszej licencji Google ma prawo udostępniać Treść innym podmiotom, organizacjom lub osobom fizycznym, z którymi Google współpracuje w celu wspólnego świadczenia usług, jak również wykorzystywać Treści w związku ze świadczeniem takich usług.
+
+    11.3 Użytkownik przyjmuje do wiadomości, że przy podejmowaniu czynności technicznych koniecznych w celu udostępniania Serwisów użytkownikom Google może (a) przekazywać lub rozpowszechniać Treść Użytkownika w różnych sieciach publicznych i w różnych środkach przekazu; oraz (b) dokonywać zmian Treści Użytkownika koniecznych w celu dostosowania ich do wymogów technicznych połączonych sieci, urządzeń, usług lub środków przekazu. Użytkownik wyraża zgodę, aby przedmiotowa licencja zezwalała spółce Google na podjęcie takich działań.
+
+    11.4 Użytkownik potwierdza i zapewnia spółkę Google, że posiada wszelkie prawa, kompetencje i upoważnienia konieczne w celu udzielenia powyższej licencji.
+
+12. Aktualizacje oprogramowania
+
+    12.1 Oprogramowanie, z którego korzysta Użytkownik, może automatycznie pobierać od spółki Google aktualizacje i instalować je. Aktualizacje te mają na celu ulepszanie, modernizowanie oraz rozwijanie Serwisów i mogą mieć formę programów poprawiających defekty, ulepszonych funkcji, nowych modułów oprogramowania i zupełnie nowych wersji. Użytkownik wyraża zgodę na otrzymywanie takich aktualizacji (i zezwala spółce Google na dostarczanie mu ich) w ramach korzystania z Serwisów.
+
+13. Zakończenie stosunku Użytkownik - spółka Google
+
+    13.1 Warunki obowiązują do czasu ich wypowiedzenia przez Użytkownika lub spółkę Google zgodnie z poniższymi zasadami.
+
+    13.2 Jeżeli Użytkownik pragnie rozwiązać umowę ze spółką Google, może dokonać tego poprzez (a) zawiadomienie spółki Google w każdym czasie i (b) zamknięcie kont wszystkich Serwisów, z których korzysta, o ile spółka Google zapewniła Użytkownikowi taką możliwość. Użytkownik powinien przesłać zawiadomienie w formie pisemnej na adres spółki Google podany na wstępie.
+
+    13.3 Spółka Google może w każdym czasie rozwiązać umowę z Użytkownikiem, jeżeli:
+
+        (A) Użytkownik naruszył postanowienia niniejszych Warunków (lub działał w sposób wyraźnie wskazujący, że nie zamierza lub nie jest w stanie działać zgodnie z postanowieniami Warunków); lub
+
+        (B) spółka Google została do tego zobowiązana na podstawie przepisów prawa (na przykład, jeżeli udostępnienie Serwisów Użytkownikowi jest lub stanie się niezgodne z prawem); lub
+
+        (C) partner, wspólnie z którym spółka Google oferowała Użytkownikowi Serwisy, zakończył współpracę ze spółką Google lub zaprzestał oferowania Serwisów Użytkownikowi; lub
+
+        (D) spółka Google zaprzestaje udostępniania Serwisów użytkownikom w kraju, w którym mieszka Użytkownik lub z którego to kraju Użytkownik korzysta z Serwisów; lub
+
+        (E) zdaniem spółki Google udostępnianie Użytkownikowi Serwisów przez spółkę Google przestało być opłacalne.
+
+    13.4 Żadne z postanowień niniejszego punktu nie ma wpływu na prawa spółki Google dotyczące udostępniania Serwisów na podstawie punktu 4 Warunków.
+
+    13.5 Wygaśnięcie niniejszych Warunków nie ma wpływu na uprawnienia ustawowe, obowiązki prawne i zobowiązania prawne Użytkownika i spółki Google (lub uprawnienia, obowiązki i zobowiązania prawne, które powstały w okresie obowiązywania Warunków), bądź uprawnienia ustawowe, obowiązki prawne i zobowiązania prawne, które mają obowiązywać bezterminowo, a postanowienia punktu 20.7 będą miały do nich zastosowanie bezterminowo.
+
+Wyłączenie gwarancji
+
+    14.1 Serwisy zostają udostępnione "takie jakie są", bez gwarancji, a spółka Google, Podmioty Zależne i Podmioty Stowarzyszone oraz licencjodawcy spółki Google nie udzielają na Serwisy jakiejkolwiek gwarancji.
+
+    14.2 W szczególności, Google, Podmioty Zależne i Podmioty Stowarzyszone oraz licencjodawcy spółki Google nie oświadczają i nie gwarantują Użytkownikowi, że:
+
+        (A) korzystanie z Serwisów przez Użytkownika będzie spełniało jego wymagania,
+
+        (B) Użytkownik będzie mógł korzystać z Serwisów w sposób nieprzerwany, terminowy, bezpieczny i wolny od błędów,
+
+        (C) informacje uzyskane przez Użytkownika w wyniku korzystanie przez Użytkownika z Serwisów będą precyzyjne i wiarygodne, i
+
+        (D) że wady w działaniu lub funkcjonalności Oprogramowania przekazanego Użytkownikowi w ramach Serwisów zostaną usunięte.
+
+    14.3 Do Serwisów nie mają zastosowania jakiekolwiek inne warunki, gwarancje lub postanowienia (w tym dorozumiane warunki dotyczące zadowalającej jakości, przydatności do określonego celu oraz zgodności z opisem), chyba że zostało to wyraźnie określone w Warunkach.
+
+    14.4 Postanowienia niniejszych Warunków pozostaną bez wpływu na prawa ustawowo przysługujące Użytkownikowi jako konsumentowi, których Użytkownik nie może zmienić ani ich się zrzec na podstawie umowy.
+
+15. Ograniczenie odpowiedzialności
+
+    15.1 Postanowienia niniejszych Warunków nie stanowią podstawy do wyłączenia ani ograniczenia odpowiedzialności spółki Google za straty, za które odpowiedzialności nie może zostać wyłączona ani ograniczona zgodnie z obowiązującymi przepisami prawa.
+
+    15.2 Z zastrzeżeniem ogólnego postanowienia zawartego w punkcie 15.1 powyżej, spółka Google, Podmioty Zależne i Podmioty Stowarzyszone oraz licencjodawcy spółki Google nie będą ponosili odpowiedzialności wobec Użytkownika z tytułu:
+
+        (A) wszelkich strat pośrednich lub wynikowych, które może ponieść Użytkownik. Straty te obejmują utratę zysków (bezpośrednio lub pośrednio), utratę renomy lub reputacji przedsiębiorcy lub utratę danych przez Użytkownika;
+
+        (B) wszelkich strat lub szkód, które może ponieść Użytkownik w wyniku:
+
+            (i) działań podjętych przez Użytkownika w oparciu o przeświadczenie, że reklama jest kompletna, dokładna lub że istnieje, lub w wyniku stosunków lub transakcji pomiędzy Użytkownikiem a reklamodawcą lub sponsorem, którego reklama została zamieszczona w Serwisach;
+
+            (ii) zmian, które spółka Google może wprowadzić w Serwisach lub trwałego lub tymczasowego zaprzestania udostępniania Serwisów (lub jakichkolwiek ich części);
+
+            (iii) skasowania, uszkodzenia lub niezachowania jakichkolwiek Treści oraz innych danych przechowywanych lub przesyłanych przez Użytkownika w ramach korzystania z Serwisów;
+
+            (iii) nieprzekazania spółkę Google precyzyjnych informacji na temat konta;
+
+            (iv) niezachowania w tajemnicy i niezabezpieczenia przez Użytkownika hasła i szczegółów dotyczących konta;
+
+    15.3 Ograniczenie odpowiedzialności spółki Google wobec Użytkownika, o którym mowa w punkcie 15.2 powyżej będzie miało zastosowanie niezależnie od tego, czy spółka spółka Google została uprzedzona o możliwości wystąpienia takich strat oraz czy powinna była spodziewać się ich wystąpienia.
+
+16. Prawa autorskie i zasady w zakresie znaków towarowych
+
+    16.1 Zasadą spółki Google jest reagowanie na powiadomienia o domniemanych naruszeniach praw autorskich, które spełniają przesłanki określone w międzynarodowych przepisach prawa w zakresie własności intelektualnej (w tym w ustawie Digital Millennium Copyright Act obowiązującej w Stanach Zjednoczonych) oraz zamykanie kont założonych przez osoby, które wielokrotnie dopuściły się naruszeń. Szczegółowy opis zasad Spółka Google znajduje się pod adresem http://www.google.com/intl/pl/dmca.html.
+
+    16.2 Spółka Google opracowała procedurę rozpatrywania skarg w zakresie znaków towarowych, która ma zastosowanie do działalności reklamowej spółki Google, szczegółowy opis procedury znajduje się pod adresem http://www.google.com/intl/pl/tm_complaint.html.
+
+17. Reklamy
+
+    17.1 Część Serwisów jest finansowana z reklam, w związku z czym w Serwisach mogą być wyświetlane reklamy i oferty promocyjne. Reklamy te mogą być związane z treścią informacji zachowanych w Serwisach, w ramach zapytań kierowanych za pośrednictwem Serwisów lub w ramach innych informacji.
+
+    17.2 Sposób, tryb i liczba reklam zamieszczanych przez spółkę Google w Serwisach może ulec zmianie bez powiadamiania o tym Użytkownika.
+
+    17.3 W zamian za zapewnienie Użytkownikowi przez spółkę Google dostępu do Serwisów i prawa do korzystania z Serwisów, Użytkownik wyraża zgodę na zamieszczenie takich reklam w Serwisach.
+
+18. Inne treści
+
+    18.1 W Serwisach mogą być zamieszczane hiperłącza do innych stron internetowych, treści lub zasobów. Spółka Google może nie mieć wpływu na strony internetowe lub zasoby pochodzące od spółek lub osób innych niż spółki Google.
+
+    18.2 Użytkownik przyjmuje do wiadomości i wyraża zgodę na to, że spółka Google nie ponosi odpowiedzialności za dostępność takich stron lub zasobów osób trzecich i nie firmuje reklam, produktów ani innych materiałów dostępnych za pośrednictwem takich stron internetowych lub zasobów.
+
+    18.3 Użytkownik przyjmuje do wiadomości i wyraża zgodę na to, że spółka Google nie ponosi odpowiedzialności za straty i szkody, które Użytkownik może ponieść w wyniku udostępnienia takich zewnętrznych stron internetowych lub zasobów, lub w wyniku działań podjętych przez Użytkownika w oparciu o przeświadczenie, że reklama, produkty lub inne materiały znajdujące się na takich stronach internetowych lub w ramach zasobów lub dostępne za ich pośrednictwem są kompletne i dokładne, lub że istnieją.
+
+19. Zmiany Warunków
+
+    19.1 Spółka Google może okresowo wprowadzać zmiany do Warunków Ogólnych i Warunków Dodatkowych. Po wprowadzeniu takich zmian, spółka Google udostępni nową wersję Warunków Ogólnych pod adresem http://www.google.com/accounts/TOS?hl=pl, a nowa wersja Warunków Dodatkowych zostanie udostępniona Użytkownikowi w ramach Serwisów, którego dotyczy lub za jego pośrednictwem.
+
+    19.2 Użytkownik uznaje i przyjmuje do wiadomości, że korzystanie przez Użytkownika z Serwisów po dacie zmiany Warunków Ogólnych i Warunków Dodatkowych jest równoznaczne z wyrażeniem przez Użytkownika zgody na Warunki Ogólne i Warunki Dodatkowe w nowym brzmieniu.
+
+20. Ogólne warunki prawne
+
+    20.1 Podczas korzystania z Serwisów, Użytkownik może (w wyniku korzystania przez Użytkownika z Serwisów lub za pośrednictwem Serwisów) skorzystać z usługi, pobrać oprogramowanie lub nabyć towar od innej osoby lub spółki. Korzystanie przez Użytkownika z takich innych usług, innego oprogramowania lub innych towarów może podlegać odrębnym warunkom uzgodnionym pomiędzy Użytkownikiem a daną spółką lub osobą. W takim wypadku, Warunki pozostają bez wpływu na stosunek prawny pomiędzy Użytkownikiem a taką spółką lub osobą fizyczną.
+
+    20.2 Warunki stanowią całość porozumienia pomiędzy Użytkownikiem a spółką Google i regulują kwestię korzystania z Serwisów przez Użytkownika (z wyłączeniem usług, które spółka Google może świadczyć na rzecz Użytkownika na podstawie odrębnej umowy sporządzonej na piśmie) i całkowicie zastępują wszelkie wcześniejsze umowy pomiędzy Użytkownikiem a spółka Google w zakresie Serwisów.
+
+    20.3 Użytkownik wyraża zgodę na przesyłanie mu przez spółkę Google powiadomień, w tym powiadomień dotyczących zmian Warunków, za pośrednictwem poczty elektronicznej, poczty zwykłej lub ogłoszeń zamieszczanych w ramach Serwisów.
+
+    20.4 Użytkownik przyjmuje do wiadomości, że niewykonanie lub niedochodzenie przez spółkę Google wykonania jakiegokolwiek prawa lub środka prawnego przewidzianego Warunkami (lub przysługującego spółce Google zgodnie z obowiązującymi przepisami prawa) nie jest jednoznaczne z formalnym zrzeczeniem się przez spółkę Google praw, i że takie prawa lub środki prawne będą nadal przysługiwały spółce Google.
+
+    20.5 W wypadku wydania przez jakikolwiek sąd właściwy do rozpatrzenia przedmiotowej sprawy orzeczenia, że którekolwiek z postanowień niniejszych Warunków jest nieważne, postanowienie takie zostanie usunięte z Warunków i pozostanie bez wpływu na pozostałe postanowienia Warunków. Pozostałe postanowienia Warunków będą nadal ważne i wykonalne.
+
+    20.6 Użytkownik przyjmuje do wiadomości i wyraża zgodę na to, że każdy z członków grupy spółek, dla których spółka Google jest podmiotem dominującym, będzie beneficjentem Warunków, jako osoba trzecia i że spółki te będą uprawnione do bezpośredniego dochodzenia wykonania postanowień Warunków i podejmowania działań w oparciu o postanowienia Warunków, które są podstawą do przyznania im praw i uprawnień. Poza podmiotami wymienionymi powyżej, żadna inna osoba fizyczna ani prawna nie będzie beneficjentem Warunków, jako osoba trzecia.
+
+    20.7 Warunki oraz stosunek prawny pomiędzy Użytkownikiem a spółką Google wynikający z Warunków, podlega prawu angielskiemu. Użytkownik i spółka Google wyrażają zgodę na poddanie się wyłącznej jurysdykcji sądów angielskich w celu rozwiązania wszelkich kwestii prawnych wynikających z Warunków. Niezależnie od powyższego, Użytkownik przyjmuje do wiadomości, że spółce Google będzie przysługiwało prawo do wystąpienia o zabezpieczenie roszczeń (lub równoważny rodzaj zabezpieczenia w trybie pilnym) w dowolnej jurysdykcji.
+

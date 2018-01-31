@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+ <action type="Label" target="ss/launch_picasa" xmbdesc="Label(ss/launch_picasa)">
+  <xmbtext>Uređuj u programu Picasa</xmbtext>
+ </action>
+ <action type="Label" target="ss/to_web" xmbdesc="Label(ss/to_web)">
+  <xmbtext>Prenesi</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/actualsize" xmbdesc="Tooltip(ss/actualsize)">
+  <xmbtext>Zumiranje na 1:1</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/zoom_plus" xmbdesc="Tooltip(ss/zoom_plus)">
+  <xmbtext>Uvećaj</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/zoom_minus" xmbdesc="Tooltip(ss/zoom_minus)">
+  <xmbtext>Umanji</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/play_slideshow" xmbdesc="Tooltip(ss/play_slideshow)">
+  <xmbtext>Reproduciraj niz slajdova</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/to_web" xmbdesc="Tooltip(ss/to_web)">
+  <xmbtext>Brzi prijenos</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/more" xmbdesc="Tooltip(ss/more)">
+  <xmbtext>Dodatne opcije</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/prev" xmbdesc="Tooltip(ss/prev)">
+  <xmbtext>Prethodna fotografija</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/next" xmbdesc="Tooltip(ss/next)">
+  <xmbtext>Sljedeća fotografija</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/rotate_cw" xmbdesc="Tooltip(ss/rotate_cw)">
+  <xmbtext>Zakreni u smjeru kazaljke na satu</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/rotate_ccw" xmbdesc="Tooltip(ss/rotate_ccw)">
+  <xmbtext>Zakreni suprotno od smjera kazaljke na satu</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/launch_picasa" xmbdesc="Tooltip(ss/launch_picasa)">
+  <xmbtext>Pokreni program Picasa</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/star" xmbdesc="Tooltip(ss/star)">
+  <xmbtext>Zvjezdica</xmbtext>
+ </action>
+ <action type="Tooltip" target="ss/close" xmbdesc="Tooltip(ss/close)">
+  <xmbtext>Izlaz</xmbtext>
+ </action>
+</tooltips>

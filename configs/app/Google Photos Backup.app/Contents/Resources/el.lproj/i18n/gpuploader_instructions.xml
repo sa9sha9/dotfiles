@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <stringres id="gpuploader_instructions/instruction_window.title">
+  <xmbtext>Google Photos Backup</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_header.title">
+  <xmbtext>Το Google Photos Backup κατέφτασε!</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/instruction_label.title">
+  <xmbtext>Κάντε κλικ στο εικονίδιο &quot;Photos&quot; για παύση, αλλαγή προτιμήσεων ή έλεγχο προόδου.</xmbtext>
+ </stringres>
+ <stringres id="gpuploader_instructions/okbutton.title">
+  <xmbtext>ΕΝΤΑΞΕΙ</xmbtext>
+ </stringres>
+</resources>

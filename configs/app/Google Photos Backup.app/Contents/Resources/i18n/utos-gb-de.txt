@@ -1,0 +1,231 @@
+﻿Google Servicebedingungen
+
+Willkommen bei Google!
+
+1. Ihre Vertragsbeziehung zu Google
+
+    1.1 Ihre Nutzung der Produkte, der Software, der Dienstleistungen und der Webseiten von Google (hier zusammenfassend als „Services“ bezeichnet, ausgenommen solcher Services, die Google Ihnen gegenüber aufgrund eines gesonderten schriftlichen Vertrages erbringt) wird durch die Bestimmungen einer rechtlichen Vereinbarung zwischen Ihnen und Google geregelt. „Google“ bezeichnet Google Inc., mit Hauptgeschäftssitz in1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Dieses Dokument legt dar, wie diese Vereinbarung aufgebaut ist und enthält einige der Bestimmungen dieser Vereinbarung.
+
+    1.2 Soweit nicht anderweitig mit Google schriftlich vereinbart, umfasst Ihre Vereinbarung mit Google immer mindestens die in diesem Dokument enthaltenen ‚Geschäftsbedingungen. Diese werden nachfolgend als „Allgemeine Bedingungen“ bezeichnet.
+
+    1.3 Zu Ihrer Vereinbarung mit Google gehören, zusätzlich zu den Allgemeinen Bedingungen, ebenfalls die Bestimmungen aller für die Services geltenden Rechtlichen Hinweise. Zusammenfassend werden diese Rechtlichen Hinweise nachfolgend als „Zusatzbedingungen“ bezeichnet. Sollten für einen Service Zusatzbedingungen gelten, werden diese entweder während der Nutzung oder durch Ihre Nutzung des entsprechenden Services zur Lektüre bereitgestellt.
+
+    1.4 Die Allgemeinen Bedingungen stellen zusammen mit den Zusatzbedingungen eine rechtsverbindliche Vereinbarung zwischen Ihnen und Google hinsichtlich Ihrer Nutzung der Services dar. Es ist wichtig, dass Sie sich die Zeit nehmen, diese aufmerksam zu lesen. Zusammenfassend wird diese Vereinbarung nachfolgend als die „Vertragsbedingungen“ bezeichnet.
+
+    1.5 Im Fall von Widersprüchen zwischen dem Inhalt der Zusatzbedingungen und dem Inhalt der Allgemeinen Bedingungen, gehen die Zusatzbedingungen in Bezug auf den entsprechenden Service vor.
+
+2. Annahme der Vertragsbedingungen
+
+    2.1 Um die Services nutzen zu können, müssen Sie zunächst die Vertragsbedingungen annehmen. Sie dürfen die Services nicht nutzen, wenn sie die Vertragsbedingungen nicht annehmen.
+
+    2.2 Sie können die Vertragsbedingungen annehmen, indem:
+
+        (A) Sie die entsprechenden Schaltflächen für die Annahme oder Ablehnung der Vertragsbedingungen anklicken, sofern Ihnen Google diese Option auf der Benutzeroberfläche eines Services anbietet; oder
+
+        (B) Sie die Services tatsächlich nutzen. In diesem Fall erkennen Sie an, dass Google ab diesem Punkt Ihre Nutzung der Services als Anerkennung der Vertragsbedingungen ansieht.
+
+    2.3 Sie dürfen die Services nicht nutzen und die Vertragsbedingungen nicht annehmen, wenn Sie (a) nicht volljährig sind und daher keinen verbindlichen Vertrag mit Google abschließen können oder (b) nach US-Recht oder den gesetzlichen Bestimmungen anderer Länder, einschließlich des Landes in dem sie ansässig sind oder von dem aus Sie die Services nutzen, von der Inanspruchnahme der Services ausgeschlossen sind.
+
+    2.4 Bevor Sie fortfahren, sollten Sie sich diese Allgemeinen Bedingungen für Ihre Unterlagen ausdrucken oder lokal abspeichern.
+
+3. Sprache der Vertragsbedingungen
+
+    3.1 Sollte Google Ihnen eine Übersetzung der englischen Fassung der Vertragsbedingungen zur Verfügung stellen, sind Sie damit einverstanden, dass die Übersetzung nur zu Ihren Informationszwecken bereitgestellt wird und dass sich Ihre Vertragsbeziehung zu Google nach der englischen Fassung der Vertragsbedingungen richtet.
+
+    3.2 Sollte es Widersprüche zwischen dem Inhalt der englischen Fassung und dem Inhalt der Übersetzung geben, geht die englische Fassung vor.
+
+4. Bereitstellung der Services durch Google
+
+    4.1 Google hat weltweit Tochtergesellschaften und verbundene Unternehmen („Tochtergesellschaften und Verbundene Unternehmen“). In manchen Fällen werden diese Gesellschaften die Services im Namen von Google für Sie bereitstellen. Sie bestätigen und sind damit einverstanden, dass Tochtergesellschaften und Verbundene Unternehmen berechtigt sind, Ihnen die Services zur Verfügung zu stellen.
+
+    4.2 Google führt ständig Neuerungen ein, um ihren Nutzern den größtmöglichen Komfort zu ermöglichen. Sie bestätigen und sind damit einverstanden, dass sich die Form und die Art der von Google jeweils bereitgestellten Services unangekündigt ändern kann.
+
+    4.3 Als Teil der ständigen Neuerungen bestätigen Sie und erkennen Sie an, dass Google nach ihrem alleinigen Ermessen die Bereitstellung der Services (oder von Funktionen innerhalb der Services) an Sie oder die Nutzer im Allgemeinen unangekündigt (dauerhaft oder teilweise) einstellen kann. Sie können jederzeit die Nutzung der Services einstellen. Sie müssen Google nicht ausdrücklich benachrichtigen, wenn Sie die Nutzung der Services einstellen.
+
+    4.4 Sie bestätigen und sind damit einverstanden, dass Sie daran gehindert sein könnten, auf die Services, Ihre Nutzerkontodaten oder Dateien oder andere in ihrem Nutzerkonto enthaltene Inhalte zuzugreifen, wenn Google den Zugang zu Ihrem Nutzerkonto deaktiviert.
+
+    4.5 Sie bestätigen und sind damit einverstanden, dass obwohl Google zur Zeit keine feste Höchstgrenze für die Anzahl der Übertragungen, die Sie über die Services versenden oder empfangen, oder für die Größe des für die Bereitstellung eines Service genutzten Speicherplatzes festgelegt hat, Google nach eigenem Ermessen jederzeit eine entsprechende Höchstgrenze festlegen kann.
+
+5. Ihre Nutzung der Services
+
+    5.1 Um auf bestimmte Services zugreifen zu können, müssen Sie unter Umständen als Teil des Anmeldevorgangs für den Service oder als Teil Ihrer fortlaufenden Nutzung der Services Angaben zu Ihrer Person machen (wie z.B. Identifikations- oder Kontaktdaten). Sie erklären, dass die Informationen, die Sie bei der Anmeldung an Google weitergeben, jederzeit zutreffend, richtig und aktuell sind.
+
+    5.2 Sie verpflichten sich, die Services nur für Zwecke zu nutzen, die gemäß (a) der Vertragsbedingungen und (b) den jeweils anwendbaren gesetzlichen Bestimmungen oder Vorschriften oder allgemein anerkannten Verhaltensweisen oder Richtlinien in den betreffenden Rechtsordnungen (einschließlich etwaiger gesetzlicher Bestimmungen bezüglich des Exports von Daten oder Software in oder aus den Vereinigten Staaten von Amerika oder anderen betreffenden Ländern) gestattet sind.
+
+    5.3 Sie verpflichten sich, nicht auf andere Weise als über die von Google bereitgestellte Benutzeroberfläche auf einen der Services zuzugreifen (oder entsprechende Versuche zu unternehmen). Dies gilt nicht, wenn Google Ihnen dies ausdrücklich im Rahmen einer gesonderten Vereinbarung gestattet hat.
+
+    5.4 Sie verpflichten sich, nicht in einer Weise tätig zu werden, wodurch die Services (oder die Server und Netzwerke, die mit den Services verbunden sind) beeinträchtigt oder unterbrochen werden.
+
+    5.5 Sie verpflichten sich, die Services zu keinem Zweck wiederzugeben, zu vervielfältigen, zu kopieren, zu verkaufen, zu tauschen oder weiterzuverkaufen, es sei denn Google hat Ihnen dies ausdrücklich im Rahmen einer gesonderten Vereinbarung gestattet.
+
+    5.6 Sie verpflichten sich, dass Sie für einen Verstoß gegen ihre Verpflichtungen gemäß den Vertragsbedingungen und für die sich daraus ergebenden Konsequenzen (einschließlich etwaiger Verluste oder Schäden, die Google erleiden könnte) die alleinige Verantwortung tragen (und dass Google Ihnen oder Dritten gegenüber keine Verantwortung trägt).
+
+6. Ihre Passwörter und die Sicherheit Ihres Nutzerkontos
+
+    6.1 Sie sind damit einverstanden und sind sich darüber bewusst, dass Sie für die Geheimhaltung der Passwörter für Nutzerkonten, über die Sie auf die Services zugreifen, verantwortlich sind.
+
+    6.2 Dementsprechend sind Sie damit einverstanden, dass Sie Google gegenüber für alle Aktivitäten, die über Ihr Nutzerkonto stattfinden allein verantwortlich sind.
+
+    6.3 Sollten Sie auf eine unbefugte Nutzung Ihres Passwortes oder Ihres Nutzerkontos aufmerksam werden, verpflichten Sie sich, Google umgehend unter http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=de zu benachrichtigen.
+
+7. Datenschutz und personenbezogene Daten
+
+    7.1 Nähere Informationen über Googles Umgang mit Datenschutz, enthält Googles Datenschutzrichtlinie, die sie unter http://www.google.de/privacy.html einsehen können. Diese Richtlinie erklärt, wie Google im Rahmen Ihrer Nutzung der Services Ihre personenbezogenen Daten behandelt und Ihre Privatsphäre schützt.
+
+    7.2 Sie stimmen der Nutzung Ihrer Daten in Übereinstimmung mit Googles Datenschutzrichtlinie zu.
+
+8. Inhalte in den Services
+
+    8.1 Sie nehmen zur Kenntnis, dass für alle Daten (wie z.B. Dateien, Schriftstücke, Computersoftware, Musik, Audio-Dateien oder andere Klänge, Fotografien, Videos oder andere Bilder), auf die Sie als Bestandteil der Services oder durch die Nutzung der Services Zugriff haben, allein die Person verantwortlich ist, von der dieser Inhalt stammt. Entsprechende Daten werden nachfolgend zusammenfassend als „Inhalt“ bezeichnet.
+
+    8.2 Sie sollten beachten, dass Inhalt, der Ihnen als Bestandteil der Services angeboten wird, einschließlich jedoch nicht beschränkt auf Anzeigen in den Services und gesponsertem Inhalt innerhalb der Services, durch gewerbliche Schutzrechte geschützt sein kann, die die Sponsoren oder Werbepartner, die Google Inhalte zur Verfügung stellen, (oder in ihrem Auftrag handelnde Dritte) innehaben. Sie dürfen Inhalte weder (ganz noch teilweise) modifizieren, vermieten, verleasen, verleihen, verkaufen, vertreiben noch derivative Werke von diesem Inhalt zu erstellen, sofern Google oder die Eigentümer der entsprechenden Inhalte Ihnen dies nicht im Rahmen einer gesonderten Vereinbarung ausdrücklich gestattet hat/haben.
+
+    8.3 Google behält sich das Recht vor (übernimmt jedoch keine Verpflichtung), sämtliche Inhalte vorab durchzusehen, zu prüfen, zu kennzeichnen, zu filtern, zu ändern, abzulehnen oder aus den Services zu entfernen. Für einige der Services kann Google Tools bereitstellen, um eindeutig sexuelle Inhalte herauszufiltern. Diese Tools beinhalten die SafeSearch Einstellungen (siehe http://www.google.de/help/customize.html#safe). Darüber hinaus sind im Handel Dienstleistungen und Software erhältlich, um den Zugriff auf Material, dass Sie als unangenehm empfinden zu beschränken.
+
+    8.4 Ihnen ist bewusst, dass Sie durch Ihre Nutzung der Services Inhalten ausgesetzt sein können, die Sie als anstößig, unanständig oder unangenehm empfinden und dass Sie in dieser Hinsicht die Services auf eigene Gefahr nutzen.
+
+    8.5 Sie erkennen an, dass Sie allein verantwortlich sind (und dass Google Ihnen oder Dritten gegenüber keine Verantwortung trägt) für Inhalte, die Sie während Ihrer Nutzung der Services erstellen, übertragen oder darstellen und für die Auswirkungen Ihrer Handlungen (einschließlich etwaiger Verluste oder Schäden, die Google entstehen könnten).
+
+9. Gewerbliche Schutzrechte
+
+    9.1 Sie nehmen zur Kenntnis und sind damit einverstanden, dass Google (oder Googles Lizenzgeber) Inhaber sämtlicher Rechte und Rechtstitel an und Ansprüche auf die Services ist, einschließlich unter anderem aller daran bestehenden gewerblichen Schutzrechte (gleich ob diese Rechte eingetragen sind und wo in der Welt diese Rechte bestehen). Sie sind weiter damit einverstanden, dass die Services Informationen enthalten können, die von Google als vertraulich gekennzeichnet wurden, und dass Sie diese Informationen ohne die vorherige schriftliche Zustimmung von Google nicht offen legen werden.
+
+    9.2 Soweit nicht anderweitig mit Google schriftlich vereinbart, geben Ihnen die Vertragsbedingungen nicht das Recht, Googles Markennamen, Marken, Dienstleistungsmarken, Logos, Domain-Namen und andere charakteristische Google-Zeichen zu nutzen.
+
+    9.3 Wurde Ihnen in einer gesonderten schriftlichen Vereinbarung das ausdrückliche Nutzungsrecht für diese Google-Zeichen eingeräumt, verpflichten Sie sich, dass Ihre Nutzung in Übereinstimmung mit dieser Vereinbarung, mit den anwendbaren Bestimmungen der Vertragsbedingungen und Googles Richtlinien für die Nutzung von Google-Zeichen durch Dritte in ihrer jeweils aktuellen Fassung erfolgt. Diese Richtlinien sind einzusehen unter http://www.google.de/permissions/guidelines.html (oder einer anderen URL, die Google jeweils für diesen Zweck bereitstellt).
+
+    9.4 Abgesehen von der in Ziffer 11 beschriebenen beschränkten Lizenz, nimmt Google zur Kenntnis und ist damit einverstanden, dass sie aus diesen Vertragsbedingungen keine Rechte, Rechtstitel oder Ansprüche von Ihnen (oder Ihren Lizenzgebern) an oder auf Inhalte erwirbt, die Sie in den oder über die Services übermitteln, einstellen, übertragen oder darstellen, einschließlich gewerblicher Schutzrechte, die an den Inhalten bestehen (gleich ob diese Rechte eingetragen sind und wo in der Welt diese Rechte bestehen). Soweit nicht anderweitig mit Google schriftlich vereinbart, erkennen Sie an, dass Sie für den Schutz und die Durchsetzung dieser Rechte verantwortlich sind und dass Google nicht dazu verpflichtet ist, dies für Sie zu tun.
+
+    9.5 Sie verpflichten sich, gegebenenfalls an den Services angebrachte oder in den Services enthaltene Hinweise auf Eigentumsrechte (einschließlich Urheberrechts- und Markenrechtshinweise) nicht zu entfernen, zu verdecken oder zu verändern.
+
+    9.6 Soweit dies nicht ausdrücklich schriftlich von Google gestattet wurde, verpflichten Sie sich bei der Nutzung der Services, die Marken, Dienstleistungsmarken, Markennamen oder Logos einer Gesellschaft oder Organisation nicht auf eine Art zu nutzen, die geeignet oder dazu bestimmt ist, Verwirrung über den Inhaber oder berechtigten Nutzer dieser Marken, Namen oder Logos zu hervorzurufen.
+
+10. Lizenzgewährung durch Google
+
+    10.1 Google gewährt Ihnen eine persönliche, weltweite, kostenlose, nicht übertragbare und nicht exklusive Lizenz zur Nutzung der Ihnen von Google als Bestandteil der Services bereitgestellten Software (im Folgenden die „Software“). Die Lizenz wird ausschließlich für den Zweck gewährt, Sie in die Lage zu versetzen, die von Google bereitgestellten Services in Übereinstimmung mit den Bestimmungen der Vertragsbedingungen zu nutzen und Nutzen daraus zu ziehen.
+
+    10.2 Sie dürfen die Software oder Teile der Software weder kopieren, modifizieren, derivative Werke zu erstellen, zurückentwickeln, dekompilieren noch anderweitig versuchen, den Quellcode der Software abzuleiten, noch einem Dritten gestatten dies zu tun, sofern dies nicht ausdrücklich gesetzlich zulässig oder vorgeschrieben ist oder Sie von Google eine entsprechende schriftliche Erlaubnis erhalten haben.
+
+    10.3 Sofern Sie nicht von Google eine entsprechende schriftliche Erlaubnis erhalten haben, dürfen Sie Ihre Nutzungsrechte an der Software nicht abtreten (oder eine Unterlizenz erteilen), ein Sicherungsrecht an Ihren Nutzungsrechten der Software bestellen oder Ihre Nutzungsrechte an der Software anderweitig ganz oder teilweise übertragen.
+
+11. Von Ihnen gewährte Lizenz für Inhalte
+
+    11.1 Ihre Urheberrechte sowie alle anderen Rechte, die Sie bezüglich der von Ihnen in den oder über die Services übermittelten, eingestellten oder dargestellten Inhalte innehaben, verbleiben bei Ihnen. Durch Übermittlung, Einstellung oder Darstellung der Inhalte gewähren Sie Google eine dauerhafte, unwiderrufliche, weltweite, kostenlose und nicht exklusive Lizenz zur Reproduktion, Anpassung, Modifikation, Übersetzung, Veröffentlichung, öffentlichen Wiedergabe oder öffentlichen Zugänglichmachung und Verbreitung der von Ihnen in oder durch die Services übermittelten, eingestellten oder dargestellten Inhalte. Diese Lizenz dient ausschließlich dem Zweck, Google in die Lage zu versetzen, die Services darzustellen, zu verbreiten und zu bewerben; sie kann für bestimmte Services, wie in den Zusatzbedingungen für die entsprechenden Services festgelegt, widerrufen werden.
+
+    11.2 Sie stimmen zu, dass diese Lizenz Google auch das Recht einräumt, entsprechende Inhalte anderen Gesellschaften, Organisationen oder Personen, mit denen Google vertragliche Beziehungen über die gemeinsame Erbringung von Diensten unterhält, zugänglich zu machen und die Inhalte im Zusammenhang mit der Erbringung entsprechender Dienste zu nutzen.
+
+    11.3 Ihnen ist bekannt, dass Google bei der Durchführung der für die Bereitstellung der Services an unsere Nutzer erforderlichen technischen Schritte (a) Ihre Inhalte über verschiedene öffentliche Netzwerke und in unterschiedlichen Medien übermitteln oder verbreiten kann; und (b) an Ihren Inhalten Änderungen vornehmen kann, die in Anpassung an die entsprechenden verbindenden Netzwerke, Geräte, Dienste oder Medien erforderlich sind. Sie sind damit einverstanden, dass diese Lizenz Google zur Vornahme entsprechender Handlungen ermächtigt.
+
+    11.4 Sie bestätigen und gewährleisten gegenüber Google, dass Sie über sämtliche zur Gewährung der oben beschriebenen Lizenz erforderlichen Rechte, Vollmachten und Befugnisse verfügen.
+
+12. Software-Updates
+
+    12.1 Die von Ihnen verwendete Software lädt gegebenenfalls automatisch Updates von Google herunter und installiert diese. Diese Updates dienen zur Verbesserung, Aufwertung und Weiterentwicklung der Services und können aus Fehlerbehebungen (bug fixes), verbesserten Funktionen, neuen Software-Modulen oder ganz neuen Versionen bestehen. Sie sind damit einverstanden, entsprechende Updates als Bestandteil Ihrer Nutzung der Services entgegenzunehmen (und gestatten Google diese Ihnen zukommen zu lassen).
+
+13. Beendigung Ihres Vertragsverhältnisses mit Google
+
+    13.1 Diese Vertragsbedingungen bleiben wirksam, bis sie von Ihnen oder Google wie unten beschrieben gekündigt werden.
+
+    13.2 Sollten Sie Ihre Vereinbarung mit Google kündigen wollen, haben Sie (a) Google dies zu jedem Zeitpunkt mitzuteilen und (b) Ihre Konten für alle von Ihnen genutzten Services zu schließen, sofern Ihnen Google diese Option anbietet. Ihre schriftliche Kündigung muss an die in Ziffer 1.1 angegebene Adresse von Google erfolgen.
+
+    13.3 Google kann die Vereinbarung mit Ihnen jederzeit kündigen, falls:
+
+        (A) Sie gegen die Bestimmungen dieser Vertragsbedingungen verstoßen haben (oder Ihr Verhalten eindeutig darauf schließen lässt, dass Sie nicht willens oder in der Lage sind, die Bestimmungen der Vertragsbedingungen einzuhalten); oder
+
+        (B) Google gesetzlich dazu verpflichtet ist (z. B. wenn die Bereitstellung der Services an Sie rechtswidrig ist oder wird); oder
+
+        (C) der Partner, mit dem Google Ihnen die Services angeboten hat, seine Vertragsbeziehung zu Google beendet hat oder die Bereitstellung der Services an Sie eingestellt hat; oder
+
+        (D) Google dazu übergeht, die Bereitstellung der Services an Nutzer in dem Land, in dem Sie ansässig sind oder die Dienstleistungen nutzen, einzustellen; oder
+
+        (E) die Bereitstellung der Services an Sie durch Google nach Ansicht von Google nicht mehr wirtschaftlich ist.
+
+    13.4 Googles Rechte bezüglich der Bereitstellung der Services nach Ziffer 4 dieser Vertragsbedingungen bleiben von den Bestimmungen dieser Ziffer unberührt.
+
+    13.5 Im Falle eine Beendigung dieser Vertragsbedingungen, überdauern sämtliche Rechte, Pflichten und Verpflichtungen, die Ihnen und Google zustanden oder oblagen (oder während der Dauer der Wirksamkeit der Vertragsbedingungen erwachsen sind) oder deren Wirksamkeit ausdrücklich für unbegrenzte Dauer festgelegt wurde, die Kündigung dieser Vertragsbedingungen; Ziffer 20.7 gilt zeitlich unbegrenzt für entsprechende Rechte, Pflichten und Verpflichtungen.
+
+14. Gewährleistungsausschluss
+
+    14.1 Die Services werden „wie gesehen“ bereitgestellt; weder Google noch ihre Tochtergesellschaften und Verbundenen Unternehmen und Lizenzgeber übernehmen Ihnen gegenüber eine Gewährleistung für die Services.
+
+    14.2 Google und ihre Tochtergesellschaften und Verbundenen Unternehmen machen Ihnen gegenüber insbesondere keine Zusicherungen und übernehmen keine Gewährleistungen dafür, dass:
+
+        (A) Ihre Nutzung der Services Ihren Anforderungen entspricht,
+
+        (B) Ihre Nutzung der Services ununterbrochen, zeitgerecht, sicher bzw. fehlerfrei erfolgen kann,
+
+        (C) die mittels der Services eingeholten Informationen richtig und zuverlässig sind und
+
+        (D) Mängel bezüglich des Betriebes oder der Funktionalität der Ihnen als Bestandteil der Services bereitgestellten Software behoben werden.
+
+    14.3 Außer den in diesen Vertragsbedingungen ausdrücklich Festgelegten gelten für die Services keinerlei Bedingungen, Gewährleistungen oder andere Bestimmungen (einschließlich gesetzlicher (implied) Bedingungen bezüglich zufriedenstellender Qualität, Eignung für einen bestimmten Zweck oder Übereinstimmung mit der Beschreibung).
+
+    14.4 Diese Vertragsbedingungen beeinträchtigen nicht Ihre gesetzlichen Rechte, auf die Sie als Verbraucher in jedem Fall Anspruch haben und die nicht vertraglich änderbar oder abdingbar sind.
+
+15. Haftungsbeschränkung
+
+    15.1 Diese Vertragsbedingungen enthalten keinen Ausschluss und keine Beschränkung der durch das anwendbare Recht nicht ausschließbaren oder einschränkbaren Schadenshaftung von Google.
+
+    15.2 Vorbehaltlich der Bestimmung im vorstehenden Absatz 15.1 haften Google, ihre Tochtergesellschaften und Verbundenen Unternehmen sowie ihre Lizenzgeber Ihnen gegenüber nicht für:
+
+        (A) Ihnen ggf. entstehende mittelbare oder Folgeschäden. Dazu gehören entgangene Gewinne (gleich ob unmittelbar oder mittelbar), Minderungen des Firmenwertes oder des geschäftlichen Ansehens oder Ihnen entstandene Datenverluste;
+
+        (B) Verluste oder Schäden, die Ihnen aufgrund folgender Umstände entstehen:
+
+            (i) Aus Ihrem Vertrauen auf die Vollständigkeit, Richtigkeit oder das Vorhandensein von Werbung oder aufgrund einer vertraglichen Beziehung oder eines Geschäftes zwischen Ihnen und einem Werbeanbieter oder Sponsor, dessen Anzeigen in den Services geschaltet werden;
+
+            (ii) Aufgrund von Änderungen, die Google an den Services vornimmt oder aufgrund einer dauerhaften oder vorübergehenden Einstellung der Services (oder bestimmter Funktionen der Services);
+
+            (iii) Aufgrund der Löschung, Zerstörung oder nicht erfolgten Speicherung von Inhalten und anderen Kommunikationsdaten, die durch Ihre Nutzung der Services aufbewahrt oder übermittelt werden;
+
+            (iv) Aufgrund Ihrer Versäumnis, Google die korrekten Nutzerkontoinformationen zur Verfügung zu stellen;
+
+            (v) Aufgrund Ihres Versäumnis, für die Sicherheit und Geheimhaltung Ihres Passwortes oder Ihrer Nutzerkontoinformationen Sorge zu tragen;
+
+    15.3 Die Beschränkungen der Haftung von Google gemäß vorstehender Ziffer 15.2 gelten unabhängig davon, ob Google das Risiko des Auftretens entsprechender Schäden oder Verluste bekannt war oder nicht.
+
+16. Urheberrechte und Marken
+
+    16.1 Google reagiert grundsätzlich auf Hinweise zu angeblichen Urheberrechtsverletzungen gemäß den internationalen Bestimmungen zum Schutz geistigen Eigentums (in den USA einschließlich des Digital Millenium Copyright Acts) und schließt die Konten von Nutzern, bei denen es wiederholt zu Urheberrechtsverletzungen kommt. Weitere Informationen im Hinblick auf Googles Richtlinien hierzu finden Sie unter http://www.google.de/dmca.html.
+
+    16.2 Im Hinblick auf Googles Werbegeschäft betreibt Google ein Verfahren für Markenbeschwerden; Einzelheiten finden Sie unter http://www.google.de/tm_complaint.html.
+
+17. Werbung
+
+    17.1 Einige der Services werden unter anderem aus Werbeeinnahmen finanziert und können Anzeigen oder Werbeeinblendungen enthalten. Die Ausrichtung der entsprechenden Anzeigen kann sich auf den Inhalt der in den Services abgelegten Informationen beziehen oder an über die Services gestellten Abfragen oder anderen Informationen orientiert sein.
+
+    17.2 Google behält sich vor, die Art und Weise und den Umfang der von ihr auf den Services geschalteten Anzeigen unangekündigt zu ändern.
+
+    17.3 Als Gegenleistung dafür, dass Google Ihnen Zugriff auf die Services gewährt und Ihnen deren Nutzung gestattet, stimmen Sie zu, dass Google entsprechende Werbung in den Services platzieren darf.
+
+18. Andere Inhalte
+
+    18.1 Die Services können Hyperlinks auf andere Webseiten, Inhalte oder Quellen enthalten. Google hat unter Umständen keinen Einfluss auf Webseiten oder Quellen, die von Dritten bereitgestellt werden.
+
+    18.2 Sie nehmen zur Kenntnis und sind damit einverstanden, dass Google keine Verantwortung für die Verfügbarkeit entsprechender externer Webseiten oder Quellen übernimmt und dass Google hinsichtlich Werbung, Produkten oder weiteren auf oder über entsprechende(n) Webseiten oder Quellen verfügbare(n) Materials keine Empfehlungen abgibt.
+
+    18.3 Sie nehmen zur Kenntnis und sind damit einverstanden, dass Google keine Haftung für Verluste oder Schäden übernimmt, die Ihnen durch die Verfügbarkeit entsprechender externer Webseiten oder Quellen entstehen oder darauf zurückzuführen sind, dass Sie auf die Vollständigkeit, Richtigkeit oder das Vorhandensein von auf oder über entsprechende(n) Webseiten bzw. Quellen verfügbare(r) Werbung, Produkte(n) oder weiteres Material vertraut haben.
+
+19. Änderungen der Vertragsbedingungen
+
+    19.1 Google kann die Allgemeinen Bedingungen oder die Zusatzbedingungen ggf. ändern. Sollten Änderungen erfolgt sein, stellt Ihnen Google die aktualisierte Fassung der Allgemeinen Bedingungen unter http://www.google.com/accounts/TOS?hl=de zur Verfügung; neu gefasste Zusatzbedingungen werden Ihnen in den oder über die betroffenen Services zur Verfügung gestellt.
+
+    19.2 Sie sind sich darüber bewusst und stimmen zu, dass Ihre Weiternutzung der Services nach dem Datum einer Änderung der Allgemeinen Bedingungen oder der Zusatzbedingungen von Google als Annahme der aktualisierten Allgemeinen Bedingungen bzw. Zusatzbedingungen ausgelegt wird.
+
+20. Allgemeine rechtliche Bestimmungen
+
+    20.1 Im Rahmen Ihrer Nutzung der Services kann es vorkommen, dass Sie (aufgrund oder durch Ihre(r) Nutzung der Services) eine Dienstleistung in Anspruch nehmen, eine Software herunterladen oder Produkte erwerben, die von Dritten bereitgestellt werden. Ihre Nutzung entsprechender Dienstleistungen, Software oder Produkte unterliegt ggf. gesonderten Bestimmungen, die das Rechtsverhältnis zwischen Ihnen und dem betreffenden Dritten regeln. In solchen Fällen haben diese Vertragsbedingungen keinen Einfluss auf Ihr Rechtsverhältnis zu entsprechenden Dritten.
+
+    20.2 Die Vertragsbedingungen stellen die gesamte Vereinbarung zwischen Ihnen und Google dar und regeln Ihre Nutzung der Services (nicht jedoch jener Leistungen, die Google Ihnen im Rahmen einer gesonderten schriftlichen Vereinbarung bereitstellt); die Vertragsbedingungen ersetzen in vollem Umfang alle früheren Vereinbarungen zwischen Ihnen und Google im Hinblick auf die Services.
+
+    20.3 Sie sind damit einverstanden, dass Google Ihnen ggf. Mitteilungen, einschließlich Änderungen der Vertragsbedingungen betreffende Mitteilungen per E-Mail, Briefpost oder Postings in den Services zustellt.
+
+    20.4 Sie stimmen zu, dass ein Versäumnis Googles, ein Recht oder Rechtsmittel auszuüben oder durchzusetzen, das im Rahmen der Vertragsbedingungen eingeräumt wird (oder auf das Google nach den geltenden gesetzlichen Bestimmungen Anspruch hat) nicht als formeller Verzicht auf Googles Rechte zu verstehen ist, und dass entsprechende Rechte bzw. Rechtsmittel Google weiterhin zustehen.
+
+    20.5 Befindet ein zuständiges Gericht eine Bestimmung dieser Vertragsbedingungen für ungültig, so entfällt diese Bestimmung aus den Vertragsbedingungen. Die Wirksamkeit und Durchsetzbarkeit der übrigen Bestimmungen der Vertragsbedingungen bleibt hiervon unberührt.
+
+    20.6 Sie erkennen an und stimmen zu, dass alle Konzerntochtergesellschaften von Google Drittbegünstigte dieser Vertragsbedingungen berechtigt sind und dass sie Bestimmungen dieser Vertragsbedingungen, aus denen ihnen Vorteile (oder Rechte) erwachsen, unmittelbar durchsetzen und geltend machen können. Abgesehen davon gibt es keine weiteren Drittbegünstigten dieser Vertragsbedingungen.
+
+    20.7 Diese Vertragsbedingungen und Ihre durch die Vertragsbedingungen begründete Vertragsbeziehung zu Google unterliegen englischem Recht. Für alle Rechtsstreitigkeiten, die sich aus diesen Vertragsbedingungen ergeben, vereinbaren Sie und Google die ausschließliche Zuständigkeit der englischen Gerichte. Dessen ungeachtet stimmen Sie zu, dass es Google gleichwohl gestattet ist, Unterlassungs- oder Beseitigungsansprüche durch einstweiligen Rechtsschutz auch in anderen Rechtsordnungen geltend zu machen.
+
+April 16, 2007
