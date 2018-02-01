@@ -28,7 +28,7 @@ fi
 case ${OSTYPE} in
   darwin*)
     echo $(tput setaf 2)"START: configuration for macOS"$(tput sgr0)
-    bash ${MACOS_DIR}/configuration.sh
+    bash ${MACOS_DIR}/setup.sh
     ;;
   *)
     echo $(tput setaf 4)"ERROR: Working only OS X!!"$(tput sgr0)

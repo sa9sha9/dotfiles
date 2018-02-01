@@ -5,6 +5,7 @@ if ! exists docker ; then
     brew install docker
 fi
 
+# Install docker app
 if [[ ! -x /Applications/Docker.app ]]; then
     brew cask install docker
 fi
