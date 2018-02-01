@@ -1,9 +1,0 @@
-{
-  "name": "com.google.drive.nativeproxy",
-  "description": "Google Drive Client Native Messaging Proxy",
-  "path": "$HOST_PATH",
-  "type": "stdio",
-  "allowed_origins": [
-    "chrome-extension://lmjegmlicamnimmfhcmpkclmigmmcbeh/"
-  ]
-}
