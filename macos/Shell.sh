@@ -1,42 +1,28 @@
-#!/usr/bin/env bash
-# default
-## gitディレクトリの作成
-if [ ! -d $HOME/git ]; then
-    echo $(tput setaf 2)"START: mkdir ~/git"$(tput sgr0)
-    mkdir -p $HOME/git
+if ! exists fish ; then
+    brew install fish
 fi
 
-# clone dotfiles
-if [ ! -d ${HOME}/git/dotfiles ];then
-    cd ${HOME}/git
-    git clone https://github.com/sak39/dotfiles.git
+# set fish as default shell
+if ask "Set default shell with '/usr/local/bin/fish' ?"; then
+    echo $(tput setaf 2)"START: chsh -s /usr/local/bin/fish"$(tput sgr0)
+    BREW_FISH_LOCATION=$(which fish)
+    if [ ${BREW_FISH_LOCATION} != "/usr/local/bin/fish" ]; then
+        echo $(tput setaf 4)"ERROR: brew-fish does not installed!!"$(tput sgr0)
+        brew install fish
+    fi
+
+    /usr/bin/osascript -e 'display notification "Please input password" with title "Password Required"'
+    sudo sh -c "echo ${BREW_FISH_LOCATION} >> /etc/shells"
+    # If it writes into /etc/shells successfully
+    if [ $? -eq "0" ]; then
+        chsh -s ${BREW_FISH_LOCATION}
+        echo $(tput setaf 2)"Change shell complete. ✔"$(tput sgr0)
+    else
+        echo $(tput setaf 6)"WARNING: Failed writing into /etc/shells"$(tput sgr0)
+    fi
 fi
 
-
-# git config
-git config --global user.name ${USER}
-git config --global user.email ${USER}@gmail.com #todo
-git config --global push.default current
-git config --global core.excludesfile ${HOME}/.gitignore_global
-## sourcetreeがインストールされている場合のみ
-if [ -d /Applications/SourceTree.app ]; then
-	git config --global commit.template ${HOME}/.stCommitMsg
-fi
-
-
-# Configuration for MacOS
-case ${OSTYPE} in
-  darwin*)
-    echo $(tput setaf 2)"START: configuration for macOS"$(tput sgr0)
-    bash ${MACOS_DIR}/setup.sh
-    ;;
-  *)
-    echo $(tput setaf 4)"ERROR: Working only OS X!!"$(tput sgr0)
-    exit 1
-    ;;
-esac
-echo $(tput setaf 2)"Configuration complete. ✔"$(tput sgr0)
-
+exit 0
 
 ## following needs ZSH
 if  ! exists zsh ; then
@@ -109,15 +95,3 @@ if ask "Install oh-my-zsh?"; then
 	fi
 	echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
 fi
-
-# SSH key
-if ask "Do you want to create ssh key pair?"; then
-    echo $(tput setaf 2)"START: make ssh key pair"$(tput sgr0)
-    if exists "ssh-keygen"; then
-        ssh-keygen -t rsa -C $(whoami) #comment: USER-NAME
-        echo $(tput setaf 2)"make ssh key pair complete. ✔"$(tput sgr0)
-    else
-        echo $(tput setaf 6)"WARNING: 'ssh-keygen' does not installed."$(tput sgr0)
-    fi
-fi
-

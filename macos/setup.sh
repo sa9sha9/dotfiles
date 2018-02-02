@@ -54,3 +54,8 @@ fi
 if ask 'make DAMP environment?'; then
   bash ${MACOS_DIR}/DAMP.sh
 fi
+
+## Shell
+if ask 'Fish install?'; then
+    bash ${MACOS_DIR}/Shell.sh
+fi
