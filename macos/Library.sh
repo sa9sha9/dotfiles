@@ -2,7 +2,7 @@ SYNC_DIR=${HOME}/Sync/GoogleDrive/Sync/macOS
 LIBRARY_DIR=${HOME}/Library
 
 if [[ ! -d ${SYNC_DIR} ]]; then
-    echo "ERROR: $SYNC_DIR not exists."
+    echo "ERROR: ${SYNC_DIR} not exists."
     exit 1
 fi
 
@@ -38,7 +38,7 @@ done
 # Swap iTunes Backup folder to external drive
 EX_MOBILE_SYNC_FOLDER=/Volumes/HD-LCU3/iOS/Backup
 MOBILE_SYNC_FOLDER=${LIBRARY_DIR}/Application\ Support/MobileSync/Backup
-if [[ ! -d ${EX_MOBILE_SYNC_FOLDER } ]]; then
+if [[ -d ${EX_MOBILE_SYNC_FOLDER } ]]; then
     rm -rf ${MOBILE_SYNC_FOLDER}
     ln -snfv ${EX_MOBILE_SYNC_FOLDER} ${MOBILE_SYNC_FOLDER}
 fi
