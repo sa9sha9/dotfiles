@@ -36,3 +36,5 @@ case ${OSTYPE} in
     ;;
 esac
 echo $(tput setaf 2)"Configuration complete. ✔"$(tput sgr0)
+/usr/bin/osascript -e 'display notification "Successfully complete configuration" with title "Success"'
+

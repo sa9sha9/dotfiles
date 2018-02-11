@@ -19,6 +19,7 @@ if [[ ! -x /Applications/Docker.app ]]; then
     brew cask install docker
 fi
 
+/usr/bin/osascript -e 'display notification "Opening Docker.app and you SHOULD DO some operations." with title "App"'
 open -a /Applications/Docker.app
 
 ## public_htmlの作成
@@ -52,6 +53,8 @@ if ! exists docker-compose ; then
 fi
 
 docker-compose up -d
+
+/usr/bin/osascript -e 'display notification "Successfully docker-compose up -d" with title "Success"'
 
 popd
 popd # now on ~/git/dotfiles/macos

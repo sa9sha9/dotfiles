@@ -4,12 +4,6 @@
 DOTFILES_DIR=${HOME}/git/dotfiles
 source ${DOTFILES_DIR}/util.sh
 
-export DOTFILES_DIR
-export SYMLINK_DIR=${DOTFILES_DIR}/symlink
-export MACOS_DIR=${DOTFILES_DIR}/macos
-export -f exists # export function
-export -f ask   # export function
-
 
 # Execute deployment or initialization depends on WHICH flag
 case $(get_opt $@)  in

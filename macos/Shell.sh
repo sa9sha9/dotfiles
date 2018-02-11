@@ -9,19 +9,21 @@ ask_framework() {
   read answer
 
   case $answer in
-    o*   )  return 0 ;;
-    f*   )  return 1 ;;
+    [oO]*   )  return 0 ;;
+    [fF]*   )  return 1 ;;
     *    )  return 1 ;;
   esac
 }
 
 if ! exists brew; then
 	echo $(tput setaf 4)"ERROR: You should install 'Homebrew' first."$(tput sgr0)
+    /usr/bin/osascript -e 'display notification "Fail to set up of Shell-Scheme" with title "Failed"'
 	exit 1
 fi
 
+/usr/bin/osascript -e 'display notification "Which shell-scheme do you install?" with title "Asking"'
 if ask_framework "Which shell-scheme install?"; then
-	bash ./shell/fish.sh
+	bash ${MACOS_DIR}/shell/fish.sh
 else
-	bash ./shell/zsh.sh
+	bash ${MACOS_DIR}/shell/zsh.sh
 fi
