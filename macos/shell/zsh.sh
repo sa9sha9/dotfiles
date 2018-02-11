@@ -6,38 +6,42 @@ if  ! exists zsh ; then
 fi
 
 # set zsh as default shell
-if ask "set default shell with '/usr/local/bin/zsh' ?"; then
-    echo $(tput setaf 2)"START: chsh -s /usr/local/bin/zsh"$(tput sgr0)
-    BREW_ZSH_LOCATION=$(which zsh)
-    if [ ${BREW_ZSH_LOCATION} != "/usr/local/bin/zsh" ]; then
-        echo $(tput setaf 4)"ERROR: brew-zsh does not installed!!"$(tput sgr0)
-        brew install zsh
-    fi
-
-    sudo sh -c "echo ${BREW_ZSH_LOCATION} >> /etc/shells"
-    # If it writes into /etc/shells successfully
-    if [ $? -eq "0" ]; then
-        chsh -s ${BREW_ZSH_LOCATION}
-        echo $(tput setaf 2)"Change shell complete. ✔"$(tput sgr0)
-        echo $(tput setaf 2)"But.. 'chsh: no changes made' appears in there. In this case, you can change your shell at SystemPreference/User&Groups/AdvancedOptions."$(tput sgr0)
-    else
-        echo $(tput setaf 6)"WARNING: Failed writing into /etc/shells"$(tput sgr0)
-    fi
-fi
+#/usr/bin/osascript -e 'display notification "Set default shell with /usr/local/bin/zsh?" with title "Asking"'
+#if ask "Set default shell with '/usr/local/bin/zsh' ?"; then
+#    echo $(tput setaf 2)"START: chsh -s /usr/local/bin/zsh"$(tput sgr0)
+#    BREW_ZSH_LOCATION=$(which zsh)
+#    if [ ${BREW_ZSH_LOCATION} != "/usr/local/bin/zsh" ]; then
+#        echo $(tput setaf 4)"ERROR: brew-zsh does not installed!!"$(tput sgr0)
+#        brew install zsh
+#    fi
+#
+#    sudo sh -c "echo ${BREW_ZSH_LOCATION} >> /etc/shells"
+#    # If it writes into /etc/shells successfully
+#    if [ $? -eq "0" ]; then
+#        chsh -s ${BREW_ZSH_LOCATION}
+#        echo $(tput setaf 2)"Change shell complete. ✔"$(tput sgr0)
+#	    /usr/bin/osascript -e 'display notification "Successfully set zsh as default shell" with title "Success"'
+#    else
+#        echo $(tput setaf 6)"WARNING: Failed writing into /etc/shells"$(tput sgr0)
+#        /usr/bin/osascript -e 'display notification "WARNING: Failed writing into /etc/shells" with title "Failed"'
+#    fi
+#fi
 
 
 # Install Oh-my-zsh
+/usr/bin/osascript -e 'display notification "Install oh-my-zsh?" with title "Asking"'
 if ask "Install oh-my-zsh?"; then
 	echo $(tput setaf 2)"START: Install 'oh-my-zsh'"$(tput sgr0)
 	if [[ -d ${HOME}/.oh-my-zsh ]]; then
-		  echo $(tput setaf 6)"Removing .oh-my-zsh..."$(tput sgr0)
+	  echo $(tput setaf 6)"Removing .oh-my-zsh..."$(tput sgr0)
       rm -rf ${HOME}/.oh-my-zsh
-  fi
+    fi
+
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-  # zsh-sytax-hightlighting
-  git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
-	fi
+	# zsh-sytax-hightlighting
+	git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
 	echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
+    /usr/bin/osascript -e 'display notification "Successfully install oh-my-zsh" with title "Success"'
 fi
 
 
