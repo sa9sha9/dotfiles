@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
-### Installation(interactive) ###
+
+# prepare util
+DOTFILES_DIR=${HOME}/git/dotfiles
+source ${DOTFILES_DIR}/util.sh
+
 # watch error && forbid undefined var
 set -eu
 
@@ -42,20 +46,27 @@ fi
 #fi
 
 
-## Homebrew
-if ask 'Homebrew install?'; then
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
-  brew doctor
+
+# install Homebrew
+if ! exist brew; then
+	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
+	brew doctor
+fi
+
+
+# todo: すべてforkで子プロセスに切り替える
+## Homebrew Bundle
+if ask 'Homebrew Bundle?'; then
   bash ${MACOS_DIR}/Homebrew.sh
 fi
 
 ## Docker
-if ask 'make DAMP environment?'; then
+if ask 'DAMP environment?'; then
   bash ${MACOS_DIR}/DAMP.sh
 fi
 
 ## Shell
-if ask 'Fish install?'; then
+if ask 'Shell framework install?'; then
     bash ${MACOS_DIR}/Shell.sh
 fi
