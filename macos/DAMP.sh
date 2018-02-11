@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
+# prepare util
+DOTFILES_DIR=${HOME}/git/dotfiles
+source ${DOTFILES_DIR}/util.sh
+
+if ! exists brew; then
+	echo $(tput setaf 4)"ERROR: You should install 'Homebrew' first."$(tput sgr0)
+	exit 1
+fi
+
 # Install docker
 if ! exists docker ; then
     echo $(tput setaf 6)"ERROR: 'docker' does not exists."$(tput sgr0)

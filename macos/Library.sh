@@ -1,8 +1,12 @@
+# prepare util
+DOTFILES_DIR=${HOME}/git/dotfiles
+source ${DOTFILES_DIR}/util.sh
+
 SYNC_DIR=${HOME}/Sync/GoogleDrive/Sync/macOS
 LIBRARY_DIR=${HOME}/Library
 
 if [[ ! -d ${SYNC_DIR} ]]; then
-    echo "ERROR: $SYNC_DIR not exists."
+    echo "ERROR: ${SYNC_DIR} not exists."
     exit 1
 fi
 
