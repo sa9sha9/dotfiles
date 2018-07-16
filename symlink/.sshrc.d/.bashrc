@@ -1,0 +1,1 @@
+/Users/sa9sha9/.bashrc

@@ -1,0 +1,46 @@
+#!/bin/bash
+set -u
+
+
+function get_images() {
+    for i in $(seq $MIN $MAX)
+    do
+        i=`printf %02d $i`
+        echo "${FROM}${i}.jpg"
+#        curl "${FROM}${i}.jpg" -o "${i}.jpg"
+    done
+}
+
+# 必ず引数を持つ
+if [ $# -lt 1 ]; then
+   cat << __EOT__
+usage: mrmget [ループ開始値] ループ終了値
+第一引数にループ回数を指定する必要があります。
+第二引数にはループ開始値を指定することができます。
+__EOT__
+    exit 1
+elif [ $# -eq 2 ]; then
+    MIN=$1
+    shift # $2->$1
+else
+    MIN=0
+fi
+MAX=$1
+
+if [ -p /dev/stdin ]; then
+    FROM=$(cat -)
+    echo "Retreiving from : $FROM"
+else
+   cat << __EOT__
+取得対象のURIを、標準入力からパイプする必要があります。
+__EOT__
+    exit 1
+fi
+
+cat <<EOF
+ echo hoge
+EOF
+
+cat <<FUGA
+ echo fuga
+FUGA

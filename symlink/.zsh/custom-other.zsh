@@ -45,3 +45,6 @@ WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
 
 # postgres
 export PGDATA=/usr/local/var/postgres
+
+# pynev
+eval "$(pyenv init -)"

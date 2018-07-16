@@ -12,15 +12,14 @@ do
     [[ ${f} = ".DS_Store" ]] && continue
 
     # -n: overwrite symlink of directory, -f: overwrite symlink of file
-    ln -snfv ${SYMLINK_DIR}/${f} ${HOME}/${f}
+    ln -snfFv ${SYMLINK_DIR}/${f} ${HOME}/${f}
 done
 
 # '.' から始まらないファイルたちのシムリンク
 for f in *
 do
-    ln -snfv ${SYMLINK_DIR}/${f} ${HOME}/${f}
+    ln -snfFv ${SYMLINK_DIR}/${f} ${HOME}/${f}
 done
 
 echo $(tput setaf 2)"Deploy dotfiles complete!. ✔"$(tput sgr0)
 popd # cd back to ${DOTFILES_DIR}
-

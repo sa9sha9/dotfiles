@@ -21,12 +21,11 @@ ln -snfv ${SYNC_DIR}/iTerm2/sak.iterm2.config $HOME/Library/Application\ Support
 # Dash
 ln -snfFv ${SYNC_DIR}/Dash ${LIBRARY_DIR}
 
-
 # plist
 for f in ${SYNC_DIR}/Library/Preferences/*; do
     # todo: ignore 'Icon?'
     #        [[ ${f} = "Icon" ]] && continue
-    ln -snfFv ${f} ${LIBRARY_DIR}/Preferences
+    ln -snfFv "${f}" ${LIBRARY_DIR}/Preferences
 done
 # 先頭 "." を処理できてないので別個で
 ln -snfv ${SYNC_DIR}/Library/Preferences/.GlobalPreferences.plist ${LIBRARY_DIR}/Preferences

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+function url_decode () {
+    nkf --url-input
+}
+
+if [ -p /dev/stdin ]; then
+   cat - | url_decode
+fi

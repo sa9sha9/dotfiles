@@ -1,0 +1,9 @@
+#!/bin/bash
+
+function url_encode () {
+         nkf -WwMQ | tr = %
+}
+
+if [ -p /dev/stdin ]; then
+   cat - | url_encode
+fi

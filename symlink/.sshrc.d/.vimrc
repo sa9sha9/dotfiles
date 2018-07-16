@@ -1,0 +1,1 @@
+:imap <special> jk <Esc>
