@@ -40,6 +40,10 @@ if ask 'set mute in mac booting sound?'; then
   sudo nvram SystemAudioVolume=%80
 fi
 
+if ask 'set "~/Downloads" as default location of screen capture?'; then
+	defaults write com.apple.screencapture location ~/Downloads/
+fi
+
 # @see https://discussionsjapan.apple.com/thread/10153604
 #if ask 'set clamshell mode off? (for multi display sleep)'; then
 #  sudo nvram boot-args="niog=1"
