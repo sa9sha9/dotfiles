@@ -32,3 +32,8 @@ function dckc-u() { docker-compose up $@ }
 # Idea
 alias idea="open -a /Applications/IntelliJ\ IDEA.app $@"
 
+# truffle
+alias trf=truffle
+
+# gatsbyJS
+alias gats=gatsby
