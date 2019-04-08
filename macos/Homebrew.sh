@@ -10,7 +10,7 @@ fi
 
 ## Homebrew bundle
 brew tap Homebrew/bundle
-pushd ${MACOS_DIR}/configs
+pushd ${HOME}/GoogleDrive/Sync/macOS/BrewBundle
 brew bundle -v # install all related with Homebrew using Brewfile
 popd
 
