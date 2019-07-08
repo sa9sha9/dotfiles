@@ -1,3 +1,6 @@
+# zsh
+export ZDOTDIR=$HOME/.zsh
+
 # カラー設定
 export LSCOLORS=Gxfxcxdxbxegedabagacad
 
@@ -49,4 +52,4 @@ WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
 export PGDATA=/usr/local/var/postgres
 
 # pynev
-eval "$(pyenv init -)"
+# eval "$(pyenv init -)"

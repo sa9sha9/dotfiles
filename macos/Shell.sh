@@ -4,7 +4,7 @@ source ${DOTFILES_DIR}/util.sh
 
 # Ask which framework install as shell-scheme
 ask_framework() {
-  printf "$* [o(h-my-zsh)/F(ish)] "
+  printf "$* [O(h-my-zsh)/f(ish)] "
   local answer
   read answer
 
@@ -23,7 +23,7 @@ fi
 
 /usr/bin/osascript -e 'display notification "Which shell-scheme do you install?" with title "Asking"'
 if ask_framework "Which shell-scheme install?"; then
-	bash ${MACOS_DIR}/shell/fish.sh
-else
 	bash ${MACOS_DIR}/shell/zsh.sh
+else
+	bash ${MACOS_DIR}/shell/fish.sh
 fi

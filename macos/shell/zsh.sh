@@ -34,14 +34,14 @@ if ask "Install oh-my-zsh?"; then
 	echo $(tput setaf 2)"START: Install 'oh-my-zsh'"$(tput sgr0)
 	if [[ -d ${HOME}/.oh-my-zsh ]]; then
 	  echo $(tput setaf 6)"Removing .oh-my-zsh..."$(tput sgr0)
-      rm -rf ${HOME}/.oh-my-zsh
-    fi
+		rm -rf ${HOME}/.oh-my-zsh
+	fi
 
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 	# zsh-sytax-hightlighting
 	git clone https://github.com/zsh-users/zsh-syntax-highlighting ${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting
 	echo $(tput setaf 2)"'oh-my-zsh' installation complete. ✔"$(tput sgr0)
-    /usr/bin/osascript -e 'display notification "Successfully install oh-my-zsh" with title "Success"'
+	/usr/bin/osascript -e 'display notification "Successfully install oh-my-zsh" with title "Success"'
 fi
 
 
