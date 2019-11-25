@@ -1,6 +1,6 @@
 # List directory contents
 # A:except ".." & ".", G:colorize, F:classify,
-# l:long style, a:all, h:human unit style, 
+# l:long style, a:all, h:human unit style,
 alias ls='ls -GF'
 alias la='ls -aGF'
 alias ll='ls -lhGFA'
@@ -10,6 +10,9 @@ alias sftpaizu='sh ${HOME}/sh/sftpaizu'
 alias yafcaizu='sh ${HOME}/sh/yafcaizu'
 alias dirs='dirs -v'
 alias git=hub
+
+# git
+alias gmch='git commit --allow-empty -m "init commit for story [branch ch30]"'
 
 # mysql
 ## -S: 折り返しなし
@@ -29,6 +32,9 @@ alias dck-psa='docker ps -a'
 function dck-rma() { docker rm $@ $(docker ps -a -q) }
 function dckc-u() { docker-compose up $@ }
 
+# CircleCI
+alias ci=circleci
+
 # Idea
 alias idea="open -a /Applications/IntelliJ\ IDEA.app $@"
 
@@ -37,3 +43,9 @@ alias trf=truffle
 
 # gatsbyJS
 alias gats=gatsby
+
+# util
+alias relogin='exec $SHELL -l'
+
+# macos
+alias o='open ./$@'
