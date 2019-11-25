@@ -10,6 +10,7 @@ alias sftpaizu='sh ${HOME}/sh/sftpaizu'
 alias yafcaizu='sh ${HOME}/sh/yafcaizu'
 alias dirs='dirs -v'
 alias git=hub
+alias relogin='exec $SHELL -l'
 
 # git
 alias gmch='git commit --allow-empty -m "init commit for story [branch ch30]"'
@@ -49,3 +50,14 @@ alias relogin='exec $SHELL -l'
 
 # macos
 alias o='open ./$@'
+
+# function
+# cd to the path of the front Finder window (like cdto..)
+cdf() {
+  target=`osascript -e 'tell application "Finder" to if (count of Finder windows) > 0 then get POSIX path of (target of front Finder window as text)'`
+  if [ "$target" != "" ]; then
+    cd "$target"; pwd
+  else
+    echo 'No Finder window found' >&2
+  fi
+}

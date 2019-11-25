@@ -1,3 +1,6 @@
+# zsh
+export ZDOTDIR=$HOME/.zsh
+
 # カラー設定
 export LSCOLORS=Gxfxcxdxbxegedabagacad
 
