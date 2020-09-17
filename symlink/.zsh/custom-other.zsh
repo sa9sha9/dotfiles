@@ -14,6 +14,10 @@ export PATH="${HOME}/sh:${PATH}"
 export PATH="/usr/local/sbin:$PATH"
 ## fastlane
 export PATH="$HOME/.fastlane/bin:$PATH"
+## npm bin
+export PATH=$PATH:`npm bin -g`
+## nodenv
+eval "$(nodenv init -)"
 
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}
@@ -52,4 +56,7 @@ WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
 export PGDATA=/usr/local/var/postgres
 
 # pynev
-# eval "$(pyenv init -)"
+if type "pyenv" > /dev/null 2>&1; then
+   eval "$(pyenv init -)"
+fi
+
