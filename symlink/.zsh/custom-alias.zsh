@@ -11,6 +11,7 @@ alias yafcaizu='sh ${HOME}/sh/yafcaizu'
 alias dirs='dirs -v'
 alias git=hub
 alias relogin='exec $SHELL -l'
+alias o='open ./$@'
 
 # git
 alias gmch='git commit --allow-empty -m "init commit for story [branch ch30]"'

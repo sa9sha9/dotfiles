@@ -1,3 +1,6 @@
+# rust
+export PATH="$HOME/.cargo/bin:$PATH"
+
 # zsh
 export ZDOTDIR=$HOME/.zsh
 

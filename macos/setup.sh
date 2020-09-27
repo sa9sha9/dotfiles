@@ -61,14 +61,14 @@ fi
 
 # todo: すべてforkで子プロセスに切り替える
 ## Homebrew Bundle
-if ask 'Homebrew Bundle?'; then
-  bash ${MACOS_DIR}/Homebrew.sh
-fi
+# if ask 'Homebrew Bundle?'; then
+#   bash ${MACOS_DIR}/Homebrew.sh
+# fi
 
 ## Docker
-if ask 'DAMP environment?'; then
-  bash ${MACOS_DIR}/DAMP.sh
-fi
+# if ask 'DAMP environment?'; then
+#   bash ${MACOS_DIR}/DAMP.sh
+# fi
 
 ## Shell
 if ask 'Shell framework install?'; then
