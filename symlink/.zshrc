@@ -1,4 +1,4 @@
-exec fish
+# exec fish
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -93,6 +93,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+export FZF_DEFAULT_COMMAND='rg --files --hidden --glob "!.git"'
+export FZF_DEFAULT_OPTS='--height 40% --reverse --border'
 
 # if [[ -n $ZSH_INIT_COMMAND ]]; then
 #     echo "Running: $ZSH_INIT_COMMAND"

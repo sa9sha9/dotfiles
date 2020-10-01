@@ -19,9 +19,12 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="$HOME/.fastlane/bin:$PATH"
 ## npm bin
 export PATH=$PATH:`npm bin -g`
-## nodenv
-eval "$(nodenv init -)"
+## goenv
+export GOENV_ROOT="$HOME/.goenv"
+export PATH="$GOENV_ROOT/bin:$PATH"
 
+# Custom functions
+source ${HOME}/.zsh/custom-functions.zsh
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}
 
@@ -63,3 +66,8 @@ if type "pyenv" > /dev/null 2>&1; then
    eval "$(pyenv init -)"
 fi
 
+# nodenv
+eval "$(nodenv init -)"
+
+# goenv
+eval "$(goenv init -)"
