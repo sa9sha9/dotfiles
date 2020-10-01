@@ -1,6 +1,3 @@
-# rust
-export PATH="$HOME/.cargo/bin:$PATH"
-
 # zsh
 export ZDOTDIR=$HOME/.zsh
 
@@ -24,6 +21,9 @@ export PATH="$HOME/go/bin:$PATH"
 ## goenv
 export GOENV_ROOT="$HOME/.goenv"
 export PATH="$GOENV_ROOT/bin:$PATH"
+# rust
+export PATH="$HOME/.cargo/bin:$PATH"
+
 
 # Custom functions
 source ${HOME}/.zsh/custom-functions.zsh
