@@ -12,6 +12,7 @@ alias dirs='dirs -v'
 alias git=hub
 alias relogin='exec $SHELL -l'
 alias o='open ./$@'
+alias f='fzf $@'
 
 # git
 alias gmch='git commit --allow-empty -m "init commit for story [branch ch30]"'

@@ -10,7 +10,7 @@ export LSCOLORS=Gxfxcxdxbxegedabagacad
 # vagrant
 #export VAGRANT_HOME="/Volumes/PNCITY/.vagrant.d"
 
-# exports
+# PATH
 ## sh
 export PATH="${HOME}/sh:${PATH}"
 ## brew sbin
@@ -19,6 +19,8 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="$HOME/.fastlane/bin:$PATH"
 ## npm bin
 export PATH=$PATH:`npm bin -g`
+## go
+export PATH="$HOME/go/bin:$PATH"
 ## goenv
 export GOENV_ROOT="$HOME/.goenv"
 export PATH="$GOENV_ROOT/bin:$PATH"
@@ -71,3 +73,5 @@ eval "$(nodenv init -)"
 
 # goenv
 eval "$(goenv init -)"
+export PATH="$GOROOT/bin:$PATH"
+export PATH="$PATH:$GOPATH/bin"
