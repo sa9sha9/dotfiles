@@ -71,7 +71,11 @@ fi
 # nodenv
 eval "$(nodenv init -)"
 
-# goenv
+# goenvw
 eval "$(goenv init -)"
 export PATH="$GOROOT/bin:$PATH"
 export PATH="$PATH:$GOPATH/bin"
+export GOPATH="$HOME/go"
+
+# dotenv
+eval "$(direnv hook zsh)"

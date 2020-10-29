@@ -41,7 +41,7 @@ if ask 'set mute in mac booting sound?'; then
 fi
 
 if ask 'set "~/Downloads" as default location of screen capture?'; then
-	defaults write com.apple.screencapture location ~/Downloads/
+  defaults write com.apple.screencapture location ~/Downloads/ScreenShots
 fi
 
 # @see https://discussionsjapan.apple.com/thread/10153604
