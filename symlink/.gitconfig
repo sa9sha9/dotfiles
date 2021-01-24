@@ -9,7 +9,7 @@
 	trustExitCode = true
 [user]
 	name = sa9sha9
-	email = sha9sa9@gmail.com
+	email = sa9sha9@gmail.com
 [alias]
 	tree = log --graph --date=short --pretty='format:%C(yellow)%h%Creset %s %Cgreen(%an)%Creset %Cred%d%Creset'
 [push]

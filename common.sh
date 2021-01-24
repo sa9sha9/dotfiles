@@ -3,7 +3,6 @@ export DOTFILES_DIR=${HOME}/git/dotfiles
 export SYMLINK_DIR=${DOTFILES_DIR}/symlink
 export MACOS_DIR=${DOTFILES_DIR}/macos
 
-
 # functions for shell-script
 exists() {
   command -v "$1" >/dev/null 2>&1
