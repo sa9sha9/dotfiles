@@ -18,3 +18,5 @@
 	template = /Users/sa9sha9/.stCommitMsg
 [credential]
   helper=store
+[ghq]
+	root = ~/git

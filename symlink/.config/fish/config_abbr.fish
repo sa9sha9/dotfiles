@@ -51,3 +51,6 @@ abbr --add chrome 'open -a "Google Chrome"'
 # every
 abbr --add ssh-dev-lithium 'ssh -i ~/.ssh/id_rsa -l siukaido ec2-13-230-27-147.ap-northeast-1.compute.amazonaws.com -p 50022'
 abbr --add ssh-lithium 'ssh -i ~/.ssh/id_rsa -l siukaido lithium.mamadays.tv -p 50022'
+
+# k8s
+abbr --add k 'kubectl'

@@ -16,6 +16,7 @@ SETUVAR _fish_abbr_f:fzf
 SETUVAR _fish_abbr_gats:gatsby
 SETUVAR _fish_abbr_git:hub
 SETUVAR _fish_abbr_gmch:git\x20commit\x20\x2d\x2dallow\x2dempty\x20\x2dm\x20\x22init\x20commit\x20for\x20story\x20\x5bbranch\x20ch30\x5d\x22
+SETUVAR _fish_abbr_k:kubectl
 SETUVAR _fish_abbr_l:ls\x20\x2dlahGFA
 SETUVAR _fish_abbr_la:ls\x20\x2daGF
 SETUVAR _fish_abbr_ll:ls\x20\x2dlhGFA
@@ -58,4 +59,4 @@ SETUVAR fish_pager_color_completion:\x1d
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
-SETUVAR fish_user_paths:/Users/shunsuke\x2esakurai/go/1\x2e14\x2e0/bin
+SETUVAR fish_user_paths:/Users/shunsuke\x2esakurai/go/bin
