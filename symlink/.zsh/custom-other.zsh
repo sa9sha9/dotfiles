@@ -1,19 +1,10 @@
-# zsh
-export ZDOTDIR=$HOME/.zsh
+echo "Customize zsh!"
 
-# カラー設定
 export LSCOLORS=Gxfxcxdxbxegedabagacad
-
-# vagrant
-#export VAGRANT_HOME="/Volumes/PNCITY/.vagrant.d"
 
 # PATH
 ## sh
 export PATH="${HOME}/sh:${PATH}"
-## brew sbin
-export PATH="/usr/local/sbin:$PATH"
-## fastlane
-export PATH="$HOME/.fastlane/bin:$PATH"
 ## npm bin
 export PATH=$PATH:`npm bin -g`
 ## go
@@ -21,12 +12,11 @@ export PATH="$HOME/go/bin:$PATH"
 ## goenv
 export GOENV_ROOT="$HOME/.goenv"
 export PATH="$GOENV_ROOT/bin:$PATH"
-# rust
+## rust
 export PATH="$HOME/.cargo/bin:$PATH"
+## brew
+export PATH="/opt/homebrew/bin:$PATH"
 
-
-# Custom functions
-source ${HOME}/.zsh/custom-functions.zsh
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}
 
@@ -51,17 +41,14 @@ setopt hist_reduce_blanks
 setopt hist_no_store
 # 履歴をインクリメンタルに追加
 setopt inc_append_history
+
 # インクリメンタルからの検索
 bindkey "^R" history-incremental-search-backward
 bindkey "^S" history-incremental-search-forward
 
-
 ## その他
 # Ctrl+w(行頭まで削除)で､直前の/までを削除する
 WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
-
-# postgres
-export PGDATA=/usr/local/var/postgres
 
 # pynev
 if type "pyenv" > /dev/null 2>&1; then
@@ -79,3 +66,8 @@ export GOPATH="$HOME/go"
 
 # dotenv
 eval "$(direnv hook zsh)"
+
+# fzf
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+export FZF_DEFAULT_COMMAND='rg --files --hidden --glob "!.git"'
+export FZF_DEFAULT_OPTS='--height 40% --reverse --border'

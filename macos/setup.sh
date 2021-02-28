@@ -1,82 +1,59 @@
 #!/usr/bin/env bash
-
-# prepare util
-DOTFILES_DIR=${HOME}/git/dotfiles
-source ${DOTFILES_DIR}/util.sh
+source ${HOME}/git/dotfiles/common.sh
 
 # watch error && forbid undefined var
 set -eu
 
-## XCode
-if ask 'xcode install?'; then
-  xcode-select --install
-fi
-
 ### macOS setting @@@
 ## mac setting
-if ask "set 'locate' command?"; then
-  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+
+# Capture loaction
+echo $(tput setaf 2)"Set capture location to ~/Downloads/ScreenShots "$(tput sgr0)
+if [ ! -d ${HOME}/Downloads/ScreenShots ]; then
+  mkdir ${HOME}/Downloads/ScreenShots
 fi
+defaults write com.apple.screencapture location ${HOME}/Downloads/ScreenShots
 
-if ask 'set visible dotfiles in finder?'; then
-  defaults write com.apple.finder AppleShowAllFiles TRUE
-  killall Finder
-fi
+echo $(tput setaf 2)"Set `locate` command "$(tput sgr0)
+sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
 
-if ask 'would not make .DS_Store?'; then
-    defaults write com.apple.desktopservices DSDontWriteNetworkStores true
-fi
+echo $(tput setaf 2)"Set dotfiles visible "$(tput sgr0)
+defaults write com.apple.finder AppleShowAllFiles TRUE
+killall Finder
 
-if ask 'set fullpath title at finder?'; then
-  defaults write com.apple.finder _FXShowPosixPathInTitle -bool yes
-  killall Finder
-fi
+echo $(tput setaf 2)"Don't make .DS_Store "$(tput sgr0)
+defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 
-if ask 'set always expand save dialog?'; then
-  defaults write -g NSNavPanelExpandedStateForSaveMode -bool yes
-fi
+echo $(tput setaf 2)"Show fullpath title in finder "$(tput sgr0)
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool yes
+killall Finder
 
-if ask 'set mute in mac booting sound?'; then
-  sudo nvram SystemAudioVolume=%80
-fi
+echo $(tput setaf 2)"Set always expand save dialog "$(tput sgr0)
+defaults write -g NSNavPanelExpandedStateForSaveMode -bool yes
 
-if ask 'set "~/Downloads" as default location of screen capture?'; then
-  defaults write com.apple.screencapture location ~/Downloads/ScreenShots
-fi
-
-# @see https://discussionsjapan.apple.com/thread/10153604
-#if ask 'set clamshell mode off? (for multi display sleep)'; then
-#  sudo nvram boot-args="niog=1"
-#fi
-
-
-
-# install Homebrew
+# Install Homebrew
 if ! exist brew; then
-	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-	echo $(tput setaf 2)"START: brew doctor"$(tput sgr0)
-	brew doctor
+	echo $(tput setaf 2)"Install Homebrew "$(tput sgr0)
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 fi
 
+# Shell
+echo $(tput setaf 2)"Setup shell framework "$(tput sgr0)
+bash ${MACOS_DIR}/setup_shell.sh
 
-# todo: すべてforkで子プロセスに切り替える
-## Homebrew Bundle
-# if ask 'Homebrew Bundle?'; then
-#   bash ${MACOS_DIR}/Homebrew.sh
-# fi
-
-## Docker
-# if ask 'DAMP environment?'; then
-#   bash ${MACOS_DIR}/DAMP.sh
-# fi
-
-## Shell
-if ask 'Shell framework install?'; then
-    bash ${MACOS_DIR}/Shell.sh
+# Install fzf
+if [[ ! -d ${HOME}/.fzf ]]; then
+	git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+	~/.fzf/install
 fi
-
-# fzf
-git clone https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 
 # goenv
-git clone https://github.com/syndbg/goenv.git ~/.goenv
+if [[ ! -d ${HOME}/.goenv ]]; then
+  git clone https://github.com/syndbg/goenv.git ~/.goenv
+fi
+
+# brew bundle
+echo $(tput setaf 2)"Run `brew bundle --global` if you need "$(tput sgr0)
+
+# fonts
+echo $(tput setaf 2)"You should get `fonts` from Google Drive "$(tput sgr0)

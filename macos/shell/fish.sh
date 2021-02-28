@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+. ${HOME}/git/dotfiles/common.sh
+
 if ! exists fish ; then
     brew install fish
 fi

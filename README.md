@@ -1,26 +1,9 @@
 # Usage
-`Usage: ./entry.sh [(deploy/init)]`
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/sa9sha9/dotfiles/master/init.sh)"`
 
-## Deploying
-```bash
-./entry.sh deploy
-```
-
-## Initialization
-```bash
-./entry.sh init
-```
-
-## Both
-```bash
-./entry.sh
-```
-# Operations
-## Deploying
+## Features
+### add symlink (`symlink`)
 `ln -snfv symlink/.zshrc ~`などでドットファイルをホームディレクトリにシムリンク。
 
-## Initialization
+### set up libraries (`setup`)
 zshのインストールやmacOSのdefaultセッティングなどを行う。
-
-
-
