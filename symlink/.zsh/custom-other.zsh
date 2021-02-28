@@ -14,8 +14,7 @@ export GOENV_ROOT="$HOME/.goenv"
 export PATH="$GOENV_ROOT/bin:$PATH"
 ## rust
 export PATH="$HOME/.cargo/bin:$PATH"
-## brew
-export PATH="/opt/homebrew/bin:$PATH"
+
 
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}
@@ -50,24 +49,23 @@ bindkey "^S" history-incremental-search-forward
 # Ctrl+w(行頭まで削除)で､直前の/までを削除する
 WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
 
-# pynev
-if type "pyenv" > /dev/null 2>&1; then
-   eval "$(pyenv init -)"
-fi
-
-# nodenv
-eval "$(nodenv init -)"
-
-# goenvw
-eval "$(goenv init -)"
-export PATH="$GOROOT/bin:$PATH"
-export PATH="$PATH:$GOPATH/bin"
-export GOPATH="$HOME/go"
+# anyenv
+export PATH="$HOME/.anyenv/bin:$PATH"
+eval "$(anyenv init -)"
 
 # dotenv
 eval "$(direnv hook zsh)"
+
+# go
+export PATH="$GOROOT/bin:$PATH"
+export PATH="$PATH:$GOPATH/bin"
+export GOPATH="$HOME/go"
 
 # fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export FZF_DEFAULT_COMMAND='rg --files --hidden --glob "!.git"'
 export FZF_DEFAULT_OPTS='--height 40% --reverse --border'
+
+# kube-ps1
+source ${HOME}/sh/vendor/kube-ps1.sh
+PROMPT='$(kube_ps1)'$PROMPT

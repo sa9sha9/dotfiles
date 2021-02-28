@@ -52,6 +52,16 @@ if [[ ! -d ${HOME}/.goenv ]]; then
   git clone https://github.com/syndbg/goenv.git ~/.goenv
 fi
 
+if [[ ! -d ${HOME}/.anyenv ]]; then
+ git clone https://github.com/anyenv/anyenv ~/.anyenv
+ ~/.anyenv/bin/anyenv init
+ ~/.anyenv/bin/anyenv install --init
+ ~/.anyenv/bin/anyenv install nodenv
+ ~/.anyenv/bin/anyenv install goenv
+ ~/.anyenv/bin/anyenv install pyenv
+ ~/.anyenv/bin/anyenv install phpenv
+fi
+
 # brew bundle
 echo $(tput setaf 2)"Run `brew bundle --global` if you need "$(tput sgr0)
 
