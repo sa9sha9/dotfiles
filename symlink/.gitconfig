@@ -1,5 +1,5 @@
 [core]
-	excludesfile = /Users/sa9sha9/.gitignore_global
+	excludesfile = ~/.gitignore_global
 	editor = emacs
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
@@ -15,8 +15,10 @@
 [push]
 	default = current
 [commit]
-	template = /Users/sa9sha9/.stCommitMsg
+	template = ~/.stCommitMsg
 [credential]
   helper=store
 [ghq]
 	root = ~/git
+[ghq "https://github.com/everytv/mama-server"]
+  root = ~/go/src
