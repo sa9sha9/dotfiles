@@ -54,12 +54,16 @@ fi
 
 if [[ ! -d ${HOME}/.anyenv ]]; then
  git clone https://github.com/anyenv/anyenv ~/.anyenv
- ~/.anyenv/bin/anyenv init
- ~/.anyenv/bin/anyenv install --init
+ ~/.anyenv/bin/anyenv init # ?
+ ~/.anyenv/bin/anyenv install --init # download manifests
  ~/.anyenv/bin/anyenv install nodenv
  ~/.anyenv/bin/anyenv install goenv
  ~/.anyenv/bin/anyenv install pyenv
  ~/.anyenv/bin/anyenv install phpenv
+ 
+ # install anyenv-update
+ mkdir -p ~/.anyenv/plugins
+ git clone https://github.com/znz/anyenv-update.git ~/.anyenv/plugins/anyenv-update
 fi
 
 # brew bundle
