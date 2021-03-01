@@ -13,26 +13,19 @@ set -U fish_user_paths $HOME/go/bin
 # postgres
 set -x PGDATA /usr/local/var/postgres
 
-# # pynev
-# if type pyenv > /dev/null 2>&1; then
-#    eval $(pyenv init -)
-# fi
-
-# nodenv
-eval (nodenv init - | source)
+# anyenv
+set -x PATH ~/.anyenv/bin $PATH
+anyenv init - fish | source
 
 # goenv
-eval (goenv init - | source)
 set -x GOENV_ROOT $HOME/.goenv
 set -U fish_user_paths $GOENV_ROOT/bin
 set -U fish_user_paths $GOROOT/bin
 set -U fish_user_paths $GOPATH/bin
 set -x GOPATH $HOME/go
 
-
 # dotenv
 eval (direnv hook fish)
-
 
 # abbr
 # abbr --add l 'ls -lahGFA's
