@@ -14,7 +14,8 @@ export GOENV_ROOT="$HOME/.goenv"
 export PATH="$GOENV_ROOT/bin:$PATH"
 ## rust
 export PATH="$HOME/.cargo/bin:$PATH"
-
+## composer
+export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 # ディレクトリ変更時にls & iTermのタブ名を親+カレントに変更
 function chpwd() { l; echo -ne "\033]0;$(pwd | rev | awk -F \/ '{print "/"$1"/"$2}'| rev)\007"}

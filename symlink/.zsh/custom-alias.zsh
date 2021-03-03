@@ -68,3 +68,6 @@ cdf() {
 # every
 alias ssh-dev-lithium='ssh -i ~/.ssh/id_rsa -l siukaido ec2-13-230-27-147.ap-northeast-1.compute.amazonaws.com -p 50022'
 alias ssh-lithium='ssh -i ~/.ssh/id_rsa -l siukaido lithium.mamadays.tv -p 50022'
+
+# laravel
+alias lrvl="laravel"
