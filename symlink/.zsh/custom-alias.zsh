@@ -13,6 +13,7 @@ alias git=hub
 alias relogin='exec $SHELL -l'
 alias o='open ./$@'
 alias f='fzf $@'
+alias youtube-dl='${HOME}/sh/youtube-dl/youtube-dl'
 
 # git
 alias gmch='git commit --allow-empty -m "init commit for story [branch ch30]"'
@@ -71,3 +72,5 @@ alias ssh-lithium='ssh -i ~/.ssh/id_rsa -l siukaido lithium.mamadays.tv -p 50022
 
 # laravel
 alias lrvl="laravel"
+alias sail='bash vendor/bin/sail'
+

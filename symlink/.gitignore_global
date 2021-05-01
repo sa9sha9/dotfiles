@@ -19,12 +19,14 @@
 
 ### https://raw.github.com/github/gitignore/dae624c7d46b52655d647d56d378ce14d7028c9f/Global/macOS.gitignore
 
+node_modules
 *.DS_Store
 .AppleDouble
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

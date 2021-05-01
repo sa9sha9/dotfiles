@@ -20,10 +20,12 @@ SETUVAR _fish_abbr_k:kubectl
 SETUVAR _fish_abbr_l:ls\x20\x2dlahGFA
 SETUVAR _fish_abbr_la:ls\x20\x2daGF
 SETUVAR _fish_abbr_ll:ls\x20\x2dlhGFA
+SETUVAR _fish_abbr_lrvl:laravel
 SETUVAR _fish_abbr_ls:ls\x20\x2dGF
 SETUVAR _fish_abbr_mysql:mysql\x20\x2d\x2dpager\x20\x27less\x20\x2dS\x20\x2dn\x20\x2di\x20\x2dF\x20\x2dX\x27
 SETUVAR _fish_abbr_o:open
 SETUVAR _fish_abbr_relogin:exec\x20\x24SHELL\x20\x2dl
+SETUVAR _fish_abbr_sail:bash\x20vendor/bin/sail
 SETUVAR _fish_abbr_sftpaizu:sh\x20\x24\x7bHOME\x7d/sh/sftpaizu
 SETUVAR _fish_abbr_ssh_2D_dev_2D_lithium:ssh\x20\x2di\x20\x7e/\x2essh/id_rsa\x20\x2dl\x20siukaido\x20ec2\x2d13\x2d230\x2d27\x2d147\x2eap\x2dnortheast\x2d1\x2ecompute\x2eamazonaws\x2ecom\x20\x2dp\x2050022
 SETUVAR _fish_abbr_ssh_2D_lithium:ssh\x20\x2di\x20\x7e/\x2essh/id_rsa\x20\x2dl\x20siukaido\x20lithium\x2emamadays\x2etv\x20\x2dp\x2050022

@@ -54,3 +54,8 @@ abbr --add ssh-lithium 'ssh -i ~/.ssh/id_rsa -l siukaido lithium.mamadays.tv -p 
 
 # k8s
 abbr --add k 'kubectl'
+
+# laravel
+abbr --add lrvl 'laravel'
+abbr --add sail 'bash vendor/bin/sail'
+
