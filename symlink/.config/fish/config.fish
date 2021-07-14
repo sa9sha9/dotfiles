@@ -8,7 +8,9 @@ set -U fish_user_paths $HOME/.fastlane/bin
 ## npm bin
 # set -U fish_user_paths (npm bin -g)
 ## go
-set -U fish_user_paths $HOME/go/bin
+set -U fish_user_paths $GOROOT/bin
+set -U fish_user_paths $GOPATH/bin
+set -x GOPATH $HOME/go
 
 # postgres
 set -x PGDATA /usr/local/var/postgres
@@ -22,7 +24,6 @@ set -x GOENV_ROOT $HOME/.goenv
 set -U fish_user_paths $GOENV_ROOT/bin
 set -U fish_user_paths $GOROOT/bin
 set -U fish_user_paths $GOPATH/bin
-set -x GOPATH $HOME/go
 
 # dotenv
 eval (direnv hook fish)
