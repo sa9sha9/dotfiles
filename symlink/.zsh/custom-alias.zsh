@@ -74,3 +74,5 @@ alias ssh-lithium='ssh -i ~/.ssh/id_rsa -l siukaido lithium.mamadays.tv -p 50022
 alias lrvl="laravel"
 alias sail='bash vendor/bin/sail'
 
+# cat bat // https://qiita.com/t_o_d/items/d3799294a6a935f78f8f
+alias cat="bat"
